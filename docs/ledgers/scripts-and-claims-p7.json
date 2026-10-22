@@ -1,0 +1,63 @@
+{
+ "schema": "curio-rule-187-ledger/v1",
+ "generated": "2026-10-22",
+ "scope": "P7: Stapp rocket-sled stop (topic #1 of GROWTH-PLAN), body at risk, real 1954 opener",
+ "voice": {
+  "voice_name": "Zack",
+  "voice_id": "UBtJzywcDa3wB8w48g0v",
+  "model": "eleven_v3",
+  "stability": 0.5
+ },
+ "script": "[tense] This man went from six hundred thirty-two miles an hour to zero in under a second and a half. [curious] Air Force doctor John Stapp did it on purpose. [surprised] The stop hit him with forty-six times his body weight. He survived, and became the fastest man on Earth.",
+ "new_claims": [
+  {
+   "id": "STP-1",
+   "claim": "10 Dec 1954, Sonic Wind No. 1, Holloman AFB: reached 632 mph ('six hundred thirty-two miles an hour')",
+   "source": "https://en.wikipedia.org/wiki/John_Stapp ; https://airandspace.si.edu/stories/editorial/man-behind-high-speed-safety-standards",
+   "evidence_class": "external_reference"
+  },
+  {
+   "id": "STP-2",
+   "claim": "Slowed to a stop in 1.4 s ('under a second and a half'); on-screen stopwatch runs 0.00-1.40 s in real time",
+   "source": "https://en.wikipedia.org/wiki/John_Stapp (citing Aviation Week, Jan 1955)",
+   "evidence_class": "external_reference"
+  },
+  {
+   "id": "STP-3",
+   "claim": "Peak 46.2 g during the stop ('forty-six times his body weight'; 46.2 g = force 46.2x body weight)",
+   "source": "Wikipedia; Smithsonian NASM ('approximately four tons (46.2 g)')",
+   "evidence_class": "external_reference"
+  },
+  {
+   "id": "STP-4",
+   "claim": "Air Force doctor (USAF flight surgeon, colonel) who rode the sled himself",
+   "source": "https://en.wikipedia.org/wiki/John_Stapp",
+   "evidence_class": "external_reference"
+  },
+  {
+   "id": "STP-5",
+   "claim": "Survived without permanent injuries ('He survived')",
+   "source": "https://en.wikipedia.org/wiki/John_Stapp",
+   "evidence_class": "external_reference"
+  },
+  {
+   "id": "STP-6",
+   "claim": "632 mph made him 'the fastest man on Earth' (land speed record at the time)",
+   "source": "https://en.wikipedia.org/wiki/John_Stapp ; https://nmspacemuseum.org/inductee/john-p-stapp/",
+   "evidence_class": "external_reference"
+  },
+  {
+   "id": "STP-V1",
+   "claim": "Face frames on screen are from an EARLIER 421 mph / 12 g run, labelled 'EARLIER RUN · 421 MPH' and in the credit",
+   "source": "Commons File:330-ps-6748-111-sc-1500221 description",
+   "evidence_class": "external_reference"
+  },
+  {
+   "id": "STP-V2",
+   "claim": "Sled animation is a simplified illustration (credit 'Curio animation · sled simplified'); speeds/timings shown match STP-1/2",
+   "evidence_class": "inference",
+   "basis": "illustration"
+  }
+ ],
+ "not_used": "Eyes 'filled with blood' payoff: only secondary sources tie it to the Dec 10 1954 run; Wikipedia describes retinal bleeding on earlier runs generally."
+}

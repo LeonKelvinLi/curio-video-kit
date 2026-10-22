@@ -4,5 +4,6 @@
   "P3": {"title": "Boston molasses flood", "name": "curio-molasses-P3", "scene": ["p3.js"], "vo": "p3", "assets": {"molasses": "molasses_2160.jpg"}, "cover": 1.0},
   "P4": {"title": "Kittinger edge-of-space jump", "name": "curio-kittinger-P4", "scene": ["p4k.js"], "vo": "p4", "assets": {"jump": "p4_kittinger_jump.jpg"}, "cover": 0.8},
   "P5": {"title": "Oxygen at altitude", "name": "curio-altitude-P5", "scene": ["p5.js"], "vo": "p5", "assets": {"masks": "p5_oxygen_masks_737.jpg"}, "cover": 1.0},
-  "P6": {"title": "Ham the space chimp", "name": "curio-ham-P6", "scene": ["p6h.js"], "vo": "p6", "assets": {"ham": "p6_ham_biopack.jpg", "launch": "p6_mr2_launch.jpg", "after": "p6_ham_after_flight.jpg"}, "cover": 0.8}
+  "P6": {"title": "Ham the space chimp", "name": "curio-ham-P6", "scene": ["p6h.js"], "vo": "p6", "assets": {"ham": "p6_ham_biopack.jpg", "launch": "p6_mr2_launch.jpg", "after": "p6_ham_after_flight.jpg"}, "cover": 0.8},
+  "P7": {"title": "Stapp rocket-sled stop", "name": "curio-stapp-P7", "scene": ["p7.js"], "vo": "p7", "assets": {"run": "p7_stapp_run_1954.jpg", "face1": "p7_stapp_face1.jpg", "face3": "p7_stapp_face3.jpg", "face5": "p7_stapp_face5.jpg", "portrait": "p7_stapp_portrait.jpg"}, "cover": 0.6}
 }
