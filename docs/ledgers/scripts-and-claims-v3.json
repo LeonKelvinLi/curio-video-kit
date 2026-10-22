@@ -1,0 +1,241 @@
+{
+ "schema": "curio-rule-187-ledger/v1",
+ "generated": "2026-10-19",
+ "scope": "v3 scripts (trycurio.app formula, Zack voice) for P1-P6",
+ "voice": {
+  "provider": "ElevenLabs",
+  "model": "eleven_v3",
+  "voice_name": "Zack",
+  "voice_id": "UBtJzywcDa3wB8w48g0v",
+  "stability": 0.5,
+  "evidence": "observed_first_party: the account's ElevenLabs history shows Zack on about 980 generations from 2026-07-09 to 2026-10-12, including the trycurio.app reel scripts (jet suit, jet-engine fire tank, exploding whale, upside-down car)"
+ },
+ "claims_source": "../curio-ab-scripts-2026-10-19/facts-ledger.json (C-*); Okene: ../curio-breakout-analysis-2026-10-19/breakout-metrics-ledger-2026-10-19.json (prototype_okene_facts)",
+ "new_claims": [
+  {
+   "id": "W_STEF-window-first",
+   "claim": "Steffen order seats people back to front, window seats first, alternating rows",
+   "evidence_class": "external_reference",
+   "source": "https://en.wikipedia.org/wiki/Steffen_Boarding_Method",
+   "accessed": "2026-10-19"
+  },
+  {
+   "id": "INF-mask-first",
+   "claim": "Putting your own mask on first follows from having under a minute of useful consciousness",
+   "evidence_class": "inference",
+   "basis": "C-TUC-03/04 plus the standard airline safety instruction to secure your own mask before helping others"
+  },
+  {
+   "id": "P2-half-mile",
+   "claim": "688 m is nearly half a mile",
+   "evidence_class": "inference",
+   "basis": "688 m = 0.43 mi (C-MIN-02)"
+  },
+  {
+   "id": "P4-rounding",
+   "claim": "6:54 is 'nearly seven minutes'; 3:36 is 'about three and a half'",
+   "evidence_class": "inference",
+   "basis": "rounding of C-BRD-02 and C-BRD-05; the exact times are on screen"
+  }
+ ],
+ "videos": {
+  "P1-okene": {
+   "voiceover_tagged": "[tense] This tugboat flipped and sank, with its cook still inside. [curious] He found a pocket of air, and breathed it for sixty hours. Then divers came down to pull out the bodies. [surprised] One reached for a hand… and the hand grabbed him back!",
+   "words": 42,
+   "voice_seconds": 12.758,
+   "lines": [
+    {
+     "text": "This tugboat flipped and sank, with its cook still inside.",
+     "claims": [
+      "OKENE-capsized",
+      "OKENE-cook"
+     ]
+    },
+    {
+     "text": "He found a pocket of air, and breathed it for sixty hours.",
+     "claims": [
+      "OKENE-air-pocket",
+      "OKENE-60h"
+     ]
+    },
+    {
+     "text": "Then divers came down to pull out the bodies.",
+     "claims": [
+      "OKENE-divers"
+     ]
+    },
+    {
+     "text": "One reached for a hand… and the hand grabbed him back!",
+     "claims": [
+      "OKENE-divers"
+     ]
+    }
+   ]
+  },
+  "P2-miners": {
+   "voiceover_tagged": "[tense] These thirty-three miners were trapped nearly half a mile underground, with food for two or three days. [curious] Drills kept punching holes to find them. On day seventeen, one broke through. [surprised] When the drill came back up, a note was taped to it. All thirty-three were alive.",
+   "words": 46,
+   "voice_seconds": 14.623,
+   "lines": [
+    {
+     "text": "These thirty-three miners were trapped nearly half a mile underground, with food for two or three days.",
+     "claims": [
+      "C-MIN-01",
+      "C-MIN-02",
+      "C-MIN-03"
+     ]
+    },
+    {
+     "text": "Drills kept punching holes to find them. On day seventeen, one broke through.",
+     "claims": [
+      "C-MIN-04",
+      "C-MIN-05"
+     ]
+    },
+    {
+     "text": "When the drill came back up, a note was taped to it. All thirty-three were alive.",
+     "claims": [
+      "C-MIN-06",
+      "C-MIN-08"
+     ]
+    }
+   ]
+  },
+  "P3-molasses": {
+   "voiceover_tagged": "[curious] This is what a wave of molasses did to Boston. A giant tank burst, and the wave ran down the street at thirty-five miles an hour. [serious] Twenty-one people died. [surprised] Many got stuck, because on a cold day, molasses turns thick, like glue.",
+   "words": 42,
+   "voice_seconds": 13.488,
+   "lines": [
+    {
+     "text": "This is what a wave of molasses did to Boston.",
+     "claims": [
+      "C-MOL-01",
+      "photo"
+     ]
+    },
+    {
+     "text": "A giant tank burst, and the wave ran down the street at thirty-five miles an hour.",
+     "claims": [
+      "C-MOL-02",
+      "C-MOL-03"
+     ]
+    },
+    {
+     "text": "Twenty-one people died.",
+     "claims": [
+      "C-MOL-07"
+     ]
+    },
+    {
+     "text": "Many got stuck, because on a cold day, molasses turns thick, like glue.",
+     "claims": [
+      "C-MOL-04",
+      "C-MOL-06",
+      "C-MOL-08"
+     ]
+    }
+   ]
+  },
+  "P4-boarding": {
+   "voiceover_tagged": "[curious] This boarding line fills a plane almost twice as fast. [explaining] Each person in line sits two rows from the next, window seats first. So more people can put their bags away at the same time. [surprised] Boarding by sections took nearly seven minutes. This way? About three and a half.",
+   "words": 49,
+   "voice_seconds": 15.962,
+   "lines": [
+    {
+     "text": "This boarding line fills a plane almost twice as fast.",
+     "claims": [
+      "C-BRD-06"
+     ]
+    },
+    {
+     "text": "Each person in line sits two rows from the next, window seats first.",
+     "claims": [
+      "C-BRD-04",
+      "W_STEF-window-first"
+     ]
+    },
+    {
+     "text": "So more people can put their bags away at the same time.",
+     "claims": [
+      "C-BRD-07"
+     ]
+    },
+    {
+     "text": "Boarding by sections took nearly seven minutes. This way? About three and a half.",
+     "claims": [
+      "C-BRD-02",
+      "C-BRD-05",
+      "C-BRD-01"
+     ]
+    }
+   ]
+  },
+  "P5-altitude": {
+   "voiceover_tagged": "[tense] Up here, with no extra oxygen, you'd have less than a minute. [explaining] At thirty-five thousand feet, the thin air gives you about thirty to sixty seconds before you can't think straight. [surprised] At forty thousand? About as long as this video. [serious] That's why your mask goes on first.",
+   "words": 47,
+   "voice_seconds": 14.863,
+   "lines": [
+    {
+     "text": "Up here, with no extra oxygen, you'd have less than a minute.",
+     "claims": [
+      "C-TUC-03",
+      "C-TUC-07"
+     ]
+    },
+    {
+     "text": "At thirty-five thousand feet, the thin air gives you about thirty to sixty seconds before you can't think straight.",
+     "claims": [
+      "C-TUC-03",
+      "C-TUC-05"
+     ]
+    },
+    {
+     "text": "At forty thousand? About as long as this video.",
+     "claims": [
+      "C-TUC-04",
+      "C-TUC-06"
+     ]
+    },
+    {
+     "text": "That's why your mask goes on first.",
+     "claims": [
+      "INF-mask-first"
+     ]
+    }
+   ]
+  },
+  "P6-spider": {
+   "voiceover_tagged": "[curious] NASA sent this spider to space because of a seventeen-year-old's question. Can a spider spin a web without gravity? [explaining] At first, Arabella's webs came out a mess. [surprised] But she kept building, and by the end, they looked almost like webs on Earth.",
+   "words": 42,
+   "voice_seconds": 13.256,
+   "lines": [
+    {
+     "text": "NASA sent this spider to space because of a seventeen-year-old's question.",
+     "claims": [
+      "C-ARA-02",
+      "C-ARA-03"
+     ]
+    },
+    {
+     "text": "Can a spider spin a web without gravity?",
+     "claims": [
+      "C-ARA-04"
+     ]
+    },
+    {
+     "text": "At first, Arabella's webs came out a mess.",
+     "claims": [
+      "C-ARA-05"
+     ]
+    },
+    {
+     "text": "But she kept building, and by the end, they looked almost like webs on Earth.",
+     "claims": [
+      "C-ARA-06",
+      "photo"
+     ]
+    }
+   ]
+  }
+ }
+}

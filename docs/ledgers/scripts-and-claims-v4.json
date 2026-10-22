@@ -1,0 +1,79 @@
+{
+ "schema": "curio-rule-187-ledger/v1",
+ "generated": "2026-10-20",
+ "scope": "v4: P4 and P6 replaced by body-at-risk topics; real openers; frame-0 motion; punch-ins; P5 timer in safe zone",
+ "voice": {
+  "voice_name": "Zack",
+  "voice_id": "UBtJzywcDa3wB8w48g0v",
+  "model": "eleven_v3",
+  "stability": 0.5
+ },
+ "kept_from_v3": "P1, P2, P3, P5 voiceovers and claims: ../curio-ig-batch-2026-10-19-v3/scripts-and-claims-v3.json",
+ "new_claims": [
+  {
+   "id": "KIT-1",
+   "claim": "Excelsior III jump, 16 Aug 1960, from 102,800 ft (31,300 m) = 19.5 mi ('nineteen miles up')",
+   "source": "https://en.wikipedia.org/wiki/Joseph_Kittinger",
+   "evidence_class": "external_reference"
+  },
+  {
+   "id": "KIT-2",
+   "claim": "Right glove pressurization malfunctioned during the ascent; right hand swelled to twice its normal size",
+   "source": "https://en.wikipedia.org/wiki/Joseph_Kittinger",
+   "evidence_class": "external_reference"
+  },
+  {
+   "id": "KIT-3",
+   "claim": "Free fall 4 min 36 s ('over four and a half minutes'); DFC citation says 4:38",
+   "source": "https://en.wikipedia.org/wiki/Joseph_Kittinger",
+   "evidence_class": "external_reference"
+  },
+  {
+   "id": "KIT-4",
+   "claim": "Airliners cruise around 35,000 ft (reference line only)",
+   "evidence_class": "inference",
+   "basis": "C-TUC-03 context; illustration"
+  },
+  {
+   "id": "HAM-1",
+   "claim": "Ham flew Mercury-Redstone 2 on 31 Jan 1961",
+   "source": "https://en.wikipedia.org/wiki/Ham_(chimpanzee)",
+   "evidence_class": "external_reference"
+  },
+  {
+   "id": "HAM-2",
+   "claim": "Before any American astronaut",
+   "evidence_class": "inference",
+   "basis": "MR-2 31 Jan 1961 vs Shepard's Freedom 7, 5 May 1961 (first crewed American flight)",
+   "source": "https://en.wikipedia.org/wiki/Mercury-Redstone_2"
+  },
+  {
+   "id": "HAM-3",
+   "claim": "Apogee 157 mi vs 115 planned; faster than the planned 4,400 mph",
+   "source": "https://en.wikipedia.org/wiki/Mercury-Redstone_2",
+   "evidence_class": "external_reference"
+  },
+  {
+   "id": "HAM-4",
+   "claim": "Landed 422 mi downrange, an overshoot of the planned landing area by 130 mi",
+   "source": "https://en.wikipedia.org/wiki/Mercury-Redstone_2",
+   "evidence_class": "external_reference"
+  },
+  {
+   "id": "HAM-5",
+   "claim": "Heat shield punched two holes in the pressure bulkhead; about 800 lb of seawater aboard ('started filling with seawater')",
+   "source": "https://en.wikipedia.org/wiki/Mercury-Redstone_2",
+   "evidence_class": "external_reference"
+  },
+  {
+   "id": "HAM-6",
+   "claim": "Ham in good condition (small nose abrasion, dehydrated) ('Ham was fine')",
+   "source": "https://en.wikipedia.org/wiki/Ham_(chimpanzee)",
+   "evidence_class": "external_reference"
+  }
+ ],
+ "scripts": {
+  "P4-kittinger": "[tense] This man jumped from the edge of space. In nineteen sixty, Joe Kittinger stepped off a balloon nineteen miles up. [curious] On the way up, his glove failed, and his right hand swelled to twice its size. [surprised] He jumped anyway, and fell for over four and a half minutes.",
+  "P6-ham": "[curious] This chimp flew to space before any American astronaut. NASA launched Ham higher and faster than planned. [tense] His capsule splashed down a hundred and thirty miles off target, and started filling with seawater. [surprised] When they opened it, Ham was fine."
+ }
+}

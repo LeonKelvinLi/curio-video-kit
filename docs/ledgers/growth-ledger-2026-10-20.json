@@ -1,0 +1,184 @@
+{
+ "schema": "curio-rule-187-ledger/v1",
+ "generated": "2026-10-20",
+ "scope": "how Curio gets more views: niche outliers, platform distribution evidence, Curio first-party data",
+ "actions_taken": "read-only research; nothing posted or changed; vidIQ credits used this round: 80 (1,701 -> 1,621)",
+ "evidence_files": [
+  "evidence/niche-outliers-2026-10-20.json",
+  "evidence/first-party-pull-2026-10-20.json",
+  "evidence/trycurio-vo-pace.json"
+ ],
+ "first_party": [
+  {
+   "id": "FP1",
+   "claim": "IG reels pass/fail: 4/12 at 1,941-2,692 plays, 8/12 at 133-268",
+   "class": "public_platform_data",
+   "n": 12
+  },
+  {
+   "id": "FP2",
+   "claim": "Pushed reels all had 3-s skip <= 41.2%; none of 18 above were pushed",
+   "class": "observed_first_party",
+   "n": 28
+  },
+  {
+   "id": "FP3",
+   "claim": "Full-frame + body at risk 4/5 broke out on YT; banded + body at risk 0/5",
+   "class": "observed_first_party",
+   "confound": "timing Sep 11-18"
+  },
+  {
+   "id": "FP4",
+   "claim": "Body at risk: IG 3/4 pushed vs 1/8; all YT and FB breakouts",
+   "class": "inference (post-hoc coding)"
+  },
+  {
+   "id": "FP5",
+   "claim": "No YouTube upload since Oct 9 2026",
+   "class": "public_platform_data"
+  }
+ ],
+ "niche": [
+  {
+   "id": "N1",
+   "claim": "40 core outliers (>=20x median) from 57 pulled; body topics 21/40; body/animal at risk 25/40",
+   "class": "public_platform_data"
+  },
+  {
+   "id": "N2",
+   "claim": "Hooks: 'What happens when/if...' 16/40; plain story line 14/40; number in first line 7/40",
+   "class": "public_platform_data"
+  },
+  {
+   "id": "N3",
+   "claim": "Length bimodal: <=15 s (9, mostly 11 s 3D mechanism or music-only text cards) and >120 s (10, 9 survival/history); 0 at 31-60 s (n=28 known)",
+   "class": "public_platform_data"
+  },
+  {
+   "id": "N4",
+   "claim": "3D in 19 of 30 known styles; no narrated letterboxed/banded outlier found (framing known for 6 only)",
+   "class": "public_platform_data",
+   "strength": "weak for framing"
+  },
+  {
+   "id": "N5",
+   "claim": "21/40 outliers from accounts under 10K followers; 6 under 1K",
+   "class": "public_platform_data"
+  },
+  {
+   "id": "N6",
+   "claim": "Growing accounts post ~0.5-4.5/day (Zack D ~4.5/day, yastor200 ~2/day, Lyrix 3D ~1/day)",
+   "class": "public_platform_data"
+  },
+  {
+   "id": "N7",
+   "claim": "Watched narrated outliers ran 2.2-2.5 words/s vs Curio 3.0-3.5",
+   "class": "public_platform_data",
+   "n": 2,
+   "strength": "weak"
+  }
+ ],
+ "platform": [
+  {
+   "id": "A1",
+   "claim": "IG tests each reel on a small non-follower audience, then expands; ranking favours smaller creators",
+   "bucket": "A",
+   "url": "https://creators.instagram.com/blog/helping-creators-of-all-sizes-break-through"
+  },
+  {
+   "id": "A2",
+   "claim": "Top IG signals: watch time, likes, sends (sends weigh more for non-followers)",
+   "bucket": "A relayed",
+   "url": "https://www.socialmediatoday.com/news/instagram-shares-algorithm-insights-2025/738034/"
+  },
+  {
+   "id": "A3",
+   "claim": "IG shows less of reels that are low-res, watermarked, muted, contain borders or are mostly text",
+   "bucket": "A",
+   "url": "https://about.instagram.com/blog/announcements/instagram-ranking-explained"
+  },
+  {
+   "id": "A4",
+   "claim": "Skip rate (first 3 s) replaced view rate",
+   "bucket": "A relayed",
+   "url": "https://www.socialmediatoday.com/news/instagram-adds-retention-insights-reels/758464/"
+  },
+  {
+   "id": "A5",
+   "claim": "Trial Reels go to non-followers; auto-share if they perform in 72 h; Meta internal: 80% of users saw more non-follower reach",
+   "bucket": "A",
+   "url": "https://creators.instagram.com/blog/instagram-trial-reels"
+  },
+  {
+   "id": "A6",
+   "claim": "No YouTube penalty box; each video judged on its own",
+   "bucket": "A relayed",
+   "url": "https://www.searchenginejournal.com/youtube-algorithm-myths-debunked-insights-from-the-growth-team/510091/"
+  },
+  {
+   "id": "A7",
+   "claim": "Facebook surfaces 50% more same-day Reels; original Reels get increased distribution",
+   "bucket": "A",
+   "url": "https://about.fb.com/news/2025/10/finding-sharing-reels-facebook-just-got-easier-more-fun/"
+  },
+  {
+   "id": "A8",
+   "claim": "IG caps hashtags at 5; hashtags don't drive reach",
+   "bucket": "A",
+   "url": "https://www.socialmediatoday.com/news/instagrams-implementing-new-limits-on-hashtag-use/808309/"
+  },
+  {
+   "id": "A9",
+   "claim": "Meta requires disclosure of realistic AI audio; no evidence the label reduces reach",
+   "bucket": "A",
+   "url": "https://about.fb.com/news/2024/02/labeling-ai-generated-images-on-facebook-instagram-and-threads/"
+  },
+  {
+   "id": "A10",
+   "claim": "YouTube 2025: templated/repetitive AI content not monetizable; distinct series fine",
+   "bucket": "A",
+   "url": "https://support.google.com/youtube/answer/1311392"
+  },
+  {
+   "id": "B1",
+   "claim": "Awe +30%, practical value +30%, surprise +14% odds of virality (NYT most-emailed)",
+   "bucket": "B",
+   "url": "https://doi.org/10.1509/jmr.10.0353"
+  },
+  {
+   "id": "B2",
+   "claim": "Too-vague curiosity-gap headlines backfire (8,977 Upworthy tests)",
+   "bucket": "B",
+   "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11704130/"
+  },
+  {
+   "id": "B3",
+   "claim": "Posting more raises per-post reach on IG (+12% to +24%) with diminishing returns; on TikTok volume mostly raises top-10% outcomes",
+   "bucket": "B",
+   "url": "https://buffer.com/resources/how-often-to-post-on-instagram/"
+  }
+ ],
+ "tests_preregistered": [
+  {
+   "id": "T1",
+   "name": "layout",
+   "design": "banded v4 as normal post vs full-frame cut as Trial Reel, same day, 6 pairs",
+   "metric": "plays at 72 h (+ skip rate if token refreshed)",
+   "decision": "full-frame wins if better in >= 4/6 pairs"
+  },
+  {
+   "id": "T2",
+   "name": "youtube restart",
+   "design": "1 Short/day for 14 days",
+   "metric": "views at 72 h, engaged views, viewed vs swiped",
+   "decision": "compare to Sep 21-Oct 9 median 2,304 and Sep breakouts"
+  },
+  {
+   "id": "T3",
+   "name": "shape",
+   "design": "one 60-120 s survival story per week",
+   "metric": "plays, average watch time",
+   "decision": "keep if beats daily median twice in a row"
+  }
+ ]
+}

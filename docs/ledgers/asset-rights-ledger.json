@@ -1,0 +1,103 @@
+{
+ "assets": [
+  {
+   "file": "BostonMolassesDisaster.jpg",
+   "used_in": "P3 opener (0-2.2 s), Ken Burns push",
+   "source_url": "https://commons.wikimedia.org/wiki/File:BostonMolassesDisaster.jpg",
+   "original": "https://upload.wikimedia.org/wikipedia/commons/7/70/BostonMolassesDisaster.jpg",
+   "creator": "Globe Newspaper Co. (per Commons); held by Boston Public Library, Print Department",
+   "date": "1919-01-15",
+   "license": "Public domain in the US: published before 1931 (Commons 'PD US expired')",
+   "sha256": "f0c5ff70ab6f3dc0971b94c6e944c7eb6d86f1e9da677d1f902f7dc47e678b27",
+   "bytes": 4189385,
+   "pixels": "3000x2388",
+   "accessed": "2026-10-19",
+   "evidence_class": "external_reference",
+   "on_screen_credit": "Boston Public Library · Globe Newspaper Co. 1919 · public domain"
+  },
+  {
+   "file": "p2_chile_33_flags.jpg",
+   "used_in": "P2 opener (0-1.6 s)",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Chile_Mine_Rescue_(5075438423).jpg",
+   "creator": "Gobierno de Chile (Secretaría de Comunicaciones) / Hugo Infante",
+   "date": "2010",
+   "license": "CC BY 2.0",
+   "sha256": "9a361f1654d50740da4225e9900b4e0fa8077b557d6d227da2713171da1dba7e",
+   "bytes": 1205136,
+   "accessed": "2026-10-20",
+   "evidence_class": "external_reference",
+   "on_screen_credit": "Gobierno de Chile · 2010 · CC BY 2.0",
+   "download_approved_by_owner": "2026-10-20 (chat)"
+  },
+  {
+   "file": "p4_kittinger_jump.jpg",
+   "used_in": "P4 opener (0-2.4 s)",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Kittinger-jump.jpg",
+   "creator": "U.S. Air Force / Volkmar Wentzel",
+   "date": "1960-08-16",
+   "license": "Public domain (U.S. Air Force work)",
+   "sha256": "bb9593764788174b69934cf4b2980f7dd7253a5c6ea467f72f7b6081a9100d57",
+   "bytes": 598259,
+   "accessed": "2026-10-20",
+   "evidence_class": "external_reference",
+   "on_screen_credit": "U.S. Air Force photo · 1960 · public domain",
+   "download_approved_by_owner": "2026-10-20 (chat)"
+  },
+  {
+   "file": "p5_oxygen_masks_737.jpeg",
+   "used_in": "P5 opener (0-2.0 s); downscaled copy used for rendering",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Boeing_737-900_NG_emergency_oxygen_masks_1.jpeg",
+   "creator": "DemonDays64",
+   "date": "2022-06-19",
+   "license": "CC BY 4.0",
+   "sha256": "e5b7de63cd86197e7132c6f3617779a264d75d1a97575ba48a397d30d78ad346",
+   "bytes": 3475690,
+   "accessed": "2026-10-20",
+   "evidence_class": "external_reference",
+   "on_screen_credit": "Real 737 oxygen masks · DemonDays64 · CC BY 4.0",
+   "download_approved_by_owner": "2026-10-20 (chat)"
+  },
+  {
+   "file": "p6_ham_biopack.jpg",
+   "used_in": "P6 opener (0-3.4 s)",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Chimpanzee_Ham_in_Biopack_Couch_for_MR-2_flight_MSFC-6100114_(cropped).jpg",
+   "creator": "NASA (Marshall Space Flight Center)",
+   "date": "1961",
+   "license": "Public domain (NASA)",
+   "sha256": "4f267fa9b793717ff55f54a17e91969285cf1a3f18c6635dac5f332b4257e4fd",
+   "bytes": 2064089,
+   "accessed": "2026-10-20",
+   "evidence_class": "external_reference",
+   "on_screen_credit": "NASA photo · 1961 · public domain",
+   "download_approved_by_owner": "2026-10-20 (chat)"
+  },
+  {
+   "file": "p6_mr2_launch.jpg",
+   "used_in": "P6 launch beat (3.4-4.3 s); downscaled copy used",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Launch_of_Mercury-Redstone_vehicle_2_on_Jan_21,_1961_(s61-01942).jpg",
+   "creator": "NASA (Johnson Space Center, S61-01942)",
+   "date": "1961-01-31 (file name says Jan 21)",
+   "license": "Public domain (NASA)",
+   "sha256": "f04fa53fb13009965d37fed0c2f4037d0628c0f3184465ef0c87574e65daefba",
+   "bytes": 4450852,
+   "accessed": "2026-10-20",
+   "evidence_class": "external_reference",
+   "on_screen_credit": "NASA photo · Ham's launch, Jan 31 1961",
+   "download_approved_by_owner": "2026-10-20 (chat)"
+  },
+  {
+   "file": "p6_ham_after_flight.jpg",
+   "used_in": "P6 payoff (last ~1.9 s); downscaled copy used",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Launch_-_%22Ham%22_-_Mercury-Redstone_(MR)-2_(S62-01698).jpg",
+   "creator": "NASA (Johnson Space Center, S62-01698)",
+   "date": "1961-01-31",
+   "license": "Public domain (NASA)",
+   "sha256": "1e25923848044f94c3bb68e3d9ff3c70ae5f4140e23db046c5cde5d165b49253",
+   "bytes": 823374,
+   "accessed": "2026-10-20",
+   "evidence_class": "external_reference",
+   "on_screen_credit": "NASA photo · Ham after the flight, Jan 31 1961",
+   "download_approved_by_owner": "2026-10-20 (chat)"
+  }
+ ]
+}

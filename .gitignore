@@ -1,0 +1,10 @@
+# secrets
+.env
+# local environments and outputs
+.venv/
+venv/
+build/
+out/
+__pycache__/
+*.pyc
+.DS_Store

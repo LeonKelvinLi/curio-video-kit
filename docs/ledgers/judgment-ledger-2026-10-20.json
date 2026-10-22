@@ -1,0 +1,232 @@
+{
+ "schema": "curio-rule-187-ledger/v1",
+ "generated": "2026-10-20",
+ "scope": "self-judgment of the six v3 videos against first-party data, platform statements and frame measurements",
+ "actions_taken": "read-only research; nothing posted, scheduled, uploaded or changed; vidIQ credits used: 40 (1,741 -> 1,701); ElevenLabs history audio downloaded for pace measurement (no generation)",
+ "evidence_files": [
+  "evidence/first-party-pull-2026-10-20.json",
+  "evidence/trycurio-vo-pace.json",
+  "evidence/v3-motion-audit.json",
+  "evidence/v3-caption-audit.json"
+ ],
+ "first_party_findings": [
+  {
+   "id": "F1",
+   "finding": "IG reels are pass/fail: 4 of 12 reached 1,941-2,692 plays, 8 stalled at 133-268, nothing between",
+   "n": 12,
+   "evidence_class": "public_platform_data"
+  },
+  {
+   "id": "F2",
+   "finding": "All 6 pushed reels (Jun 30-Aug 30) had 3-second skip <= 41.2%; none of 18 above it were pushed (p~0.0006 under random push)",
+   "n": 28,
+   "evidence_class": "observed_first_party"
+  },
+  {
+   "id": "F3",
+   "finding": "'This ___ did ___' opener: 8/12 reels, 2 pushed, median 246; other openers 2/4 pushed, median 1,338",
+   "n": 12,
+   "evidence_class": "observed_first_party",
+   "strength": "weak"
+  },
+  {
+   "id": "F4",
+   "finding": "Body at risk: IG 3/4 pushed vs 1/8 others; YT 4/4 breakouts; FB 3/3 breakouts",
+   "evidence_class": "inference",
+   "note": "post-hoc, non-blind topic coding; IG p~0.07"
+  },
+  {
+   "id": "F5",
+   "finding": "Full-frame + body at risk 4/5 broke out on YT; banded + body at risk 0/5 (median 2,204)",
+   "evidence_class": "observed_first_party",
+   "cause": "inference",
+   "confound": "all hits posted Sep 11-18"
+  },
+  {
+   "id": "F6",
+   "finding": "Breakouts lost 32.8-39.6% by ~6 s; stalled full-frame lost 40.1-41.5%; banded 28.4-41.2%; YT cliff at 4.1-4.3 s",
+   "n": "11 curves",
+   "evidence_class": "observed_first_party"
+  },
+  {
+   "id": "F7",
+   "finding": "Mars reel (2.2 s real NASA footage, then 66% Curio 2D animation) was top-2; no all-animation reel has been posted",
+   "evidence_class": "public_platform_data",
+   "n": "2 reels watched"
+  },
+  {
+   "id": "F8",
+   "finding": "Pace is not a concern: pushed 138-208 WPM; trycurio Zack takes 163-208 WPM (median ~185); v3 184-198",
+   "evidence_class": "observed_first_party"
+  },
+  {
+   "id": "F9",
+   "finding": "Posting after Oct 19: nothing; last YT Short Oct 9 (11 days silent)",
+   "evidence_class": "public_platform_data"
+  }
+ ],
+ "platform_evidence": [
+  {
+   "id": "P1",
+   "claim": "Top IG ranking signals: watch time, likes, sends (sends slightly more for non-followers)",
+   "bucket": "A",
+   "source": "https://www.socialmediatoday.com/news/instagram-shares-algorithm-insights-2025/738034/",
+   "date": "2025-01-22"
+  },
+  {
+   "id": "P2",
+   "claim": "IG shows less of Reels that are low-res, watermarked, muted, contain borders or are mostly text",
+   "bucket": "A",
+   "source": "https://about.instagram.com/blog/announcements/instagram-ranking-explained",
+   "date": "2023-05-31"
+  },
+  {
+   "id": "P3",
+   "claim": "Borders, watermarks, subtitles or credits do not make reposted content original; narration that re-contextualizes does",
+   "bucket": "A",
+   "source": "https://creators.instagram.com/blog/rewarding-original-creators-on-instagram",
+   "date": "2026-04-30"
+  },
+  {
+   "id": "P4",
+   "claim": "Skip rate = share of views skipped in the first 3 s; 'the first three seconds of a reel are super important'",
+   "bucket": "A",
+   "source": "Meta Graph API Instagram media insights docs; https://www.instagram.com/reel/DA0ua3-yuDg",
+   "date": "2024-10 / 2025-08"
+  },
+  {
+   "id": "P5",
+   "claim": "Reels safe zone (ads spec): top 14%, bottom 35%, 6% each side clear -> at 1080x1920 keep key content within y 269-1248, x 65-1015",
+   "bucket": "A (ads only)",
+   "source": "https://www.facebook.com/business/ads-guide/update/video/instagram-reels"
+  },
+  {
+   "id": "P6",
+   "claim": "Over 75% of Reels views are sound-on",
+   "bucket": "A",
+   "source": "https://developers.facebook.com/blog/post/2024/11/07/unlock-the-power-of-reel-ads",
+   "date": "2024-11-07"
+  },
+  {
+   "id": "P7",
+   "claim": "IG lists a reel narrated with a realistic AI-generated voiceover as content to label AI info",
+   "bucket": "A",
+   "source": "https://help.instagram.com/761121959519495",
+   "note": "confirmed via search-index text, not a direct page read"
+  },
+  {
+   "id": "P8",
+   "claim": "YT Shorts judged on viewed vs swiped away; no favored length",
+   "bucket": "A",
+   "source": "https://techcrunch.com/2023/08/25/youtube-demystifies-the-shorts-algorithm/",
+   "date": "2023-08-25"
+  },
+  {
+   "id": "P9",
+   "claim": "Since 2025-03-31 a Shorts view counts every start/replay; engaged views keep the old definition",
+   "bucket": "A",
+   "source": "https://support.google.com/youtube/answer/10059070"
+  },
+  {
+   "id": "P10",
+   "claim": "YT disclosure not required for animation; required for realistic altered depictions of real people/events",
+   "bucket": "A",
+   "source": "https://support.google.com/youtube/answer/14328491"
+  },
+  {
+   "id": "P11",
+   "claim": "Length studies conflict: quso.ai (108k Shorts) favors 11-20 s; Socialinsider (9.77M brand Reels) favors 45-60 s",
+   "bucket": "B",
+   "strength": "weak-moderate, correlational, vendor data"
+  },
+  {
+   "id": "P12",
+   "claim": "Loops: no platform says they boost ranking; replays count toward IG watch time",
+   "bucket": "A / inference"
+  }
+ ],
+ "measurement_method": {
+  "motion": "ffmpeg scdet scene score per frame at 30 fps on the 1080x1080 strip (downscaled 270x270), averaged per second; <0.35 = near-still second",
+  "loop": "SSIM of first vs last strip frame",
+  "captions": "replica of kit autoLines/styleCaptions chunking, chunk display time = next chunk start - this start",
+  "safe_zone": "element y positions from scene code (bandMap) mapped to screen coordinates"
+ },
+ "videos": {
+  "P1": {
+   "body_at_risk": true,
+   "first_second_motion": 0.12,
+   "near_still_seconds": "10/13",
+   "real_opener": false,
+   "change_before_4_1s": true,
+   "safe_zone_issue": null,
+   "score_was": 7.5,
+   "score_now": 7,
+   "pass_chance": "medium"
+  },
+  "P2": {
+   "body_at_risk": true,
+   "first_second_motion": 0.14,
+   "near_still_seconds": "8/15",
+   "real_opener": false,
+   "change_before_4_1s": true,
+   "safe_zone_issue": "date line on note at y~1250",
+   "score_was": 7,
+   "score_now": 6,
+   "pass_chance": "medium-low"
+  },
+  "P3": {
+   "body_at_risk": true,
+   "first_second_motion": 0.15,
+   "near_still_seconds": "8/14",
+   "real_opener": true,
+   "change_before_4_1s": true,
+   "safe_zone_issue": null,
+   "score_was": 7.5,
+   "score_now": 7.5,
+   "pass_chance": "medium"
+  },
+  "P4": {
+   "body_at_risk": false,
+   "first_second_motion": 0.11,
+   "near_still_seconds": "13/17",
+   "real_opener": false,
+   "change_before_4_1s": "partial (4.3 s)",
+   "safe_zone_issue": null,
+   "score_was": 6.5,
+   "score_now": 4.5,
+   "pass_chance": "low"
+  },
+  "P5": {
+   "body_at_risk": true,
+   "first_second_motion": 0.8,
+   "near_still_seconds": "14/16",
+   "real_opener": false,
+   "change_before_4_1s": false,
+   "safe_zone_issue": "TUC bar and 'this video' marker at y~1288-1390 (below 1248)",
+   "score_was": 7,
+   "score_now": 6,
+   "pass_chance": "medium-low"
+  },
+  "P6": {
+   "body_at_risk": false,
+   "first_second_motion": 0.18,
+   "near_still_seconds": "13/14",
+   "real_opener": false,
+   "change_before_4_1s": "partial",
+   "safe_zone_issue": null,
+   "score_was": 7,
+   "score_now": 5,
+   "pass_chance": "low"
+  }
+ },
+ "pass_chance_note": "inference from small samples (n=12 IG, 17 YT); not a forecast",
+ "recommendations_ranked": [
+  "frame 0 = the event in motion",
+  "~2 s rights-clear real opener then animation",
+  "visible change every ~2 s, esp. 3-6 s",
+  "move P5 timer above y 1248",
+  "swap/reframe P4 and P6 toward body-at-risk (spare: Siffre)",
+  "owner decisions: full-frame cut of P1+P3; AI-info label",
+  "low: loop seam, question endings"
+ ]
+}
