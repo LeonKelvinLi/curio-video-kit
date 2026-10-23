@@ -1,0 +1,25 @@
+YouTube Shorts uploads: title, description, file. The file is a sub-10 MB copy of the master, in out/youtube/.
+Title style follows the channel's breakouts ("He Thought a Whale Had Swallowed Him Alive"): the subject and event, short, no clickbait.
+Altered/synthetic content: not required. This is animation plus archive photos with a generic narrator (JUDGMENT-v3). Instagram is the platform that asks for "AI info".
+
+===== P2 =====
+FILE: out/youtube/curio-miners-P2-yt.mp4
+TITLE: The Drill Came Back Up With a Note From 33 Trapped Miners
+DESCRIPTION:
+33 miners, nearly half a mile down, with food meant for 2–3 days. On day 17 a drill finally reached them, and it came back up with a note taped to it. What would you have written?
+
+2010 Copiapó mine (San José), Chile. The borehole broke through at 688 m (0.43 mi). Sources: AP via ABC7, 22 Aug 2010; AP via Fox; Wikipedia. Opening photo: the 33 flags on the hillside above the mine, Gobierno de Chile / Hugo Infante, 2010, CC BY 2.0. Illustration, not to scale; time-lapse.
+
+More rabbit holes worth understanding: Curio · trycurio.app
+#chileanminers #survival #history
+
+===== P7H =====
+FILE: out/youtube/curio-stapp-P7H-yt.mp4
+TITLE: He Went From 632 MPH to Zero in 1.4 Seconds
+DESCRIPTION:
+Air Force doctor John Stapp rode a rocket sled to 632 mph in 1954, then stopped in 1.4 seconds. The stop hit him with 46.2 g, about 46 times his body weight. He survived and became the fastest man on Earth. Would you have strapped in?
+
+Sonic Wind No. 1, Holloman Air Force Base, New Mexico, 10 Dec 1954. Sources: Wikipedia "John Stapp" (632 mph; stopped in 1.4 s per Aviation Week, Jan 1955; 46.2 g; no permanent injuries); Smithsonian National Air and Space Museum. Opening photo: U.S. Air Force / SSgt Lawrence A. Wise, 10 Dec 1954 (public domain). Face photos are from an earlier 421 mph run (U.S. Air Force via National Archives, public domain). Sled animation simplified, not to scale.
+
+More rabbit holes worth understanding: Curio · trycurio.app
+#rocketsled #science #history
