@@ -102,9 +102,21 @@
   // banded template: 3-word chunks in the top band, one highlighted word, instant swaps
   const STOP = new Set(["a","an","the","to","of","in","on","at","for","and","or","it","is","its","it's","as","up","by","with","from","that","this","you","he","she","they","we","are","was","were","be","so","now","out","but","too","more","still","can","how","long"]);
   function chunkLine(n) { if (n <= 4) return [n]; const k = Math.ceil(n / 4), base = Math.floor(n / k), extra = n % k; return Array.from({ length: k }, (_, i) => base + (i < extra ? 1 : 0)); }
+  // V.hookLine: the first sentence is on screen whole from frame 0 (wrapped, up to 3 rows) instead of in 3-4 word chunks,
+  // so the full premise is readable in the ~1.7 s a stranger takes to decide. Off by default; every existing video is unchanged.
+  function hookCaption(c, L) {
+    let fs = 78; const rowsOf = () => { c.font = `800 ${fs}px ${DISP}`; const sp = c.measureText(" ").width, rows = [[]]; let cw = 0;
+      L.words.forEach(w => { const ww = c.measureText(w).width; if (cw > 0 && cw + sp + ww > 960) { rows.push([]); cw = 0; } rows[rows.length - 1].push(w); cw += (cw > 0 ? sp : 0) + ww; }); return { rows, sp }; };
+    let r = rowsOf(); while (r.rows.length > 3 && fs > 56) { fs -= 4; r = rowsOf(); }
+    let hi = -1, best = -1; L.words.forEach((w, i) => { const b = w.toLowerCase().replace(/[^a-z0-9'×–.:,]/g, "").replace(/[.,:]$/, ""); const sc = /\d/.test(b) ? 100 : STOP.has(b) ? 0 : b.length; if (sc > best) { best = sc; hi = i; } });
+    c.save(); c.textBaseline = "middle"; c.textAlign = "left"; c.shadowColor = "rgba(0,0,0,.5)"; c.shadowBlur = 14; c.shadowOffsetY = 3; let k = 0;
+    r.rows.forEach((row, ri) => { const wd = row.map(w => c.measureText(w).width), tot = wd.reduce((a, b) => a + b, 0) + r.sp * (row.length - 1); let x = 540 - tot / 2;
+      row.forEach((w, i) => { c.fillStyle = k === hi ? "#ffd23f" : "#ffffff"; c.fillText(w, x, 272 + ri * fs * 1.08); x += wd[i] + r.sp; k++; }); });
+    c.restore();
+  }
   K.styleCaptions = (c, t, V) => {
-    V.lines.forEach(L => {
-      if (t < L.t0 || t >= L.t1) return; const sizes = L.words.join(" ").length <= 24 ? [L.words.length] : chunkLine(L.words.length); let s = 0, cur = null; // short lines stay whole
+    V.lines.forEach((L, li) => {
+      if (t < L.t0 || t >= L.t1) return; if (V.hookLine && li === 0) { hookCaption(c, L); return; } const sizes = L.words.join(" ").length <= 24 ? [L.words.length] : chunkLine(L.words.length); let s = 0, cur = null; // short lines stay whole
       sizes.forEach(n => { if (t >= L.at[s]) cur = [s, n]; s += n; }); if (!cur) cur = [0, sizes[0]]; const ws = L.words.slice(cur[0], cur[0] + cur[1]);
       let hi = -1, best = -1; ws.forEach((w, i) => { const b = w.toLowerCase().replace(/[^a-z0-9'×–.:,]/g, "").replace(/[.,:]$/, ""); const sc = /\d/.test(b) ? 100 : STOP.has(b) ? 0 : b.length; if (sc > best) { best = sc; hi = i; } });
       c.save(); let fs = 92; c.font = `800 ${fs}px ${DISP}`; let sp = c.measureText(" ").width, wd = ws.map(w => c.measureText(w).width), tot = wd.reduce((a, b) => a + b, 0) + sp * (ws.length - 1);

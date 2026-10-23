@@ -6,6 +6,7 @@
 (function () {
   const { clamp, lerp, inv, E, hash, track, rr, circ, txt, seg, poly } = K;
   const Wd = WORDS, T = window.T, w = (re, n) => Wd[K.ix(Wd, re, n)].s;
+  const HOOK = !!window.P7_HOOK; // P7H (scenes/p7_hook.js): first sentence on screen whole from frame 0; the posted P7 master is unchanged
   const tSix = w(/^six$/), tHour = w(/^hour$/), tTo = w(/^to$/), tZero = w(/^zero$/), tSecond = w(/^second$/), tAir = w(/^Air$/) - 0.05, tStapp = w(/^Stapp$/),
     tDid = w(/^did$/), tPurpose = w(/^purpose/), tThe = w(/^The$/) - 0.05, t46 = w(/^forty-six$/), tWeight = w(/^weight/), tHe = w(/^He$/) - 0.05,
     tFastest = w(/^fastest$/), tEarth = w(/^Earth/);
@@ -95,7 +96,7 @@
   function panel(c, x, y, w, h, alpha) { c.save(); c.globalAlpha = alpha; rr(c, x, y, w, h, 16); c.fillStyle = "rgba(6,10,14,.78)"; c.fill(); c.restore(); }
   function bandHud(c, t, vp) {
     const x = vp.x + 70, xr = vp.x + vp.w - 70, y = vp.y + 24;
-    if (t < tTo) tag(c, x, y, "HOLLOMAN AFB · DEC 10, 1954", inv(0.05, 0.3, t), "#ffffff", "left");
+    if (t < tTo) tag(c, x, HOOK ? y + 640 : y, "HOLLOMAN AFB · DEC 10, 1954", inv(0.05, 0.3, t), "#ffffff", "left");
     if (t >= tSix && t < tAir) { // the speed readout: climbs on "six hundred thirty-two", then falls to 0 in 1.4 s
       const mph = t < tZero ? Math.round(632 * E.out(inv(tSix, tHour, t))) : Math.round(632 * speedAt(t)), done = t >= tStopped;
       panel(c, xr - 400, y + 84, 424, 150, inv(tSix, tSix + 0.15, t)); K.readout(c, xr, y + 120, "SPEED", mph + " MPH", { size: 92, color: done ? "#ffc83d" : "#ffffff", pulse: done ? 1 - inv(tStopped + 0.4, tStopped + 0.9, t) : 0 });
@@ -106,7 +107,7 @@
     if (t >= tFastest) K.stamp(c, 540, 790, "FASTEST MAN ON EARTH", { p: inv(tFastest, tFastest + 0.3, t), size: 64 });
   }
   const credit = t => (t < tTo ? "U.S. Air Force photo · Dec 10, 1954 · public domain" : t < tAir ? "Curio animation · sled simplified" : t < tThe ? "U.S. Air Force photos · earlier 421 mph run · public domain" : t < tHe ? "Curio animation" : "U.S. Air Force photo · public domain");
-  const lines = K.autoLines(Wd, T, [["six hundred thirty-two", "632"], ["forty-six", "46"]], [/^hour$/, /^zero$/]);
+  const lines = K.autoLines(Wd, T, [["six hundred thirty-two", "632"], ["forty-six", "46"]], HOOK ? [] : [/^hour$/, /^zero$/]);
   const S = K.Snd, foley = [
     [0, x => { S.nz(x, tZero, "lowpass", 520, 380, 0.7, 0.32); S.boom(x, 60, 30, 0.9, 0.4); }],
     [tTo - 0.05, x => S.whoosh(x, 0.4, true, 0.3)],
@@ -118,7 +119,7 @@
   ];
   for (let i = 1; i < 46; i += 3) foley.push([t46 + (i - 1) * (tWeight - 0.05 - t46) / 45, x => S.tick(x, 1400 + i * 20, 0.04)]);
   const punch = [tSix, tTo, tZero, tSecond, tAir, tStapp, tFace3, tFace5, tThe, t46, tWeight, tHe, tFastest];
-  K.mount({ T, mode: "style", ready, punch, foley, credit, lines, scene, bandHud, events: [], drone: { freqs: [55, 55.4, 82.4], level: 0.035 },
+  K.mount({ T, mode: "style", ready, hookLine: HOOK, punch, foley, credit, lines, scene, bandHud, events: [], drone: { freqs: [55, 55.4, 82.4], level: 0.035 },
     shake: t => Math.max(K.shakeAt(t, tZero, 22), K.shakeAt(t, tWeight, 12), K.shakeAt(t, tFace3, 8)),
     flash: t => Math.max(K.flashAt(t, tZero, 0.1, 0.6), K.flashAt(t, tFace3, 0.06, 0.35), K.flashAt(t, tFastest, 0.08, 0.35)) });
 })();
