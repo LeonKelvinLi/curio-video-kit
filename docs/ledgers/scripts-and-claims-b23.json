@@ -1,0 +1,87 @@
+{
+ "schema": "curio-rule-187-ledger/v1",
+ "generated": "2026-10-23",
+ "scope": "Batch 2026-10-23 (P8-P12): full-frame illustrated plates, one big character at frame 0, hook line on",
+ "voice": {
+  "voice_name": "Zack",
+  "voice_id": "UBtJzywcDa3wB8w48g0v",
+  "model": "eleven_v3",
+  "stability": 0.5
+ },
+ "videos": {
+  "P8": [
+   {
+    "claim": "Engine failed at 47,000 ft; no pressure suit; ejected into a thunderstorm",
+    "source": "https://en.wikipedia.org/wiki/William_Rankin"
+   },
+   {
+    "claim": "Ejected 6:00 pm; watch read 6:40 pm in the forest = 40 minutes",
+    "source": "https://en.wikipedia.org/wiki/William_Rankin"
+   },
+   {
+    "claim": "Still aloft after ten minutes, carried by updrafts, hail, lightning",
+    "source": "https://en.wikipedia.org/wiki/William_Rankin"
+   }
+  ],
+  "P9": [
+   {
+    "claim": "Dec 1966 NASA vacuum chamber; hose came loose; ~120,000 ft equivalent",
+    "source": "https://www.guinnessworldrecords.com/world-records/447311-highest-equivalent-altitude-exposure-survived"
+   },
+   {
+    "claim": "Remembered saliva boiling on his tongue before passing out",
+    "source": "Guinness (as above)"
+   },
+   {
+    "claim": "Repressurised in 87 seconds; no lasting effects",
+    "source": "Guinness (as above)"
+   },
+   {
+    "claim": "'Within seconds he passed out'",
+    "evidence_class": "external_reference",
+    "note": "one account gives ~14 s; script avoids the exact figure"
+   }
+  ],
+  "P10": [
+   {
+    "claim": "Park ranger, Shenandoah National Park; struck 7 times 1942-1977",
+    "source": "https://en.wikipedia.org/wiki/Roy_Sullivan"
+   },
+   {
+    "claim": "Burns to leg (1942), shoulder (1970), chest (1977); hair set on fire several times",
+    "source": "https://en.wikipedia.org/wiki/Roy_Sullivan"
+   },
+   {
+    "claim": "Guinness record for most lightning strikes",
+    "source": "https://en.wikipedia.org/wiki/Roy_Sullivan"
+   }
+  ],
+  "P11": [
+   {
+    "claim": "Oxygen tank exploded; LM designed for two men for two days, used by three",
+    "source": "https://en.wikipedia.org/wiki/Apollo_13"
+   },
+   {
+    "claim": "CM canisters did not fit the LM; adapter from manual covers and duct tape; CO2 dropped immediately",
+    "source": "https://en.wikipedia.org/wiki/Apollo_13"
+   },
+   {
+    "claim": "Square vs round canisters",
+    "evidence_class": "not_claimed",
+    "note": "not in the verified source; the plate only shows a mismatch, the script never states a shape"
+   }
+  ],
+  "P12": [
+   {
+    "claim": "Thruster stuck on; tumble reached 296 deg/s (~0.82 rev/s = 'almost once every second')",
+    "source": "https://en.wikipedia.org/wiki/Gemini_8"
+   },
+   {
+    "claim": "Armstrong shut down OAMS, used re-entry control (nose) thrusters; mission ended early; crew recovered",
+    "source": "https://en.wikipedia.org/wiki/Gemini_8"
+   }
+  ]
+ },
+ "dropped": "Cher Ami (core story disputed by historians per Wikipedia)",
+ "plates": "20 Curio illustrations generated with gpt-image-2 via OpenArt on 2026-10-23 (800 credits, audit_spend PASS); prompts in docs/batch-2026-10-23/plates.json"
+}
