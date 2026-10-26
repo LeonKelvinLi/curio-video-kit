@@ -1,0 +1,432 @@
+{
+  "reel": "Bat bomb / Project X-Ray (WWII)",
+  "generated": "2026-10-26",
+  "status": "20 PD stills downloaded and viewed; SHA1 of every file matches the Commons API. NO public-domain bat-flight VIDEO found (NPS multimedia search for Carlsbad bat flight returned none; the Commons Bracken Cave videos are CC BY-SA, excluded). Plan Ken Burns moves on the USFWS/NPS stills.",
+  "rejected": [
+    {
+      "what": "File:Bracken Cave Bats in Texas.webm and File:Bracken Bat Cave evening of 17 June 2017.ogv",
+      "why": "CC BY-SA, not public domain"
+    },
+    {
+      "what": "File:Tadarida brasiliensis outflight Hristov Carlsbad Caverns.jpg",
+      "why": "credited to Nick Hristov (not NPS); NPS usage note says non-NPS credits must not be presumed PD; also only 556x250"
+    },
+    {
+      "what": "Carlsbad Army Airfield classbook PDFs on Commons",
+      "why": "Commons source notes a CC BY-NC-SA claim by the collector; ambiguous"
+    },
+    {
+      "what": "DVIDS bat videos",
+      "why": "site served a bot challenge; not bypassed"
+    }
+  ],
+  "assets": [
+    {
+      "file": "photos/bat_bomb_canister_usaaf.jpg",
+      "kind": "photo",
+      "width": 1081,
+      "height": 426,
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Bat_Bomb_Canister.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Bat_Bomb_Canister.jpg",
+      "license": "Public domain",
+      "license_evidence": "Public domain: Wikimedia Commons {{PD-USGov-Military-Air_Force}} (Author: United States Army Air Forces). Provenance caveat: Commons 'Source' is a scan from Jack Couffer, Bat Bomb: World War II's Other Secret Weapon (Univ. of Texas Press, 1992); the PD claim rests on Couffer's credit to the USAAF",
+      "credit_line": "U.S. Army Air Forces, bat-bomb canister (via Wikimedia Commons)",
+      "what_it_shows": "B&W studio photo of the perforated metal bat-bomb canister lying horizontally: tail fin and clockwork/timer mechanism at left, air-hole-punched body, pointed nose at right. Commons caption: 'Bat-bomb canister later used to house the hibernating bats.' Dated 1942 on Commons.",
+      "best_segments": [
+        {
+          "region": "full frame, rotate 90 deg for 9:16 (Commons also has 'Bat Bomb Canister (rotated).jpg')",
+          "note": "S2 'canisters of bats' and the diagram's starting object"
+        },
+        {
+          "region": "zoom on timer mechanism (left third)",
+          "note": "'timed' detail"
+        }
+      ],
+      "rank": 1,
+      "sha1": "92f680f29463acf2cf989316786b1ccb23f1975d"
+    },
+    {
+      "file": "photos/carlsbad_aaf_fire_after_bat_bomb_accident_usaaf.jpg",
+      "kind": "photo",
+      "width": 791,
+      "height": 1122,
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Carlsbad_AAF_Fire_after_Bat_Bomb_Accident.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Carlsbad_AAF_Fire_after_Bat_Bomb_Accident.jpg",
+      "license": "Public domain",
+      "license_evidence": "Public domain: Wikimedia Commons {{PD-USGov-Military-Air_Force}} (Author: United States Army Air Forces). Provenance caveat: Commons 'Source' is a scan from Jack Couffer, Bat Bomb: World War II's Other Secret Weapon (Univ. of Texas Press, 1992); the PD claim rests on Couffer's credit to the USAAF",
+      "credit_line": "U.S. Army Air Forces, Carlsbad Army Air Field fire, 1943 (via Wikimedia Commons)",
+      "what_it_shows": "B&W: a low wooden building engulfed in flames at lower left, huge column of black smoke filling the sky, and a lattice-steel control tower (still standing) at right. Commons caption: 'Errant bats from the experimental Bat Bomb set the Army Air Base in Carlsbad, New Mexico on fire, 1943.' Commons date 15 May 1943 (date disputed, see facts.json).",
+      "best_segments": [
+        {
+          "region": "full frame (already portrait 0.7:1)",
+          "note": "S3 twist; slow push toward the flames"
+        },
+        {
+          "region": "bottom half: burning building + tower base",
+          "note": "tight crop for impact"
+        }
+      ],
+      "rank": 2,
+      "sha1": "8451eaec5a7b1a0252be33fe2585f4e02a21d3b2"
+    },
+    {
+      "file": "photos/nps_batflight_natural_entrance_51337694754.jpg",
+      "kind": "photo",
+      "width": 3008,
+      "height": 2000,
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Bat_Flight_from_inside_Natural_Entrance_%2851337694754%29.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Bat_Flight_from_inside_Natural_Entrance_(51337694754).jpg",
+      "license": "Public domain",
+      "license_evidence": "Public domain: Wikimedia Commons {{PD-USGov-NPS}}; Flickr source (CarlsbadCavernsNPS) marked Public Domain Mark, FlickreviewR passed 2023-05-11",
+      "credit_line": "NPS / Peter Jones, Carlsbad Caverns National Park",
+      "what_it_shows": "Looking up and out from inside Carlsbad Cavern's Natural Entrance at dusk: rock overhang and switchback trail, with hundreds of bats spiralling out across the sky at upper right. Taken 2006-07-25.",
+      "best_segments": [
+        {
+          "region": "upper-right quadrant (sky with bats) as 9:16 crop",
+          "note": "'the bats came from Carlsbad Caverns' / hook background"
+        },
+        {
+          "region": "pan from cave wall to bat-filled sky",
+          "note": "reveal move"
+        }
+      ],
+      "rank": 3,
+      "sha1": "6fabdb38fc5fd18141d59f714984c0c1067b0e2b"
+    },
+    {
+      "file": "photos/usfws_bracken_exit_8006832787.jpg",
+      "kind": "photo",
+      "width": 3888,
+      "height": 2592,
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Mexican_free-tailed_bats_exiting_Bracken_Bat_Cave_%288006832787%29.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Mexican_free-tailed_bats_exiting_Bracken_Bat_Cave_(8006832787).jpg",
+      "license": "Public domain",
+      "license_evidence": "Public domain: Wikimedia Commons {{PD-USGov-FWS}} (work of a U.S. Fish and Wildlife Service employee); Commons page also carries Flickr's {{cc-by-2.0}} tag from the USFWS HQ Flickr upload, so credit anyway",
+      "credit_line": "USFWS / Ann Froschauer",
+      "what_it_shows": "Mexican free-tailed bats exiting Bracken Bat Cave, Texas (Sept 2012). Dense black swarm against blue dusk sky over treeline; strongest 'cloud of bats' frame. NOTE: Bracken Cave, Texas, not Carlsbad; same species the project used (the Marines later guarded Texas caves).",
+      "best_segments": [
+        {
+          "region": "full frame, slow push-in",
+          "note": "hero swarm, hook or S2 background"
+        }
+      ],
+      "rank": 4,
+      "sha1": "3befcd253faa7559b80e0b3376f7b2e492f3cbdd"
+    },
+    {
+      "file": "photos/usfws_bracken_exit_8006837002.jpg",
+      "kind": "photo",
+      "width": 3888,
+      "height": 2592,
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Mexican_free-tailed_bats_exiting_Bracken_Bat_Cave_%288006837002%29.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Mexican_free-tailed_bats_exiting_Bracken_Bat_Cave_(8006837002).jpg",
+      "license": "Public domain",
+      "license_evidence": "Public domain: Wikimedia Commons {{PD-USGov-FWS}} (work of a U.S. Fish and Wildlife Service employee); Commons page also carries Flickr's {{cc-by-2.0}} tag from the USFWS HQ Flickr upload, so credit anyway",
+      "credit_line": "USFWS / Ann Froschauer",
+      "what_it_shows": "Mexican free-tailed bats exiting Bracken Bat Cave, Texas (Sept 2012). Bats streaming out at close range, white flash-lit wings in foreground over a dusk sky. NOTE: Bracken Cave, Texas, not Carlsbad; same species the project used (the Marines later guarded Texas caves).",
+      "best_segments": [
+        {
+          "region": "left half (bright close bats)",
+          "note": "best for 'release' beat in diagram/S2"
+        }
+      ],
+      "rank": 5,
+      "sha1": "8043c75c81cb8c617a8e805979200f7b4b622222"
+    },
+    {
+      "file": "photos/usfws_mftb_closeup_8006856842.jpg",
+      "kind": "photo",
+      "width": 3888,
+      "height": 2592,
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Mexican_free-tailed_bat_%288006856842%29.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Mexican_free-tailed_bat_(8006856842).jpg",
+      "license": "Public domain",
+      "license_evidence": "Public domain: Wikimedia Commons {{PD-USGov-FWS}} (work of a U.S. Fish and Wildlife Service employee); Commons page also carries Flickr's {{cc-by-2.0}} tag from the USFWS HQ Flickr upload, so credit anyway",
+      "credit_line": "USFWS / Ann Froschauer",
+      "what_it_shows": "Single Mexican free-tailed bat on a pale rock at night, wings folded, face toward camera (Texas, 18 Sept 2012).",
+      "best_segments": [
+        {
+          "region": "subject-centered 9:16 crop",
+          "note": "S2 'the bats' intro shot; species ID; best close-up"
+        }
+      ],
+      "rank": 5,
+      "sha1": "faec1f79f40aec937fdfce04f3513702f2ab779e"
+    },
+    {
+      "file": "photos/nps_batflight_natural_entrance_51337179183.jpg",
+      "kind": "photo",
+      "width": 3008,
+      "height": 2000,
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Bat_Flight_from_inside_Natural_Entrance_%2851337179183%29.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Bat_Flight_from_inside_Natural_Entrance_(51337179183).jpg",
+      "license": "Public domain",
+      "license_evidence": "Public domain: Wikimedia Commons {{PD-USGov-NPS}}; Flickr source (CarlsbadCavernsNPS) marked Public Domain Mark, FlickreviewR passed 2023-05-11",
+      "credit_line": "NPS / Peter Jones, Carlsbad Caverns National Park",
+      "what_it_shows": "Wider view from inside the Natural Entrance: cave arch framing the sky, bats visible in the opening, trail below. Taken 2006-07-25.",
+      "best_segments": [
+        {
+          "region": "center-top arch as 9:16",
+          "note": "alternate to the 51337694754 shot"
+        }
+      ],
+      "rank": 6,
+      "sha1": "a138fbc011f59b8ad9bb7b100931185aa123f409"
+    },
+    {
+      "file": "photos/usfws_mftb_closeup_8006850175.jpg",
+      "kind": "photo",
+      "width": 3888,
+      "height": 2592,
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Mexican_free-tailed_bat_%288006850175%29.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Mexican_free-tailed_bat_(8006850175).jpg",
+      "license": "Public domain",
+      "license_evidence": "Public domain: Wikimedia Commons {{PD-USGov-FWS}} (work of a U.S. Fish and Wildlife Service employee); Commons page also carries Flickr's {{cc-by-2.0}} tag from the USFWS HQ Flickr upload, so credit anyway",
+      "credit_line": "USFWS / Ann Froschauer",
+      "what_it_shows": "Mexican free-tailed bat held in a yellow leather glove, face and ears visible (Texas, 18 Sept 2012).",
+      "best_segments": [
+        {
+          "region": "subject-centered 9:16 crop",
+          "note": "handler/biologist vibe for 'strapped bombs to bats'"
+        }
+      ],
+      "rank": 6,
+      "sha1": "53b29b7cbc87d2210e7fc702f2ab93dcae945a53"
+    },
+    {
+      "file": "photos/usfws_bracken_exit_8006833815.jpg",
+      "kind": "photo",
+      "width": 3888,
+      "height": 2592,
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Mexican_free-tailed_bats_exiting_Bracken_Bat_Cave_%288006833815%29.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Mexican_free-tailed_bats_exiting_Bracken_Bat_Cave_(8006833815).jpg",
+      "license": "Public domain",
+      "license_evidence": "Public domain: Wikimedia Commons {{PD-USGov-FWS}} (work of a U.S. Fish and Wildlife Service employee); Commons page also carries Flickr's {{cc-by-2.0}} tag from the USFWS HQ Flickr upload, so credit anyway",
+      "credit_line": "USFWS / Ann Froschauer",
+      "what_it_shows": "Mexican free-tailed bats exiting Bracken Bat Cave, Texas (Sept 2012). Scattered bats against bright blue sky with white clouds. NOTE: Bracken Cave, Texas, not Carlsbad; same species the project used (the Marines later guarded Texas caves).",
+      "best_segments": [
+        {
+          "region": "full frame",
+          "note": "daylight look; less dramatic"
+        }
+      ],
+      "rank": 7,
+      "sha1": "f77a0ee7cee85e784b69d25e449e6ecb5b1952f4"
+    },
+    {
+      "file": "photos/usfws_bracken_exit_8006835856.jpg",
+      "kind": "photo",
+      "width": 3888,
+      "height": 2592,
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Mexican_free-tailed_bats_exiting_Bracken_Bat_Cave_%288006835856%29.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Mexican_free-tailed_bats_exiting_Bracken_Bat_Cave_(8006835856).jpg",
+      "license": "Public domain",
+      "license_evidence": "Public domain: Wikimedia Commons {{PD-USGov-FWS}} (work of a U.S. Fish and Wildlife Service employee); Commons page also carries Flickr's {{cc-by-2.0}} tag from the USFWS HQ Flickr upload, so credit anyway",
+      "credit_line": "USFWS / Ann Froschauer",
+      "what_it_shows": "Mexican free-tailed bats exiting Bracken Bat Cave, Texas (Sept 2012). Frame-filling motion-blurred bats against pale sky. NOTE: Bracken Cave, Texas, not Carlsbad; same species the project used (the Marines later guarded Texas caves).",
+      "best_segments": [
+        {
+          "region": "center crop 9:16",
+          "note": "texture / transition plate"
+        }
+      ],
+      "rank": 7,
+      "sha1": "7cdb819e425288335cf8f93c4fd613ac63ec2096"
+    },
+    {
+      "file": "photos/usfws_bracken_exit_8006842493.jpg",
+      "kind": "photo",
+      "width": 3888,
+      "height": 2592,
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Mexican_free-tailed_bats_exiting_Bracken_Bat_Cave_%288006842493%29.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Mexican_free-tailed_bats_exiting_Bracken_Bat_Cave_(8006842493).jpg",
+      "license": "Public domain",
+      "license_evidence": "Public domain: Wikimedia Commons {{PD-USGov-FWS}} (work of a U.S. Fish and Wildlife Service employee); Commons page also carries Flickr's {{cc-by-2.0}} tag from the USFWS HQ Flickr upload, so credit anyway",
+      "credit_line": "USFWS / Ann Froschauer",
+      "what_it_shows": "Mexican free-tailed bats exiting Bracken Bat Cave, Texas (Sept 2012). Night: flash-lit white bats over dark trees. NOTE: Bracken Cave, Texas, not Carlsbad; same species the project used (the Marines later guarded Texas caves).",
+      "best_segments": [
+        {
+          "region": "center 9:16",
+          "note": "moody night look"
+        }
+      ],
+      "rank": 7,
+      "sha1": "50688b3caa97190eb40ca9d3e556c12389e2f619"
+    },
+    {
+      "file": "photos/usfws_bracken_exit_8006847010.jpg",
+      "kind": "photo",
+      "width": 3888,
+      "height": 2592,
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Mexican_free-tailed_bats_exiting_Bracken_Bat_Cave_%288006847010%29.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Mexican_free-tailed_bats_exiting_Bracken_Bat_Cave_(8006847010).jpg",
+      "license": "Public domain",
+      "license_evidence": "Public domain: Wikimedia Commons {{PD-USGov-FWS}} (work of a U.S. Fish and Wildlife Service employee); Commons page also carries Flickr's {{cc-by-2.0}} tag from the USFWS HQ Flickr upload, so credit anyway",
+      "credit_line": "USFWS / Ann Froschauer",
+      "what_it_shows": "Mexican free-tailed bats exiting Bracken Bat Cave, Texas (Sept 2012). Night: flash-lit bats pouring from the cave mouth (rock arch upper right). NOTE: Bracken Cave, Texas, not Carlsbad; same species the project used (the Marines later guarded Texas caves).",
+      "best_segments": [
+        {
+          "region": "right two-thirds incl. cave rim",
+          "note": "'bats leave the cave' beat"
+        }
+      ],
+      "rank": 7,
+      "sha1": "da1eb411a306bbba65486384ef90d92f65335797"
+    },
+    {
+      "file": "photos/usfws_bracken_exit_8006846716.jpg",
+      "kind": "photo",
+      "width": 3888,
+      "height": 2592,
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Mexican_free-tailed_bats_exiting_Bracken_Bat_Cave_%288006846716%29.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Mexican_free-tailed_bats_exiting_Bracken_Bat_Cave_(8006846716).jpg",
+      "license": "Public domain",
+      "license_evidence": "Public domain: Wikimedia Commons {{PD-USGov-FWS}} (work of a U.S. Fish and Wildlife Service employee); Commons page also carries Flickr's {{cc-by-2.0}} tag from the USFWS HQ Flickr upload, so credit anyway",
+      "credit_line": "USFWS / Ann Froschauer",
+      "what_it_shows": "Mexican free-tailed bats exiting Bracken Bat Cave, Texas (Sept 2012). Night: dense flash-lit bats, one large bat center. NOTE: Bracken Cave, Texas, not Carlsbad; same species the project used (the Marines later guarded Texas caves).",
+      "best_segments": [
+        {
+          "region": "center 9:16",
+          "note": "punch-in on the center bat"
+        }
+      ],
+      "rank": 7,
+      "sha1": "46bb08fc199f4bbc5a53766dc4732d25b23b75e6"
+    },
+    {
+      "file": "photos/usfws_bracken_exit_8006842817.jpg",
+      "kind": "photo",
+      "width": 3888,
+      "height": 2592,
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Mexican_free-tailed_bats_exiting_Bracken_Bat_Cave_%288006842817%29.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Mexican_free-tailed_bats_exiting_Bracken_Bat_Cave_(8006842817).jpg",
+      "license": "Public domain",
+      "license_evidence": "Public domain: Wikimedia Commons {{PD-USGov-FWS}} (work of a U.S. Fish and Wildlife Service employee); Commons page also carries Flickr's {{cc-by-2.0}} tag from the USFWS HQ Flickr upload, so credit anyway",
+      "credit_line": "USFWS / Ann Froschauer",
+      "what_it_shows": "Mexican free-tailed bats exiting Bracken Bat Cave, Texas (Sept 2012). Grey dusk sky packed with blurred bats over treeline. NOTE: Bracken Cave, Texas, not Carlsbad; same species the project used (the Marines later guarded Texas caves).",
+      "best_segments": [
+        {
+          "region": "full frame",
+          "note": "backup swarm"
+        }
+      ],
+      "rank": 7,
+      "sha1": "68bfe7405833fe1c687e21bd08b19108957c17a5"
+    },
+    {
+      "file": "photos/usfws_bracken_exit_8006844645.jpg",
+      "kind": "photo",
+      "width": 3888,
+      "height": 2592,
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Mexican_free-tailed_bats_exiting_Bracken_Bat_Cave_%288006844645%29.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Mexican_free-tailed_bats_exiting_Bracken_Bat_Cave_(8006844645).jpg",
+      "license": "Public domain",
+      "license_evidence": "Public domain: Wikimedia Commons {{PD-USGov-FWS}} (work of a U.S. Fish and Wildlife Service employee); Commons page also carries Flickr's {{cc-by-2.0}} tag from the USFWS HQ Flickr upload, so credit anyway",
+      "credit_line": "USFWS / Ann Froschauer",
+      "what_it_shows": "Mexican free-tailed bats exiting Bracken Bat Cave, Texas (Sept 2012). Long column of bats across dusk sky, tree silhouette right. NOTE: Bracken Cave, Texas, not Carlsbad; same species the project used (the Marines later guarded Texas caves).",
+      "best_segments": [
+        {
+          "region": "left-to-right pan",
+          "note": "shows column streaming away (dispersal)"
+        }
+      ],
+      "rank": 7,
+      "sha1": "aa08f3ebecb3e951d69db26f3d11c6ce923d9eae"
+    },
+    {
+      "file": "photos/usfws_bracken_exit_8006845825.jpg",
+      "kind": "photo",
+      "width": 3888,
+      "height": 2592,
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Mexican_free-tailed_bats_exiting_Bracken_Bat_Cave_%288006845825%29.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Mexican_free-tailed_bats_exiting_Bracken_Bat_Cave_(8006845825).jpg",
+      "license": "Public domain",
+      "license_evidence": "Public domain: Wikimedia Commons {{PD-USGov-FWS}} (work of a U.S. Fish and Wildlife Service employee); Commons page also carries Flickr's {{cc-by-2.0}} tag from the USFWS HQ Flickr upload, so credit anyway",
+      "credit_line": "USFWS / Ann Froschauer",
+      "what_it_shows": "Mexican free-tailed bats exiting Bracken Bat Cave, Texas (Sept 2012). Sparser bats over twilight sky, tree silhouette right. NOTE: Bracken Cave, Texas, not Carlsbad; same species the project used (the Marines later guarded Texas caves).",
+      "best_segments": [
+        {
+          "region": "full frame",
+          "note": "calm plate for end card"
+        }
+      ],
+      "rank": 7,
+      "sha1": "1b986c41a6a280d477dd4f86f4667c6da5a856c6"
+    },
+    {
+      "file": "photos/usfws_bracken_exit_8006830835.jpg",
+      "kind": "photo",
+      "width": 3888,
+      "height": 2592,
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Mexican_free-tailed_bats_exiting_Bracken_Bat_Cave_%288006830835%29.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Mexican_free-tailed_bats_exiting_Bracken_Bat_Cave_(8006830835).jpg",
+      "license": "Public domain",
+      "license_evidence": "Public domain: Wikimedia Commons {{PD-USGov-FWS}} (work of a U.S. Fish and Wildlife Service employee); Commons page also carries Flickr's {{cc-by-2.0}} tag from the USFWS HQ Flickr upload, so credit anyway",
+      "credit_line": "USFWS / Ann Froschauer",
+      "what_it_shows": "Mexican free-tailed bats exiting Bracken Bat Cave, Texas (Sept 2012). Wide: distant ribbon of bats over trees at dusk. NOTE: Bracken Cave, Texas, not Carlsbad; same species the project used (the Marines later guarded Texas caves).",
+      "best_segments": [
+        {
+          "region": "full frame",
+          "note": "establishing wide; bats small"
+        }
+      ],
+      "rank": 7,
+      "sha1": "8d334e86d28d8830a8d23649c82e30b8bff7c582"
+    },
+    {
+      "file": "photos/usfws_mftb_closeup_8006850693.jpg",
+      "kind": "photo",
+      "width": 3888,
+      "height": 2592,
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Mexican_free-tailed_bat_%288006850693%29.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Mexican_free-tailed_bat_(8006850693).jpg",
+      "license": "Public domain",
+      "license_evidence": "Public domain: Wikimedia Commons {{PD-USGov-FWS}} (work of a U.S. Fish and Wildlife Service employee); Commons page also carries Flickr's {{cc-by-2.0}} tag from the USFWS HQ Flickr upload, so credit anyway",
+      "credit_line": "USFWS / Ann Froschauer",
+      "what_it_shows": "Gloved hand holding a Mexican free-tailed bat belly-up showing its long free tail and feet (Texas, 18 Sept 2012).",
+      "best_segments": [
+        {
+          "region": "subject-centered 9:16 crop",
+          "note": "'free-tailed' detail; quirky"
+        }
+      ],
+      "rank": 8,
+      "sha1": "ea2f4c33259deeaa8718a0cfbd7c5d5f2dd0071c"
+    },
+    {
+      "file": "photos/nps_batflight_amphitheater_51337697399.jpg",
+      "kind": "photo",
+      "width": 3008,
+      "height": 2000,
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Bat_Flight_Amphitheater_%2851337697399%29.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Bat_Flight_Amphitheater_(51337697399).jpg",
+      "license": "Public domain",
+      "license_evidence": "Public domain: Wikimedia Commons {{PD-USGov-NPS}}; Flickr source (CarlsbadCavernsNPS) marked Public Domain Mark, FlickreviewR passed 2023-05-11",
+      "credit_line": "NPS / Peter Jones, Carlsbad Caverns National Park",
+      "what_it_shows": "Visitors seated in the Bat Flight Amphitheater facing the cave mouth before the flight; NO bats visible. Taken 2006-07-16.",
+      "best_segments": [
+        {
+          "region": "cave mouth (upper center)",
+          "note": "low value; only if a location establishing shot is needed"
+        }
+      ],
+      "rank": 9,
+      "sha1": "c7425a229af857dbcbfeb3126c196e797c0b6a83"
+    },
+    {
+      "file": "photos/usaaf_carlsbad_field_patch_1943.png",
+      "kind": "photo",
+      "width": 429,
+      "height": 431,
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/AAF_Bombardier_School_Carlsbad_Field%2C_New_Mexico-Patch.png",
+      "page_url": "https://commons.wikimedia.org/wiki/File:AAF_Bombardier_School_Carlsbad_Field,_New_Mexico-Patch.png",
+      "license": "Public domain (as tagged on Commons; see caveat)",
+      "license_evidence": "Commons tags it Public domain, Author 'United Sates Army Air Forces', 1943. CAVEAT: cartoon-character insignia; many WWII unit insignia were designed by outside studios (e.g. Disney), so design ownership is unverified. NOT RECOMMENDED for use.",
+      "credit_line": "U.S. Army Air Forces insignia, AAF Bombardier School, Carlsbad Field (via Wikimedia Commons)",
+      "what_it_shows": "Round red patch: cartoon rabbit-like character riding/holding a bomb on a white cloud. Insignia of the main Carlsbad bombardier school (not the auxiliary field that burned).",
+      "best_segments": [],
+      "rank": 10,
+      "sha1": "dddcc752d7c61420f295d2b578f8f1b1318a6726"
+    }
+  ]
+}

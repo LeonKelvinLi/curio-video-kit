@@ -1,0 +1,386 @@
+[
+  {
+    "file": "sullivan_ranger_portrait_nps.jpg",
+    "kind": "photo",
+    "proof_rank": 1,
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Ranger_Roy_Sullivan%2C_Lightning_Struck_%2851861133692%29.jpg",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Ranger_Roy_Sullivan,_Lightning_Struck_(51861133692).jpg",
+    "original_page_url": "https://www.flickr.com/photos/snpphotos/51861133692",
+    "license_evidence": "Commons LicenseShortName 'Public domain', template PD US NPS (category 'PD US NPS', 'Files from Shenandoah NPS Flickr stream'). Uploaded by Shenandoah National Park's own Flickr account (ShenandoahNPS/snpphotos), a US federal government work. This is the image used as the lead image of the English Wikipedia article 'Roy Sullivan'.",
+    "credit_line": "Photo: National Park Service, Shenandoah National Park",
+    "what_it_shows": "Black-and-white NPS photo of Ranger Roy C. Sullivan in uniform with a 'ROY SULLIVAN' name tag and NPS badge, holding his straw flat (campaign) hat. The crown of the hat has a burned-through hole from a lightning strike. The EXIF date of 2007-03-21 is the scan date; the photo itself is from the 1970s.",
+    "is_actual_person_or_place": true,
+    "best_segments": [
+      [
+        0,
+        0,
+        "Still. Hero/hook image. Suggested moves: slow push from full figure to his face (top ~45% of frame), then a second push onto the burned hole in the hat (lower-right quadrant, about x 0.45-0.95, y 0.50-0.80)."
+      ]
+    ],
+    "width": 1412,
+    "height": 2028,
+    "duration_s": 0
+  },
+  {
+    "file": "shen_ep4_entrance_sign_nps.mp4",
+    "kind": "video",
+    "proof_rank": 2,
+    "original_file": "shen_ep4_a_park_for_the_people_nps.webm (28.0-33.0 s)",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/SHEN_Episode_4_A_Park_For_The_People_Raeburn_%2825263316005%29.webm",
+    "page_url": "https://commons.wikimedia.org/wiki/File:SHEN_Episode_4_A_Park_For_The_People_Raeburn_(25263316005).webm",
+    "license_evidence": "Commons 'Public domain', PD US NPS; uploaded from Shenandoah National Park's own Flickr stream (ShenandoahNPS). End card reads 'Presented by Shenandoah National Park'. Audio was stripped because the soundtrack uses licensed MusicBakery music.",
+    "credit_line": "Footage: National Park Service, Shenandoah National Park",
+    "what_it_shows": "Low-angle tilt up to the wooden sign 'ENTERING SHENANDOAH NATIONAL PARK ON THE SKYLINE DRIVE – U.S. Department of the Interior, National Park Service' with an NPS arrowhead, autumn woods, and a car passing on the Drive. The on-screen text names the park, so the place is self-captioned.",
+    "is_actual_person_or_place": true,
+    "best_segments": [
+      [
+        0.4,
+        4.4,
+        "tilt-up reveal of the Shenandoah/Skyline Drive entrance sign; a car passes at ~4 s"
+      ]
+    ],
+    "width": 1920,
+    "height": 1080,
+    "duration_s": 5.0,
+    "notes": "Hard cut to a modern ranger talking head at 4.5 s; do not use past 4.4 s."
+  },
+  {
+    "file": "shen_storm_franklin_cliffs_nps.jpg",
+    "kind": "photo",
+    "proof_rank": 3,
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Approaching_Storm_at_Franklin_Cliffs_Overlook_%2849565515631%29.jpg",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Approaching_Storm_at_Franklin_Cliffs_Overlook_(49565515631).jpg",
+    "license_evidence": "Commons 'Public domain', PD US NPS; Shenandoah NPS Flickr; caption 'NPS | N. Lewis'. Downloaded as the 3840 px Commons rendition (original is 8688x5792).",
+    "credit_line": "Photo: NPS / N. Lewis, Shenandoah National Park",
+    "what_it_shows": "'Spring storm approaching Franklin Cliffs Overlook' (2018): storm cloud swallowing a forested Blue Ridge peak, framed by oaks over lichen-covered boulders at a Skyline Drive overlook.",
+    "is_actual_person_or_place": true,
+    "best_segments": [
+      [
+        0,
+        0,
+        "Still; slow push toward the cloud-covered peak at centre (x ~0.40-0.65, y ~0.40-0.60)."
+      ]
+    ],
+    "width": 3840,
+    "height": 2560,
+    "duration_s": 0
+  },
+  {
+    "file": "shen_day_storm_clouds_ridges_nps.mp4",
+    "kind": "video",
+    "proof_rank": 4,
+    "original_file": "(streamed from source 30.0-42.0 s; no separate original kept)",
+    "source_url": "https://www.nps.gov/nps-audiovideo/legacy/shen/F58BC102-E5B6-B9EF-17ADF975807B480E/shen-sunrisesunsetyoutube_1280x720.mp4",
+    "page_url": "https://www.nps.gov/media/video/view.htm?id=B252918D-1683-4261-9CF0-3D8FC865076B",
+    "license_evidence": "NPS multimedia API credit 'NPS' with no copyright symbol. The nps.gov usage note says 'Multimedia credited to NPS without any copyright symbol are public domain.' End card: 'a production of the Shenandoah National Park Visual Media Team'. Audio stripped (music).",
+    "credit_line": "Footage: National Park Service, Shenandoah National Park ('A Day in Shenandoah')",
+    "what_it_shows": "Time-lapse from a Shenandoah ridge: sunrise over a sea of valley fog, then dark storm cloud masses roll over the Blue Ridge silhouettes, ending in a red dusk. This is real Shenandoah weather, but there is no lightning in it.",
+    "is_actual_person_or_place": true,
+    "best_segments": [
+      [
+        3.0,
+        8.5,
+        "dark storm clouds churning over Blue Ridge ridgelines with fog in the valleys (the 'storm coming' beat)"
+      ],
+      [
+        0.0,
+        2.0,
+        "sunrise above valley fog"
+      ]
+    ],
+    "width": 1280,
+    "height": 720,
+    "duration_s": 12.05,
+    "notes": "720p only, so upscale or use as a small element. 9.5-12 s is very dark."
+  },
+  {
+    "file": "shen_skyline_drive_1942_rothstein_loc.jpg",
+    "kind": "photo",
+    "proof_rank": 5,
+    "original_file": "shen_skyline_drive_1942_rothstein_loc_master.tif",
+    "source_url": "https://tile.loc.gov/storage-services/master/pnp/fsa/8a13000/8a13300/8a13393u.tif",
+    "page_url": "https://www.loc.gov/item/2017727185/",
+    "license_evidence": "Library of Congress rights advisory: 'No known restrictions' (FSA/OWI Black & White collection; photographer Arthur Rothstein, a federal employee). Converted from the LOC master TIFF.",
+    "credit_line": "Arthur Rothstein, 1942. Library of Congress, FSA/OWI Collection (LC-USF34-...8a13393)",
+    "what_it_shows": "'Shenandoah National Park, Virginia, Skyline Drive', 1942: a snowy Skyline Drive curve with its stone guardwall and big icicles on a rock cut. 1942 is the year of Sullivan's first strike.",
+    "is_actual_person_or_place": true,
+    "best_segments": [
+      [
+        0,
+        0,
+        "Still; crop off the film-strip border (keep about x 2-98%, y 6-95%). Good as a '1942' date card background."
+      ]
+    ],
+    "width": 4320,
+    "height": 3054,
+    "duration_s": 0
+  },
+  {
+    "file": "shen_skyline_overlook_historic_nps.jpg",
+    "kind": "photo",
+    "proof_rank": 6,
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Skyline_Drive_Overlook_%28Historic_photo%29_%2849786027601%29.jpg",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Skyline_Drive_Overlook_(Historic_photo)_(49786027601).jpg",
+    "license_evidence": "Commons 'Public domain', PD US NPS; Shenandoah NPS Flickr; Shenandoah NPS archive negative 4001-009-01-04347-Neg514.",
+    "credit_line": "Photo: Shenandoah National Park archives (NPS)",
+    "what_it_shows": "Historic B&W (1940s by clothing; undated in the source) of two visitors sitting on the log guardrail of a Skyline Drive overlook, looking across Blue Ridge ridges under big clouds.",
+    "is_actual_person_or_place": true,
+    "best_segments": [
+      [
+        0,
+        0,
+        "Still. The vertical crop works on the right half (woman plus ridges) or the centre (man plus clouds)."
+      ]
+    ],
+    "width": 3840,
+    "height": 2898,
+    "duration_s": 0
+  },
+  {
+    "file": "shen_ep4_historic_cars_camp_archival_nps.mp4",
+    "kind": "video",
+    "proof_rank": 7,
+    "original_file": "shen_ep4_a_park_for_the_people_nps.webm (88.0-98.0 s)",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/SHEN_Episode_4_A_Park_For_The_People_Raeburn_%2825263316005%29.webm",
+    "page_url": "https://commons.wikimedia.org/wiki/File:SHEN_Episode_4_A_Park_For_The_People_Raeburn_(25263316005).webm",
+    "license_evidence": "Same as the Episode 4 source: PD US NPS, Shenandoah NPS archives.",
+    "credit_line": "Archival film/photos: Shenandoah National Park archives (NPS)",
+    "what_it_shows": "Archival B&W of 1930s tour buses and cars driving the newly built Skyline Drive with Blue Ridge mountains behind, then a CCC tent camp in the woods. Real place, early era.",
+    "is_actual_person_or_place": true,
+    "best_segments": [
+      [
+        2.1,
+        6.4,
+        "archival: vintage buses and sedans on Skyline Drive, mountains behind"
+      ],
+      [
+        6.6,
+        8.4,
+        "archival photo: CCC tent camp under trees"
+      ]
+    ],
+    "width": 1920,
+    "height": 1080,
+    "duration_s": 10.0,
+    "notes": "0-2 s is a modern ranger talking head; 8.5-10 s is a modern stone wall."
+  },
+  {
+    "file": "shen_ep4_skyline_curve_nps.mp4",
+    "kind": "video",
+    "proof_rank": 8,
+    "original_file": "shen_ep4_a_park_for_the_people_nps.webm (124.0-136.0 s)",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/SHEN_Episode_4_A_Park_For_The_People_Raeburn_%2825263316005%29.webm",
+    "page_url": "https://commons.wikimedia.org/wiki/File:SHEN_Episode_4_A_Park_For_The_People_Raeburn_(25263316005).webm",
+    "license_evidence": "PD US NPS (Shenandoah NPS Flickr). EXCLUDE the vintage 'Greetings from Sky-Line Drive' linen postcard at 0-3.5 s, because its publisher's copyright is unverified.",
+    "credit_line": "Footage: National Park Service, Shenandoah National Park",
+    "what_it_shows": "Skyline Drive hairpin curve with its CCC-era stone guardwall and autumn ridge, with a motorcycle riding away around the bend.",
+    "is_actual_person_or_place": true,
+    "best_segments": [
+      [
+        3.6,
+        10.3,
+        "Skyline Drive curve with stone guardwall, motorcycle recedes; locked-off shot"
+      ]
+    ],
+    "width": 1920,
+    "height": 1080,
+    "duration_s": 12.0,
+    "notes": "Do not use 0-3.5 s (postcard) or 10.5-12 s (ranger)."
+  },
+  {
+    "file": "shen_skyline_drive_fall_nps.mp4",
+    "kind": "video",
+    "proof_rank": 9,
+    "original_file": "(streamed from source; no separate original kept)",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Fall_drive_1_%2827687942273%29.webm",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Fall_drive_1_(27687942273).webm",
+    "license_evidence": "Commons 'Public domain', PD US NPS; Shenandoah NPS Flickr stream (ShenandoahNPS).",
+    "credit_line": "Footage: National Park Service, Shenandoah National Park",
+    "what_it_shows": "Locked-off shot of Skyline Drive winding through a tunnel of autumn forest; a pickup towing a camper approaches and passes the camera.",
+    "is_actual_person_or_place": true,
+    "best_segments": [
+      [
+        0.0,
+        3.5,
+        "empty winding Skyline Drive in autumn forest"
+      ],
+      [
+        16.5,
+        25.0,
+        "empty road again after the camper passes"
+      ]
+    ],
+    "width": 1920,
+    "height": 1080,
+    "duration_s": 25.82,
+    "notes": "The RV passes at 9-16 s, so avoid that part. No audio."
+  },
+  {
+    "file": "lightning_germany_slowmo_pd.mp4",
+    "kind": "video",
+    "proof_rank": 10,
+    "original_file": "lightning_germany_slowmo_pd.ogv",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flash-Lightning_over_Germany_slowmotion.ogv",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Flash-Lightning_over_Germany_slowmotion.ogv",
+    "license_evidence": "Commons LicenseShortName 'Public domain'; category PD-self. The author (Stefan von Halenbach, User:SvonHalenbach) released his own work into the public domain. No attribution is legally required.",
+    "credit_line": "Lightning footage: Stefan von Halenbach (public domain, via Wikimedia Commons)",
+    "what_it_shows": "Real night-time cloud-to-ground lightning, several separate strikes hitting behind a silhouetted line of conifers and trees, Germany, 2008. The source is 1 fps, so there are 19 distinct real frames; the mp4 holds each frame for 1 s at 30 fps. Cut it as a strobe, about 4-8 frames per still, rather than letting it play in real time. It is not Shenandoah and not one of Sullivan's strikes. Use it as the generic 'bolt' visual.",
+    "is_actual_person_or_place": false,
+    "best_segments": [
+      [
+        3.0,
+        4.0,
+        "full-sky white flash, bolt hits the ground at the centre, treeline silhouette (most violent frame)"
+      ],
+      [
+        5.0,
+        8.0,
+        "single forked bolt to the ground behind the trees, then a bright channel"
+      ],
+      [
+        9.0,
+        10.0,
+        "thick violet bolt striking the ground just left of the conifers"
+      ],
+      [
+        11.0,
+        15.0,
+        "branching bolt crawling across the sky into the treeline"
+      ]
+    ],
+    "width": 768,
+    "height": 576,
+    "duration_s": 19.0,
+    "notes": "Contact sheet lightning_germany_slowmo_pd.mp4-contact.jpg starts at t=2.0 s (each tile is 0.5 s)."
+  },
+  {
+    "file": "lightning_germany_realtime_pd.mp4",
+    "kind": "video",
+    "proof_rank": 11,
+    "original_file": "lightning_germany_realtime_pd.ogv",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Flash-Lightning_over_Germany.ogv",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Flash-Lightning_over_Germany.ogv",
+    "license_evidence": "Commons LicenseShortName 'Public domain'; category PD-self (own work by Stefan von Halenbach, 2008); was a Commons 'Media of the day'.",
+    "credit_line": "Lightning footage: Stefan von Halenbach (public domain, via Wikimedia Commons)",
+    "what_it_shows": "The same storm in real time (25 fps, with sound). A multi-stroke cloud-to-ground flash flickers for about 0.5 s over the treeline and is pitch dark otherwise. Good for a real-speed strobe hit or a flash-frame transition.",
+    "is_actual_person_or_place": false,
+    "best_segments": [
+      [
+        6.9,
+        8.4,
+        "dark, then a multi-stroke bolt flickers over the tree silhouettes from 7.32 to 7.84 s, peak frames at 7.40, 7.48 and 7.56 s"
+      ]
+    ],
+    "width": 786,
+    "height": 576,
+    "duration_s": 11.68,
+    "notes": "Square-pixel rescale of the 720x576 (SAR 59:54) original. Audio is kept as AAC (ambient and thunder)."
+  },
+  {
+    "file": "lightning_orage_pd.mp4",
+    "kind": "video",
+    "proof_rank": 12,
+    "original_file": "lightning_orage_pd.ogv",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Orage.ogv",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Orage.ogv",
+    "license_evidence": "Commons LicenseShortName 'Public domain'; category PD-self (own work by User:KoS, 2008-05-28).",
+    "credit_line": "Lightning footage: KoS (public domain, via Wikimedia Commons)",
+    "what_it_shows": "A close, bright, branched lightning bolt filling the night sky beside a rooftop TV antenna, with re-strokes. Only the first 12 s of the 50 s original were kept, because the rest is black; the audio carries the thunder.",
+    "is_actual_person_or_place": false,
+    "best_segments": [
+      [
+        0.6,
+        1.6,
+        "branched bolt with re-strokes at 0.80-0.87, 1.30-1.37 and 1.43 s; strong one-hit flash frame"
+      ]
+    ],
+    "width": 640,
+    "height": 480,
+    "duration_s": 12.01,
+    "notes": "Square-pixel rescale of the 720x480 (SAR 8:9) original. The antenna mast at the left edge reads as 'modern'; crop it out (use the right ~70% of the frame)."
+  },
+  {
+    "file": "shen_ep4_1936_dedication_archival_nps.mp4",
+    "kind": "video",
+    "proof_rank": 13,
+    "original_file": "shen_ep4_a_park_for_the_people_nps.webm (34.0-45.0 s)",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/SHEN_Episode_4_A_Park_For_The_People_Raeburn_%2825263316005%29.webm",
+    "page_url": "https://commons.wikimedia.org/wiki/File:SHEN_Episode_4_A_Park_For_The_People_Raeburn_(25263316005).webm",
+    "license_evidence": "Same as the Episode 4 source: PD US NPS. The credits state 'Historic footage and photography from Shenandoah NPS archives'.",
+    "credit_line": "Archival film: Shenandoah National Park archives (NPS)",
+    "what_it_shows": "1930s black-and-white NPS archival film of an open touring car driving through crowds of uniformed young men (CCC enrollees) on a mountain road, then a man in a light suit shaking hands with them. This is almost certainly the 1936 park-opening era; the exact event is not captioned in the source, so don't title it.",
+    "is_actual_person_or_place": true,
+    "best_segments": [
+      [
+        2.6,
+        8.4,
+        "archival: open car rolls through cheering CCC crowd, mountains behind"
+      ],
+      [
+        8.5,
+        9.9,
+        "archival: handshakes with CCC enrollees"
+      ]
+    ],
+    "width": 1920,
+    "height": 1080,
+    "duration_s": 11.0,
+    "notes": "0-2.5 s and 10-11 s are modern ranger interview shots; skip them. 1930s archival, the same era Sullivan started as a ranger (1936); use as period texture without a specific caption."
+  },
+  {
+    "file": "noaa_storm_shelfcloud_night_4k.mp4",
+    "kind": "video",
+    "proof_rank": 14,
+    "original_file": "(streamed from source 0-10.5 s; no separate original kept)",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Lightning_Safety_Awareness_Week-_Detecting_Lightning_From_Space_%28NESDIS_2025-06-26_2025_06_26_Lightning-Safety_NO_TEXT%29.webm",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Lightning_Safety_Awareness_Week-_Detecting_Lightning_From_Space_(NESDIS_2025-06-26_2025_06_26_Lightning-Safety_NO_TEXT).webm",
+    "license_evidence": "Commons 'Public domain', PD US NOAA (NOAA NESDIS video, 'NO TEXT' version).",
+    "credit_line": "Footage: NOAA NESDIS",
+    "what_it_shows": "4K ground-level storm footage: a shelf cloud over Great Plains grassland (a pumpjack is visible at the far left), then a night supercell lit by in-cloud lightning flashes. A small 'NOAA' bug sits at the bottom-left.",
+    "is_actual_person_or_place": false,
+    "best_segments": [
+      [
+        0.0,
+        4.0,
+        "dark shelf cloud sweeping over grassland (crop the left 15% to drop the pumpjack)"
+      ],
+      [
+        6.5,
+        10.4,
+        "night supercell with intermittent in-cloud flashes (~8.0 s and ~9.5 s)"
+      ]
+    ],
+    "width": 3840,
+    "height": 2160,
+    "duration_s": 10.51,
+    "notes": "Flat plains, not mountains, so use it only as generic 'storm'. A truck's headlights cross at 5-6.5 s. A crop to 9:16 removes the NOAA bug."
+  },
+  {
+    "file": "shen_ep4_ranger_flat_hat_nps.mp4",
+    "kind": "video",
+    "proof_rank": 15,
+    "original_file": "shen_ep4_a_park_for_the_people_nps.webm (2.0-14.0 s)",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/SHEN_Episode_4_A_Park_For_The_People_Raeburn_%2825263316005%29.webm",
+    "page_url": "https://commons.wikimedia.org/wiki/File:SHEN_Episode_4_A_Park_For_The_People_Raeburn_(25263316005).webm",
+    "license_evidence": "PD US NPS (Shenandoah NPS Flickr). The rangers are NPS staff credited on the end card (Mike Punches, Amy Gaiennie).",
+    "credit_line": "Footage: National Park Service, Shenandoah National Park",
+    "what_it_shows": "Modern Shenandoah park rangers in the flat (campaign) hat speaking to camera in a misty winter forest. These are not Sullivan; they are generic 'Shenandoah park ranger' coverage. Also an episode title card over a historic Skyline Drive sign photo.",
+    "is_actual_person_or_place": false,
+    "best_segments": [
+      [
+        2.0,
+        4.9,
+        "male ranger in flat hat and NPS jacket, forest behind (mouth moving; better as a 1 s cutaway)"
+      ],
+      [
+        5.0,
+        6.0,
+        "female ranger in flat hat"
+      ]
+    ],
+    "width": 1920,
+    "height": 1080,
+    "duration_s": 12.0,
+    "notes": "Weak fit: they talk on camera with no audio. 6-9 s is night light-trails and a coffee cup; skip it. Prefer the real Sullivan photo for the 'ranger' beat."
+  }
+]

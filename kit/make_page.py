@@ -11,7 +11,9 @@ assets, layout = {}, "banded"
 for a in sys.argv[5:]:
     k, f = a.split("=", 1)
     if k == "layout": layout = f; continue
-    assets[k] = "data:image/jpeg;base64," + base64.b64encode(open(f, "rb").read()).decode()
+    enc = lambda q: "data:image/jpeg;base64," + base64.b64encode(open(q, "rb").read()).decode()
+    # a folder is a clip: its frames (tools/clip_frames.py) become an array the scene steps through
+    assets[k] = [enc(os.path.join(f, n)) for n in sorted(os.listdir(f)) if n.endswith(".jpg")] if os.path.isdir(f) else enc(f)
 html = f"""<!doctype html><html><head><meta charset="utf-8"><title>render</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700;800&family=IBM+Plex+Mono:wght@400;500&family=Caveat:wght@700&display=swap">
 <style>html,body{{margin:0;background:#000}}canvas{{width:270px;height:480px}}</style></head><body>

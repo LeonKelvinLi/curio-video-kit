@@ -1,0 +1,82 @@
+[
+  {
+    "file": "gimli_after_landing_1983_front.jpg",
+    "kind": "photo (actual event, 23 Jul 1983)",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Gimli_Glider.jpg",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Gimli_Glider.jpg",
+    "license": "CC BY-SA 3.0 (Creative Commons Attribution-ShareAlike 3.0 Unported), https://creativecommons.org/licenses/by-sa/3.0/ ; copyright-holder release confirmed by Wikimedia VRT ticket #2012070510009901",
+    "credit_line": "Photo: copyright holder via Wikimedia Commons (VRT ticket 2012070510009901), CC BY-SA 3.0",
+    "what_it_shows": "Front view of Air Canada 767 C-GAUN at rest on the Gimli runway right after the landing: nose gear collapsed so the nose sits on the concrete, people and a truck around it, a metal guardrail running down the runway centre in the foreground, and a red VW Beetle parked at left. 728x505, colour, 1983. The single best 'proof' frame: real jet, real runway, a car next to it.",
+    "best_segments": "Full frame is landscape; for 9:16 use a 284x505 crop centred on the nose (x 213-497) for the hook, then pull out/pan left to reveal the red Beetle (x 0-284) on the 'drag strip' line. Low-res: keep scale <=1.5x, add slight grain rather than upscaling hard. Must credit + keep CC BY-SA on the derivative frame."
+  },
+  {
+    "file": "gimli_after_landing_1983_faa.jpg",
+    "kind": "photo (actual event, 23 Jul 1983) - BACKUP ONLY",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Air_Canada_Flight_143_after_emergency_landing_2.jpg",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Air_Canada_Flight_143_after_emergency_landing_2.jpg",
+    "license": "Public domain as tagged on Commons ({{PD-USGov-FAA}}, sourced from FAA Lessons Learned). CAUTION: provenance is weak - an FAA employee is unlikely to have shot a Canadian accident scene in 1983; the original photographer is not named. Treat as unverified PD; prefer the CC BY-SA front photo.",
+    "credit_line": "Photo: FAA Lessons Learned / Wikimedia Commons (public domain as tagged)",
+    "what_it_shows": "Black-and-white side view of C-GAUN on the Gimli runway: nose down on the concrete, tail high, rear evacuation slides deployed, a few people beside the engines, guardrail in the foreground. 612x501.",
+    "best_segments": "Use only if rights are accepted: crop the slides + nose-down attitude (x 150-612) for the 'everyone got out' beat. Very low-res."
+  },
+  {
+    "file": "c-gaun_toronto_1984.jpg",
+    "kind": "photo (the actual aircraft, C-GAUN, back in service)",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/C-GAUN_604_Boeing_767-233_Air_Canada%2C_the_%22Gimli_Glider%22%2C_Toronto%2C_July_14_1984._%285530418110%29.jpg",
+    "page_url": "https://commons.wikimedia.org/wiki/File:C-GAUN_604_Boeing_767-233_Air_Canada,_the_%22Gimli_Glider%22,_Toronto,_July_14_1984._(5530418110).jpg",
+    "license": "CC BY-SA 2.0 (Creative Commons Attribution-ShareAlike 2.0 Generic), https://creativecommons.org/licenses/by-sa/2.0/",
+    "credit_line": "Photo: Andrew Thomas (Shrewsbury, UK) via Flickr / Wikimedia Commons, CC BY-SA 2.0",
+    "what_it_shows": "C-GAUN, fin 604, in the 1980s Air Canada livery (red-orange cheatline, maple-leaf tail) taxiing at Toronto Pearson on 14 Jul 1984, one year after Gimli. 3835x2363 film scan - same era livery as the accident.",
+    "best_segments": "Hook shot ('This jet...'): 9:16 window 1329x2363 panning left-to-right from the tail (x ~1000) to the AIR CANADA titles/nose (x ~2600). Sharp enough for a slow 1.2x push-in."
+  },
+  {
+    "file": "c-gaun_miami_1998.jpg",
+    "kind": "photo (the actual aircraft, C-GAUN)",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/8ci_-_Air_Canada_Boeing_767-233%3B_C-GAUN%40MIA%3B24.01.1998_%284931709366%29.jpg",
+    "page_url": "https://commons.wikimedia.org/wiki/File:8ci_-_Air_Canada_Boeing_767-233;_C-GAUN@MIA;24.01.1998_(4931709366).jpg",
+    "license": "CC BY-SA 2.0 (Creative Commons Attribution-ShareAlike 2.0 Generic), https://creativecommons.org/licenses/by-sa/2.0/",
+    "credit_line": "Photo: Aero Icarus (Zurich) via Flickr / Wikimedia Commons, CC BY-SA 2.0",
+    "what_it_shows": "C-GAUN in the 1990s green-tail Air Canada livery taxiing at Miami, 24 Jan 1998. 4866x3222, the highest-res frame of the real jet. Later livery than 1983.",
+    "best_segments": "Large enough for a 9:16 crop at full height (1812x3222) on the nose/engine (x ~0-1812) or a slow lateral pan along the fuselage; good for the 'pounds vs kilograms' overlay background."
+  },
+  {
+    "file": "c-gaun_mojave_2008.jpg",
+    "kind": "photo (the actual aircraft, C-GAUN, retired)",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Boeing_767-200_%28Air_Canada%29_Kluft_Feb-2008_0374.jpg",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Boeing_767-200_(Air_Canada)_Kluft_Feb-2008_0374.jpg",
+    "license": "CC BY-SA 4.0 (Creative Commons Attribution-ShareAlike 4.0 International), https://creativecommons.org/licenses/by-sa/4.0/",
+    "credit_line": "Photo: Ikluft / Wikimedia Commons, CC BY-SA 4.0",
+    "what_it_shows": "The 'Gimli Glider' parked in retirement at Mojave Air & Space Port, 12 Feb 2008, desert and snow-capped mountains behind. 3072x2048.",
+    "best_segments": "Optional outro/'where is it now' beat; 9:16 crop 1152x2048 around x 400-1552 (mid-fuselage + wing)."
+  },
+  {
+    "file": "gimli_dragways_2015_gpz1100.jpg",
+    "kind": "photo (Gimli runway used as drag strip; capture date undocumented)",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Gimli_Dragways_%2819533221285%29.jpg",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Gimli_Dragways_(19533221285).jpg",
+    "license": "CC BY-SA 2.0 (Creative Commons Attribution-ShareAlike 2.0 Generic), https://creativecommons.org/licenses/by-sa/2.0/ ; license confirmed by FlickreviewR 2 on 9 May 2024",
+    "credit_line": "Photo: NESR via Flickr / Wikimedia Commons, CC BY-SA 2.0",
+    "what_it_shows": "Scanned colour print: a motorcycle (described as Cory Gurman on a 1982 Kawasaki GPZ1100) racing down the old concrete Gimli runway, a guardrail and spectators/parked cars along the side. Uploaded 2015, EXIF date flagged invalid; looks like a 1980s print, but the exact year is NOT documented - do not caption it as 1983.",
+    "best_segments": "The 'runway turned drag strip' beat: 9:16 crop 1669x2967 centred on the bike and guardrail (x ~1500-3169). Faded colours match the 1983 footage tone."
+  },
+  {
+    "file": "gimli_dragway_2013.jpg",
+    "kind": "photo (Gimli drag strip today, 2013)",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Gimli_dragway.jpg",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Gimli_dragway.jpg",
+    "license": "CC BY-SA 3.0 (Creative Commons Attribution-ShareAlike 3.0 Unported), https://creativecommons.org/licenses/by-sa/3.0/",
+    "credit_line": "Photo: Vince Pahkala / Wikimedia Commons, CC BY-SA 3.0",
+    "what_it_shows": "Two drag cars (red Camaro-style car in front) at the start line of Interlake Dragway at Gimli, 29 Jun 2013, timing tower and spectators behind. Sponsor signs (CHUDDS, Motion, Interlake Dragway) are visible - trademarks, crop or blur if they distract.",
+    "best_segments": "Quick 1-second insert for 'drag strip': 9:16 crop 801x1424 on the red car (x ~100-901), which keeps most sponsor boards out."
+  },
+  {
+    "file": "ref_board_of_inquiry_final_report_1985.pdf",
+    "kind": "document (primary source, reference only - NOT for on-screen use)",
+    "source_url": "https://www.faa.gov/sites/faa.gov/files/2024-12/AirCanada143_C-GAUN.pdf",
+    "page_url": "http://data2.collectionscanada.gc.ca/e/e444/e011083519.pdf",
+    "license": "Crown copyright, (c) Minister of Supply and Services Canada 1985 (Catalogue No. T22-64/1985E). Canadian Crown copyright runs 50 years from publication, so not public domain until 2036; Library and Archives Canada requires prior written permission for commercial redistribution (droitdauteur-copyright@bac-lac.gc.ca). Facts may be used freely; do not show page scans without permission.",
+    "credit_line": "Lockwood, G.H., Final Report of the Board of Inquiry ... Air Canada Boeing 767 C-GAUN ... Gimli, Manitoba, 23 July 1983 (April 1985)",
+    "what_it_shows": "208-page scanned final report by Mr. Justice George H. Lockwood. Key pages (PDF page numbers): p15 crew/passenger count; p34-35 conversion-factor error, 41,000 ft, engine failures, glider skill, side-slip, drag strip; p43 1.77 vs .8 factors; p47-48 step-by-step fuel miscalculation.",
+    "best_segments": "Reference only. If permission is ever obtained, PDF p48 (the four-step wrong vs correct fuel calculation) is the best on-screen 'receipt'. Otherwise rebuild the numbers as an original Curio diagram."
+  }
+]

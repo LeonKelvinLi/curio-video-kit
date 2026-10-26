@@ -1,0 +1,473 @@
+[
+  {
+    "rank": 1,
+    "file": "ejection_rf8a_crusader_1963_usn.jpg",
+    "kind": "photo",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Pilot_ejects_from_RF-8A_1963.jpeg",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Pilot_ejects_from_RF-8A_1963.jpeg",
+    "license_evidence": "Commons: PD-USGov-Military-Navy (PD US Navy); author U.S. Navy; National Museum of Naval Aviation photo No. 1996.488.230.011",
+    "credit_line": "U.S. Navy / National Museum of Naval Aviation",
+    "what_it_shows": "A real pilot (Lt(jg) J.M. Baucom) ejecting from a Vought RF-8A Crusader in flight, 13 Nov 1963; seat and canopy clearing the cockpit. Same aircraft family as Rankin's F8U-1, different man and date.",
+    "is_actual_person_or_aircraft": false,
+    "best_segments": [],
+    "width": 1702,
+    "height": 1210,
+    "duration_s": null
+  },
+  {
+    "rank": 2,
+    "file": "crusader_f8u1_vmf334_1950s_usn.jpg",
+    "kind": "photo",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/F8U-1_Crusader_of_VMF-334_in_flight.jpeg",
+    "page_url": "https://commons.wikimedia.org/wiki/File:F8U-1_Crusader_of_VMF-334_in_flight.jpeg",
+    "license_evidence": "Commons: PD US Navy + CC-PD-Mark; author U.S. Navy; NMNA photo No. 1996.253.7357.033",
+    "credit_line": "U.S. Navy / National Museum of Naval Aviation",
+    "what_it_shows": "U.S. Marine Corps F8U-1 Crusader (BuNo 143770, VMF-334) in flight above clouds, late 1950s. Exact type and service Rankin flew (he commanded VMF-122); not his airframe.",
+    "is_actual_person_or_aircraft": false,
+    "best_segments": [],
+    "width": 1641,
+    "height": 1230,
+    "duration_s": null
+  },
+  {
+    "rank": 3,
+    "file": "project_thunderstorm_1947_amc_pictorial_review6.mp4",
+    "kind": "video",
+    "source_url": "https://archive.org/download/111-adc-10161/111-adc-10161.mp4",
+    "page_url": "https://archive.org/details/111-adc-10161",
+    "license_evidence": "US Government work: Army Air Forces Air Materiel Command 'Pictorial Review No. 6: Project Thunderstorm' (June 1947); NARA catalog https://catalog.archives.gov/id/23923; archive.org FedFlix/usgovfilms",
+    "credit_line": "U.S. Army Air Forces / National Archives",
+    "what_it_shows": "Real 1946-47 Thunderstorm Project footage (the study that first mapped thunderstorm updrafts/downdrafts): P-61 storm-research planes in formation, a P-61 flying at a towering cumulus, cockpit view flying into cloud, a P-61 swallowed by storm murk, radar scope of storm echoes dated 2 June 1947. B&W 4:3.",
+    "is_actual_person_or_aircraft": false,
+    "best_segments": [
+      {
+        "start": 345,
+        "end": 349,
+        "note": "P-61 flies toward a towering cumulus"
+      },
+      {
+        "start": 350,
+        "end": 354,
+        "note": "cockpit view, flying into cloud"
+      },
+      {
+        "start": 355,
+        "end": 360,
+        "note": "P-61 banks and disappears into storm murk"
+      },
+      {
+        "start": 334,
+        "end": 340,
+        "note": "four P-61s in formation heading out"
+      },
+      {
+        "start": 384,
+        "end": 387.5,
+        "note": "radar scope storm echoes, date card 2 June 1947"
+      }
+    ],
+    "width": 720,
+    "height": 480,
+    "duration_s": 483.63,
+    "contact_sheet": "project_thunderstorm_1947_amc_pictorial_review6.mp4-contact.jpg"
+  },
+  {
+    "rank": 4,
+    "file": "crusader_oriskany_pacific_fleet_combat_camera_1966_usn.webm",
+    "kind": "video",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Pacific_Fleet_Combat_Group_The_Oriskany.webm",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Pacific_Fleet_Combat_Group_The_Oriskany.webm",
+    "license_evidence": "Commons: PD US Navy + CC-PD-Mark; author Pacific Fleet Combat Camera Group (US Navy)",
+    "credit_line": "U.S. Navy Pacific Fleet Combat Camera Group / National Archives",
+    "what_it_shows": "Navy film 'A Day in Westpac' aboard USS Oriskany (Commons says 1966; A-7s visible so likely c.1968-70). Only real colour air-to-air F-8 Crusader footage found. CAUTION: many look-alike A-7 Corsair II shots (628-635 s, 694-696 s, 715-722 s, 743-747 s) - do not label those as Crusaders.",
+    "is_actual_person_or_aircraft": false,
+    "best_segments": [
+      {
+        "start": 697,
+        "end": 699.5,
+        "note": "two F-8 Crusaders '207'/'205' air-to-air, close"
+      },
+      {
+        "start": 625.5,
+        "end": 627.4,
+        "note": "F-8 Crusader '112' close air-to-air, pilot visible (624-625.5 is a crossfade)"
+      },
+      {
+        "start": 700.5,
+        "end": 704.5,
+        "note": "F-8 (tail NM) refuelling from an A-7 tanker"
+      }
+    ],
+    "width": 678,
+    "height": 442,
+    "duration_s": 977.07,
+    "contact_sheet": "crusader_oriskany_pacific_fleet_combat_camera_1966_usn.webm-contact.jpg"
+  },
+  {
+    "rank": 5,
+    "file": "excelsior_1960_usaf_jump_trim_20m30s-23m00s.mp4",
+    "kind": "video",
+    "source_url": "https://archive.org/download/342USAF33041HighAltitudeBaloon/342_USAF_33041_HighAltitudeBaloon.mp4 (trimmed 20:30-23:00 with ffmpeg -c copy)",
+    "page_url": "https://archive.org/details/342USAF33041HighAltitudeBaloon",
+    "license_evidence": "USAF film 342-USAF-33041 (1352d Motion Picture Squadron, Lookout Mountain AFS), Project Excelsior 1959-60; archive.org Public Domain Mark 1.0; Commons copy tagged PD US Air Force",
+    "credit_line": "U.S. Air Force / National Archives (342-USAF-33041)",
+    "what_it_shows": "Real 1959-60 USAF high-altitude bailout (Project Excelsior, Joseph Kittinger): gondola step-off, tumbling free-fall camera view of Earth, falling through cloud, red-white canopy descending, landing in desert. Not Rankin, but same era and same kind of fall.",
+    "is_actual_person_or_aircraft": false,
+    "best_segments": [
+      {
+        "start": 92,
+        "end": 98,
+        "note": "parachute descending against blue sky"
+      },
+      {
+        "start": 128,
+        "end": 134,
+        "note": "large canopy close, jumper hanging over terrain"
+      },
+      {
+        "start": 30,
+        "end": 36,
+        "note": "free-fall camera tumbling over Earth"
+      },
+      {
+        "start": 82,
+        "end": 88,
+        "note": "falling into cloud deck"
+      },
+      {
+        "start": 146,
+        "end": 152,
+        "note": "touchdown in desert"
+      }
+    ],
+    "width": 640,
+    "height": 480,
+    "duration_s": 153.79,
+    "contact_sheet": "excelsior_1960_usaf_jump_trim_20m30s-23m00s.mp4-contact.jpg"
+  },
+  {
+    "rank": 6,
+    "file": "nasa_sciencecasts_lightning_from_iss_2021.mp4",
+    "kind": "video",
+    "source_url": "https://images-assets.nasa.gov/video/311_ScienceCasts-observing-lightning-ISS/311_ScienceCasts-observing-lightning-ISS~large.mp4",
+    "page_url": "https://images.nasa.gov/details/311_ScienceCasts-observing-lightning-ISS",
+    "license_evidence": "NASA Image and Video Library (NASA ScienceCasts, 2021); NASA media guidelines. Shots chosen carry no third-party credit; AVOID 22-26 s ('Source: ESA / NASA'), 236-240 s ('Source: Hung-Hsi Chang'), 0-2 s uncredited ground bolt, and animations",
+    "credit_line": "NASA",
+    "what_it_shows": "Real views from the International Space Station of thunderstorms at night, lightning flashing inside the clouds. 'science@NASA' bug top-right: crop it.",
+    "is_actual_person_or_aircraft": false,
+    "best_segments": [
+      {
+        "start": 242,
+        "end": 247,
+        "note": "ISS night pass, big lightning flashes inside clouds"
+      },
+      {
+        "start": 8,
+        "end": 15,
+        "note": "storm complex from orbit lit from within by lightning"
+      }
+    ],
+    "width": 1920,
+    "height": 1080,
+    "duration_s": 272.24,
+    "contact_sheet": "nasa_sciencecasts_lightning_from_iss_2021.mp4-contact.jpg"
+  },
+  {
+    "rank": 7,
+    "file": "storm_thunderstorm_from_c130_1972_noaa.jpg",
+    "kind": "photo",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Fly00890_-_Flickr_-_NOAA_Photo_Library.jpg",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Fly00890_-_Flickr_-_NOAA_Photo_Library.jpg",
+    "license_evidence": "Commons: PD-USGov-NOAA; author NOAA/AOML/Hurricane Research Division; NOAA Photo Library fly00890",
+    "credit_line": "NOAA/AOML Hurricane Research Division (NOAA Photo Library)",
+    "what_it_shows": "Full cumulonimbus with anvil photographed from a C-130 research aircraft at altitude, 1972 (Project Cement): the pilot's-eye view of a thunderhead.",
+    "is_actual_person_or_aircraft": false,
+    "best_segments": [],
+    "width": 1800,
+    "height": 1163,
+    "duration_s": null
+  },
+  {
+    "rank": 8,
+    "file": "hailstone_nssl0098_noaa.jpg",
+    "kind": "photo",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Nssl0098_-_Flickr_-_NOAA_Photo_Library.jpg",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Nssl0098_-_Flickr_-_NOAA_Photo_Library.jpg",
+    "license_evidence": "Commons: PD-USGov-NOAA; NOAA Legacy Photo, OAR/ERL Wave Propagation Laboratory; NOAA Photo Library nssl0098",
+    "credit_line": "NOAA Photo Library",
+    "what_it_shows": "Very large spiky hailstone held in a gloved hand, showing growth rings from repeated updraft cycles (good proof for the 'thrown back up' beat).",
+    "is_actual_person_or_aircraft": false,
+    "best_segments": [],
+    "width": 3981,
+    "height": 2652,
+    "duration_s": null
+  },
+  {
+    "rank": 9,
+    "file": "crusader_f8u2_vmf333_cherrypoint_c1958_usn.jpg",
+    "kind": "photo",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/F8U-2_Crusaders_of_VMF-333_over_MCAS_Cherry_Point_c1958.jpg",
+    "page_url": "https://commons.wikimedia.org/wiki/File:F8U-2_Crusaders_of_VMF-333_over_MCAS_Cherry_Point_c1958.jpg",
+    "license_evidence": "Commons: PD US Navy + CC-PD-Mark; NMNA photo No. 1996.253.7357.023",
+    "credit_line": "U.S. Navy / National Museum of Naval Aviation",
+    "what_it_shows": "Two USMC F8U-2 Crusaders (VMF-333) over MCAS Cherry Point, North Carolina, c.1958, in the same Carolina airspace as Rankin's flight.",
+    "is_actual_person_or_aircraft": false,
+    "best_segments": [],
+    "width": 1489,
+    "height": 1116,
+    "duration_s": null
+  },
+  {
+    "rank": 10,
+    "file": "ejection_test_jd1_1951_usn.jpg",
+    "kind": "photo",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/US_Navy_ejection_seat_test_with_JD-1_1951.jpg",
+    "page_url": "https://commons.wikimedia.org/wiki/File:US_Navy_ejection_seat_test_with_JD-1_1951.jpg",
+    "license_evidence": "Commons: PD US Navy + CC-PD-Mark; Naval Aviation News Jan 1952; NMNA photo No. 1996.488.230.008",
+    "credit_line": "U.S. Navy / National Museum of Naval Aviation",
+    "what_it_shows": "Live 1951 Navy ejection-seat test: Chief Machinist C.E. Storm shot out of a JD-1 Invader over El Centro, CA.",
+    "is_actual_person_or_aircraft": false,
+    "best_segments": [],
+    "width": 1883,
+    "height": 1498,
+    "duration_s": null
+  },
+  {
+    "rank": 11,
+    "file": "ejection_test_tv2_1954_usn.jpg",
+    "kind": "photo",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/US_Navy_ejection_seat_test_with_TV-2_in_1954.jpg",
+    "page_url": "https://commons.wikimedia.org/wiki/File:US_Navy_ejection_seat_test_with_TV-2_in_1954.jpg",
+    "license_evidence": "Commons: PD US Navy + CC-PD-Mark; NMNA photo No. 1996.488.230.012",
+    "credit_line": "U.S. Navy / National Museum of Naval Aviation",
+    "what_it_shows": "1954 Navy ejection-seat test: seat leaving a TV-2 jet, photographed from a chase plane (Naval Parachute Unit, El Centro).",
+    "is_actual_person_or_aircraft": false,
+    "best_segments": [],
+    "width": 1862,
+    "height": 1507,
+    "duration_s": null
+  },
+  {
+    "rank": 12,
+    "file": "storm_supercell_nebraska_1985_noaa.jpg",
+    "kind": "photo",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Wea03319_-_Flickr_-_NOAA_Photo_Library.jpg",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Wea03319_-_Flickr_-_NOAA_Photo_Library.jpg",
+    "license_evidence": "Commons: PD-USGov-NOAA; photographer Stephen Corfidi, NOAA/NWS/SPC; NOAA Photo Library wea03319",
+    "credit_line": "Stephen Corfidi, NOAA/NWS Storm Prediction Center",
+    "what_it_shows": "Towering supercell thunderstorm with lit updraft core and anvil at dusk, Humboldt, Nebraska, 20 Apr 1985.",
+    "is_actual_person_or_aircraft": false,
+    "best_segments": [],
+    "width": 3092,
+    "height": 1992,
+    "duration_s": null
+  },
+  {
+    "rank": 13,
+    "file": "lightning_night_nssl0010_noaa.jpg",
+    "kind": "photo",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Lightning_NOAA.jpg",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Lightning_NOAA.jpg",
+    "license_evidence": "Commons: PD-USGov-NOAA; photographer C. Clark, OAR/ERL National Severe Storms Laboratory, NOAA image nssl0010",
+    "credit_line": "C. Clark, NOAA National Severe Storms Laboratory",
+    "what_it_shows": "Night thunderstorm with multiple cloud-to-cloud and cloud-to-ground lightning strokes.",
+    "is_actual_person_or_aircraft": false,
+    "best_segments": [],
+    "width": 1808,
+    "height": 1216,
+    "duration_s": null
+  },
+  {
+    "rank": 14,
+    "file": "crusader_oriskany_carrier_ops_1966_usn.webm",
+    "kind": "video",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Carrier_Operation_Oriskany_1966.webm",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Carrier_Operation_Oriskany_1966.webm",
+    "license_evidence": "Commons: PD US Navy + CC-PD-Mark; author US Navy; credit 'National Archives'",
+    "credit_line": "U.S. Navy / National Archives",
+    "what_it_shows": "1966 USS Oriskany deck ops in colour: F-8E Crusaders of VF-162 taxiing (tail 'AH' BuNo 150911), Crusader with its raised variable-incidence wing. Deck only, no flight.",
+    "is_actual_person_or_aircraft": false,
+    "best_segments": [
+      {
+        "start": 178,
+        "end": 182.5,
+        "note": "F-8E VF-162 tail, taxiing"
+      },
+      {
+        "start": 184.5,
+        "end": 188,
+        "note": "F-8 '207' with wing raised"
+      },
+      {
+        "start": 172,
+        "end": 176,
+        "note": "F-8 '202' with raised wing in foreground while another jet launches"
+      }
+    ],
+    "width": 596,
+    "height": 396,
+    "duration_s": 344.4,
+    "contact_sheet": "crusader_oriskany_carrier_ops_1966_usn.webm-contact.jpg"
+  },
+  {
+    "rank": 15,
+    "file": "crusader_f8u1_china_lake_1959_usn.jpg",
+    "kind": "photo",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/F8U-1_Crusader_fires_AIM-9B_over_China_Lake_1959.jpeg",
+    "page_url": "https://commons.wikimedia.org/wiki/File:F8U-1_Crusader_fires_AIM-9B_over_China_Lake_1959.jpeg",
+    "license_evidence": "Commons: PD US Navy + CC-PD-Mark; NMNA photo No. 1996.488.022.016",
+    "credit_line": "U.S. Navy / National Museum of Naval Aviation",
+    "what_it_shows": "Navy F8U-1 Crusader firing a Sidewinder over China Lake, 21 Apr 1959 (same year and model as Rankin's jet).",
+    "is_actual_person_or_aircraft": false,
+    "best_segments": [],
+    "width": 1542,
+    "height": 1024,
+    "duration_s": null
+  },
+  {
+    "rank": 16,
+    "file": "storm_goes_deep_south_2026_cira_portrait.webm",
+    "kind": "video",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Severe_Thunderstorms_Blast_Off_Across_the_Deep_South_%28CIRA_2026-05-06_-_nolabels_portrait%29.webm",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Severe_Thunderstorms_Blast_Off_Across_the_Deep_South_(CIRA_2026-05-06_-_nolabels_portrait).webm",
+    "license_evidence": "Commons: PD US NOAA (GOES-19 imagery); credit requested 'CSU/CIRA & NOAA' (CIRA is a NOAA cooperative institute at Colorado State Univ.)",
+    "credit_line": "GOES imagery: CSU/CIRA & NOAA",
+    "what_it_shows": "Native 9:16 satellite loop of cumulonimbus tops erupting across the US Deep South, 6 May 2026. Shows from above how fast storm towers boil up. Layout: satellite image fills the middle band with a blurred fill above/below and CIRA/NOAA logos top-right; crop to the centre band.",
+    "is_actual_person_or_aircraft": false,
+    "best_segments": [
+      {
+        "start": 0,
+        "end": 4.8,
+        "note": "whole loop; slow to 50% for 9-10 s"
+      }
+    ],
+    "width": 1080,
+    "height": 1920,
+    "duration_s": 4.8,
+    "contact_sheet": "storm_goes_deep_south_2026_cira_portrait.webm-contact.jpg"
+  },
+  {
+    "rank": 17,
+    "file": "storm_night_lightning_spain_2025_cira_portrait.webm",
+    "kind": "video",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Thunderstorm_at_Night_Over_Spain_%28CIRA_2025-07-10_-_nolabels_portrait%29.webm",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Thunderstorm_at_Night_Over_Spain_(CIRA_2025-07-10_-_nolabels_portrait).webm",
+    "license_evidence": "Commons: PD US NOAA (JPSS/VIIRS imagery); credit 'CSU/CIRA & NOAA/NESDIS'",
+    "credit_line": "JPSS imagery: CSU/CIRA & NOAA/NESDIS",
+    "what_it_shows": "Native 9:16 moonlit night satellite loop: lightning flashes inside a thunderstorm off eastern Spain, 10 Jul 2025. Layout: satellite image fills the middle band with a blurred fill above/below and CIRA/NOAA logos top-right; crop to the centre band.",
+    "is_actual_person_or_aircraft": false,
+    "best_segments": [
+      {
+        "start": 0,
+        "end": 2.3,
+        "note": "whole loop; ping-pong it"
+      }
+    ],
+    "width": 1080,
+    "height": 1920,
+    "duration_s": 2.33,
+    "contact_sheet": "storm_night_lightning_spain_2025_cira_portrait.webm-contact.jpg"
+  },
+  {
+    "rank": 18,
+    "file": "project_smart_1956_usaf_ejection_sled.mp4",
+    "kind": "video",
+    "source_url": "https://archive.org/download/342USAF25527ProjectSmartSupersonic/342_USAF_25527_ProjectSmartSupersonic.mp4",
+    "page_url": "https://archive.org/details/342USAF25527ProjectSmartSupersonic",
+    "license_evidence": "USAF film 342-USAF-25527 (1956-57, Coleman Engineering under USAF contract); archive.org Public Domain Mark 1.0",
+    "credit_line": "U.S. Air Force / National Archives (342-USAF-25527)",
+    "what_it_shows": "Project SMART (Hurricane Mesa, Utah) B-52 ejection-seat sled tests, 1956-57: dummy strapped into seat, parachute descending past the mesa. Colour badly faded magenta, subjects small; weakest asset, needs grading.",
+    "is_actual_person_or_aircraft": false,
+    "best_segments": [
+      {
+        "start": 343,
+        "end": 348,
+        "note": "parachute descends past mesa wall"
+      },
+      {
+        "start": 115,
+        "end": 121,
+        "note": "helmeted dummy strapped into ejection seat"
+      },
+      {
+        "start": 255,
+        "end": 262,
+        "note": "small parachute against blue sky"
+      }
+    ],
+    "width": 640,
+    "height": 480,
+    "duration_s": 669.1,
+    "contact_sheet": "project_smart_1956_usaf_ejection_sled.mp4-contact.jpg"
+  },
+  {
+    "rank": 19,
+    "file": "storm_supercell_kansas_2019_nssl.jpg",
+    "kind": "photo",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Supercell-thunderstorm-in-Kansas.jpg",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Supercell-thunderstorm-in-Kansas.jpg",
+    "license_evidence": "Commons: PD-USGov-NOAA; photo by Mike Coniglio/NOAA NSSL (flickr.com/photos/noaanssl/48039373122)",
+    "credit_line": "Mike Coniglio, NOAA NSSL",
+    "what_it_shows": "Dark rotating supercell over a Kansas farm road, 2019.",
+    "is_actual_person_or_aircraft": false,
+    "best_segments": [],
+    "width": 3071,
+    "height": 2048,
+    "duration_s": null
+  },
+  {
+    "rank": 20,
+    "file": "hail_nssl_hailcam_2025.webm",
+    "kind": "video",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/NSSL_Hail_Camera_Video_1.webm",
+    "page_url": "https://commons.wikimedia.org/wiki/File:NSSL_Hail_Camera_Video_1.webm",
+    "license_evidence": "Commons: PD US NOAA; recorded by NSSL Hail Camera truck (Sean Waugh, NSSL employee), 4 Jun 2025",
+    "credit_line": "NOAA National Severe Storms Laboratory",
+    "what_it_shows": "3.8 s, 500x500 clip of hail falling, from NSSL's hail-camera truck. Low resolution: use small or as texture.",
+    "is_actual_person_or_aircraft": false,
+    "best_segments": [
+      {
+        "start": 0,
+        "end": 3.8,
+        "note": "whole clip"
+      }
+    ],
+    "width": 500,
+    "height": 500,
+    "duration_s": 3.8,
+    "contact_sheet": "hail_nssl_hailcam_2025.webm-contact.jpg"
+  },
+  {
+    "rank": 21,
+    "file": "nasa_er2_aloft_thunderstorms_2023.mp4",
+    "kind": "video",
+    "source_url": "https://images-assets.nasa.gov/video/AFRC_2023_14007_02_Studying%20Thunderstorms%20with%20NASA%E2%80%99s%20ER-2%20Aircraft_HD/AFRC_2023_14007_02_Studying%20Thunderstorms%20with%20NASA%E2%80%99s%20ER-2%20Aircraft_HD~large.mp4",
+    "page_url": "https://images.nasa.gov/details/AFRC_2023_14007_02_Studying%20Thunderstorms%20with%20NASA%E2%80%99s%20ER-2%20Aircraft_HD",
+    "license_evidence": "NASA Image and Video Library (NASA Armstrong, ALOFT 2023); NASA media guidelines. Chosen shots carry no third-party credit on screen; NASA edits can include stock, so treat 31-32.5 s as unverified",
+    "credit_line": "NASA Armstrong Flight Research Center",
+    "what_it_shows": "ER-2 storm-research feature; mostly interviews. WARNING: 76.5-80.5 s is labelled 'Artist Interpretation' (CG, do not use) and 87-90 s is an animation. Usable: distant night storm with in-cloud flash (1-2.5 s), dark storm clouds (31-32.5 s, source not credited on screen), ISS night lightning at 81-86 s duplicates the ScienceCasts shot but carries a 'Terrestrial Gamma-ray Flashes' lower-third. Low value; ScienceCasts is the better copy.",
+    "is_actual_person_or_aircraft": false,
+    "best_segments": [
+      {
+        "start": 1,
+        "end": 2.5,
+        "note": "distant night storm, in-cloud flash"
+      },
+      {
+        "start": 31,
+        "end": 32.5,
+        "note": "dark storm clouds (source unverified)"
+      },
+      {
+        "start": 81,
+        "end": 86,
+        "note": "ISS night lightning (duplicate of ScienceCasts 242-247; has lower-third)"
+      }
+    ],
+    "contact_note": "contact sheet deliberately includes the 'Artist Interpretation' shot (76.5-80.5 s) so the warning is visible",
+    "width": 1920,
+    "height": 1080,
+    "duration_s": 239.32,
+    "contact_sheet": "nasa_er2_aloft_thunderstorms_2023.mp4-contact.jpg"
+  }
+]

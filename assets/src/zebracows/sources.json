@@ -1,0 +1,201 @@
+{
+  "assets": [
+    {
+      "file": "kojima2019_fig2.png",
+      "kind": "image (paper figure, 1500x1125)",
+      "source_url": "https://journals.plos.org/plosone/article/figure?id=10.1371/journal.pone.0223447.g002",
+      "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "credit_line": "Fig 2, Kojima T. et al. (2019) Cows painted with zebra-like striping can avoid biting fly attack. PLOS ONE 14(10): e0223447. CC BY 4.0",
+      "what_it_shows": "Hero shot: Japanese Black cow painted with white zebra stripes, side view, with white dashed boxes labelled 'Body', 'Leg', and 'Biting flies' ovals pointing at flies.",
+      "best_segments": "Full frame for sentence 2 (study). Crop the cow body (x 100-1400, y 250-950) to drop most labels for the hook; slow push-in. Labels are useful if you want to show 'Biting flies' circles."
+    },
+    {
+      "file": "kojima2019_fig1a_bw_striped_cow.png",
+      "kind": "image (crop of Fig 1 panel a, 1157x866)",
+      "source_url": "https://journals.plos.org/plosone/article/figure?id=10.1371/journal.pone.0223447.g001",
+      "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "credit_line": "Fig 1a, Kojima T. et al. (2019) Cows painted with zebra-like striping can avoid biting fly attack. PLOS ONE 14(10): e0223447. CC BY 4.0",
+      "what_it_shows": "Black-and-white striped cow (B&W treatment) in full sun, tethered, side profile facing right. Cleanest hook image with no annotation except the 'a' panel letter top-left.",
+      "best_segments": "Hook (sentence 1). Crop off the top-left 'a' letter (x>60). Pairs with fig1c for a striped-vs-plain split screen."
+    },
+    {
+      "file": "kojima2019_fig1b_black_striped_cow.png",
+      "kind": "image (crop of Fig 1 panel b)",
+      "source_url": "https://journals.plos.org/plosone/article/figure?id=10.1371/journal.pone.0223447.g001",
+      "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "credit_line": "Fig 1b, Kojima T. et al. (2019) Cows painted with zebra-like striping can avoid biting fly attack. PLOS ONE 14(10): e0223447. CC BY 4.0",
+      "what_it_shows": "Black-stripe control cow (black lacquer on black coat), nearly indistinguishable from unpainted; the paint-odour control.",
+      "best_segments": "Optional: 3-way comparison or a 'paint smell wasn't it' beat."
+    },
+    {
+      "file": "kojima2019_fig1c_unpainted_cow.png",
+      "kind": "image (crop of Fig 1 panel c)",
+      "source_url": "https://journals.plos.org/plosone/article/figure?id=10.1371/journal.pone.0223447.g001",
+      "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "credit_line": "Fig 1c, Kojima T. et al. (2019) Cows painted with zebra-like striping can avoid biting fly attack. PLOS ONE 14(10): e0223447. CC BY 4.0",
+      "what_it_shows": "Unpainted all-black Japanese Black cow (CONT), with visible flies dotting its flank and legs.",
+      "best_segments": "Left half of a split screen against fig1a (plain vs striped) under sentence 2; zoom to flank to show the fly specks."
+    },
+    {
+      "file": "kojima2019_fig1.png",
+      "kind": "image (full Fig 1, three stacked panels a/b/c, 1157x2622, vertical)",
+      "source_url": "https://journals.plos.org/plosone/article/figure?id=10.1371/journal.pone.0223447.g001",
+      "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "credit_line": "Fig 1, Kojima T. et al. (2019) Cows painted with zebra-like striping can avoid biting fly attack. PLOS ONE 14(10): e0223447. CC BY 4.0",
+      "what_it_shows": "All three treatments stacked: (a) black-and-white stripes, (b) black stripes, (c) no stripes.",
+      "best_segments": "Already 9:16-ish; usable as a vertical pan top to bottom."
+    },
+    {
+      "file": "kojima2019_fig3.png",
+      "kind": "image (bar chart, 1200x1475)",
+      "source_url": "https://journals.plos.org/plosone/article/figure?id=10.1371/journal.pone.0223447.g003",
+      "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "credit_line": "Fig 3, Kojima T. et al. (2019) Cows painted with zebra-like striping can avoid biting fly attack. PLOS ONE 14(10): e0223447. CC BY 4.0",
+      "what_it_shows": "(a) Biting flies on legs+body: CONT ~129, B&W ~56, B ~112 (P<0.0001). (b) Total fly-repelling behaviours per 30 min: CONT 53.0, B&W 39.8, B 54.4 (P<0.0001).",
+      "best_segments": "Panel a (top half, y 0-690) for the 'fifty percent' beat; better to rebuild as a clean animated bar chart from these numbers."
+    },
+    {
+      "file": "kojima2019_table1.png",
+      "kind": "image (Table 1, 2250x1025)",
+      "source_url": "https://journals.plos.org/plosone/article/figure?id=10.1371/journal.pone.0223447.t001",
+      "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "credit_line": "Table 1, Kojima T. et al. (2019) Cows painted with zebra-like striping can avoid biting fly attack. PLOS ONE 14(10): e0223447. CC BY 4.0",
+      "what_it_shows": "Exact numbers: flies on legs/body and frequency of head throws, ear beats, leg stamps, skin twitches, tail flicks for CONT, B&W, B, with p-values.",
+      "best_segments": "Reference only, or a 0.5s 'receipts' flash."
+    },
+    {
+      "file": "kojima2019_paper.pdf",
+      "kind": "document (full paper PDF)",
+      "source_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0223447",
+      "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "credit_line": "Kojima T. et al. (2019) Cows painted with zebra-like striping can avoid biting fly attack. PLOS ONE 14(10): e0223447. CC BY 4.0",
+      "what_it_shows": "Full article.",
+      "best_segments": "Reference; page 1 title could be a 'paper' flash."
+    },
+    {
+      "file": "kojima2019_S1_original_data.xlsx",
+      "kind": "data (S1 File, original data)",
+      "source_url": "https://journals.plos.org/plosone/article/file?type=supplementary&id=10.1371/journal.pone.0223447.s001",
+      "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "credit_line": "S1 File, Kojima T. et al. (2019) Cows painted with zebra-like striping can avoid biting fly attack. PLOS ONE 14(10): e0223447. CC BY 4.0",
+      "what_it_shows": "Raw per-observation data. NOTE: the paper has NO supplementary video; S1 File (xlsx) is the only supplement.",
+      "best_segments": "n/a"
+    },
+    {
+      "file": "commons_zebra_pair_head_to_tail.jpg",
+      "kind": "image (Wikimedia Commons, 5321x3547)",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Burchell%27s_zebra_(Equus_quagga_burchellii)_females_head_to_tail.jpg",
+      "license": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+      "credit_line": "Charles J. Sharp / Wikimedia Commons, CC BY-SA 4.0",
+      "what_it_shows": "Three plains (Burchell's) zebras on green grass, crisp stripes, warm light; centre zebra looking at camera.",
+      "best_segments": "Zebra reference cut before or after hook ('like zebras'). Landscape 5321x3547: crop centre zebra for 9:16.",
+      "original_file_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Burchell%27s_zebra_%28Equus_quagga_burchellii%29_females_head_to_tail.jpg"
+    },
+    {
+      "file": "commons_zebra_standing_nairobi.jpg",
+      "kind": "image (Wikimedia Commons, 3365x2406)",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Standing_zebra_at_Nairobi_National_Park.jpg",
+      "license": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+      "credit_line": "Brihaspati / Wikimedia Commons, CC BY-SA 4.0",
+      "what_it_shows": "Single plains zebra standing side-on on a dirt track, river behind. Side profile matches the cow photos.",
+      "best_segments": "Side-by-side with fig1a (zebra vs zebra-cow); crop x 280-640 of the 900px preview, i.e. the zebra centre.",
+      "original_file_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Standing_zebra_at_Nairobi_National_Park.jpg"
+    },
+    {
+      "file": "commons_japanese_black_cow_jircas.jpg",
+      "kind": "image (Wikimedia Commons, 4416x3072)",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Japanese_Black_%3D_%E4%B8%96%E7%95%8C%E3%81%AE%E7%89%9B_%E9%BB%92%E6%AF%9B%E5%92%8C%E7%A8%AE%EF%BC%88%E9%9B%8C%EF%BC%89_(36706364945).jpg",
+      "license": "CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)",
+      "credit_line": "JIRCAS Library from Tsukuba, Japan / Wikimedia Commons, CC BY 2.0",
+      "what_it_shows": "Archival slide of a Japanese Black (Kuroge Wagyu) cow, side profile in front of a white backdrop, slide border visible.",
+      "best_segments": "'Black cows' beat / plain-cow side of split screen; crop inside slide border.",
+      "original_file_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Japanese_Black_%3D_%E4%B8%96%E7%95%8C%E3%81%AE%E7%89%9B_%E9%BB%92%E6%AF%9B%E5%92%8C%E7%A8%AE%EF%BC%88%E9%9B%8C%EF%BC%89_%2836706364945%29.jpg"
+    },
+    {
+      "file": "commons_wagyu_cow_grazing_with_fly.jpg",
+      "kind": "image (Wikimedia Commons, 3089x2048)",
+      "source_url": "https://commons.wikimedia.org/wiki/File:A_Japanese_wagyu_cow_grazing.jpg",
+      "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0)",
+      "credit_line": "MistyEyedKid / Wikimedia Commons, CC BY 4.0",
+      "what_it_shows": "Close-up of a black Wagyu cow's ear and eye (ear tag) with a fly near the eye; Virginia, USA, not Japan.",
+      "best_segments": "Fly-nuisance cut under sentence 3 (head tosses); slow push-in on the eye.",
+      "original_file_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/A_Japanese_wagyu_cow_grazing.jpg"
+    },
+    {
+      "file": "commons_stable_fly_closeup.jpg",
+      "kind": "image (Wikimedia Commons, 2149x1643)",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Stomoxys_calcitrans,_Stable_Fly,_UK.jpg",
+      "license": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+      "credit_line": "Stu's Images / Wikimedia Commons, CC BY-SA 4.0",
+      "what_it_shows": "Stable fly (Stomoxys calcitrans), the main species in the study (77.9% of trapped flies), top-down macro on a leaf.",
+      "best_segments": "Under 'biting flies'; use as the fly sprite source for the diagram.",
+      "original_file_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Stomoxys_calcitrans%2C_Stable_Fly%2C_UK.jpg"
+    },
+    {
+      "file": "commons_stable_fly_biting.jpg",
+      "kind": "image (Wikimedia Commons, 1200x900)",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Stomoxys_calcitrans-sucking_blood.jpg",
+      "license": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+      "credit_line": "Peterwchen / Wikimedia Commons, CC BY-SA 4.0",
+      "what_it_shows": "Stable fly macro, side view, piercing mouthparts on a human finger (blood-feeding).",
+      "best_segments": "Quick 'biting fly' gross-out cut; the finger is human skin, not cow.",
+      "original_file_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Stomoxys_calcitrans-sucking_blood.jpg"
+    },
+    {
+      "file": "commons_horse_fly_tabanus.jpg",
+      "kind": "image (Wikimedia Commons, 1024x784)",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Horse_fly_Tabanus_2.jpg",
+      "license": "CC BY-SA 2.5 (https://creativecommons.org/licenses/by-sa/2.5)",
+      "credit_line": "Bruce Marlin / Wikimedia Commons, CC BY-SA 2.5",
+      "what_it_shows": "Horse fly (Tabanus sp.) macro, top-down, big striped eyes. Tabanids were 0.5% of flies here but are the subject of Caro 2019.",
+      "best_segments": "Mechanism beat (sentence 4) if referencing the horse-fly landing research.",
+      "original_file_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Horse_fly_Tabanus_2.jpg"
+    },
+    {
+      "file": "commons_sado_japanese_black_aerial.webm",
+      "kind": "video (Wikimedia Commons, 1280x720)",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Grazing_Cattle_in_Sado_Island,_Japan_-_Aerial_Video.webm",
+      "license": "CC BY 3.0 (https://creativecommons.org/licenses/by/3.0)",
+      "credit_line": "(株)WIN-plus / Wikimedia Commons, CC BY 3.0",
+      "what_it_shows": "Drone footage of Japanese Black (Sado beef) cattle grazing on a clifftop pasture above the sea, Sado Island, Japan. 1280x720, 100.5s. Japanese caption watermark 0-12s.",
+      "best_segments": "37.0-50.0s: drone close over herd (best). 18.0-20.0s: herd on ridge. Avoid 0-12s (on-screen Japanese text).",
+      "original_file_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Grazing_Cattle_in_Sado_Island%2C_Japan_-_Aerial_Video.webm"
+    },
+    {
+      "file": "commons_zebra_nairobi_2025_4k.webm",
+      "kind": "video (Wikimedia Commons, 3840x2160)",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Nairobi_National_Park_(August_2025)_Zebra.webm",
+      "license": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+      "credit_line": "Addshore / Wikimedia Commons, CC BY-SA 4.0",
+      "what_it_shows": "Single plains zebra standing on a dirt road in Nairobi National Park with the city skyline behind, 4K, 12.6s, handheld.",
+      "best_segments": "0.0-6.0s: zebra flicks tail and turns head (tail flicks tie to fly-repelling behaviour); 4K allows a 9:16 crop.",
+      "original_file_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Nairobi_National_Park_%28August_2025%29_Zebra.webm"
+    },
+    {
+      "file": "commons_zebras_oribi_gorge.webm",
+      "kind": "video (Wikimedia Commons, 1920x1080)",
+      "source_url": "https://commons.wikimedia.org/wiki/File:A_Zebras_at_the_Oribi_Gorge_Nature_reserve.webm",
+      "license": "CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)",
+      "credit_line": "Amada44 / Wikimedia Commons, CC BY-SA 3.0",
+      "what_it_shows": "Three plains zebras grazing on golden grassland, one facing camera, 1080p, 27.4s; camera pulls wide after ~17s.",
+      "best_segments": "0.0-16.0s: steady medium shot of zebras (best zebra b-roll). Avoid 18s+ (empty grass).",
+      "original_file_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/A_Zebras_at_the_Oribi_Gorge_Nature_reserve.webm"
+    },
+    {
+      "file": "commons_cape_mountain_zebra.webm",
+      "kind": "video (Wikimedia Commons, 1920x1080)",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Cape_Mountain_Zebra_-_Equus_zebra_zebra.webm",
+      "license": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+      "credit_line": "Amada44 / Wikimedia Commons, CC BY-SA 4.0",
+      "what_it_shows": "A zebra standing on a grassy ridge against clear blue sky, then walking off-frame left. Titled Cape Mountain Zebra on Commons (looks like a plains zebra). 1080p, 13.2s.",
+      "best_segments": "0.0-8.0s: clean side-on zebra against blue sky (great for stripe close-up crop / transition to the striped cow). 9-12s walks out of frame.",
+      "original_file_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Cape_Mountain_Zebra_-_Equus_zebra_zebra.webm"
+    }
+  ],
+  "_notes": [
+    "All files in this folder were fetched directly; none were executed.",
+    "CC BY-SA items need attribution plus share-alike; prefer the CC BY / paper figures for hero shots.",
+    "No CC/PD photo of the striped cows exists outside the paper. Commons 'File:Pone.0223447.g001.png' is the same Fig 1 (CC BY 4.0).",
+    "The Kojima paper has no supplementary video (only S1 File xlsx). Searched Commons for zebra/Japanese Black/fly footage instead."
+  ]
+}

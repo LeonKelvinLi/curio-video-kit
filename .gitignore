@@ -8,3 +8,9 @@ out/
 __pycache__/
 *.pyc
 .DS_Store
+
+# public-domain source downloads are large (1.8 GB): keep only the rights ledgers in git
+assets/src/**
+!assets/src/*/
+!assets/src/*/sources.json
+vo/_old/
