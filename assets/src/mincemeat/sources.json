@@ -1,0 +1,142 @@
+[
+  {
+    "file": "01_martin_id_card.jpg",
+    "kind": "image/artefact",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Major_Martin.jpg",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Major_Martin.jpg",
+    "license": "Public domain: UK Crown Copyright expired, Commons tag {{PD-UKGov}}",
+    "credit_line": "Naval identity card of 'Major William Martin', 1943. Crown Copyright expired (PD-UKGov), via Wikimedia Commons; first published in E. Montagu, The Man Who Never Was (1953)",
+    "what_it_shows": "The real forged Naval Identity Card No. 148228: 'MARTIN, WILLIAM, Captain R.M. (Acting Major), HQ Combined Operations, born Cardiff 1907', dated 2 February 1943, with a handwritten note that it was 'issued in lieu of No. 09650 lost'. The photo is MI5 officer Ronnie Reed posing in uniform, NOT the corpse (Wikipedia: 'finding Captain Ronnie Reed of MI5; Reed agreed to be photographed for the identity card'). 1400x993 px.",
+    "best_segments": "S1 hook (0-3s): slow push in on the name 'MARTIN' and the photo; or S2 plan (3-7s): 'dressed as an officer'. Crop the left page for 9:16. Do not caption the photo as the dead man."
+  },
+  {
+    "file": "02_pam_photo_jean_leslie.jpg",
+    "kind": "image/artefact",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/UK_National_Archives_-_WO_1065921.jpg",
+    "page_url": "https://commons.wikimedia.org/wiki/File:UK_National_Archives_-_WO_1065921.jpg",
+    "license": "Public domain, Commons tag {{PD-UKGov}}; also released by The National Archives on Flickr Commons as 'No known copyright restrictions' (FlickreviewR passed 2014-07-23). Caveat: this was a private holiday snapshot of an MI5 clerk, so Crown authorship is not certain. It is still PD as an anonymous UK photo taken before 1957 and over 70 years old, and TNA itself releases it as unrestricted.",
+    "credit_line": "'Pam' photograph (MI5 clerk Jean Leslie), The National Archives (UK), WO 106/5921, via Wikimedia Commons",
+    "what_it_shows": "The real 'Pam' fiancee photo planted on the body: a young woman in a patterned swimsuit holding a towel on a windy shore. The Commons date of '1944' is wrong because the photo was planted in April 1943. 700x465 px.",
+    "best_segments": "S3 detail (7-11s): on 'love letters'. A Ken Burns push toward her face works well; 9:16 needs a centre crop on the figure."
+  },
+  {
+    "file": "03_glyndwr_michael_corpse_1943.jpg",
+    "kind": "image/archival photo (sensitive)",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Glyndwr_Michael.jpg",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Glyndwr_Michael.jpg",
+    "license": "Public domain: UK Crown Copyright expired, Commons tag {{PD-UKGov}} (author unknown; original held by The National Archives)",
+    "credit_line": "The body of Glyndwr Michael dressed as 'Major Martin', 1943. The National Archives (UK), via Wikimedia Commons (PD-UKGov)",
+    "what_it_shows": "The actual corpse of Glyndwr Michael, propped on a stretcher in a trench coat and life jacket (the life jacket is stencilled 'FROM...'), with a man standing beside it. The face is visible, with the mouth open. GRAPHIC: a real dead person. 720x1080 px (portrait, already fits 9:16).",
+    "best_segments": "S1 hook or S2 on 'corpse' (Halloween beat). Show it briefly (under 1.5s), darkened or blurred on the face, or crop to the coat, life jacket and hands. IWM itself warns its film 'contains... an image of a dead body'."
+  },
+  {
+    "file": "04_hms_seraph_1943.jpg",
+    "kind": "image/archival photo",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/HMS_Seraph.jpg",
+    "page_url": "https://commons.wikimedia.org/wiki/File:HMS_Seraph.jpg",
+    "license": "Public domain: UK Crown Copyright expired, Commons tag {{PD-UKGov}}",
+    "credit_line": "HMS Seraph, 1943. Royal Navy official photograph, Crown Copyright expired (PD-UKGov), via Wikimedia Commons",
+    "what_it_shows": "Officers and ratings on the conning tower of the submarine with 'SERAPH' painted on the side. It is a higher-resolution book scan (from Macintyre 2010) of the same photo as IWM A 21106 (Portsmouth, December 1943), so the Commons caption 'on patrol' is wrong. 1272x1007 px, with halftone grain.",
+    "best_segments": "S2 plan (3-7s): on 'A submarine...'. Crop to the 'SERAPH' lettering and the bridge."
+  },
+  {
+    "file": "05_hms_seraph_iwm_FL3566.jpg",
+    "kind": "image/archival photo",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/HMSM_Seraph_FL3566.jpg",
+    "page_url": "https://commons.wikimedia.org/wiki/File:HMSM_Seraph_FL3566.jpg",
+    "license": "Public domain, Commons tag {{PD-Scan|1=PD-UKGov}} (IWM FL 3566, Royal Navy official photographer)",
+    "credit_line": "HMS Seraph (P219) underway on completion. Royal Navy official photographer, IWM FL 3566, via Wikimedia Commons (PD-UKGov)",
+    "what_it_shows": "Side profile of the whole submarine at sea in a harbour, with a censor stamp reading 'P219 ... 9.7.42' in the top left (July 1942, before Mincemeat). 800x564 px.",
+    "best_segments": "S2 (3-7s): a wide establishing shot of the submarine. Crop the stamp out or keep it for texture."
+  },
+  {
+    "file": "06_seraph_officers_jewell_A21112.jpg",
+    "kind": "image/archival photo",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/The_officers_of_HM_Submarine_SERAPH_on_her_return_to_Portsmouth_after_operations_in_the_Mediterranean%2C_24_December_1943._A21112.jpg",
+    "page_url": "https://commons.wikimedia.org/wiki/File:The_officers_of_HM_Submarine_SERAPH_on_her_return_to_Portsmouth_after_operations_in_the_Mediterranean,_24_December_1943._A21112.jpg",
+    "license": "Public domain, Commons tag {{PD-Scan|1=PD-UKGov}} (IWM A 21112, Lt L. Pelman, Royal Navy official photographer)",
+    "credit_line": "Officers of HM Submarine Seraph, Portsmouth, 24 December 1943. Lt L. Pelman, Royal Navy official photographer, IWM A 21112, via Wikimedia Commons (PD-UKGov)",
+    "what_it_shows": "Five Seraph officers on deck studying a model submarine. Per the IWM caption, left to right: Stevenson (white overalls), Harris, Norris, Lt N.L.A. 'Bill' Jewell (the commanding officer who released the body, 4th from left) and Scott. 2297x1772 px.",
+    "best_segments": "Optional for S2: the crew who did the drop. Not essential."
+  },
+  {
+    "file": "07_seraph_bridge_A21106.jpg",
+    "kind": "image/archival photo",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Seraphmincemeat.jpg",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Seraphmincemeat.jpg",
+    "license": "Public domain, Commons tag {{PD-UKGov}} (IWM A 21106, Lt L. Pelman, Royal Navy official photographer)",
+    "credit_line": "HMS Seraph arriving at Portsmouth, 1943; Lt N.L.A. Jewell on the bridge. Royal Navy official photographer, IWM A 21106, via Wikimedia Commons (PD-UKGov)",
+    "what_it_shows": "The cleaner, IWM-sourced version of 04: the conning tower with 'SERAPH' lettering, officers including CO Jewell on the bridge, and a 20mm gun aft. 577x439 px (low resolution).",
+    "best_segments": "S2 (3-7s), when you need IWM provenance. Use 04 when you need resolution."
+  },
+  {
+    "file": "08_huelva_grave_2013.jpg",
+    "kind": "image/modern photo",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Wiliam_Martin_burial.jpg",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Wiliam_Martin_burial.jpg",
+    "license": "CC BY-SA 4.0, Commons tag {{self|cc-by-sa-4.0}}. Attribution and share-alike are required.",
+    "credit_line": "Photo: Rufito, CC BY-SA 4.0, via Wikimedia Commons",
+    "what_it_shows": "The full grave slab in Huelva cemetery, 15 Aug 2013: 'WILLIAM MARTIN, BORN 29TH MARCH 1907, DIED 24TH APRIL 1943' (both invented dates), 'DULCE ET DECORUM EST PRO PATRIA MORI', and the later addition 'GLYNDWR MICHAEL SERVED AS MAJOR WILLIAM MARTIN, RM'. Flowers on the slab. 2448x3264 px, portrait.",
+    "best_segments": "S4 end card or a Halloween bookend: tilt down from 'WILLIAM MARTIN' to 'GLYNDWR MICHAEL SERVED AS...'. Portrait, so it is native to 9:16."
+  },
+  {
+    "file": "09_huelva_headstone_2011.jpg",
+    "kind": "image/modern photo",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/William_Martin_Lapida-2011-08-12.jpg",
+    "page_url": "https://commons.wikimedia.org/wiki/File:William_Martin_Lapida-2011-08-12.jpg",
+    "license": "CC BY-SA 3.0, Commons tag {{self|cc-by-sa-3.0}}. Attribution and share-alike are required.",
+    "credit_line": "Photo: Enrique Conde, CC BY-SA 3.0, via Wikimedia Commons",
+    "what_it_shows": "Close-up of the top of the same slab: 'WILLIAM MARTIN / BORN 29TH MARCH 1907 / DIED 24TH APRIL 1943 / BELOVED SON OF JOHN GLYNDWYR MARTIN...' with fresh flowers. It does not show the Glyndwr Michael line. 640x480 px.",
+    "best_segments": "Alternative to 08 for a tighter 'fake name on a real grave' shot. Low resolution."
+  },
+  {
+    "file": "10_montagu_cholmondeley_van_1943.jpg",
+    "kind": "image/archival photo",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Charles_Cholmondeley_and_Ewen_Montagu.jpg",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Charles_Cholmondeley_and_Ewen_Montagu.jpg",
+    "license": "Public domain per Commons tag {{PD-UKGov}}. CAUTION: the author is MI5 driver St John 'Jock' Horsfall (Commons source: The Times), and Crown authorship of a staff snapshot is arguable. Treat as lower confidence and use only if needed.",
+    "credit_line": "Charles Cholmondeley and Ewen Montagu with the van carrying the body, April 1943. Photo: St John Horsfall, via Wikimedia Commons (PD-UKGov)",
+    "what_it_shows": "Cholmondeley (RAF greatcoat) and Montagu (naval coat) standing beside the Fordson van (plate EPB 657) that drove the body to Greenock. 931x620 px.",
+    "best_segments": "Optional for S2: 'the plan'. Lower rights confidence than the others, so prefer 01, 03 and 04 first."
+  },
+  {
+    "file": "11_sicily_landing_NA4275.jpg",
+    "kind": "image/archival photo",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/British_troops_wade_ashore_during_the_invasion_of_Sicily%2C_10_July_1943._NA4275.jpg",
+    "page_url": "https://commons.wikimedia.org/wiki/File:British_troops_wade_ashore_during_the_invasion_of_Sicily,_10_July_1943._NA4275.jpg",
+    "license": "Public domain, Commons tag {{PD-Scan|1=PD-UKGov}} (IWM NA 4275, Sgt Stubbs, No 2 Army Film & Photographic Unit)",
+    "credit_line": "British troops wade ashore in Sicily, 10 July 1943. Sgt Stubbs, No 2 AFPU, IWM NA 4275, via Wikimedia Commons (PD-UKGov)",
+    "what_it_shows": "A soldier with a rifle on his shoulder wades through the surf toward the camera, with more troops and landing ships (one numbered 123) behind. 800x799 px, square.",
+    "best_segments": "S4 result (11-15s): on 'while the Allies landed in Sicily'."
+  },
+  {
+    "file": "12_sicily_gela_26-G-1788.jpg",
+    "kind": "image/archival photo",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/26-G-1788_Sicily_Invasion%2C_July_1943.jpg",
+    "page_url": "https://commons.wikimedia.org/wiki/File:26-G-1788_Sicily_Invasion,_July_1943.jpg",
+    "license": "Public domain: US government work, Commons tag {{NHHC|license=PD-USGov-Military-Navy}} (US Coast Guard Collection, US National Archives 26-G-1788)",
+    "credit_line": "LCVPs landing vehicles at Gela, Sicily, 10-12 July 1943. U.S. Coast Guard / U.S. National Archives 26-G-1788, via Wikimedia Commons (public domain)",
+    "what_it_shows": "Two landing craft beached in the surf, a stalled truck, and US soldiers wading ashore at Gela. 1280x1048 px with a print border.",
+    "best_segments": "S4 alternative or second cut. Crop off the white border."
+  },
+  {
+    "file": "13_husky_axis_map_usma.svg",
+    "kind": "map (vector)",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Map_Operation_Husky_and_Axis_Dispositions.svg",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Map_Operation_Husky_and_Axis_Dispositions.svg",
+    "license": "Public domain: US Army work, Commons tag {{PD-USGov-Military-Army}} (United States Military Academy, Dept. of History)",
+    "credit_line": "Sicily, 1943: Allied plan for the invasion and Axis dispositions. U.S. Military Academy Dept. of History, via Wikimedia Commons (public domain)",
+    "what_it_shows": "A detailed map of Sicily with Allied landing arrows on 10 July 1943 (Patton, Bradley, Truscott, Eighth Army) and Axis divisions in red circles. It shows German Hermann Goering and 15th divisions ON Sicily, which is why the claim that Sicily got no German troops must not be used. Dense, so crop it. 1186x917 viewBox; the contact sheet used a qlmanage render.",
+    "best_segments": "S4: a quick zoom on the southern beaches with the landing arrows. Otherwise reference only."
+  },
+  {
+    "file": "14_mediterranean_satellite_basemap.jpg",
+    "kind": "map/basemap",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Mediterranean_Sea_16.61811E_38.99124N.jpg",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Mediterranean_Sea_16.61811E_38.99124N.jpg",
+    "license": "Public domain, Commons tags {{PD-WorldWind}} (NASA World Wind imagery) + {{PD-retouched-user-w|fr|French Wikipedia|Sting}}",
+    "credit_line": "Mediterranean basemap: NASA World Wind, retouched by Eric Gaba, via Wikimedia Commons (public domain)",
+    "what_it_shows": "A clean, label-free satellite view of the Mediterranean from Iberia to the Levant. 2046x1496 px. Approximate pixel anchors (checked visually): Huelva drop point about (120,760), Sardinia about (732,678), Sicily about (940,840), Peloponnese/Greece about (1300,862).",
+    "best_segments": "Basemap for the mechanism diagram behind S2 to S4."
+  }
+]

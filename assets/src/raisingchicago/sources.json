@@ -1,0 +1,103 @@
+[
+  {
+    "file": "commons_briggs_house_raising.jpg",
+    "kind": "image (wood engraving, 2072x1150)",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Briggs_house.jpg",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Briggs_house.jpg",
+    "license": "Public domain in the US: Commons tag {{PD-US}} (19th-century published engraving). Original held by Chicago History Museum.",
+    "credit_line": "Raising the Briggs House, Chicago (engraving, c. 1866). Chicago History Museum / Wikimedia Commons, public domain",
+    "what_it_shows": "HERO SHOT. The Briggs House hotel ('BRIGGS HOUSE' lettered across the facade) sitting on timber cribbing at street corner; a long line of workmen crouched along both walls turning jackscrews; three foremen stand on a platform at the corner; crowds watch from the street; people on the hotel balconies and in upper windows.",
+    "is_actual_event": true,
+    "date_note": "DATE DISPUTED: Commons says '1857 or 1866'. Primary sources (Chicago Tribune 7 Feb 1866 and 10 Nov 1866) show the Briggs House was raised in 1866, so 1866 is most likely. It is the Briggs House, NOT the Tremont House: do not caption it as the Tremont.",
+    "best_segments": "Hook / 'how' sentence. Slow push from full frame into the row of men at the screws (approx x 500-1300, y 650-950 of 2072x1150). Vertical 9:16 crop: centre on the corner (x 700-1350). Balcony crowd (x 1200-1880, y 330-450) works for 'guests stayed inside'."
+  },
+  {
+    "file": "commons_lake_street_block_raising_mendel_lithograph.jpg",
+    "kind": "image (hand-coloured lithograph, 2500x1352)",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Street_Raising_on_Lake_Street.jpg",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Street_Raising_on_Lake_Street.jpg",
+    "license": "Public domain in the US: Commons tag {{PD-US}} (published 19th-century lithograph). Original in Chicago History Museum.",
+    "credit_line": "Edward Mendel (lithographer), raising of the Lake Street block, Chicago (1860). Chicago History Museum / Wikimedia Commons, public domain",
+    "what_it_shows": "The whole north side of Lake Street between LaSalle and Clark: Marine Bank (left) and a continuous row of 4-5 storey brick stores, lifted onto timber cribbing several feet above the street; the sidewalk is hung from the block and shoppers walk along it; workmen and jacks visible in the gap at the base; carriages and crowds in the foreground.",
+    "is_actual_event": true,
+    "date_note": "DATE DISPUTED: Commons says 1857 and the Encyclopedia of Chicago captions it 1855, but the Chicago Press and Tribune (12 May 1860) says the three contracting firms commissioned this Mendel lithograph of the 1860 Lake Street raising; the stores and Marine Bank match the 1860 job. Use '1860'.",
+    "best_segments": "Wide establishing pan left-to-right along the raised row (Ken Burns). Detail: base of the block with cribbing and workers (y 680-760 of 1352). Good for 'a city lifting itself' and the 600 men / 6,000 screws block."
+  },
+  {
+    "file": "commons_raising_block_of_buildings_barber_howe_1865.jpg",
+    "kind": "image (wood engraving with printed caption, 612x624)",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Raising_a_Block_of_Buildings_in_Chicago.jpg",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Raising_a_Block_of_Buildings_in_Chicago.jpg",
+    "license": "Public domain: Commons tag {{PD-old-70-1923}} (published 1865).",
+    "credit_line": "'Raising a Block of Buildings in Chicago', John W. Barber & Henry Howe, The Loyal West in the Times of the Rebellion (1865), p. 764. Public domain",
+    "what_it_shows": "Street-level view of the Lake Street block mid-raise: corner building 'Culver Page & Hoyne' on cribbing, timber piles and screws along the base, ramps to the sidewalk, carts in the street. Printed caption: 320-foot front raised 'four feet and two thirds, by 6,000 screws ... turned, at signals, by a force of 600 men', five days.",
+    "is_actual_event": true,
+    "best_segments": "Low-res (612 px): use small in frame or as a quick insert; the caption text is a ready-made on-screen citation for '600 men / 6,000 screws'. Crop out caption for picture-only (y 0-530)."
+  },
+  {
+    "file": "loc_carbutt_tremont_house.jpg",
+    "kind": "photograph (albumen stereograph, 5900x3012 from LoC master TIFF)",
+    "source_url": "https://tile.loc.gov/storage-services/master/pnp/stereo/1s40000/1s47000/1s47900/1s47905u.tif",
+    "page_url": "https://www.loc.gov/item/2023636832/",
+    "license": "Public domain in the US (published 1860-1870, before 1931). LoC rights advisory: 'No known restrictions on publication.' (Commons equivalent: {{PD-US-expired}})",
+    "credit_line": "John Carbutt, 'Tremont House, cor. Lake and Dearborn Streets' (stereograph, between 1860 and 1870). Library of Congress, LC-DIG-stereo-1s47905",
+    "what_it_shows": "Real photograph of the Tremont House (the hotel raised six feet in 1861): six-storey brick hotel with cupola at the corner of Lake and Dearborn, unpaved street, barrels on the sidewalk. Stereo card, two near-identical frames on yellow mount.",
+    "is_actual_event": false,
+    "best_segments": "Crop LEFT frame only (approx x 400-2880, y 170-2680) for the 'Tremont House' name-reveal or twist; vertical crop on the hotel corner (x 400-1900). Not the raising itself; it shows the hotel after it was raised."
+  },
+  {
+    "file": "loc_tremont_house_flag_presentation_1856.jpg",
+    "kind": "image (wood engraving, newspaper page, 1536x924)",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Tremont_House%2C_Chicago_-_presentation_of_flag_to_Light_Guards%2C_by_Duquesne_Greys_of_Pittsburgh_LCCN99614042.jpg",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Tremont_House,_Chicago_-_presentation_of_flag_to_Light_Guards,_by_Duquesne_Greys_of_Pittsburgh_LCCN99614042.jpg",
+    "license": "Public domain in the US (published 1856). Commons: Public domain, {{CC-PD-Mark}}; LoC item 99614042, 'No known restrictions on publication.'",
+    "credit_line": "'Tremont House, Chicago', Frank Leslie's Illustrated Newspaper, 26 July 1856 (after a photograph by Hesler). Library of Congress, LCCN 99614042 (cph 3b46276)",
+    "what_it_shows": "The Tremont House BEFORE it was raised (1856): big multi-storey hotel on Lake Street packed with a crowd for a flag ceremony; newspaper masthead 'FRANK LESLIE'S ILLUSTRATED NEWSPAPER, July 26, 1856' at top.",
+    "is_actual_event": false,
+    "best_segments": "'Before' shot for the hotel; crop out the page border/masthead (x 200-1420, y 140-870). Grainy; use briefly."
+  },
+  {
+    "file": "commons_tremont_house_kurz_1866.jpg",
+    "kind": "image (tinted lithograph, 3600x2861)",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Tremont_House_%28NBY_1730%29.jpg",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Tremont_House_(NBY_1730).jpg",
+    "license": "Public domain: Commons tags {{PD-old-70-expired}} + {{CC-PD-Mark}} (Louis Kurz, d. 1921; published 1866). Newberry Library.",
+    "credit_line": "Louis Kurz, 'Tremont House', Chicago Illustrated (Jevne & Almini, Jan 1866). Newberry Library / Wikimedia Commons, public domain",
+    "what_it_shows": "Clean, high-res view of the Tremont House at Lake and Dearborn after its raising: six-storey hotel with flag and cupola, busy street with carriages and pedestrians, bank building at right.",
+    "is_actual_event": false,
+    "best_segments": "Best-looking Tremont image for the hook/name card. Crop the hotel (x 150-2050, y 650-2450 of 3600x2861); slow push toward the front steps/entrance for the 'steps got steeper' twist."
+  },
+  {
+    "file": "commons_briggs_house_kurz_1866.jpg",
+    "kind": "image (tinted lithograph, 3600x2756)",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Briggs_House_%28NBY_1718%29.jpg",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Briggs_House_(NBY_1718).jpg",
+    "license": "Public domain: Commons tags {{PD-old-70-expired}} + {{CC-PD-Mark}} (Louis Kurz; published July 1866). Newberry Library.",
+    "credit_line": "Louis Kurz, 'Briggs House', Chicago Illustrated (Jevne & Almini, July 1866). Newberry Library / Wikimedia Commons, public domain",
+    "what_it_shows": "Briggs House hotel at Randolph and Wells in colour, horse-cars marked 'RANDOLPH ST' and 'MILWAUKEE AV' in the street. Same building as the raising engraving.",
+    "is_actual_event": false,
+    "best_segments": "Optional colour 'after' match-cut with the Briggs raising engraving (same corner). Crop x 1000-2600, y 950-2450."
+  },
+  {
+    "file": "loc_carbutt_lake_street_east_from_clark.jpg",
+    "kind": "photograph (stereograph, 1024x528 LoC service JPEG)",
+    "source_url": "https://tile.loc.gov/storage-services/service/pnp/stereo/1s40000/1s47000/1s47900/1s47904v.jpg",
+    "page_url": "https://www.loc.gov/item/2023636831/",
+    "license": "Public domain in the US (published 1860-1870, before 1931). LoC rights advisory: 'No known restrictions on publication.' (Commons equivalent: {{PD-US-expired}})",
+    "credit_line": "John Carbutt, 'Lake Street, looking East from Clark' (stereograph, between 1860 and 1870). Library of Congress, LC-DIG-stereo-1s47904",
+    "what_it_shows": "Real photo of Lake Street with flags, awnings, raised plank sidewalks and the muddy street below. Period texture, not a raising in progress.",
+    "is_actual_event": false,
+    "best_segments": "B-roll for 'the city' in the why sentence. Low-res (1024 px); master TIFF available at https://tile.loc.gov/storage-services/master/pnp/stereo/1s40000/1s47000/1s47900/1s47904u.tif if needed. Use left frame (x 70-500)."
+  },
+  {
+    "file": "commons_tribune_ad_raising_business_blocks_1858.jpg",
+    "kind": "image (newspaper clipping, 392x190)",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Ad_with_typos.jpg",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Ad_with_typos.jpg",
+    "license": "Public domain in the US: Commons tag {{PD-US}} (Chicago Daily Tribune, 29 Jan 1858).",
+    "credit_line": "Advertisement, Chicago Daily Tribune, 29 Jan 1858. Wikimedia Commons, public domain",
+    "what_it_shows": "Classified ad 'Raising Business Blocks. ... ready to make contracts for RAISING BUSINESS BLOCKS TO GRADE ... JAMES HOLLINGWORTH' (misspelled Hollingsworth; misprinted date 1857).",
+    "is_actual_event": true,
+    "best_segments": "Tiny; quick insert or texture only. Headline 'Raising Business Blocks.' is legible."
+  }
+]

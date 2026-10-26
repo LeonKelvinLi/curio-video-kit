@@ -1,0 +1,332 @@
+[
+  {
+    "file": "clips/m100_wfpc1_to_wfpc2_10s.mp4",
+    "kind": "video clip (1440x1080 4:3 crop, 30fps, 10.0s, no audio)",
+    "source_url": "https://svs.gsfc.nasa.gov/vis/a010000/a013000/a013082/First_Light.mp4",
+    "page_url": "https://svs.gsfc.nasa.gov/13082/",
+    "license": "Public domain. NASA SVS: \"All of our content is in the public domain (unless otherwise noted)\"; NASA media guidelines: NASA content is \"generally ... not subject to copyright in the United States\". No exception noted on this item.",
+    "credit_line": "NASA's Goddard Space Flight Center / Hubble Archive (SVS 13082, 'Post-Servicing Mission 1 First Light' VNR, 1994)",
+    "what_it_shows": "NASA's own 1994 VNR comparison of galaxy M100 at the centre of a black frame. 0.0-5.6s: blurry WFPC1 image (soft glow, no detail). 5.6-6.4s: quick dissolve. 6.4-10.0s: sharp WFPC2 image with dust lanes and star clusters. Cut from source at 57.0-67.0s.",
+    "best_segments": "THE before/after beat. Hold 0-5.5s under the flaw sentence, then let the 5.6-6.4s dissolve land on the result sentence. The galaxy fills only the middle ~60% of the frame: scale it up for 9:16. Source still has an older title card at 43-52s and a WFPC2 mosaic at 76-84s; neither is used."
+  },
+  {
+    "file": "nasa_msfc_m100_wfpc1_vs_wfpc2.jpg",
+    "kind": "image (3000x2307 scan of NASA print)",
+    "source_url": "https://images-assets.nasa.gov/image/9408670/9408670~orig.jpg",
+    "page_url": "https://images.nasa.gov/details/9408670",
+    "license": "Public domain (NASA/MSFC image, NASA Image and Video Library; NASA content generally not subject to US copyright). Credit NASA as the source.",
+    "credit_line": "NASA/MSFC (image 9408670)",
+    "what_it_shows": "NASA print titled 'M100 Galactic Nucleus / Hubble Space Telescope / Wide Field Planetary Camera 2' with two square panels. Left: blurry WFPC1 image of M100. Right: sharp WFPC2 image. Captions under the panels read 'Wide Field Planetary Camera 1' and 'Wide Field Planetary Camera 2'. White print border.",
+    "best_segments": "Use the two crops below for a split screen or a wipe. The full print is good as an 'archive document' shot with its title visible. NOTE: the NASA caption on this item says '2-micron' and 'four spacewalks'. Don't quote that caption (see facts.json)."
+  },
+  {
+    "file": "nasa_msfc_m100_BEFORE_wfpc1_crop.jpg",
+    "kind": "image (1400x1400 crop of 9408670, left panel)",
+    "source_url": "https://images-assets.nasa.gov/image/9408670/9408670~orig.jpg",
+    "page_url": "https://images.nasa.gov/details/9408670",
+    "license": "Public domain (derived crop of NASA/MSFC 9408670)",
+    "credit_line": "NASA/MSFC",
+    "what_it_shows": "Blurry pre-fix (WFPC1) image of the M100 galaxy core alone, with no text and no border.",
+    "best_segments": "Full frame. Overlay a 'BEFORE · 1993' tag and pair it with the AFTER crop."
+  },
+  {
+    "file": "nasa_msfc_m100_AFTER_wfpc2_crop.jpg",
+    "kind": "image (1400x1400 crop of 9408670, right panel)",
+    "source_url": "https://images-assets.nasa.gov/image/9408670/9408670~orig.jpg",
+    "page_url": "https://images.nasa.gov/details/9408670",
+    "license": "Public domain (derived crop of NASA/MSFC 9408670)",
+    "credit_line": "NASA/MSFC",
+    "what_it_shows": "Sharp post-fix (WFPC2) image of the M100 galaxy core. Same framing as the BEFORE crop, so the two align for a wipe or crossfade.",
+    "best_segments": "Full frame. A crossfade or wipe from BEFORE to AFTER at the same scale makes the result beat."
+  },
+  {
+    "file": "nasa_jpl_m100_three_cameras.jpg",
+    "kind": "image (1881x627, three panels)",
+    "source_url": "https://images-assets.nasa.gov/image/PIA22913/PIA22913~orig.jpg",
+    "page_url": "https://photojournal.jpl.nasa.gov/catalog/PIA22913",
+    "license": "Mixed. NASA/JPL Photojournal release; credited 'NASA, ESA, STScI and Judy Schmidt'. Judy Schmidt is a third-party image processor (the 2018 WFC3 panel), so this is not cleanly NASA public domain. Use only with the full credit, or prefer 9408670.",
+    "credit_line": "NASA, ESA, STScI and Judy Schmidt",
+    "what_it_shows": "Three M100 core panels labelled 'WFPC1 (1993)', 'WFPC2 (1994)' and 'WFC3 (2018)', with 'M100 Hubble Space Telescope' in the top-left. Blurry, then sharp, then sharper.",
+    "best_segments": "Backup only. Low resolution (each panel ~627px)."
+  },
+  {
+    "file": "nasa_sts61_thornton_lifts_costar.jpg",
+    "kind": "image (4296x2812, 35mm/Hasselblad scan)",
+    "source_url": "https://images-assets.nasa.gov/image/sts061-47-014/sts061-47-014~orig.jpg",
+    "page_url": "https://images.nasa.gov/details/sts061-47-014",
+    "license": "Public domain (NASA/JSC). NASA insignia on the hardware is not to be used as a logo or endorsement.",
+    "credit_line": "NASA (STS061-47-014, 8 Dec 1993)",
+    "what_it_shows": "The 'glasses' going in. Kathryn Thornton (top, on the robot-arm foot restraint) holds the silver phone-booth-sized COSTAR box in front of Hubble's open axial-bay doors. Tom Akers is at lower left, and the orange carrier is below with JPL/NASA decals. Black space background.",
+    "best_segments": "Hero still for the fix sentence. Vertical crop around x 1500-3400 keeps COSTAR and Thornton. Slow push-in on the COSTAR box."
+  },
+  {
+    "file": "nasa_sts61_akers_costar_bay.jpg",
+    "kind": "image (4095x4095)",
+    "source_url": "https://images-assets.nasa.gov/image/STS061-94-059/STS061-94-059~orig.jpg",
+    "page_url": "https://images.nasa.gov/details/STS061-94-059",
+    "license": "Public domain (NASA/JSC)",
+    "credit_line": "NASA (STS061-94-059, 8 Dec 1993)",
+    "what_it_shows": "Tom Akers inside the dark open axial bay that will hold COSTAR, seen from behind, with the robot arm and Thornton's legs at left. The caption calls COSTAR 'the 640-pound instrument'.",
+    "best_segments": "Square image, good for a 9:16 crop on Akers in the bay (right half). Insert shot for the fix beat."
+  },
+  {
+    "file": "nasa_sts61_hoffman_wfpc2_rms.jpg",
+    "kind": "image (4292x2800)",
+    "source_url": "https://images-assets.nasa.gov/image/sts061-58-033/sts061-58-033~orig.jpg",
+    "page_url": "https://images.nasa.gov/details/sts061-58-033",
+    "license": "Public domain (NASA/JSC)",
+    "credit_line": "NASA (STS061-58-033, 7 Dec 1993)",
+    "what_it_shows": "Jeffrey Hoffman on the robot arm works with the replacement WF/PC II (WFPC2) at Hubble's side during the third of five spacewalks. A second suited astronaut (Musgrave) is in the upper left. Dark, low-key lighting.",
+    "best_segments": "Right half for vertical (Hoffman full-body, x 2600-4200). Use for the 'new camera' beat."
+  },
+  {
+    "file": "nasa_sts61_hoffman_inserts_wfpc2.jpg",
+    "kind": "image (3604x2876, 1993 electronic-still-camera frame)",
+    "source_url": "https://images-assets.nasa.gov/image/s61e0018/s61e0018~orig.jpg",
+    "page_url": "https://images.nasa.gov/details/s61e0018",
+    "license": "Public domain (NASA/JSC)",
+    "credit_line": "NASA (S61-E-018)",
+    "what_it_shows": "Hoffman inserting WFPC2 into Hubble's side. The black-and-white frame looks overexposed and almost negative, and has a 'PUB05027.TGA' label at bottom right.",
+    "best_segments": "Low quality. Avoid, or use as a quick gritty 'raw data' flash."
+  },
+  {
+    "file": "nasa_jpl_hoffman_musgrave_install_wfpc2.jpg",
+    "kind": "image (1200x675)",
+    "source_url": "https://images-assets.nasa.gov/image/PIA22911/PIA22911~orig.jpg",
+    "page_url": "https://photojournal.jpl.nasa.gov/catalog/PIA22911",
+    "license": "Public domain (NASA; JPL Photojournal credit 'NASA')",
+    "credit_line": "NASA/JPL (PIA22911)",
+    "what_it_shows": "Hoffman and Musgrave installing WFPC2 against a bright blue Earth. Heavy blue cast, and the wedge-shaped camera is visible.",
+    "best_segments": "Small file. OK as a 1-second insert at 16:9; too soft for full-screen 9:16."
+  },
+  {
+    "file": "nasa_sts61_musgrave_hoffman_final_eva.jpg",
+    "kind": "image (3738x5632, vertical)",
+    "source_url": "https://images-assets.nasa.gov/image/sts061-48-001/sts061-48-001~orig.jpg",
+    "page_url": "https://images.nasa.gov/details/sts061-48-001",
+    "license": "Public domain (NASA/JSC)",
+    "credit_line": "NASA (STS061-48-001, 9 Dec 1993)",
+    "what_it_shows": "Iconic shot looking up the shuttle bay. Hubble stands vertical in Endeavour's cargo bay with the west coast of Australia and blue ocean behind. Musgrave and Hoffman sit atop the robot-arm foot restraint at upper right during the final (fifth) spacewalk.",
+    "best_segments": "Native vertical, so it can run full-screen for 9:16. Strong opener or closer: slow tilt from the cargo bay up to Hubble and the astronauts."
+  },
+  {
+    "file": "nasa_sts61_musgrave_first_eva.jpg",
+    "kind": "image (2987x3000, fisheye)",
+    "source_url": "https://images-assets.nasa.gov/image/sts061-104-007/sts061-104-007~orig.jpg",
+    "page_url": "https://images.nasa.gov/details/sts061-104-007",
+    "license": "Public domain (NASA/JSC)",
+    "credit_line": "NASA (STS061-104-007, 5 Dec 1993)",
+    "what_it_shows": "Fisheye view of Story Musgrave holding a handrail on Hubble during the first of five spacewalks. The solar array is upper right, Earth's curve is behind, and the gold-foiled bay is below.",
+    "best_segments": "Dramatic spacewalk still. Centre crop on Musgrave works for vertical."
+  },
+  {
+    "file": "nasa_sts61_hubble_nears_endeavour.jpg",
+    "kind": "image (4779x4722)",
+    "source_url": "https://images-assets.nasa.gov/image/sts061-73-040/sts061-73-040~orig.jpg",
+    "page_url": "https://images.nasa.gov/details/sts061-73-040",
+    "license": "Public domain (NASA/JSC)",
+    "credit_line": "NASA (STS061-73-040, 4 Dec 1993)",
+    "what_it_shows": "The blurry-eyed Hubble alone against black space, solar arrays bent and curled, as Endeavour closes in for capture.",
+    "best_segments": "Clean isolated-telescope shot for the hook (\"the telescope\"). Push-in on the centre."
+  },
+  {
+    "file": "nasa_sts31_hubble_released.jpg",
+    "kind": "image (4158x4182)",
+    "source_url": "https://images-assets.nasa.gov/image/s31-76-039/s31-76-039~orig.jpg",
+    "page_url": "https://images.nasa.gov/details/s31-76-039",
+    "license": "Public domain (NASA/JSC)",
+    "credit_line": "NASA (S31-76-039, STS-31, 25 Apr 1990)",
+    "what_it_shows": "Hubble, small and black, just released from Discovery's robot arm (right) over the white Salar de Uyuni salt flat and the Andes. The shuttle window edge is visible bottom-left.",
+    "best_segments": "Hook / launch beat. Vertical crop around Hubble and the arm tip (x 900-3300)."
+  },
+  {
+    "file": "nasa_sts31_hubble_over_andes.jpg",
+    "kind": "image (2400x2353)",
+    "source_url": "https://images-assets.nasa.gov/image/90pc2151/90pc2151~orig.jpg",
+    "page_url": "https://images.nasa.gov/details/90pc2151",
+    "license": "Public domain (NASA; KSC-hosted JSC onboard photo)",
+    "credit_line": "NASA (KSC-90PC-2151 / STS-31 onboard)",
+    "what_it_shows": "Same deployment moment from another angle. Hubble over Salar de Uyuni with the RMS arm entering from the bottom; Lake Titicaca is upper right.",
+    "best_segments": "Alternate deployment still. The arm at the bottom makes a natural vertical composition."
+  },
+  {
+    "file": "clips/sts31_hubble_on_arm_above_earth_6s.mp4",
+    "kind": "video clip (940x704, 59.94fps, 6s, no audio)",
+    "source_url": "https://svs.gsfc.nasa.gov/vis/a010000/a013000/a013081/GSFC_1990xxxx_HST_m001.mp4",
+    "page_url": "https://svs.gsfc.nasa.gov/13081/",
+    "license": "Public domain (NASA SVS 'Hubble Archive - Launch, STS-31'; no exception noted)",
+    "credit_line": "NASA's Goddard Space Flight Center / Hubble Archive (SVS 13081), STS-31 Mission Highlights Resource Tape, 1990",
+    "what_it_shows": "Real 1990 STS-31 footage. Hubble, a small dark cylinder, floats free just off Discovery's robot-arm end effector above Earth's curved limb and clouds, against black space. Nearly static. Source 2200-2206s; the SVS chapter list puts 'Go for Hubble release' at 36:25.",
+    "best_segments": "Full 6s for the hook. Source scene runs 2194.1-2211.7s if more is needed."
+  },
+  {
+    "file": "clips/sts31_hubble_release_drifts_from_arm_6s.mp4",
+    "kind": "video clip (940x704, 59.94fps, 6s, no audio)",
+    "source_url": "https://svs.gsfc.nasa.gov/vis/a010000/a013000/a013081/GSFC_1990xxxx_HST_m001.mp4",
+    "page_url": "https://svs.gsfc.nasa.gov/13081/",
+    "license": "Public domain (NASA SVS)",
+    "credit_line": "NASA's Goddard Space Flight Center / Hubble Archive (SVS 13081)",
+    "what_it_shows": "Looking down: tiny Hubble beside the robot arm over South America's coast and Andes clouds, drifting slowly away. Source 2217-2223s.",
+    "best_segments": "Scale ratio sells 'one-and-a-half-billion-dollar' as a speck. Source scene runs 2215.6-2244.6s."
+  },
+  {
+    "file": "clips/sts31_hubble_drifting_over_clouds_6s.mp4",
+    "kind": "video clip (940x704, 59.94fps, 6s, no audio)",
+    "source_url": "https://svs.gsfc.nasa.gov/vis/a010000/a013000/a013081/GSFC_1990xxxx_HST_m001.mp4",
+    "page_url": "https://svs.gsfc.nasa.gov/13081/",
+    "license": "Public domain (NASA SVS)",
+    "credit_line": "NASA's Goddard Space Flight Center / Hubble Archive (SVS 13081)",
+    "what_it_shows": "Continuation of the previous shot: Hubble a few pixels wide, further from the arm, over the coastline. Source 2236-2242s.",
+    "best_segments": "Alternate or extension of the release shot."
+  },
+  {
+    "file": "clips/sts31_hubble_solar_arrays_on_arm_6s.mp4",
+    "kind": "video clip (940x704, 59.94fps, 6s, no audio)",
+    "source_url": "https://svs.gsfc.nasa.gov/vis/a010000/a013000/a013081/GSFC_1990xxxx_HST_m001.mp4",
+    "page_url": "https://svs.gsfc.nasa.gov/13081/",
+    "license": "Public domain (NASA SVS)",
+    "credit_line": "NASA's Goddard Space Flight Center / Hubble Archive (SVS 13081)",
+    "what_it_shows": "Hubble held on the arm under the shuttle's tail, with orange-lit solar array panels partly deployed and Earth's limb at right. Source 1660-1666s.",
+    "best_segments": "Optional launch-era B-roll."
+  },
+  {
+    "file": "svs13082_sm1_highlights_16mm.mp4",
+    "kind": "video (1280x720 with 4:3 picture pillarboxed, 59.94fps, 3:59, full file)",
+    "source_url": "https://svs.gsfc.nasa.gov/vis/a010000/a013000/a013082/GSFC_199312xx_HST_m001.mp4",
+    "page_url": "https://svs.gsfc.nasa.gov/13082/",
+    "license": "Public domain (NASA SVS; the slate says 'Credit: NASA')",
+    "credit_line": "NASA / Goddard Space Flight Center, 'HST Archival Film Highlights: Servicing Mission 1 (SM1)' (16mm film B-roll)",
+    "what_it_shows": "Upconverted 16mm film from STS-61 (Dec 1993). 0-10s text slate. 10-22s airlock hatch view. 22-45s astronaut on robot arm at Hubble's aft end. 45-54s astronaut on arm, Earth behind. 55-63s Hubble on arm over Earth. 64-75s helmet visor close-up. 75-95s COSTAR lifted from the carrier. 95-102s astronaut with COSTAR. 102-115s COSTAR at the open bay doors. 115-130s astronaut and box over JPL carrier. 137-152s astronauts in bay. 152-174s astronaut small at Hubble. 174-185s Hubble on arm with solar array. 185-204s old solar array jettisoned, tumbling away. 212-229s mission control and newspaper 'Hubble solar panel trashed'. 229-239s repaired Hubble released.",
+    "best_segments": "Picture area is crop=960:720:160:0. Scene cuts at 10.0, 45.3, 54.7, 75.3, 95.3, 102.5, 115.4, 129.7, 137.9, 152.3, 174.2, 185.2, 203.6, 212.0, 221.1 and 229.2s. Pre-cut clips are below."
+  },
+  {
+    "file": "clips/sm1_costar_lifted_from_carrier_6s.mp4",
+    "kind": "video clip (960x720, 59.94fps, 6s, no audio)",
+    "source_url": "https://svs.gsfc.nasa.gov/vis/a010000/a013000/a013082/GSFC_199312xx_HST_m001.mp4",
+    "page_url": "https://svs.gsfc.nasa.gov/13082/",
+    "license": "Public domain (NASA SVS)",
+    "credit_line": "NASA / Goddard Space Flight Center (SVS 13082, SM1 16mm film)",
+    "what_it_shows": "REAL FOOTAGE of the 'glasses' going in. A suited astronaut on the robot arm lifts the silver COSTAR box out of the orange-foil carrier at Hubble's aft end. The same scene and composition as NASA photo STS061-47-014 (Thornton lifting COSTAR, Akers lower left), so the identification is confirmed. Source 79-85s.",
+    "best_segments": "Fix sentence. The whole scene runs 75.3-95.3s if a longer hold is wanted."
+  },
+  {
+    "file": "clips/sm1_astronaut_with_costar_6s.mp4",
+    "kind": "video clip (960x720, 59.94fps, 6s, no audio)",
+    "source_url": "https://svs.gsfc.nasa.gov/vis/a010000/a013000/a013082/GSFC_199312xx_HST_m001.mp4",
+    "page_url": "https://svs.gsfc.nasa.gov/13082/",
+    "license": "Public domain (NASA SVS)",
+    "credit_line": "NASA / Goddard Space Flight Center (SVS 13082)",
+    "what_it_shows": "Closer shot: the astronaut on the arm guides the big silver COSTAR box. Gold visor, US flag patch, and magenta lens flare in the upper right. Source 96-102s.",
+    "best_segments": "Best close-up action of the install; use 0-6s."
+  },
+  {
+    "file": "clips/sm1_costar_at_hubble_bay_6s.mp4",
+    "kind": "video clip (960x720, 59.94fps, 6s, no audio)",
+    "source_url": "https://svs.gsfc.nasa.gov/vis/a010000/a013000/a013082/GSFC_199312xx_HST_m001.mp4",
+    "page_url": "https://svs.gsfc.nasa.gov/13082/",
+    "license": "Public domain (NASA SVS)",
+    "credit_line": "NASA / Goddard Space Flight Center (SVS 13082)",
+    "what_it_shows": "Wide shot: the astronaut on the arm holds COSTAR between Hubble's open black axial-bay doors above the carrier, with a second astronaut lower-left. Source 104-110s.",
+    "best_segments": "Establishing shot of the install. Pairs with the close-up above."
+  },
+  {
+    "file": "clips/sm1_hubble_on_arm_over_earth_6s.mp4",
+    "kind": "video clip (960x720, 59.94fps, 6s, no audio)",
+    "source_url": "https://svs.gsfc.nasa.gov/vis/a010000/a013000/a013082/GSFC_199312xx_HST_m001.mp4",
+    "page_url": "https://svs.gsfc.nasa.gov/13082/",
+    "license": "Public domain (NASA SVS)",
+    "credit_line": "NASA / Goddard Space Flight Center (SVS 13082)",
+    "what_it_shows": "Hubble's aft end held by the robot arm against a big blue Earth: a coastline, desert and cloud bands. Source 55-61s.",
+    "best_segments": "Beautiful transition or establishing shot for 1993."
+  },
+  {
+    "file": "clips/sm1_astronaut_on_arm_at_hubble_6s.mp4",
+    "kind": "video clip (960x720, 59.94fps, 6s, no audio)",
+    "source_url": "https://svs.gsfc.nasa.gov/vis/a010000/a013000/a013082/GSFC_199312xx_HST_m001.mp4",
+    "page_url": "https://svs.gsfc.nasa.gov/13082/",
+    "license": "Public domain (NASA SVS)",
+    "credit_line": "NASA / Goddard Space Flight Center (SVS 13082)",
+    "what_it_shows": "An astronaut standing on the end of the robot arm in front of Hubble's tall foil-covered body; the arm moves slightly. Source 25.3-31.3s.",
+    "best_segments": "Generic spacewalk-at-Hubble shot; use 0-6s."
+  },
+  {
+    "file": "clips/sm1_helmet_visor_closeup_6s.mp4",
+    "kind": "video clip (960x720, 59.94fps, 6s, no audio)",
+    "source_url": "https://svs.gsfc.nasa.gov/vis/a010000/a013000/a013082/GSFC_199312xx_HST_m001.mp4",
+    "page_url": "https://svs.gsfc.nasa.gov/13082/",
+    "license": "Public domain (NASA SVS)",
+    "credit_line": "NASA / Goddard Space Flight Center (SVS 13082)",
+    "what_it_shows": "Tight close-up of a spacewalker's helmet visor reflecting the orbiter, with a white suit shoulder. Source 65.2-71.2s.",
+    "best_segments": "Tense 1-2s punch-in under the '[tense]' sentence."
+  },
+  {
+    "file": "clips/sm1_hubble_on_arm_solar_array_6s.mp4",
+    "kind": "video clip (960x720, 59.94fps, 6s, no audio)",
+    "source_url": "https://svs.gsfc.nasa.gov/vis/a010000/a013000/a013082/GSFC_199312xx_HST_m001.mp4",
+    "page_url": "https://svs.gsfc.nasa.gov/13082/",
+    "license": "Public domain (NASA SVS)",
+    "credit_line": "NASA / Goddard Space Flight Center (SVS 13082)",
+    "what_it_shows": "Hubble on the arm with a solar array panel, bright white Earth behind and a window frame edge. Source 174.5-180.5s.",
+    "best_segments": "Optional B-roll."
+  },
+  {
+    "file": "clips/sm1_hubble_release_after_repair_6s.mp4",
+    "kind": "video clip (960x720, 59.94fps, 6s, no audio)",
+    "source_url": "https://svs.gsfc.nasa.gov/vis/a010000/a013000/a013082/GSFC_199312xx_HST_m001.mp4",
+    "page_url": "https://svs.gsfc.nasa.gov/13082/",
+    "license": "Public domain (NASA SVS)",
+    "credit_line": "NASA / Goddard Space Flight Center (SVS 13082)",
+    "what_it_shows": "The repaired Hubble, aperture end toward camera with new solar arrays spread, floating free against black after release. The arm tip is upper-left. Source 229.5-235.5s.",
+    "best_segments": "Result sentence, before or after the M100 dissolve. Strong last shot."
+  },
+  {
+    "file": "clips/scientists_watch_first_corrected_images_8s.mp4",
+    "kind": "video clip (1440x1080 4:3 crop, 30fps, 8s, no audio)",
+    "source_url": "https://svs.gsfc.nasa.gov/vis/a010000/a013000/a013082/First_Light.mp4",
+    "page_url": "https://svs.gsfc.nasa.gov/13082/",
+    "license": "Public domain (NASA SVS)",
+    "credit_line": "NASA's Goddard Space Flight Center / Hubble Archive (SVS 13082)",
+    "what_it_shows": "Real 1993-94 footage of a crowd of scientists leaning over a computer monitor as the first corrected images come in. At ~5s it cuts to a close-up of a grinning scientist. Source 94-102s.",
+    "best_segments": "5.0-8.0s: the grin works as a human reaction under 'Hubble finally saw as designed'. Identifiable people, so keep it factual (no implied endorsement)."
+  },
+  {
+    "file": "clips/costar_1993_animation_mirror_arms_6s.mp4",
+    "kind": "video clip (1440x1080 4:3 crop, 30fps, 6s, no audio)",
+    "source_url": "https://svs.gsfc.nasa.gov/vis/a010000/a013000/a013082/First_Light.mp4",
+    "page_url": "https://svs.gsfc.nasa.gov/13082/",
+    "license": "Public domain (NASA SVS)",
+    "credit_line": "NASA's Goddard Space Flight Center / Hubble Archive (SVS 13082)",
+    "what_it_shows": "Crude 1990s NASA CG animation of COSTAR: a green instrument slides into the telescope, then small mirror assemblies on cyan and yellow arms deploy into the light path. Source 455-461s. More of the animation runs 461-478s, and another arm animation 671-686s.",
+    "best_segments": "Optional retro 'how the glasses work' insert. Better to build your own diagram (see facts.json diagram_idea)."
+  },
+  {
+    "file": "nasa_tooltime_sm1_full.mp4",
+    "kind": "video (1920x1080, 30fps, 4:42, full file)",
+    "source_url": "https://images-assets.nasa.gov/video/GSFC_20190423_HST_m13176_TTSM1/GSFC_20190423_HST_m13176_TTSM1~large.mp4",
+    "page_url": "https://images.nasa.gov/details/GSFC_20190423_HST_m13176_TTSM1",
+    "license": "Public domain (NASA/GSFC, NASA Image and Video Library). It includes an archival clip of Sen. Barbara Mikulski (~1:35): an identifiable person, so don't imply endorsement.",
+    "credit_line": "NASA's Goddard Space Flight Center / Katrina Jackson, John Caldwell ('Hubble Tool Time Episode 2 - Servicing Mission 1', 2019)",
+    "what_it_shows": "Mostly studio talk with John Grunsfeld and Russ Werneth holding the power ratchet tool. Archival inserts: 0:40 Hubble on arm; 0:50 shuttle launch; 1:11-1:16 primary mirror in a clean room; 1:20-1:26 SM1 spacewalk; 1:30 COSTAR (with lower-third); 1:35 Mikulski holding the before/after print; 2:45 and 3:05-3:35 EVA. Werneth says the mirror was '1/50th the diameter of a piece of human hair too flat' (VTT 1:03-1:13).",
+    "best_segments": "Mostly unusable (lower-thirds, talking heads). Use the pre-cut mirror clip below."
+  },
+  {
+    "file": "clips/archival_primary_mirror_cleanroom_5s.mp4",
+    "kind": "video clip (1440x1080 4:3 crop, 30fps, 5.5s, no audio; SD archival upscaled, soft)",
+    "source_url": "https://images-assets.nasa.gov/video/GSFC_20190423_HST_m13176_TTSM1/GSFC_20190423_HST_m13176_TTSM1~large.mp4",
+    "page_url": "https://images.nasa.gov/details/GSFC_20190423_HST_m13176_TTSM1",
+    "license": "Published by NASA as public domain. The archival mirror footage's original maker (likely NASA or its contractor Perkin-Elmer) is not stated; low risk, but not independently verified.",
+    "credit_line": "NASA's Goddard Space Flight Center (archival footage in 'Hubble Tool Time Ep. 2')",
+    "what_it_shows": "Archival footage of Hubble's 2.4 m primary mirror in fabrication or cleaning. 0-0.9s: close-up of a gloved hand at the mirror's central hole. 1.0-3.9s: wide shot of a technician in a cleanroom suit beside the big mirror with its central hole. 4.0-5.5s: grazing close-up across the mirror surface and central hole. Source 71.0-76.5s.",
+    "best_segments": "1.0-3.9s under 'its mirror's edge was ground...'; 4.0-5.5s works for an 'edge' zoom with the 2.2-micron callout."
+  },
+  {
+    "file": "allen_report_1990.pdf",
+    "kind": "document (PDF, 116 pages, 5.9 MB)",
+    "source_url": "https://ntrs.nasa.gov/api/citations/19910003124/downloads/19910003124.pdf",
+    "page_url": "https://ntrs.nasa.gov/citations/19910003124",
+    "license": "US Government work (NASA technical report), public domain",
+    "credit_line": "NASA, 'The Hubble Space Telescope Optical Systems Failure Report' (Allen Report), November 1990",
+    "what_it_shows": "Primary source for the cause. Executive summary pp. 4-6; Chapter VII ('How it occurred', p. 42+) covers the 1.3 mm field-lens spacing and the spacers; Appendix C (pp. 89-96) has the paraxial vs marginal focus ray diagrams (Figures C-1 and C-4), a ready-made basis for the mechanism diagram; Appendix E gives the design vs as-built conic constants (-1.0022985 vs -1.013236).",
+    "best_segments": "Screenshots of Figure C-4 or the title page could serve as a 'the official report' insert."
+  }
+]
