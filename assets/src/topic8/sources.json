@@ -1,0 +1,262 @@
+[
+  {
+    "file": "video/elliott_ia_CEP176_stillman.mpg",
+    "kind": "video master (720x480 MPEG2 SAR 8:9, telecined TFF, 125.5 s, silent) - BEST-LICENSED COPY of the collapse reel",
+    "source_url": "https://archive.org/download/CEP176/CEP176.mpg",
+    "page_url": "https://archive.org/details/CEP176",
+    "license": "Public domain in the US (published 1940; no renewal found). Commons file page: {{Prelinger}} = Creative Commons Public Domain Dedication; IA CEP176/SF121 licenseurl http://creativecommons.org/licenses/publicdomain/. Copyright evidence: CCE Motion Pictures 1940-1949 cumulative catalog has no 1940 entry mentioning Tacoma/Narrows (only 1949 newsreels on the rebuild); CCE renewal volumes for 1967 and 1968 (Motion Pictures) have no entry for Tacoma, Narrows or Castle Films, and the 1968 Paramount News renewal lists only issue 104 (26 Aug 1940). National Film Registry (1998) is a preservation designation, not a rights grant. Caveats: Elliott and Monroe families hold the original (colour Kodachrome) footage; use only these B&W 1940 release copies, never colour versions (Periscope colour copy is CC BY-NC-ND).",
+    "credit_line": "Film: Barney Elliott & Harbine Monroe (Tacoma Camera Shop), 1940. Copy: Stillman Fires Collection / Tacoma Fire Department via / Internet Archive (public domain)",
+    "what_it_shows": "'Disaster' + 'The Crash' sections: side views of the twisting deck from shore, roadway tilting with lamp posts, girder close-ups, crowd at toll plaza, man hurrying off deck, view between tower legs, centre span tearing away and plunging (ends on the splash, no aftermath).",
+    "best_segments": "0:07-0:12 side twist; 0:23-0:29 roadway tilts; 0:55-1:02 side twist close; 1:03-1:11 deck waves between cables; 1:27-1:31 man hurries off; 1:39-1:49 tower-leg view; 1:50-2:00 span tears and falls. Needs IVTC (fieldmatch,yadif,decimate) and scale to 640x480."
+  },
+  {
+    "file": "video/elliott_commons_tacoma_destruction.ogv",
+    "kind": "video master (640x480 Theora, 149.7 s, silent)",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Tacoma_Narrows_Bridge_destruction.ogv",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Tacoma_Narrows_Bridge_destruction.ogv",
+    "license": "Commons: {{Prelinger|https://archive.org/details/Pa2096Tacoma}} (Creative Commons Public Domain Dedication); Commons Media of the Day 2009-08-02. Public domain in the US (published 1940; no renewal found). Commons file page: {{Prelinger}} = Creative Commons Public Domain Dedication; IA CEP176/SF121 licenseurl http://creativecommons.org/licenses/publicdomain/. Copyright evidence: CCE Motion Pictures 1940-1949 cumulative catalog has no 1940 entry mentioning Tacoma/Narrows (only 1949 newsreels on the rebuild); CCE renewal volumes for 1967 and 1968 (Motion Pictures) have no entry for Tacoma, Narrows or Castle Films, and the 1968 Paramount News renewal lists only issue 104 (26 Aug 1940). National Film Registry (1998) is a preservation designation, not a rights grant. Caveats: Elliott and Monroe families hold the original (colour Kodachrome) footage; use only these B&W 1940 release copies, never colour versions (Periscope colour copy is CC BY-NC-ND).",
+    "credit_line": "Film: Barney Elliott & Harbine Monroe (Tacoma Camera Shop), 1940. Copy: Prelinger Archives / Internet Archive (public domain)",
+    "what_it_shows": "Same 'Disaster'/'The Crash' sections as CEP176 PLUS the aftermath: broken span hanging from cables seen from the water, twisted debris, sagging side span from the tower.",
+    "best_segments": "2:15-2:20 broken span from water; 2:21-2:24 debris; 2:24-2:28 sag from tower."
+  },
+  {
+    "file": "video/elliott_prelinger_2096_tacoma_collapse.mp4",
+    "kind": "video master (640x480 h264, 237.8 s, silent) - most complete version incl. construction + opening day",
+    "source_url": "https://archive.org/download/Tacoma-Narrows_Bridge_Collapse/2096_Tacoma-Narrows_Bridge_Collapse_03_11_13_15_3mb.mp4",
+    "page_url": "https://archive.org/details/Tacoma-Narrows_Bridge_Collapse",
+    "license": "Prelinger Archives item; IA metadata has NO licenseurl. Prelinger rights page: 'Many of our older online films are offered under the Creative Commons Public Domain Dedication' and 'While some Prelinger films are in the public domain, many are not.' Same 1940 release footage as CEP176/Commons (see FILM licence notes). Use only for the opening-day shots, which are not in the other copies; treat as lower-confidence.",
+    "credit_line": "Film: Barney Elliott & Harbine Monroe (Tacoma Camera Shop), 1940. Copy: Prelinger Archives / Internet Archive (public domain)",
+    "what_it_shows": "Intertitles ('The 6 million Tacoma steel span took a year to build', 'The 3rd longest span in the world', 'Disaster', 'The Crash'), cable spinning, opening-day crowd and parade 1 July 1940, then the full collapse and aftermath.",
+    "best_segments": "1:03-1:09 opening-day crowd; 1:15-1:19 parade car with flags; collapse 3:24-3:40; aftermath 3:45-3:56."
+  },
+  {
+    "file": "video/castle_ia_SF121_sound_version.mpg",
+    "kind": "video reference (720x480 MPEG2, 155 s, with Castle Films narration soundtrack)",
+    "source_url": "https://archive.org/download/SF121/SF121.mpg",
+    "page_url": "https://archive.org/details/SF121",
+    "license": "IA licenseurl http://creativecommons.org/licenses/publicdomain/; creator 'Stillman Fires Collection; Tacoma Fire Department (Video) - Castle Films (Sound)'. Composite: IA picture + soundtrack from a worn Castle Films print. Do NOT use the audio.",
+    "credit_line": "Film: Barney Elliott & Harbine Monroe (Tacoma Camera Shop), 1940. Copy: Prelinger Archives / Internet Archive (public domain)",
+    "what_it_shows": "Same picture as CEP176 plus aftermath; Castle Films narration audio. Useful as evidence of the 1940 Castle Films release.",
+    "best_segments": "Reference only."
+  },
+  {
+    "file": "clips/clip01_opening_day_crowd_1940-07-01.mp4",
+    "kind": "video clip (640x480 h264 CRF14, no audio) - prelinger 2096 @1:04.2, 4.5 s",
+    "source_url": "https://archive.org/download/Tacoma-Narrows_Bridge_Collapse/2096_Tacoma-Narrows_Bridge_Collapse_03_11_13_15_3mb.mp4",
+    "page_url": "https://archive.org/details/Tacoma-Narrows_Bridge_Collapse",
+    "license": "Cut from Prelinger item without an explicit IA licence tag (see video/elliott_prelinger_2096 entry). Lower confidence; prefer photos/uw_opening_day_1940-07-01.jpg for opening day.",
+    "credit_line": "Film: Barney Elliott & Harbine Monroe (Tacoma Camera Shop), 1940. Copy: Prelinger Archives / Internet Archive (public domain)",
+    "what_it_shows": "Huge crowd on the deck on opening day, 1 July 1940.",
+    "best_segments": "Setup/cold open under 'brand-new bridge'."
+  },
+  {
+    "file": "clips/clip02_opening_parade_car_flags.mp4",
+    "kind": "video clip (640x480 h264 CRF14, no audio) - prelinger 2096 @1:15, 4 s",
+    "source_url": "https://archive.org/download/Tacoma-Narrows_Bridge_Collapse/2096_Tacoma-Narrows_Bridge_Collapse_03_11_13_15_3mb.mp4",
+    "page_url": "https://archive.org/details/Tacoma-Narrows_Bridge_Collapse",
+    "license": "Cut from Prelinger item without an explicit IA licence tag (see video/elliott_prelinger_2096 entry). Lower confidence; prefer photos/uw_opening_day_1940-07-01.jpg for opening day.",
+    "credit_line": "Film: Barney Elliott & Harbine Monroe (Tacoma Camera Shop), 1940. Copy: Prelinger Archives / Internet Archive (public domain)",
+    "what_it_shows": "Open parade car with US flags drives across on opening day.",
+    "best_segments": "Alt setup."
+  },
+  {
+    "file": "clips/clip03_side_view_twist_from_shore_A.mp4",
+    "kind": "video clip (640x480 h264 CRF14, no audio) - CEP176 @0:55.5, 6 s",
+    "source_url": "https://archive.org/download/CEP176/CEP176.mpg",
+    "page_url": "https://archive.org/details/CEP176",
+    "license": "Cut from IA CEP176 (CC Public Domain Dedication). Public domain in the US (published 1940; no renewal found). Commons file page: {{Prelinger}} = Creative Commons Public Domain Dedication; IA CEP176/SF121 licenseurl http://creativecommons.org/licenses/publicdomain/. Copyright evidence: CCE Motion Pictures 1940-1949 cumulative catalog has no 1940 entry mentioning Tacoma/Narrows (only 1949 newsreels on the rebuild); CCE renewal volumes for 1967 and 1968 (Motion Pictures) have no entry for Tacoma, Narrows or Castle Films, and the 1968 Paramount News renewal lists only issue 104 (26 Aug 1940). National Film Registry (1998) is a preservation designation, not a rights grant. Caveats: Elliott and Monroe families hold the original (colour Kodachrome) footage; use only these B&W 1940 release copies, never colour versions (Periscope colour copy is CC BY-NC-ND).",
+    "credit_line": "Film: Barney Elliott & Harbine Monroe (Tacoma Camera Shop), 1940. Copy: Prelinger Archives / Internet Archive (public domain)",
+    "what_it_shows": "Close side view from shore: the deck visibly twists, near edge rising and falling.",
+    "best_segments": "HOOK 'twisting like a ribbon' - best hero shot."
+  },
+  {
+    "file": "clips/clip04_deck_tilt_lampposts.mp4",
+    "kind": "video clip (640x480 h264 CRF14, no audio) - CEP176 @0:23, 6 s",
+    "source_url": "https://archive.org/download/CEP176/CEP176.mpg",
+    "page_url": "https://archive.org/details/CEP176",
+    "license": "Cut from IA CEP176 (CC Public Domain Dedication). Public domain in the US (published 1940; no renewal found). Commons file page: {{Prelinger}} = Creative Commons Public Domain Dedication; IA CEP176/SF121 licenseurl http://creativecommons.org/licenses/publicdomain/. Copyright evidence: CCE Motion Pictures 1940-1949 cumulative catalog has no 1940 entry mentioning Tacoma/Narrows (only 1949 newsreels on the rebuild); CCE renewal volumes for 1967 and 1968 (Motion Pictures) have no entry for Tacoma, Narrows or Castle Films, and the 1968 Paramount News renewal lists only issue 104 (26 Aug 1940). National Film Registry (1998) is a preservation designation, not a rights grant. Caveats: Elliott and Monroe families hold the original (colour Kodachrome) footage; use only these B&W 1940 release copies, never colour versions (Periscope colour copy is CC BY-NC-ND).",
+    "credit_line": "Film: Barney Elliott & Harbine Monroe (Tacoma Camera Shop), 1940. Copy: Prelinger Archives / Internet Archive (public domain)",
+    "what_it_shows": "Driver's-eye view down the roadway: deck tilts hard left/right, lamp posts lean.",
+    "best_segments": "Cause beat (wind feeds each twist)."
+  },
+  {
+    "file": "clips/clip05_side_view_twist_from_shore_B.mp4",
+    "kind": "video clip (640x480 h264 CRF14, no audio) - CEP176 @0:07, 5 s",
+    "source_url": "https://archive.org/download/CEP176/CEP176.mpg",
+    "page_url": "https://archive.org/details/CEP176",
+    "license": "Cut from IA CEP176 (CC Public Domain Dedication). Public domain in the US (published 1940; no renewal found). Commons file page: {{Prelinger}} = Creative Commons Public Domain Dedication; IA CEP176/SF121 licenseurl http://creativecommons.org/licenses/publicdomain/. Copyright evidence: CCE Motion Pictures 1940-1949 cumulative catalog has no 1940 entry mentioning Tacoma/Narrows (only 1949 newsreels on the rebuild); CCE renewal volumes for 1967 and 1968 (Motion Pictures) have no entry for Tacoma, Narrows or Castle Films, and the 1968 Paramount News renewal lists only issue 104 (26 Aug 1940). National Film Registry (1998) is a preservation designation, not a rights grant. Caveats: Elliott and Monroe families hold the original (colour Kodachrome) footage; use only these B&W 1940 release copies, never colour versions (Periscope colour copy is CC BY-NC-ND).",
+    "credit_line": "Film: Barney Elliott & Harbine Monroe (Tacoma Camera Shop), 1940. Copy: Prelinger Archives / Internet Archive (public domain)",
+    "what_it_shows": "Side view from the shore, deck rolling in a big S-curve.",
+    "best_segments": "Hook alt / cause."
+  },
+  {
+    "file": "clips/clip06_roadway_waves_down_centerline.mp4",
+    "kind": "video clip (640x480 h264 CRF14, no audio) - CEP176 @1:03, 6 s",
+    "source_url": "https://archive.org/download/CEP176/CEP176.mpg",
+    "page_url": "https://archive.org/details/CEP176",
+    "license": "Cut from IA CEP176 (CC Public Domain Dedication). Public domain in the US (published 1940; no renewal found). Commons file page: {{Prelinger}} = Creative Commons Public Domain Dedication; IA CEP176/SF121 licenseurl http://creativecommons.org/licenses/publicdomain/. Copyright evidence: CCE Motion Pictures 1940-1949 cumulative catalog has no 1940 entry mentioning Tacoma/Narrows (only 1949 newsreels on the rebuild); CCE renewal volumes for 1967 and 1968 (Motion Pictures) have no entry for Tacoma, Narrows or Castle Films, and the 1968 Paramount News renewal lists only issue 104 (26 Aug 1940). National Film Registry (1998) is a preservation designation, not a rights grant. Caveats: Elliott and Monroe families hold the original (colour Kodachrome) footage; use only these B&W 1940 release copies, never colour versions (Periscope colour copy is CC BY-NC-ND).",
+    "credit_line": "Film: Barney Elliott & Harbine Monroe (Tacoma Camera Shop), 1940. Copy: Prelinger Archives / Internet Archive (public domain)",
+    "what_it_shows": "View down the deck between suspender cables: roadway rolls in waves; tiny figures on deck.",
+    "best_segments": "Cause beat / scale."
+  },
+  {
+    "file": "clips/clip07_man_hurries_off_deck.mp4",
+    "kind": "video clip (640x480 h264 CRF14, no audio) - CEP176 @1:27, 4 s",
+    "source_url": "https://archive.org/download/CEP176/CEP176.mpg",
+    "page_url": "https://archive.org/details/CEP176",
+    "license": "Cut from IA CEP176 (CC Public Domain Dedication). Public domain in the US (published 1940; no renewal found). Commons file page: {{Prelinger}} = Creative Commons Public Domain Dedication; IA CEP176/SF121 licenseurl http://creativecommons.org/licenses/publicdomain/. Copyright evidence: CCE Motion Pictures 1940-1949 cumulative catalog has no 1940 entry mentioning Tacoma/Narrows (only 1949 newsreels on the rebuild); CCE renewal volumes for 1967 and 1968 (Motion Pictures) have no entry for Tacoma, Narrows or Castle Films, and the 1968 Paramount News renewal lists only issue 104 (26 Aug 1940). National Film Registry (1998) is a preservation designation, not a rights grant. Caveats: Elliott and Monroe families hold the original (colour Kodachrome) footage; use only these B&W 1940 release copies, never colour versions (Periscope colour copy is CC BY-NC-ND).",
+    "credit_line": "Film: Barney Elliott & Harbine Monroe (Tacoma Camera Shop), 1940. Copy: Prelinger Archives / Internet Archive (public domain)",
+    "what_it_shows": "A man in a jacket hurries toward camera off the tilting deck (often identified as Prof. F. B. Farquharson; unverified).",
+    "best_segments": "Twist/tension beat."
+  },
+  {
+    "file": "clips/clip08_twist_between_tower_legs.mp4",
+    "kind": "video clip (640x480 h264 CRF14, no audio) - CEP176 @1:40, 6 s",
+    "source_url": "https://archive.org/download/CEP176/CEP176.mpg",
+    "page_url": "https://archive.org/details/CEP176",
+    "license": "Cut from IA CEP176 (CC Public Domain Dedication). Public domain in the US (published 1940; no renewal found). Commons file page: {{Prelinger}} = Creative Commons Public Domain Dedication; IA CEP176/SF121 licenseurl http://creativecommons.org/licenses/publicdomain/. Copyright evidence: CCE Motion Pictures 1940-1949 cumulative catalog has no 1940 entry mentioning Tacoma/Narrows (only 1949 newsreels on the rebuild); CCE renewal volumes for 1967 and 1968 (Motion Pictures) have no entry for Tacoma, Narrows or Castle Films, and the 1968 Paramount News renewal lists only issue 104 (26 Aug 1940). National Film Registry (1998) is a preservation designation, not a rights grant. Caveats: Elliott and Monroe families hold the original (colour Kodachrome) footage; use only these B&W 1940 release copies, never colour versions (Periscope colour copy is CC BY-NC-ND).",
+    "credit_line": "Film: Barney Elliott & Harbine Monroe (Tacoma Camera Shop), 1940. Copy: Prelinger Archives / Internet Archive (public domain)",
+    "what_it_shows": "Framed between tower legs: deck twisting beyond the far tower.",
+    "best_segments": "Build-up before the fall."
+  },
+  {
+    "file": "clips/clip09_span_breaks_and_falls.mp4",
+    "kind": "video clip (640x480 h264 CRF14, no audio) - CEP176 @1:49.8, 5 s",
+    "source_url": "https://archive.org/download/CEP176/CEP176.mpg",
+    "page_url": "https://archive.org/details/CEP176",
+    "license": "Cut from IA CEP176 (CC Public Domain Dedication). Public domain in the US (published 1940; no renewal found). Commons file page: {{Prelinger}} = Creative Commons Public Domain Dedication; IA CEP176/SF121 licenseurl http://creativecommons.org/licenses/publicdomain/. Copyright evidence: CCE Motion Pictures 1940-1949 cumulative catalog has no 1940 entry mentioning Tacoma/Narrows (only 1949 newsreels on the rebuild); CCE renewal volumes for 1967 and 1968 (Motion Pictures) have no entry for Tacoma, Narrows or Castle Films, and the 1968 Paramount News renewal lists only issue 104 (26 Aug 1940). National Film Registry (1998) is a preservation designation, not a rights grant. Caveats: Elliott and Monroe families hold the original (colour Kodachrome) footage; use only these B&W 1940 release copies, never colour versions (Periscope colour copy is CC BY-NC-ND).",
+    "credit_line": "Film: Barney Elliott & Harbine Monroe (Tacoma Camera Shop), 1940. Copy: Prelinger Archives / Internet Archive (public domain)",
+    "what_it_shows": "Centre span tears loose, concrete and steel plunge, huge splash.",
+    "best_segments": "RESULT beat - payoff."
+  },
+  {
+    "file": "clips/clip10_section_plunges_splash.mp4",
+    "kind": "video clip (640x480 h264 CRF14, no audio) - CEP176 @1:54, 6 s",
+    "source_url": "https://archive.org/download/CEP176/CEP176.mpg",
+    "page_url": "https://archive.org/details/CEP176",
+    "license": "Cut from IA CEP176 (CC Public Domain Dedication). Public domain in the US (published 1940; no renewal found). Commons file page: {{Prelinger}} = Creative Commons Public Domain Dedication; IA CEP176/SF121 licenseurl http://creativecommons.org/licenses/publicdomain/. Copyright evidence: CCE Motion Pictures 1940-1949 cumulative catalog has no 1940 entry mentioning Tacoma/Narrows (only 1949 newsreels on the rebuild); CCE renewal volumes for 1967 and 1968 (Motion Pictures) have no entry for Tacoma, Narrows or Castle Films, and the 1968 Paramount News renewal lists only issue 104 (26 Aug 1940). National Film Registry (1998) is a preservation designation, not a rights grant. Caveats: Elliott and Monroe families hold the original (colour Kodachrome) footage; use only these B&W 1940 release copies, never colour versions (Periscope colour copy is CC BY-NC-ND).",
+    "credit_line": "Film: Barney Elliott & Harbine Monroe (Tacoma Camera Shop), 1940. Copy: Prelinger Archives / Internet Archive (public domain)",
+    "what_it_shows": "Deck section peels off and drops; white spray rises; hanging girder swings.",
+    "best_segments": "RESULT continuation."
+  },
+  {
+    "file": "clips/clip11_aftermath_broken_span_from_water.mp4",
+    "kind": "video clip (640x480 h264 CRF14, no audio) - Commons ogv @2:15.5, 5 s",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Tacoma_Narrows_Bridge_destruction.ogv",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Tacoma_Narrows_Bridge_destruction.ogv",
+    "license": "Cut from Commons ogv ({{Prelinger}}, CC Public Domain Dedication). Public domain in the US (published 1940; no renewal found). Commons file page: {{Prelinger}} = Creative Commons Public Domain Dedication; IA CEP176/SF121 licenseurl http://creativecommons.org/licenses/publicdomain/. Copyright evidence: CCE Motion Pictures 1940-1949 cumulative catalog has no 1940 entry mentioning Tacoma/Narrows (only 1949 newsreels on the rebuild); CCE renewal volumes for 1967 and 1968 (Motion Pictures) have no entry for Tacoma, Narrows or Castle Films, and the 1968 Paramount News renewal lists only issue 104 (26 Aug 1940). National Film Registry (1998) is a preservation designation, not a rights grant. Caveats: Elliott and Monroe families hold the original (colour Kodachrome) footage; use only these B&W 1940 release copies, never colour versions (Periscope colour copy is CC BY-NC-ND).",
+    "credit_line": "Film: Barney Elliott & Harbine Monroe (Tacoma Camera Shop), 1940. Copy: Prelinger Archives / Internet Archive (public domain)",
+    "what_it_shows": "From the water: towers standing, centre gone, broken deck ends dangling.",
+    "best_segments": "Result/kicker."
+  },
+  {
+    "file": "clips/clip12_aftermath_debris_and_sag.mp4",
+    "kind": "video clip (640x480 h264 CRF14, no audio) - Commons ogv @2:21, 7 s",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Tacoma_Narrows_Bridge_destruction.ogv",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Tacoma_Narrows_Bridge_destruction.ogv",
+    "license": "Cut from Commons ogv ({{Prelinger}}, CC Public Domain Dedication). Public domain in the US (published 1940; no renewal found). Commons file page: {{Prelinger}} = Creative Commons Public Domain Dedication; IA CEP176/SF121 licenseurl http://creativecommons.org/licenses/publicdomain/. Copyright evidence: CCE Motion Pictures 1940-1949 cumulative catalog has no 1940 entry mentioning Tacoma/Narrows (only 1949 newsreels on the rebuild); CCE renewal volumes for 1967 and 1968 (Motion Pictures) have no entry for Tacoma, Narrows or Castle Films, and the 1968 Paramount News renewal lists only issue 104 (26 Aug 1940). National Film Registry (1998) is a preservation designation, not a rights grant. Caveats: Elliott and Monroe families hold the original (colour Kodachrome) footage; use only these B&W 1940 release copies, never colour versions (Periscope colour copy is CC BY-NC-ND).",
+    "credit_line": "Film: Barney Elliott & Harbine Monroe (Tacoma Camera Shop), 1940. Copy: Prelinger Archives / Internet Archive (public domain)",
+    "what_it_shows": "Twisted wreckage close-up, then view from the tower of the sagging side span.",
+    "best_segments": "End card background."
+  },
+  {
+    "file": "photos/elliott_still_collapse_commons.png",
+    "kind": "photo",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Tacoma_Narrows_still.png",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Tacoma_Narrows_still.png",
+    "license": "Commons: {{Prelinger|https://archive.org/details/Pa2096Tacoma}} (Creative Commons Public Domain Dedication). Public domain in the US (published 1940; no renewal found). Commons file page: {{Prelinger}} = Creative Commons Public Domain Dedication; IA CEP176/SF121 licenseurl http://creativecommons.org/licenses/publicdomain/. Copyright evidence: CCE Motion Pictures 1940-1949 cumulative catalog has no 1940 entry mentioning Tacoma/Narrows (only 1949 newsreels on the rebuild); CCE renewal volumes for 1967 and 1968 (Motion Pictures) have no entry for Tacoma, Narrows or Castle Films, and the 1968 Paramount News renewal lists only issue 104 (26 Aug 1940). National Film Registry (1998) is a preservation designation, not a rights grant. Caveats: Elliott and Monroe families hold the original (colour Kodachrome) footage; use only these B&W 1940 release copies, never colour versions (Periscope colour copy is CC BY-NC-ND).",
+    "credit_line": "Film: Barney Elliott & Harbine Monroe (Tacoma Camera Shop), 1940. Copy: Prelinger Archives / Internet Archive (public domain)",
+    "what_it_shows": "1422x1066 film frame at the moment the span breaks: concrete chunks and spray, tower behind.",
+    "best_segments": "Thumbnail / freeze frame on the result beat."
+  },
+  {
+    "file": "photos/elliott_stills_torsion_cc0.png",
+    "kind": "photo",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Tacoma_bridge_torsional_instability.png",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Tacoma_bridge_torsional_instability.png",
+    "license": "Commons: CC0 1.0 (Creative Commons Zero, Public Domain Dedication); frames from the Elliott film (Pa2096Tacoma).",
+    "credit_line": "Barney Elliott film stills, 1940 (CC0 via Wikimedia Commons)",
+    "what_it_shows": "629x471 four-frame composite: side view twist, deck tilt, twist from shore.",
+    "best_segments": "Diagram reference only (low res)."
+  },
+  {
+    "file": "photos/uw_howard_clifford_running_1940-11-07.jpg",
+    "kind": "photo",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Howard_Clifford_running_off_the_Tacoma_Narrows_Bridge_during_collapse%2C_Tacoma%2C_Washington_%284861196144%29.jpg",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Howard_Clifford_running_off_the_Tacoma_Narrows_Bridge_during_collapse,_Tacoma,_Washington_(4861196144).jpg (Flickr: https://www.flickr.com/photos/uw_digital_images/4861196144/)",
+    "license": "Flickr Commons 'No known copyright restrictions' (University of Washington Libraries Digital Collections, Farquharson collection item FAR021, photographer unknown).",
+    "credit_line": "University of Washington Libraries, Special Collections, FAR021",
+    "what_it_shows": "768x614. Howard Clifford (Tacoma News Tribune photographer) running toward camera off the tilted deck, tower and cables behind.",
+    "best_segments": "Tension beat; low-res, use small or with slow push."
+  },
+  {
+    "file": "photos/uw_opening_day_1940-07-01.jpg",
+    "kind": "photo",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Opening_day_of_the_Tacoma_Narrows_Bridge%2C_Tacoma%2C_Washington.jpg",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Opening_day_of_the_Tacoma_Narrows_Bridge,_Tacoma,_Washington.jpg",
+    "license": "Commons: Public domain; Flickr Commons 'No known copyright restrictions' (UW Libraries Digital Collections, photographer unknown).",
+    "credit_line": "University of Washington Libraries, Special Collections",
+    "what_it_shows": "768x606. Opening day 1 July 1940: cars and pedestrians crowd the new deck, tower ahead.",
+    "best_segments": "'Brand-new bridge' setup."
+  },
+  {
+    "file": "photos/noaa_weather_map_1940-11-07.jpg",
+    "kind": "photo",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Storm_system_weather_analysis%2C_November_7%2C_1940.jpg",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Storm_system_weather_analysis,_November_7,_1940.jpg (NOAA: https://library.noaa.gov/weather-climate/synoptic-map)",
+    "license": "Public domain (US Government work, US Weather Bureau / NOAA Central Library).",
+    "credit_line": "US Weather Bureau / NOAA Central Library",
+    "what_it_shows": "1951x1530 surface weather map for 7 Nov 1940: low-pressure system over the Pacific Northwest.",
+    "best_segments": "Wind beat background, optional."
+  },
+  {
+    "file": "photos/fhwa_americas_highways_p431a.jpg",
+    "kind": "photo",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/America%27s_Highways_1776%E2%80%931976_-_page_431a.jpg",
+    "page_url": "https://commons.wikimedia.org/wiki/File:America%27s_Highways_1776%E2%80%931976_-_page_431a.jpg",
+    "license": "Commons: Public domain (Federal Highway Administration publication, 1977). Original photo source not stated; secondary.",
+    "credit_line": "Federal Highway Administration, America's Highways 1776-1976",
+    "what_it_shows": "1031x821 sepia print: side view of the deck in a big S-curve, ~1 hour before collapse.",
+    "best_segments": "Optional still for cause beat."
+  },
+  {
+    "file": "photos/haer_11-33_vertical_oscillations.tif",
+    "kind": "photo",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/VERTICAL_OSCILLATIONS%2C_3-4_VIEW%2C_7_NOVEMBER_1940%2C_FROM_16MM_FILM_SHOT_PROFESSOR_F.B._FARQUHARSON%2C_UNIVERSITY_OF_WASHINGTON._%28LABORATORY_STUDIES_ON_THE_TACOMA_NARROWS_BRIDGE%2C_AT_HAER_WASH%2C27-TACO%2C11-33.tif",
+    "page_url": "https://www.loc.gov/pictures/item/wa0453.photos.370518p",
+    "license": "Commons: Public domain (HAER documentation, US National Park Service, Library of Congress HAER WASH,27-TACO,11-). LOC standard HABS/HAER rights: no known restrictions on images made by the US Government; images copied from other sources may be restricted. These are copies of frames from Prof. F. B. Farquharson's UW 16mm film; UW's own posting of that film on IA is CC BY-NC-ND 3.0, so treat as SECONDARY / use only if needed.",
+    "credit_line": "Historic American Engineering Record (HAER WASH,27-TACO,11-33), Library of Congress",
+    "what_it_shows": "5000x3972 scan of a printed film frame: three-quarter view, deck dipping in vertical wave.",
+    "best_segments": "Secondary."
+  },
+  {
+    "file": "photos/haer_11-34_vertical_torsional_3-4view.tif",
+    "kind": "photo",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/VERTICAL_AND_TORSIONAL_OSCILLATIONS%2C_3-4_VIEW%2C_7_NOVEMBER_1940%2C_FROM_16MN_FILM_SHOT_BY_PROFESSOR_F.B._FARQUHARSON%2C_UNIVERSITY_OF_WASHINGTON._%28LABORATORY_STUDIES_ON_THE_TACOMA_HAER_WASH%2C27-TACO%2C11-34.tif",
+    "page_url": "https://www.loc.gov/pictures/item/wa0453.photos.370519p",
+    "license": "Commons: Public domain (HAER documentation, US National Park Service, Library of Congress HAER WASH,27-TACO,11-). LOC standard HABS/HAER rights: no known restrictions on images made by the US Government; images copied from other sources may be restricted. These are copies of frames from Prof. F. B. Farquharson's UW 16mm film; UW's own posting of that film on IA is CC BY-NC-ND 3.0, so treat as SECONDARY / use only if needed.",
+    "credit_line": "Historic American Engineering Record (HAER WASH,27-TACO,11-34), Library of Congress",
+    "what_it_shows": "5000x3999: view from the east tower down the deck, twisted; caption strip 'OBSERVATION FROM EAST TOWER...'.",
+    "best_segments": "Secondary; crop out caption."
+  },
+  {
+    "file": "photos/haer_11-35_torsion_from_east_tower.tif",
+    "kind": "photo",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/VERTICAL_AND_TORSIONAL_MOTION_VIEWED_FROM_EAST_TOWER%2C_7_NOVEMBER_1940%2C_FROM_16MN_FILM_SHOT_BY_PROFESSOR_F.B._FARQUHARSON%2C_UNIVERSITY_OF_WASHINGTON._%28LABORATORY_STUDIES_ON_THE_HAER_WASH%2C27-TACO%2C11-35.tif",
+    "page_url": "https://www.loc.gov/pictures/item/wa0453.photos.370520p",
+    "license": "Commons: Public domain (HAER documentation, US National Park Service, Library of Congress HAER WASH,27-TACO,11-). LOC standard HABS/HAER rights: no known restrictions on images made by the US Government; images copied from other sources may be restricted. These are copies of frames from Prof. F. B. Farquharson's UW 16mm film; UW's own posting of that film on IA is CC BY-NC-ND 3.0, so treat as SECONDARY / use only if needed.",
+    "credit_line": "Historic American Engineering Record (HAER WASH,27-TACO,11-35), Library of Congress",
+    "what_it_shows": "5000x3995: deck viewed from east tower with strong angular distortion; caption 'THIS TIME THE ANGULAR DISTORTION...'.",
+    "best_segments": "Secondary; crop out caption."
+  },
+  {
+    "file": "contact_sheet.jpg",
+    "kind": "contact sheet (generated)",
+    "source_url": "",
+    "page_url": "",
+    "license": "n/a (generated from the files above)",
+    "credit_line": "",
+    "what_it_shows": "All 12 clips as 1.2 fps strips + all photos.",
+    "best_segments": ""
+  }
+]

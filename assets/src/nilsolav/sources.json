@@ -1,0 +1,140 @@
+{
+  "reel": "Sir Nils Olav, the penguin major general (Norwegian King's Guard / Edinburgh Zoo)",
+  "post_date": "2026-11-04 17:00",
+  "generated": "2026-10-26",
+  "status": "9 Commons files downloaded and viewed; SHA1 of every file matches the Commons API. One derived file (upright crop of the 2019 portrait). No CC-licensed photos of the 2016 or 2023 ceremonies found; the only ceremony photo that is rights-clear is the 2008 MoD inspection shot (OGL). No Forsvaret/forsvaret.no photo with an open licence found: Forsvarets forum 2023 photos are credited 'Erling Eikli, Forsvarets forum' with no licence.",
+  "rejected": [
+    {"what": "Forsvarets forum photos of the 2016/2023 ceremonies (Erling Eikli)", "why": "No licence stated; all rights reserved by default"},
+    {"what": "Edinburgh Zoo / RZSS press photos, BBC, Guinness World Records images", "why": "Copyrighted press images, no open licence"},
+    {"what": "Flickr: 'Sir Nils Olav, King Penguin, 3 Jun 13' (Castaway in Scotland), lumo2 'Nils Olav' x3, Mahmoth 'The Penguin Knight', pearlsareanuisance 'Ta-DA!'", "why": "CC BY-NC / BY-NC-SA / BY-NC-ND: non-commercial only"},
+    {"what": "File:Nils Olav by Zac Naoum and Punkey Doodles for the Wikimedia Foundation.webm", "why": "CC BY-SA 4.0 and usable, but it is another creator's finished animated explainer on the same topic; not downloaded"},
+    {"what": "File:Edinburgh Penguins go for a walk (7556473).jpg (Tom Page, CC BY-SA 2.0)", "why": "Downloaded, viewed, then deleted: shows gentoo penguins only, not king penguins, so it would mislead as Nils"},
+    {"what": "MoD Flickr copy of the inspection photo (flickr.com/photos/48399297@N04/5038787294)", "why": "That 2010 Flickr upload is CC BY-NC-ND 2.0 and says 'non-commercial'. We use the Commons copy instead, which is tagged {{OGL}}; the archived Defence Imagery page (web.archive.org 2021-01-18) lists 45148188.jpg (3611x2848) as 'made available for reuse under the MOD (Consent License) and the OGL (Open Government License)'."}
+  ],
+  "assets": [
+    {
+      "file": "photos/nilsolav_inspects_kingsguard_2008_mod.jpg",
+      "kind": "photo",
+      "width": 3611,
+      "height": 2848,
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Nils_Olav_inspects_the_Kings_Guard_of_Norway_after_being_bestowed_with_a_knighthood_at_Edinburgh_Zoo_in_Scotland.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Nils_Olav_inspects_the_Kings_Guard_of_Norway_after_being_bestowed_with_a_knighthood_at_Edinburgh_Zoo_in_Scotland.jpg",
+      "license": "Open Government Licence v1.0, Wikimedia Commons {{OGL}} (Crown copyright, UK Ministry of Defence, Defence Imagery 45148188.jpg)",
+      "license_note": "Commercial reuse allowed with attribution. The MoD's own 2010 Flickr copy is marked CC BY-NC-ND 2.0; the archived Defence Imagery listing for this exact file states reuse under the OGL. Low-to-moderate risk; keep the OGL credit line.",
+      "credit_line": "Photo: Mark Owens / MOD, © Crown copyright 2008. Contains public sector information licensed under the Open Government Licence v1.0.",
+      "what_it_shows": "15 Aug 2008, Edinburgh Zoo: Nils Olav, a badge on his right flipper, walks along a line of King's Guard soldiers holding rifles, looking up at an officer. Spectators in the background. Featured picture on en-wiki.",
+      "best_segments": "THE hero shot. Use it for the twist line (knighted, inspects troops). Vertical 9:16 crop at full height (1602 px wide): x of about 1450-3050 keeps the penguin plus the officer; or slowly push in from the rifle line (left) to the penguin (right). Zoom the flipper badge for the knighthood beat."
+    },
+    {
+      "file": "photos/nilsolav_statue_edinburgh_2007.jpg",
+      "kind": "photo",
+      "width": 1944,
+      "height": 2592,
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Nils_Olav_Statue_May_1_2007.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Nils_Olav_Statue_May_1_2007.jpg",
+      "license": "Public domain, Wikimedia Commons {{PD-user-en|Farmer erik}} + {{FoP-UK}}",
+      "license_note": "Photo released to PD by the photographer. The sculpture (Oystein Bernhard Mobraten, 2005, per Forsvarets forum) is covered by UK freedom of panorama (CDPA s.62: sculpture permanently in premises open to the public).",
+      "credit_line": "Photo: Erik Swanson (Farmer erik), public domain, via Wikimedia Commons",
+      "what_it_shows": "Close-up of the bronze Nils Olav statue at Edinburgh Zoo, in front of grass and rocks; a regimental badge is cast on the right flipper.",
+      "best_segments": "Native portrait, so a full 9:16 crop with no loss. Slow tilt up from the flipper badge to the head; good for the closer ('Major General Sir Nils Olav')."
+    },
+    {
+      "file": "photos/nilsolav_portrait_2019_grendelkhan.jpg",
+      "kind": "photo",
+      "width": 4000,
+      "height": 6000,
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Aptenodytes_patagonicus_Nils_Olav_at_Edinburgh_zoo.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Aptenodytes_patagonicus_Nils_Olav_at_Edinburgh_zoo.jpg",
+      "license": "CC BY-SA 4.0, Wikimedia Commons {{self|cc-by-sa-4.0}}",
+      "license_note": "Stored pixels are 6000x4000 with an EXIF rotation tag. Use the _upright derivative below in the engine. Commons Quality Image.",
+      "credit_line": "Photo: Grendelkhan, CC BY-SA 4.0, via Wikimedia Commons",
+      "what_it_shows": "11 May 2019, Edinburgh Zoo: a king penguin identified by the photographer as Nils Olav, in profile on the rocks at Penguins Rock, with a purple band on the flipper. Sharp and high resolution. This is the current bird (III) if the ID is right.",
+      "best_segments": "Hook shot ('This penguin is a general...'): portrait, head at the top third, so it is 9:16-ready. Push in on the face."
+    },
+    {
+      "file": "photos/nilsolav_portrait_2019_grendelkhan_upright.jpg",
+      "kind": "photo (derived)",
+      "width": 2000,
+      "height": 3000,
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Aptenodytes_patagonicus_Nils_Olav_at_Edinburgh_zoo.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Aptenodytes_patagonicus_Nils_Olav_at_Edinburgh_zoo.jpg",
+      "license": "CC BY-SA 4.0, Wikimedia Commons {{self|cc-by-sa-4.0}} (derivative: rotated upright + scaled with ffmpeg; metadata stripped)",
+      "credit_line": "Photo: Grendelkhan, CC BY-SA 4.0, via Wikimedia Commons",
+      "what_it_shows": "Same as the original, with pixels already upright (no EXIF dependency).",
+      "best_segments": "Use this file in the engine rather than the original."
+    },
+    {
+      "file": "photos/nilsolav_wide_2008_leecarson.jpg",
+      "kind": "photo",
+      "width": 1071,
+      "height": 1600,
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Nils_Olav_wide.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Nils_Olav_wide.jpg",
+      "license": "CC BY-SA 2.0, Wikimedia Commons {{cc-by-sa-2.0}} (Flickr review passed)",
+      "license_note": "Wikipedia's infobox captions this as 'Nils Olav II in 2008', but nothing confirms which bird it is. The Commons description wrongly says he was adopted in 1961.",
+      "credit_line": "Photo: Lee Carson, CC BY-SA 2.0, via Wikimedia Commons",
+      "what_it_shows": "17 Feb 2008, Edinburgh Zoo: a king penguin facing the camera, flippers spread, on brick paving; a visitor's legs in the top right; an orange band on the right flipper.",
+      "best_segments": "A funny 'standing at attention' frame, portrait, for the 1972 'how it started' line. Crop out the visitor at the top right."
+    },
+    {
+      "file": "photos/nilsolav_2005_gill.jpg",
+      "kind": "photo",
+      "width": 480,
+      "height": 640,
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Nils_Olav.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Nils_Olav.jpg",
+      "license": "CC BY-SA 2.0, Wikimedia Commons {{cc-by-sa-2.0}} (FlickreviewR passed)",
+      "credit_line": "Photo: Gill from Glasgow, CC BY-SA 2.0, via Wikimedia Commons",
+      "what_it_shows": "21 Aug 2005, the weekend of the colonel-in-chief promotion: a king penguin waddling on asphalt with a yellow flipper band; a soldier's boots at the top left.",
+      "best_segments": "Low resolution (480x640). Use only as a small inset or a fast cut, e.g. on the ladder diagram at the '2005 Colonel-in-Chief' step."
+    },
+    {
+      "file": "photos/kingsguard_drumline_virginia_2018.jpg",
+      "kind": "photo",
+      "width": 5771,
+      "height": 3849,
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/King%27s_Guard_Norway_%2840906788095%29.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:King%27s_Guard_Norway_(40906788095).jpg",
+      "license": "CC BY-SA 2.0, Wikimedia Commons {{cc-by-sa-2.0}} (FlickreviewR passed)",
+      "credit_line": "Photo: Mobilus In Mobili, CC BY-SA 2.0, via Wikimedia Commons",
+      "what_it_shows": "28 Apr 2018, Norfolk, Virginia: His Majesty the King's Guard Band and Drill Team drumline in full uniform (plumed hats, green epaulettes). This is the same unit that visits Nils.",
+      "best_segments": "Establishing shot for 'Norwegian army' / 'King's Guard'. It is landscape, so pan horizontally across the drummers in a 9:16 window. Avoid the 'Virginia International Tattoo' banner if a clean frame is needed."
+    },
+    {
+      "file": "photos/kingsguard_tattoo_copenhagen_2014.jpg",
+      "kind": "photo",
+      "width": 4752,
+      "height": 2868,
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Copenhagen_2014-05-21_%2814109574918%29.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Copenhagen_2014-05-21_(14109574918).jpg",
+      "license": "CC BY-SA 2.0, Wikimedia Commons {{cc-by-sa-2.0}} (FlickreviewR passed)",
+      "credit_line": "Photo: Guillaume Baviere, CC BY-SA 2.0, via Wikimedia Commons",
+      "what_it_shows": "21 May 2014, Copenhagen tattoo: rows of young Norwegian King's Guard soldiers marching with rifles, white gloves, and the royal cap badge, in dramatic low light.",
+      "best_segments": "A moody 'serious army' beat just before the reveal. It is landscape, so use a centre 9:16 crop on one guardsman's face, or a slow lateral pan."
+    },
+    {
+      "file": "photos/kingsguard_akershus_2017_wolfmann.jpg",
+      "kind": "photo",
+      "width": 2815,
+      "height": 3754,
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Changing_of_the_guard_%28HMKG%2C_Royal_Guards%29_at_Akershus_fortress%2C_Oslo%2C_Norway._Winter_uniforms._2017-11-30_a.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Changing_of_the_guard_(HMKG,_Royal_Guards)_at_Akershus_fortress,_Oslo,_Norway._Winter_uniforms._2017-11-30_a.jpg",
+      "license": "CC BY-SA 4.0, Wikimedia Commons {{self|cc-by-sa-4.0}}",
+      "credit_line": "Photo: Wolfmann, CC BY-SA 4.0, via Wikimedia Commons",
+      "what_it_shows": "30 Nov 2017, Akershus Fortress, Oslo: three King's Guard soldiers in winter greatcoats marching away through a stone archway (seen from behind).",
+      "best_segments": "Portrait and native 9:16. Spare b-roll for 'Norway's King's Guard'; less on-topic than the drumline and Copenhagen shots."
+    },
+    {
+      "file": "photos/edinburgh_penguin_parade_2009_meatcase.jpg",
+      "kind": "photo",
+      "width": 1426,
+      "height": 2152,
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Penguin_Parade%21_%283617403134%29.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Penguin_Parade!_(3617403134).jpg",
+      "license": "CC BY 2.0, Wikimedia Commons {{cc-by-2.0}} (FlickreviewR passed)",
+      "credit_line": "Photo: The Meat Case, CC BY 2.0, via Wikimedia Commons",
+      "what_it_shows": "1 Jun 2009, Edinburgh Zoo penguin parade: two king penguins in the foreground and gentoos behind, walking on paving. These are not identified as Nils.",
+      "best_segments": "Portrait. Generic 'Edinburgh Zoo king penguins' cutaway for the 1972 line. Do not caption it as Nils."
+    }
+  ]
+}

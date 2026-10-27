@@ -1,0 +1,152 @@
+[
+  {
+    "file": "01_orcon_nrl_film.mp4",
+    "kind": "video/archival film (silent; the audio track is digital silence)",
+    "source_url": "https://archive.org/download/bf-skinner-project-orcon/BF%20Skinner%20Project%20Orcon.mp4",
+    "page_url": "https://archive.org/details/bf-skinner-project-orcon",
+    "license": "PROVISIONAL, NOT CLEARED. Probably public domain as a US federal government work (17 U.S.C. 105; Commons equivalent {{PD-USGov-Navy}}) IF the Naval Research Laboratory made it, which is what the Internet Archive item says ('creator: Naval Research Laboratory (U.S.)'). Caveats: the IA item has no licence field, a third party (behaviorology@pm.me) uploaded it in 2021, and it gives the wrong date (1942; ORCON ran about 1948-53). The B. F. Skinner Foundation also captions a silent Project Pigeon video on bfskinner.org/project-pigeon 'Copyright B. F. Skinner Foundation'. Confirm provenance before use, e.g. with a NARA or NRL copy, or with the Foundation's permissions page.",
+    "credit_line": "Project ORCON film, U.S. Naval Research Laboratory (c. 1948-53), via Internet Archive",
+    "what_it_shows": "179 s, 852x480, 29.97 fps, colour then B&W, silent. 0:00 title card 'PROJECT ORCON / ORganic CONtrol'. 0:03-0:22 hands fit an attachment to a pigeon's beak (consistent with Skinner's 'gold electrode' on the beak tip, which is not captioned). 0:24-0:38 pigeon in a harness or jacket. 0:40-1:02 pigeon pecks at a small aperture in a panel. 1:08-1:34 a striped (semiconducting?) plate, with a pencil pointing to its centre. 1:36-2:05 pigeon seen from behind, pecking at the plate. 2:10-2:46 the hero shot: a backlit circular screen showing a ship at sea with the pigeon in silhouette pecking at it. 2:48 the ship image tilts. 2:52-2:59 end title 'ORCON' with a pigeon flapping. This is post-war Navy ORCON footage, NOT the 1943 Pelican nose cone.",
+    "best_segments": "2:10-2:46 silhouette pecking at the ship on the round screen: use in S2 (mechanism), with a 9:16 centre crop on the circle. 0:24-0:38 harnessed pigeon for S3. 0:00-0:02 title card for S4 or the end. 1:08-1:20 plate with pointer for the diagram transition. Speed ramps are fine; there is no audio to keep."
+  },
+  {
+    "file": "01a_still_orcon_titlecard.jpg",
+    "kind": "still (frame 0:00.5 of 01)",
+    "source_url": "https://archive.org/download/bf-skinner-project-orcon/BF%20Skinner%20Project%20Orcon.mp4",
+    "page_url": "https://archive.org/details/bf-skinner-project-orcon",
+    "license": "PROVISIONAL, NOT CLEARED. Probably public domain as a US federal government work (17 U.S.C. 105; Commons equivalent {{PD-USGov-Navy}}) IF the Naval Research Laboratory made it, which is what the Internet Archive item says ('creator: Naval Research Laboratory (U.S.)'). Caveats: the IA item has no licence field, a third party (behaviorology@pm.me) uploaded it in 2021, and it gives the wrong date (1942; ORCON ran about 1948-53). The B. F. Skinner Foundation also captions a silent Project Pigeon video on bfskinner.org/project-pigeon 'Copyright B. F. Skinner Foundation'. Confirm provenance before use, e.g. with a NARA or NRL copy, or with the Foundation's permissions page.",
+    "credit_line": "Project ORCON film, U.S. Naval Research Laboratory (c. 1948-53), via Internet Archive",
+    "what_it_shows": "Title card 'PROJECT ORCON  ORganic CONtrol', white letters on a red-brown wood texture.",
+    "best_segments": "S4 result or the end card."
+  },
+  {
+    "file": "01b_still_pigeon_harness.jpg",
+    "kind": "still (frame 0:26 of 01)",
+    "source_url": "https://archive.org/download/bf-skinner-project-orcon/BF%20Skinner%20Project%20Orcon.mp4",
+    "page_url": "https://archive.org/details/bf-skinner-project-orcon",
+    "license": "PROVISIONAL, NOT CLEARED. Probably public domain as a US federal government work (17 U.S.C. 105; Commons equivalent {{PD-USGov-Navy}}) IF the Naval Research Laboratory made it, which is what the Internet Archive item says ('creator: Naval Research Laboratory (U.S.)'). Caveats: the IA item has no licence field, a third party (behaviorology@pm.me) uploaded it in 2021, and it gives the wrong date (1942; ORCON ran about 1948-53). The B. F. Skinner Foundation also captions a silent Project Pigeon video on bfskinner.org/project-pigeon 'Copyright B. F. Skinner Foundation'. Confirm provenance before use, e.g. with a NARA or NRL copy, or with the Foundation's permissions page.",
+    "credit_line": "Project ORCON film, U.S. Naval Research Laboratory (c. 1948-53), via Internet Archive",
+    "what_it_shows": "A pigeon held in a harness, facing the camera, with a hand above it holding the rig.",
+    "best_segments": "S3 'three pigeons' (triplicate it in the edit)."
+  },
+  {
+    "file": "01c_still_target_plate_pointer.jpg",
+    "kind": "still (frame 1:10 of 01)",
+    "source_url": "https://archive.org/download/bf-skinner-project-orcon/BF%20Skinner%20Project%20Orcon.mp4",
+    "page_url": "https://archive.org/details/bf-skinner-project-orcon",
+    "license": "PROVISIONAL, NOT CLEARED. Probably public domain as a US federal government work (17 U.S.C. 105; Commons equivalent {{PD-USGov-Navy}}) IF the Naval Research Laboratory made it, which is what the Internet Archive item says ('creator: Naval Research Laboratory (U.S.)'). Caveats: the IA item has no licence field, a third party (behaviorology@pm.me) uploaded it in 2021, and it gives the wrong date (1942; ORCON ran about 1948-53). The B. F. Skinner Foundation also captions a silent Project Pigeon video on bfskinner.org/project-pigeon 'Copyright B. F. Skinner Foundation'. Confirm provenance before use, e.g. with a NARA or NRL copy, or with the Foundation's permissions page.",
+    "credit_line": "Project ORCON film, U.S. Naval Research Laboratory (c. 1948-53), via Internet Archive",
+    "what_it_shows": "A rectangular striped plate in a black housing, with a pencil pointing at its centre.",
+    "best_segments": "Diagram background for 'off-centre'."
+  },
+  {
+    "file": "01d_still_pigeon_at_plate.jpg",
+    "kind": "still (frame 1:40 of 01)",
+    "source_url": "https://archive.org/download/bf-skinner-project-orcon/BF%20Skinner%20Project%20Orcon.mp4",
+    "page_url": "https://archive.org/details/bf-skinner-project-orcon",
+    "license": "PROVISIONAL, NOT CLEARED. Probably public domain as a US federal government work (17 U.S.C. 105; Commons equivalent {{PD-USGov-Navy}}) IF the Naval Research Laboratory made it, which is what the Internet Archive item says ('creator: Naval Research Laboratory (U.S.)'). Caveats: the IA item has no licence field, a third party (behaviorology@pm.me) uploaded it in 2021, and it gives the wrong date (1942; ORCON ran about 1948-53). The B. F. Skinner Foundation also captions a silent Project Pigeon video on bfskinner.org/project-pigeon 'Copyright B. F. Skinner Foundation'. Confirm provenance before use, e.g. with a NARA or NRL copy, or with the Foundation's permissions page.",
+    "credit_line": "Project ORCON film, U.S. Naval Research Laboratory (c. 1948-53), via Internet Archive",
+    "what_it_shows": "A pigeon seen from behind with its head at the plate window.",
+    "best_segments": "S2 B-roll."
+  },
+  {
+    "file": "01e_still_pigeon_silhouette_round_screen.jpg",
+    "kind": "still (frame 2:12 of 01)",
+    "source_url": "https://archive.org/download/bf-skinner-project-orcon/BF%20Skinner%20Project%20Orcon.mp4",
+    "page_url": "https://archive.org/details/bf-skinner-project-orcon",
+    "license": "PROVISIONAL, NOT CLEARED. Probably public domain as a US federal government work (17 U.S.C. 105; Commons equivalent {{PD-USGov-Navy}}) IF the Naval Research Laboratory made it, which is what the Internet Archive item says ('creator: Naval Research Laboratory (U.S.)'). Caveats: the IA item has no licence field, a third party (behaviorology@pm.me) uploaded it in 2021, and it gives the wrong date (1942; ORCON ran about 1948-53). The B. F. Skinner Foundation also captions a silent Project Pigeon video on bfskinner.org/project-pigeon 'Copyright B. F. Skinner Foundation'. Confirm provenance before use, e.g. with a NARA or NRL copy, or with the Foundation's permissions page.",
+    "credit_line": "Project ORCON film, U.S. Naval Research Laboratory (c. 1948-53), via Internet Archive",
+    "what_it_shows": "A backlit circular screen with the pigeon's head in silhouette. No ship visible yet.",
+    "best_segments": "S1 hook teaser."
+  },
+  {
+    "file": "01f_still_pigeon_pecks_ship_on_screen.jpg",
+    "kind": "still (frame 2:22 of 01)",
+    "source_url": "https://archive.org/download/bf-skinner-project-orcon/BF%20Skinner%20Project%20Orcon.mp4",
+    "page_url": "https://archive.org/details/bf-skinner-project-orcon",
+    "license": "PROVISIONAL, NOT CLEARED. Probably public domain as a US federal government work (17 U.S.C. 105; Commons equivalent {{PD-USGov-Navy}}) IF the Naval Research Laboratory made it, which is what the Internet Archive item says ('creator: Naval Research Laboratory (U.S.)'). Caveats: the IA item has no licence field, a third party (behaviorology@pm.me) uploaded it in 2021, and it gives the wrong date (1942; ORCON ran about 1948-53). The B. F. Skinner Foundation also captions a silent Project Pigeon video on bfskinner.org/project-pigeon 'Copyright B. F. Skinner Foundation'. Confirm provenance before use, e.g. with a NARA or NRL copy, or with the Foundation's permissions page.",
+    "credit_line": "Project ORCON film, U.S. Naval Research Laboratory (c. 1948-53), via Internet Archive",
+    "what_it_shows": "A pigeon silhouette pecking at a ship on the horizon, projected on the round screen.",
+    "best_segments": "S2 mechanism, the hero frame."
+  },
+  {
+    "file": "01g_still_ship_image_on_screen.jpg",
+    "kind": "still (frame 2:26 of 01)",
+    "source_url": "https://archive.org/download/bf-skinner-project-orcon/BF%20Skinner%20Project%20Orcon.mp4",
+    "page_url": "https://archive.org/details/bf-skinner-project-orcon",
+    "license": "PROVISIONAL, NOT CLEARED. Probably public domain as a US federal government work (17 U.S.C. 105; Commons equivalent {{PD-USGov-Navy}}) IF the Naval Research Laboratory made it, which is what the Internet Archive item says ('creator: Naval Research Laboratory (U.S.)'). Caveats: the IA item has no licence field, a third party (behaviorology@pm.me) uploaded it in 2021, and it gives the wrong date (1942; ORCON ran about 1948-53). The B. F. Skinner Foundation also captions a silent Project Pigeon video on bfskinner.org/project-pigeon 'Copyright B. F. Skinner Foundation'. Confirm provenance before use, e.g. with a NARA or NRL copy, or with the Foundation's permissions page.",
+    "credit_line": "Project ORCON film, U.S. Naval Research Laboratory (c. 1948-53), via Internet Archive",
+    "what_it_shows": "A ship at sea filling the round screen, with the pigeon's head below it.",
+    "best_segments": "S2/S4. Can be the thumbnail."
+  },
+  {
+    "file": "02_pelican_glider_nist_hires.jpg",
+    "kind": "image/archival photo",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/OrdnanceWorldWarII_047.jpg",
+    "page_url": "https://commons.wikimedia.org/wiki/File:OrdnanceWorldWarII_047.jpg",
+    "license": "Public domain: US federal government work by the National Bureau of Standards (now NIST), Commons tag {{PD-USGov-NIST}}",
+    "credit_line": "'Pelican' guided glide bomb (SWOD Mk 7), National Bureau of Standards / NIST, public domain, via Wikimedia Commons",
+    "what_it_shows": "The real Pelican (SWOD Mk 7) glider, the air-to-ground missile Skinner's pigeons were meant to steer. Side view, hung from a crane hook against a white backdrop, with twin tail booms and round end plates (numbered '64') and a bulbous dark nose. Field-test instrumentation is shown (per the Commons description: camera mounts under the wing and a lamp panel housed in the nose). 5558x4343 px. NOTE: this is the radar-homing test version, not a pigeon nose.",
+    "best_segments": "S1 hook ('steer missiles'): slow push toward the nose. S2 open. Crop the nose for 9:16."
+  },
+  {
+    "file": "03_pelican_radar_gear_nist.jpg",
+    "kind": "image/archival photo",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/OrdnanceWorldWarII_049.jpg",
+    "page_url": "https://commons.wikimedia.org/wiki/File:OrdnanceWorldWarII_049.jpg",
+    "license": "Public domain: US federal government work by the National Bureau of Standards (now NIST), Commons tag {{PD-USGov-NIST}}",
+    "credit_line": "Pelican radar receiving equipment, National Bureau of Standards / NIST, public domain, via Wikimedia Commons",
+    "what_it_shows": "The Pelican's electronic (radar receiving) guidance kit laid out on white: black boxes, cables and a dish antenna. Per Commons, 'it carried only receiving radio equipment, the transmitter carried instead on the mother plane'. 5257x3667 px.",
+    "best_segments": "S4 result, as the electronics that replaced the birds. Optional."
+  },
+  {
+    "file": "05_pelican_swod_mk7_dark.jpg",
+    "kind": "image/archival photo",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/SWOD_Mark_7_Pelican.jpg",
+    "page_url": "https://commons.wikimedia.org/wiki/File:SWOD_Mark_7_Pelican.jpg",
+    "license": "Public domain: US federal government work by the National Bureau of Standards (now NIST), Commons tag {{PD-USGov-NIST}}",
+    "credit_line": "SWOD Mark 7 'Pelican', National Bureau of Standards / NIST, public domain, via Wikimedia Commons",
+    "what_it_shows": "An alternative scan of the same Pelican on a hoist. It is higher contrast, and the nose number '6' is readable. 5377x4313 px.",
+    "best_segments": "Alternative to 02. The nose '6' reads well in a tight crop."
+  },
+  {
+    "file": "06_pigeon_head_closeup_vertical.jpg",
+    "kind": "image/photo (modern B-roll)",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Feral_pigeon_%28Columba_livia_domestica%29_head_close-up.jpg",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Feral_pigeon_(Columba_livia_domestica)_head_close-up.jpg",
+    "license": "CC BY-SA 4.0 (Commons tag {{self|cc-by-sa-4.0}}). Attribution and share-alike are required.",
+    "credit_line": "Feral pigeon head close-up by Air55, CC BY-SA 4.0, via Wikimedia Commons",
+    "what_it_shows": "A modern feral pigeon head and iridescent neck in sharp focus, orange eye, against a soft brown background. Portrait 2605x3913, so it is native 9:16 friendly.",
+    "best_segments": "S1 hook cold open (a pigeon staring into the lens) or S3 'they voted'."
+  },
+  {
+    "file": "07_rock_dove_closeup_pd.jpg",
+    "kind": "image/photo (modern B-roll)",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Rock_Dove_close-up.jpg",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Rock_Dove_close-up.jpg",
+    "license": "Public domain, Commons tag {{PD-self}} (released by the author ccfarmer / Prst)",
+    "credit_line": "Rock pigeon close-up by ccfarmer (Prst), public domain, via Wikimedia Commons",
+    "what_it_shows": "A modern rock pigeon in three-quarter view, with a red eye and green-purple neck sheen, on a green background. 1800x1200.",
+    "best_segments": "S3 B-roll. A no-credit-needed fallback for 06."
+  },
+  {
+    "file": null,
+    "kind": "NOT DOWNLOADED: museum object photo",
+    "source_url": null,
+    "page_url": "https://americanhistory.si.edu/collections/object/nmah_690069",
+    "license": "NOT CC0 and not rights-clear. Smithsonian Open Access API record edanmdm:nmah_690069 has metadata_usage 'CC0' (metadata only) and online_media_type 'Images', but the API returns no CC0 media. The image is therefore outside Open Access and usage conditions apply. si.edu object pages returned a Cloudflare verification or a 500 error and were not bypassed.",
+    "credit_line": "B.F. Skinner's Nose Cone of a Pigeon-Guided Missile, NMAH 1981.0997.02, Gift of B. F. Skinner",
+    "what_it_shows": "(From the record, not viewed) metal and wood 'psychological apparatus', 64 x 57 x 58.5 cm, 1940s, currently not on view.",
+    "best_segments": "Use only with NMAH permission (request via NMAH rights and reproductions). Otherwise recreate it as a diagram."
+  },
+  {
+    "file": null,
+    "kind": "REJECTED: suspected licence laundering",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Project_Orcon_and_Skinner%27s_pigeons_playing_table-tennis.jpg",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Project_Orcon_and_Skinner's_pigeons_playing_table-tennis.jpg",
+    "license": "Claimed 'CC0, own work' by User:PsychologyAssociation (uploaded 2026-04-21). The claim is not credible: it is a composite of historical photos, the left half matching Skinner's 1960 Fig. 3 three-pigeon nose model and the right half the 1950s pigeon ping-pong photo. Do not use.",
+    "credit_line": "n/a",
+    "what_it_shows": "Left: the open three-pigeon nose cone with three lens assemblies and a hand placing a pigeon. Right: two pigeons at a toy ping-pong table.",
+    "best_segments": "Do not use. The file was moved out of this folder."
+  }
+]
