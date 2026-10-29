@@ -19,7 +19,7 @@ Code-drawn, narrated 9:16 shorts for Curio (@trycurio.app). Everything that make
    ```
 2. Get the code:
    ```bash
-   git clone https://github.com/Noctilucenty/curio-video-kit.git
+   git clone https://github.com/LeonKelvinLi/curio-video-kit.git
    cd curio-video-kit
    ```
 3. Create the Python environment:
