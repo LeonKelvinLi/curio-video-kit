@@ -1,0 +1,180 @@
+{
+  "reel": "Pushinka: the Soviet space dog's puppy Khrushchev gave the Kennedys (1961) and her four 'pupniks' (1963)",
+  "generated": "2026-11-02",
+  "status": "11 files: 10 photos + 1 clip. 7 are US federal works (JFK Library / NARA White House photographs by Stoughton and Knudsen, USIS Vienna photo and USIA film) = public domain. 2 are Moscow city archive photos published by mos.ru under CC BY 4.0 (Commons {{Mos.ru|4}}). 2 are scans of Soviet official documents from the JFK Library's Pushinka folder (JBKOPP-SF050-014), kept under PD-RU-exempt (official documents of a state body) with a note. The JFK Library asset viewer is behind Cloudflare: the Drupal pages and download endpoints block curl, but the IIIF manifests (https://www.jfklibrary.org/iiif/<orangeDamSystemId>/manifest) and the static.jfklibrary.org originals do not, so the 3000-px originals were pulled from there. The faceted JFK Library search for 'Pushinka (Dog)' threw a Cloudflare human-verification challenge, which was NOT bypassed; so the photo list below is what Commons/DPLA, the known folder IDs and the JFK Library's own pets page expose. No colour photo of Pushinka on the slide was found. The USIA film is sepia-toned colour, 253 s; transcoded from the Commons .ogv to H.264 mp4 (derived file).",
+  "rejected": [
+    {
+      "what": "JFKWHP-ST-C235-3-63 sibling frames / Caroline with Pushinka / Pushinka on the treehouse slide",
+      "why": "Could not enumerate: the JFK Library faceted search (subject_person:Pushinka (Dog)) returns a Cloudflare 'verify you are human' challenge, which was left alone. The only Pushinka photo the Library's own pages expose is ST-C235-3-63 (downloaded) and KN-18294 (downloaded via Commons/DPLA)."
+    },
+    {
+      "what": "JBKOPP-SF050-014 pages p0005, p0007, p0009 (loose Soviet kennel photographs of Pushinka, Strelka, and Strelka+Pushinka+Pushok, 1961)",
+      "why": "Photographs by an unnamed Soviet photographer, 1961: not official documents, so PD-RU-exempt does not clearly apply and they are not PD in the US (URAA). Commons hosts p0005 as 'Pushinka, USSR Immigration Photo.jpg' tagged PD with no valid rationale. Not cleared. Downloaded to scratchpad only."
+    },
+    {
+      "what": "File:Belka and Strelka.jpg (Commons, mos.ru CC BY 4.0)",
+      "why": "Its own description credits 'Photo ITAR-TASS / Sergei Preobrazhensky; Nikolai Sitnikov' - a wire-agency photo relabelled by mos.ru; too risky."
+    },
+    {
+      "what": "File:USSR stamp Belka-Strelka.png and other Soviet/Transnistrian stamps",
+      "why": "Soviet 1960 stamp is not PD (Commons tag 'Personal collection', no valid licence; Soviet stamps after 1946 are copyrighted in Russia); 457x328 px anyway."
+    },
+    {
+      "what": "Taxidermy photos of Belka and Strelka (Memorial Museum of Cosmonautics: Belka-Strelka-museum.jpeg CC0, Strelka (2011).JPG CC0, Teknoraver CC BY-SA)",
+      "why": "Licence is fine (museum's own Flickr CC0) but they show the stuffed dogs beside the capsule in 2011-2016; off-story for a reel about the 1961 puppy. Belka-Strelka-museum.jpeg downloaded to scratchpad as a spare; not placed in photos/."
+    },
+    {
+      "what": "Press photos: AP/UPI 1963 'pupniks' handover photos (Mark Bruce at Columbia airport), LIFE, Getty, BBC, CBS",
+      "why": "Wire/press copyright."
+    },
+    {
+      "what": "Commons 'Kennedy Family with Dogs During a Weekend at Hyannisport 1963.png' and DPLA .gif copies",
+      "why": "Duplicates of NARA 194258; the 2700 px NARA jpg is used instead."
+    }
+  ],
+  "assets": [
+    {
+      "file": "photos/pushinka_pupniks_bryant_southlawn_1963_stoughton_colour.jpg",
+      "kind": "photo",
+      "width": 3000,
+      "height": 2020,
+      "source_url": "https://static.jfklibrary.org/s54j8h612kefnt6cyuva0p2s8mm5lj8w.jpg",
+      "page_url": "https://www.jfklibrary.org/asset-viewer/archives/JFKWHP/1963/Month%2007/Day%2009/JFKWHP-1963-07-09-C",
+      "license": "Public domain (US federal government work). JFK Library record: Copyright Status 'Public Domain', Use Restriction 'Unrestricted'. Accession ST-C235-3-63, 1 negative (color; 35 mm).",
+      "license_note": "White House photograph by Cecil Stoughton, Office of the Military Aide. Pulled at original 3000 px from the Library's IIIF manifest (orangeDamSystemId JF1STO248922).",
+      "credit_line": "Cecil Stoughton. White House Photographs. John F. Kennedy Presidential Library and Museum, Boston (ST-C235-3-63)",
+      "what_it_shows": "COLOUR. 9 July 1963, South Lawn: White House electrician and kennel keeper Traphes Bryant lies on the grass in a grey work shirt holding white Pushinka, who grins at the camera, with her four dark brown pupniks (Butterfly, White Tips, Blackie, Streaker) lined up in front of her. South Portico of the White House and a station wagon behind.",
+      "best_segments": "THE OPENER. Push in on Pushinka's face and the four pups (x 400-900, y 450-730 in a 1200-wide preview); 9:16 crop centred on the dog keeps Bryant's face above and the pups below. Second beat: tilt up to the South Portico to establish 'the White House'."
+    },
+    {
+      "file": "photos/pushinka_soviet_dog_passport_1961_colour.jpg",
+      "kind": "document",
+      "width": 3000,
+      "height": 2121,
+      "source_url": "https://static.jfklibrary.org/54u6rux477ge7awi3n20lk7v535j5rnt.jpg",
+      "page_url": "https://www.jfklibrary.org/asset-viewer/archives/JBKOPP/SF050/JBKOPP-SF050-014#?image_identifier=JBKOPP-SF050-014-p0004",
+      "license": "PD-RU-exempt (official document of a Soviet state body: Kennel of the USSR Academy of Sciences, 'Dog Passport No. B-087', stamped and signed); scan by the JFK Library (US government, no new copyright).",
+      "license_note": "MODERATE RISK. The passport form, typed entries, stamp and signature are an administrative document and exempt from copyright under Russian Civil Code art. 1259(6). The small pasted photo of Pushinka inside it is a 1961 Soviet photograph of unknown authorship and is arguably still copyrighted; it occupies ~5% of the frame. Keep the shot on the typed right-hand page if you want zero risk.",
+      "credit_line": "Pushinka's dog passport, Kennel of the USSR Academy of Sciences, 1961. Jacqueline Bouvier Kennedy Onassis Personal Papers, JBKOPP-SF050-014, John F. Kennedy Presidential Library and Museum",
+      "what_it_shows": "COLOUR scan of the open blue dog passport: left page a small B&W photo captioned 'ПУШИНКА'; right page typed in Russian: breed 'беспородная' (mixed breed), name 'Пушинка', female, born 30 November 1960, place of birth kennel of the USSR Academy of Sciences, white and fluffy with pale spots, 6 kg; father 'Пушок' b. 1955, participant in numerous ground experiments; mother 'Стрелка' b. 1958, participant in the space flight of 19-20 August 1960 on the second space ship-satellite; owner: kennel of the USSR Academy of Sciences, Moscow, Leninsky prospekt 14; purple round stamp and signature of the kennel head (Radkevich).",
+      "best_segments": "Slow pan down the right page; punch in on the 'Мать \"Стрелка\" ... 19-20 августа 1960' lines for the 'her mother flew in space' beat. Cover p0003 (passport cover 'Паспорт собаки № В-087') is also in the scratchpad if a title card is wanted."
+    },
+    {
+      "file": "photos/khrushchev_letter_15jun1961_russian.jpg",
+      "kind": "document",
+      "width": 3000,
+      "height": 2166,
+      "source_url": "https://static.jfklibrary.org/12ia2n1uqynl4fmy126irigg615o83c8.jpg",
+      "page_url": "https://www.jfklibrary.org/asset-viewer/archives/JBKOPP/SF050/JBKOPP-SF050-014#?image_identifier=JBKOPP-SF050-014-p0010",
+      "license": "PD-RU-exempt (official letter of the Chairman of the USSR Council of Ministers to a head of state = official document of a state body); scan by the JFK Library.",
+      "license_note": "Low risk: Commons hosts many Soviet government letters under {{PD-RU-exempt}}; text, not a creative photo.",
+      "credit_line": "Letter from Nikita Khrushchev to President Kennedy, 15 June 1961 (Russian original). Jacqueline Bouvier Kennedy Onassis Personal Papers, JBKOPP-SF050-014-p0010, John F. Kennedy Presidential Library and Museum",
+      "what_it_shows": "Typed Russian letter on cream paper with the USSR state seal embossed at top, handwritten date '15' June 1961, signed 'Н. Хрущев'. Paragraph 2 says that Nina Petrovna and he are pleased to fulfil Mrs Kennedy's request and send the family little 'Pushinka', a direct descendant of the famous space traveller 'Strelka' who flew on 19 August 1960 and returned safely to Earth. Paragraph 1 is about the model whaling ship made of walrus tusk and whalebone.",
+      "best_segments": "Punch in on the word \"Пушинку\" and \"Стрелки\" in paragraph 2 (middle of page, roughly y 47-57%); a slow drift down to the signature for the 'Khrushchev' beat."
+    },
+    {
+      "file": "photos/pushinka_rabies_certificate_walterreed_1962.jpg",
+      "kind": "document",
+      "width": 2121,
+      "height": 3000,
+      "source_url": "https://static.jfklibrary.org/nw86i0s0yx8odcpgh5q6b21n781b35v6.jpg",
+      "page_url": "https://www.jfklibrary.org/asset-viewer/archives/JBKOPP/SF050/JBKOPP-SF050-014#?image_identifier=JBKOPP-SF050-014-p0011",
+      "license": "Public domain (US federal government work: DD Form 793 filled in by a US Army veterinary officer, WRAIR).",
+      "license_note": "None.",
+      "credit_line": "Rabies Vaccination Certificate for Pushinka, WRAIR Veterinary Division, 22 June 1962. JBKOPP-SF050-014-p0011, John F. Kennedy Presidential Library and Museum",
+      "what_it_shows": "US Army DD Form 793 Rabies Vaccination Certificate, dated 22 June 1962, Organization 'WRAIR - Vet. Div.', Location 'Forest Glen, Md.', Owner 'President John F. Kennedy', address 'White House', species canine, breed 'Russian', age 2, weight 15, name Pushinka, colour white, female, tag 10714, signed Carol Max Lang, D.V.M., 1/Lt., VC.",
+      "best_segments": "Native portrait; a quick punch on 'OWNER'S NAME President John F. Kennedy / OWNER'S ADDRESS White House' and 'BREED Russian' is the joke beat. Use it with the Walter Reed line (she really was handled by the Army's Walter Reed vets)."
+    },
+    {
+      "file": "photos/charlie_pushinka_southlawn_1961_knudsen.jpg",
+      "kind": "photo",
+      "width": 3150,
+      "height": 2521,
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Kennedy_Family_Dogs_Charlie_and_Pushinka_on_the_South_Lawn_of_the_White_House_-_DPLA_-_31d7e2c382ceec32124b2d2928a89068_%28page_1%29.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Kennedy_Family_Dogs_Charlie_and_Pushinka_on_the_South_Lawn_of_the_White_House_-_DPLA_-_31d7e2c382ceec32124b2d2928a89068_(page_1).jpg",
+      "license": "Public domain, Wikimedia Commons {{PD-USGov}} (White House photograph, Office of the Naval Aide to the President; JFK Library KN-18294 via DPLA). SHA1 c1054c3218c8185b0beed4a6b8a8d94813ea340f matches the Commons API.",
+      "license_note": "Robert Knudsen, White House photographer. B&W.",
+      "credit_line": "Robert Knudsen. White House Photographs. John F. Kennedy Presidential Library and Museum, Boston (KN-18294)",
+      "what_it_shows": "B&W, 22 June 1961 (the week Pushinka arrived): Welsh terrier Charlie (left, tongue out) and white fluffy Pushinka (right, one ear up) sit on leads on the South Lawn with the full South Portico of the White House behind them.",
+      "best_segments": "Two-shot for the 'she met Charlie' beat; 9:16 crop on Pushinka with the portico columns above her. The first-days-at-the-White-House shot."
+    },
+    {
+      "file": "photos/kennedys_with_dogs_pupniks_hyannisport_1963_stoughton_colour.jpg",
+      "kind": "photo",
+      "width": 2700,
+      "height": 2700,
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Photograph_of_Kennedy_Family_with_Dogs_During_a_Weekend_at_Hyannisport_-_NARA_-_194258.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Photograph_of_Kennedy_Family_with_Dogs_During_a_Weekend_at_Hyannisport_-_NARA_-_194258.jpg",
+      "license": "Public domain, Wikimedia Commons {{PD-USGov}} (NARA 194258, Cecil Stoughton, White House Photographs; ST-C267-7-63). SHA1 970d9b0c7dc4f216973fb20012084a587a8cf04b matches Commons.",
+      "license_note": "None.",
+      "credit_line": "Cecil Stoughton. White House Photographs. John F. Kennedy Presidential Library and Museum / U.S. National Archives (194258)",
+      "what_it_shows": "COLOUR, 14 August 1963, Squaw Island, Hyannis Port: JFK (blue polo) and Jacqueline Kennedy (pink) on a blue chaise with John Jr. holding cocker spaniel Shannon and Mrs Kennedy holding two of Pushinka's dark pupniks; Caroline in green overalls hugs Charlie; German shepherd Clipper stands, wolfhound Wolf lies on the flagstones. Pushinka herself is not in frame.",
+      "best_segments": "Square frame; 9:16 crop on Jackie + the two pups in her lap + Caroline with Charlie (centre-right). Use for 'the whole family' / 'the pups kept two' beat. NB: the two pups shown are White Tips and Blackie era (mid-Aug 1963, after Butterfly and Streaker were given away)."
+    },
+    {
+      "file": "photos/jfkjr_with_pupnik_hyannisport_1963_stoughton_colour.jpg",
+      "kind": "photo",
+      "width": 3000,
+      "height": 2024,
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/John_F._Kennedy_Jr._with_puppy._Hyannisport%2C_MA%2C_Squaw_Island_-_NARA_-_194256.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:John_F._Kennedy_Jr._with_puppy._Hyannisport,_MA,_Squaw_Island_-_NARA_-_194256.jpg",
+      "license": "Public domain, Wikimedia Commons {{PD-USGov}} (NARA 194256, Cecil Stoughton, 3 August 1963). SHA1 5cae21c398508bd023dcfaf57dae938a2a42ad2b matches Commons.",
+      "license_note": "None.",
+      "credit_line": "Cecil Stoughton. White House Photographs. John F. Kennedy Presidential Library and Museum / U.S. National Archives (194256)",
+      "what_it_shows": "COLOUR, 3 August 1963: two-year-old John F. Kennedy Jr. in a white romper sits barefoot on a lawn at Squaw Island looking down at a dark brown pupnik sprawled at his feet; adults and children in summer dresses by the shingled house behind.",
+      "best_segments": "Crop to the boy and the puppy (lower centre). Cute insert for the 'pupniks' beat."
+    },
+    {
+      "file": "photos/strelka_with_six_puppies_1961_glavarchiv.jpg",
+      "kind": "photo",
+      "width": 3600,
+      "height": 2425,
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Strelka_with_puppies_01.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Strelka_with_puppies_01.jpg",
+      "license": "CC BY 4.0, Wikimedia Commons {{Mos.ru|4}} (published by the Moscow city government portal mos.ru, news item 105051073, whose content is released under CC BY 4.0). SHA1 467691cefffe58bc095ea3c47509b8b0189daba5 matches Commons.",
+      "license_note": "Low-moderate risk: the underlying 1961 photo is by Yu. Korolev from the Main Archive of Moscow (Glavarkhiv), republished by mos.ru under its blanket CC BY 4.0. Keep the credit line.",
+      "credit_line": "Photo: Yu. Korolev, 1961, Main Archive of Moscow (Glavarkhiv Moskvy) via mos.ru, CC BY 4.0",
+      "what_it_shows": "B&W, 1961: space dog Strelka (white with dark patches, lead on collar) stands over her litter of six white fluffy puppies on a parquet floor in front of a draped cloth; one of these pups is Pushinka's litter.",
+      "best_segments": "The 'her mother was a cosmonaut' beat: slow push from the puppies to Strelka's face. Pairs with the dog passport."
+    },
+    {
+      "file": "photos/belka_strelka_after_flight_1960_glavarchiv.jpg",
+      "kind": "photo",
+      "width": 1600,
+      "height": 850,
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Belka_and_Strelka_after_returning_from_space.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Belka_and_Strelka_after_returning_from_space.jpg",
+      "license": "CC BY 4.0, Wikimedia Commons {{Mos.ru|4}} (mos.ru news item 94754073; Museum of Cosmonautics / Glavarkhiv Moscow). SHA1 cf77512d3e04b60987bf4214d1983cccef8eb21e matches Commons.",
+      "license_note": "Below the 1500 px target (1600x850); use only as a brief insert. Same mos.ru CC BY 4.0 basis as above.",
+      "credit_line": "Museum of Cosmonautics / Main Archive of Moscow via mos.ru, CC BY 4.0",
+      "what_it_shows": "B&W, 1960: head-and-shoulders of Belka (left, white, ears up) and Strelka (right, dark patches on head) in their striped flight collars after the orbital flight.",
+      "best_segments": "Quick 1-second insert on 'Belka and Strelka', crop to Strelka (right half) if a single dog is wanted."
+    },
+    {
+      "file": "photos/vienna_dinner_jfk_khrushchev_jackie_1961_usis.jpg",
+      "kind": "photo",
+      "width": 2241,
+      "height": 2574,
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/1961_John_F._Kennedy%2C_Nikita_Khrushchev%2C_Jacqueline_Kennedy.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:1961_John_F._Kennedy,_Nikita_Khrushchev,_Jacqueline_Kennedy.jpg",
+      "license": "Public domain, Wikimedia Commons {{PD-USGov}} (United States Information Service photo, JFK Library KFC-019-009-p0067). SHA1 d0cc6b2bf6a72632e29ed01e01b037561a97df8d matches Commons.",
+      "license_note": "USIS caption on the reverse (p0068): 'The wife of U.S. President Kennedy and Soviet Premier Khrushchev enjoy a good laugh at Schoenbrunn Palace in Vienna. Austria's President Schaerf held a state dinner ... PHOTO USIS Vienna, June 3, 1961.' This is the dinner at which she asked about Strelka.",
+      "credit_line": "USIS Vienna photo, 3 June 1961. John F. Kennedy Presidential Library and Museum (KFC-019-009-p0067)",
+      "what_it_shows": "B&W, 3 June 1961, Schönbrunn Palace state dinner: Jacqueline Kennedy in a sleeveless beaded gown and long white gloves laughs, Khrushchev beside her grins with hands clasped, JFK in black tie behind them, a woman in a brocade dress in the background.",
+      "best_segments": "Native near-portrait; the 'she asked him about Strelka at dinner' beat. Push in on Jackie and Khrushchev's faces."
+    },
+    {
+      "file": "clips/vienna_summit_1961_usia.mp4",
+      "kind": "video",
+      "width": 960,
+      "height": 720,
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/President_Kennedy_in_Vienna%2C_1961%2C_USIA.ogv",
+      "page_url": "https://commons.wikimedia.org/wiki/File:President_Kennedy_in_Vienna,_1961,_USIA.ogv",
+      "license": "Public domain, Wikimedia Commons {{PD-USGov}} (United States Information Agency film 'The Task Begun: President Kennedy in Europe, 1961', JFK Library USG-01-I). Source .ogv SHA1 e84da3b2496f12c18f57cf70e42269865dcfdd02 matches Commons.",
+      "license_note": "Derived file: transcoded with ffmpeg (h264_videotoolbox 6 Mb/s, AAC) from the Commons Theora .ogv; 253.5 s, 24 fps, sepia-toned colour, mono narration.",
+      "credit_line": "United States Information Agency, 1961. John F. Kennedy Presidential Library and Museum (USG-01-I)",
+      "what_it_shows": "USIA newsreel excerpt of the Vienna summit, 3-4 June 1961: Vienna streets and Stephansdom, Air Force One arrival, Kennedy and Khrushchev meeting the press outside the US embassy residence, the two seated in talks, Khrushchev's motorcade arrival, crowds, and JFK's televised report to the nation.",
+      "best_segments": "95-110 s: JFK and Khrushchev standing side by side outside the residence with the press (best Khrushchev + Kennedy two-shot). 150-170 s: Khrushchev's arrival by car. 185-195 s: the two seated in the meeting room. 60-65 s: honour guard at the airport. Avoid 0-60 s and 225-253 s (JFK speaking to camera / London)."
+    }
+  ]
+}

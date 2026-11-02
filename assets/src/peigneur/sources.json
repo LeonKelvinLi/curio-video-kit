@@ -1,0 +1,123 @@
+{
+  "reel": "Lake Peigneur, 20 Nov 1980: a Texaco-contracted rig drilled into the Diamond Crystal salt mine and the whole lake drained into it",
+  "generated": "2026-11-02",
+  "status": "6 rights-clear files (all US-federal public domain except one CC BY 2.0 Commons photo, SHA1 verified against the Commons API) plus the two full USGS topo GeoPDFs. No rights-clear photo or film of the 1980 whirlpool, rig, waterfall or drained lakebed exists online: every such image traces back to the MSHA report, the Harmon Roy / Diamond Crystal collection, the LSU/LGS guidebook (Robert L. Thoms photos) or TV news, none of which is clearable. The MSHA report (1981, 152 pp, PD) is in full view on HathiTrust but the site sits behind a Cloudflare 'verify you are human' checkbox, which I did not complete, so none of its photos could be pulled. No video clip: no public-domain footage found (National Archives catalog search for 'Lake Peigneur' returns only census maps; archive.org has only podcasts and re-uploads of TV footage).",
+  "rejected": [
+    {
+      "what": "MSHA, 'The Jefferson Island Mine inundation' (Aug 1981), HathiTrust uc1.31822029061140, rights code pd, 152 pages",
+      "why": "Public domain US government report (would carry the rig/mine photos and any cross-section), but babel.hathitrust.org serves a Cloudflare human-verification checkbox to both curl and the browser; not completed. Not on msha.gov, arlweb.msha.gov, govinfo, CDC stacks, Google Books or the Wayback Machine (page HTML archived, page images 404)."
+    },
+    {
+      "what": "en.wikipedia File:Lake_Peigneur_Waterfall.png (the famous waterfall photo)",
+      "why": "Tagged non-free / fair use on en-wiki; source is MineSafe magazine (Western Australia, March 2000), photographer unknown. Not on Commons."
+    },
+    {
+      "what": "Louisiana Geological Survey Guidebook No. 1, W. J. Autin 1982, 'Engineering Geology of the Jefferson Island Event' (cover + Figures 1, 3-6: aerial and ground photos of the sinkhole, Figure 2 sinkhole map)",
+      "why": "Louisiana state publication with no licence statement; photos credited to Dr. Robert L. Thoms, LSU. State works are not automatically PD. Used for FACTS only; PDF kept in refs/."
+    },
+    {
+      "what": "University of Louisiana at Lafayette: Harmon F. Roy Collection (Coll. 178, photos donated by Diamond Crystal's attorney) and 'Film by Bruce Conque of Lake Peigneur Disaster, November 1980' (Warren Perrin Video Collection, 19:17 MP4)",
+      "why": "No licence; site footer 'All rights reserved'; no streaming/download link. Not clearable."
+    },
+    {
+      "what": "History Channel 'Modern Marvels' / KATC / WAFB / Fox8 / YouTube re-uploads of the 1980 TV footage",
+      "why": "Copyrighted broadcast footage and other creators' explainers."
+    },
+    {
+      "what": "HMDB.org photos of the Lake Peigneur marker and the lone chimney (Cajun Scrambler, Craig Baker); 64 Parishes chimney photo; Amusing Planet / Ryan Cheung Flickr chimney photo",
+      "why": "Photographer copyright / marked Copyrighted / Flickr licence not stated. Marker TEXT used for facts only."
+    },
+    {
+      "what": "Commons File:MAPPA PEIGNEUR.jpeg (Enrico Cabianca, CC BY 4.0, 800x800)",
+      "why": "Licence fine, but it is a modern Italian-language schematic (Miniera livello -1..-5, Diapiro salino), not an artifact of the story, and only 800 px. Not downloaded."
+    },
+    {
+      "what": "Commons File:Lake Peigneur.jpg (OpenStreetMap, CC BY 2.5, 479x530)",
+      "why": "Tiny OSM screenshot; the USGS topo maps and imagery replace it."
+    },
+    {
+      "what": "Commons File:JosephJeffersonHouse1.jpg / 2.jpg (Z28scrambler, CC BY-SA 4.0, 4032x3024)",
+      "why": "Clearable, but redundant with the Bart Everson CC BY 2.0 frame of the same house, which is wider and better lit. Not downloaded."
+    }
+  ],
+  "assets": [
+    {
+      "file": "photos/peigneur_usgs_aerial_portrait.jpg",
+      "kind": "photo",
+      "width": 2160,
+      "height": 3840,
+      "source_url": "https://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryOnly/MapServer/export?bbox=-92.012,29.945,-91.952,30.020&bboxSR=4326&imageSR=3857&size=2160,3840&format=jpg&f=image",
+      "page_url": "https://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryOnly/MapServer",
+      "license": "Public domain (USGS The National Map, USGSImageryOnly basemap: NAIP/USDA orthoimagery; US federal government work)",
+      "license_note": "Exported straight from the USGS National Map image service; USGS states National Map data and services are public domain. Orthoimagery is current (2020s), not 1980.",
+      "credit_line": "Imagery: USGS The National Map / USDA NAIP, public domain",
+      "what_it_shows": "Colour vertical aerial (orthoimagery) of Lake Peigneur today in 9:16: the brown, roughly round lake surrounded by green sugar-cane fields, the wooded Jefferson Island / Rip Van Winkle Gardens bulge on the south-east shore (where the sinkhole was), the Jefferson Island Storage & Hub tanks and ponds just south of it, the Delcambre Canal running south from the lake's bottom edge, and the town of Delcambre at the bottom.",
+      "best_segments": "OPENER. Native 9:16, no crop needed. Start zoomed on the south-east shore (island + canal mouth, roughly x 1000-1700, y 2100-2900) and pull out to reveal the whole lake; or hold wide and push in on the canal for the 'river ran backwards' beat."
+    },
+    {
+      "file": "photos/peigneur_usgs_aerial_wide.jpg",
+      "kind": "photo",
+      "width": 3840,
+      "height": 2160,
+      "source_url": "https://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryOnly/MapServer/export?bbox=-92.03,29.95,-91.935,30.015&bboxSR=4326&imageSR=3857&size=3840,2160&format=jpg&f=image",
+      "page_url": "https://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryOnly/MapServer",
+      "license": "Public domain (USGS The National Map, USGSImageryOnly basemap: NAIP/USDA orthoimagery; US federal government work)",
+      "license_note": "Same service as above, landscape framing with more of the surrounding farmland.",
+      "credit_line": "Imagery: USGS The National Map / USDA NAIP, public domain",
+      "what_it_shows": "Same colour orthoimagery, 16:9: the lake centred, Delcambre at lower left, the canal running down from the lake, cane fields all round.",
+      "best_segments": "Pan left-to-right across the lake, or crop a 9:16 slice centred on the lake (x about 1300-2500) for a different scale than the portrait file."
+    },
+    {
+      "file": "photos/saltdome_islands_landsat8_2024_usgs.png",
+      "kind": "photo",
+      "width": 1650,
+      "height": 1650,
+      "source_url": "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/images/20241223_Salt_Dome_Islands_LA.png",
+      "page_url": "https://www.usgs.gov/media/images/landsat-8-image-salt-dome-islands-louisiana",
+      "license": "Public domain (USGS Landsat 8 OLI image, Path 23 Row 39, 23 Dec 2024; USGS page states 'Public Domain')",
+      "license_note": "USGS/Landsat imagery, no restrictions.",
+      "credit_line": "Landsat 8 image, 23 Dec 2024, USGS / Landsat Missions, public domain",
+      "what_it_shows": "Colour satellite view of the Five Islands salt-dome chain of coastal Louisiana with a scale bar: Lake Peigneur is the small round lake at the top-left (about x 100-160, y 170-230), with Avery Island, Weeks Island, Cote Blanche and Belle Isle running south-east, Vermilion Bay in the lower-left and the Atchafalaya delta at the lower right.",
+      "best_segments": "Geography beat ('a salt dome under a lake'): start wide, push in to the top-left corner on Lake Peigneur. Crop the top-left quadrant for 9:16 if the scale bar is unwanted. Only 1650 px, so keep zooms modest."
+    },
+    {
+      "file": "photos/peigneur_topo_1963_usgs_crop.png",
+      "kind": "map",
+      "width": 3330,
+      "height": 4235,
+      "source_url": "https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/LA/24000/LA_Delcambre_331819_1963_24000_geo.pdf",
+      "page_url": "https://tnmaccess.nationalmap.gov/api/v1/products?datasets=Historical%20Topographic%20Maps&q=Delcambre",
+      "license": "Public domain (USGS Historical Topographic Map Collection, Delcambre LA 7.5-minute quadrangle, 1963 edition; US federal government work)",
+      "license_note": "Rendered at 500 dpi from the USGS GeoPDF (full sheet kept as photos/peigneur_topo_1963_usgs_full.pdf); crop covers the lake, Jefferson Island, the Delcambre Canal and Delcambre town.",
+      "credit_line": "USGS Delcambre, La. 1:24,000 topographic quadrangle, 1963, public domain",
+      "what_it_shows": "The lake BEFORE the disaster: 'LAKE PEIGNEUR' lettered across a pale-blue lake, 'Jefferson Island' with brown 25-ft contours and buildings on the south-east shore (Live Oak Gardens), 'Gas Well' dots in the lake, the 'DELCAMBRE' canal running south to Delcambre, 'JEFFERSON ISLAND OIL AND GAS FIELD' lettered to the south-east.",
+      "best_segments": "'Before' map. Native portrait. Push in on the Jefferson Island lettering, then dissolve to the 1994 sheet (same scale, nearly the same framing) so the altered south-east shoreline reads as the scar."
+    },
+    {
+      "file": "photos/peigneur_topo_1994_usgs_crop.png",
+      "kind": "map",
+      "width": 3189,
+      "height": 4227,
+      "source_url": "https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/LA/24000/LA_Delcambre_331822_1994_24000_geo.pdf",
+      "page_url": "https://tnmaccess.nationalmap.gov/api/v1/products?datasets=Historical%20Topographic%20Maps&q=Delcambre",
+      "license": "Public domain (USGS Historical Topographic Map Collection, Delcambre LA 7.5-minute quadrangle, 1994 edition, USGS with Louisiana DOTD; US federal government work)",
+      "license_note": "Rendered at 500 dpi from the USGS GeoPDF (full sheet kept as photos/peigneur_topo_1994_usgs_full.pdf). Sheet note: topography compiled 1963, planimetry from 1994 imagery.",
+      "credit_line": "USGS Delcambre, La. 1:24,000 topographic quadrangle, 1994, public domain",
+      "what_it_shows": "The lake AFTER: the same quadrangle in the 1994 edition. The south-east shore at Jefferson Island is re-drawn (the lake now bites into the island where the sinkhole took the gardens), 'Tanks' of the gas-storage hub appear east of the island, the Delcambre canal is unchanged.",
+      "best_segments": "'After' map, paired with the 1963 crop. Match-cut on the island; the shoreline change is the visual payoff."
+    },
+    {
+      "file": "photos/jefferson_house_ripvanwinkle_2020_everson.jpg",
+      "kind": "photo",
+      "width": 4028,
+      "height": 2266,
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Joseph_Jefferson_House%2C_Louisana_2020.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Joseph_Jefferson_House,_Louisana_2020.jpg",
+      "license": "CC BY 2.0, Wikimedia Commons {{cc-by-2.0}} (Flickr: Bart Everson, https://www.flickr.com/photos/editor/52062446641/), SHA1 3d4420065fbbb7052e6d8ff0f9196b6ee4cdf32e matches the Commons API",
+      "license_note": "Attribution required; commercial use fine.",
+      "credit_line": "Photo: Bart Everson, CC BY 2.0, via Wikimedia Commons",
+      "what_it_shows": "Colour, 15 July 2020: the white Joseph Jefferson House (1870, Rip Van Winkle Gardens) on Jefferson Island under a grey sky, bright green lawn with sprinklers, live oaks with Spanish moss either side. This is the house the Washington Post reported 'still in danger' on 22 Nov 1980; it survived.",
+      "best_segments": "Closer / 'the island today' beat. Landscape: crop 9:16 on the house (x about 1200-2500) and tilt up from the lawn to the cupola."
+    }
+  ]
+}

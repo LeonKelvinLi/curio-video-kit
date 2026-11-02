@@ -1,37 +1,639 @@
 {
-  "P1": {"title": "Okene air pocket", "name": "curio-okene-P1", "scene": ["okene_engine.js", "p1_scene.js"], "vo": "p1", "assets": {}, "cover": 12.3},
-  "P2": {"title": "Chilean miners", "name": "curio-miners-P2", "scene": ["p2.js"], "vo": "p2", "assets": {"flags": "p2_chile_33_flags.jpg"}, "cover": 13.4},
-  "P3": {"title": "Boston molasses flood", "name": "curio-molasses-P3", "scene": ["p3.js"], "vo": "p3", "assets": {"molasses": "molasses_2160.jpg"}, "cover": 1.0},
-  "P4": {"title": "Kittinger edge-of-space jump", "name": "curio-kittinger-P4", "scene": ["p4k.js"], "vo": "p4", "assets": {"jump": "p4_kittinger_jump.jpg"}, "cover": 0.8},
-  "P5": {"title": "Oxygen at altitude", "name": "curio-altitude-P5", "scene": ["p5.js"], "vo": "p5", "assets": {"masks": "p5_oxygen_masks_737.jpg"}, "cover": 1.0},
-  "P6": {"title": "Ham the space chimp", "name": "curio-ham-P6", "scene": ["p6h.js"], "vo": "p6", "assets": {"ham": "p6_ham_biopack.jpg", "launch": "p6_mr2_launch.jpg", "after": "p6_ham_after_flight.jpg"}, "cover": 0.8},
-  "P7": {"title": "Stapp rocket-sled stop", "name": "curio-stapp-P7", "scene": ["p7.js"], "vo": "p7", "assets": {"run": "p7_stapp_run_1954.jpg", "face1": "p7_stapp_face1.jpg", "face3": "p7_stapp_face3.jpg", "face5": "p7_stapp_face5.jpg", "portrait": "p7_stapp_portrait.jpg"}, "cover": 0.6},
-  "P7H": {"title": "Stapp rocket-sled stop (hook line)", "name": "curio-stapp-P7H", "scene": ["p7_hook.js", "p7.js"], "vo": "p7", "assets": {"run": "p7_stapp_run_1954.jpg", "face1": "p7_stapp_face1.jpg", "face3": "p7_stapp_face3.jpg", "face5": "p7_stapp_face5.jpg", "portrait": "p7_stapp_portrait.jpg"}, "cover": 0.6},
-  "P8": {"title": "Rankin's fall through a thunderstorm", "name": "curio-rankin-P8", "scene": ["p8.js", "plates.js"], "vo": "p8", "assets": {"a": "b23_p8a.jpg", "b": "b23_p8b.jpg", "c": "b23_p8c.jpg", "d": "b23_p8d.jpg"}, "cover": 0.5},
-  "P9": {"title": "LeBlanc vacuum-chamber accident", "name": "curio-leblanc-P9", "scene": ["p9.js", "plates.js"], "vo": "p9", "assets": {"a": "b23_p9a.jpg", "b": "b23_p9b.jpg", "c": "b23_p9c.jpg", "d": "b23_p9d.jpg"}, "cover": 0.5},
-  "P10": {"title": "Roy Sullivan struck by lightning 7 times", "name": "curio-sullivan-P10", "scene": ["p10.js", "plates.js"], "vo": "p10", "assets": {"a": "b23_p10a.jpg", "b": "b23_p10b.jpg", "c": "b23_p10c.jpg", "d": "b23_p10d.jpg"}, "cover": 0.5},
-  "P11": {"title": "Apollo 13 duct-tape air filter", "name": "curio-apollo13-P11", "scene": ["p11.js", "plates.js"], "vo": "p11", "assets": {"a": "b23_p11a.jpg", "b": "b23_p11b.jpg", "c": "b23_p11c.jpg", "d": "b23_p11d.jpg"}, "cover": 0.5},
-  "P12": {"title": "Gemini 8 stuck thruster", "name": "curio-gemini8-P12", "scene": ["p12.js", "plates.js"], "vo": "p12", "assets": {"a": "b23_p12a.jpg", "b": "b23_p12b.jpg", "c": "b23_p12c.jpg", "d": "b23_p12d.jpg"}, "cover": 0.5},
-  "P11F": {"title": "Apollo 13 duct-tape air filter (footage-first)", "name": "curio-apollo13-P11F", "scene": ["p11_ff.js", "footage.js"], "vo": "p11", "assets": {"filter": "ff_p11_as13-62-8929.jpg", "sm": "ff_p11_sm_damage.jpg", "crew": "ff_p11_s70-36485.jpg", "lm": "ff_p11_as13-59-8562.jpg", "build": "ff_p11_as13-62-9004.jpg"}, "cover": 0.6},
-  "P9F": {"title": "LeBlanc vacuum-chamber accident (footage-first)", "name": "curio-leblanc-P9F", "scene": ["p9_ff.js", "footage.js"], "vo": "p9", "assets": {"suit": "ff_p9_clip_suit", "hookup": "ff_p9_clip_hookup", "leblanc": "ff_p9_leblanc.jpg", "chamber": "ff_p9_chamber8ft.jpg", "page": "ff_p9_page.jpg", "frame4": "ff_p9_page_frame4.jpg"}, "cover": 0.6},
-  "P10F": {"title": "Roy Sullivan struck by lightning 7 times (footage-first)", "name": "curio-sullivan-P10F", "scene": ["p10_ff.js", "footage.js"], "vo": "p10", "assets": {"sullivan": "ff_p10_sullivan.jpg", "bolt": "ff_p10_clip_bolt", "sign": "ff_p10_clip_sign", "skyline": "ff_p10_skyline1942.jpg"}, "cover": 0.6},
-  "P12F": {"title": "Gemini 8 stuck thruster (footage-first)", "name": "curio-gemini8-P12F", "scene": ["p12_ff.js", "footage.js"], "vo": "p12", "assets": {"window": "ff_p12_clip_window", "armstrong": "ff_p12_clip_armstrong", "launch": "ff_p12_clip_launch", "armstrong2": "ff_p12_clip_armstrong2", "deck": "ff_p12_clip_deck"}, "cover": 0.6},
-  "P8F": {"title": "Rankin's fall through a thunderstorm (footage-first)", "name": "curio-rankin-P8F", "scene": ["p8_ff.js", "footage.js"], "vo": "p8", "assets": {"cloud": "ff_p8_clip_cloud", "iss": "ff_p8_clip_iss", "crusader": "ff_p8_crusader.jpg", "ejection": "ff_p8_ejection.jpg", "canopy": "ff_p8_clip_canopy", "land": "ff_p8_clip_land"}, "cover": 0.6},
-  "ZC": {"title": "Cows painted like zebras (footage-first)", "name": "curio-zebracows-ZC", "scene": ["zc_ff.js", "footage.js"], "vo": "zc", "assets": {"striped": "ff_zc_striped.jpg", "plain": "ff_zc_plain.jpg", "zebra": "ff_zc_clip_zebra"}, "cover": 0.6},
-  "BB": {"title": "The WWII bat bomb (footage-first)", "name": "curio-batbomb-BB", "scene": ["bb_ff.js", "footage.js"], "vo": "bb", "assets": {"canister": "ff_bb_canister.jpg", "bat": "ff_bb_bat.jpg", "cave": "ff_bb_cave.jpg", "fire": "ff_bb_fire.jpg", "swarm": "ff_bb_swarm.jpg"}, "cover": 0.6},
-  "GG": {"title": "The Gimli Glider (footage-first)", "name": "curio-gimli-GG", "scene": ["gg_ff.js", "footage.js"], "vo": "gg", "assets": {"landed": "ff_gg_landed.jpg", "jet": "ff_gg_jet.jpg", "strip": "ff_gg_strip.jpg"}, "cover": 0.6},
-  "MM": {"title": "Operation Mincemeat (footage-first)", "name": "curio-mincemeat-MM", "scene": ["mm_ff.js", "footage.js"], "vo": "mm", "assets": {"card": "ff_mm_card.jpg", "seraph": "ff_mm_seraph.jpg", "pam": "ff_mm_pam.jpg", "map": "ff_mm_map.jpg"}, "cover": 0.6},
-  "OM": {"title": "The 1904 Olympic marathon (footage-first)", "name": "curio-marathon1904-OM", "scene": ["om_ff.js", "footage.js"], "vo": "om", "assets": {"start": "ff_om_start.jpg", "road": "ff_om_road.jpg", "tau": "ff_om_tau.jpg", "carvajal": "ff_om_carvajal.jpg", "hicks": "ff_om_hicks.jpg"}, "cover": 0.6},
-  "HB": {"title": "Hubble's glasses (footage-first)", "name": "curio-hubble-HB", "scene": ["hb_ff.js", "footage.js"], "vo": "hb", "assets": {"hubble": "ff_hb_clip_hubble", "eva": "ff_hb_clip_eva", "m100": "ff_hb_clip_m100"}, "cover": 0.6},
-  "RC": {"title": "Raising Chicago (footage-first)", "name": "curio-raisingchicago-RC", "scene": ["rc_ff.js", "footage.js"], "vo": "rc", "assets": {"briggs": "ff_rc_briggs.jpg", "lakest": "ff_rc_lakest.jpg", "tremont": "ff_rc_tremont.jpg"}, "cover": 0.6},
-  "WW": {"title": "Wrong Way Corrigan (footage-first)", "name": "curio-corrigan-WW", "scene": ["ww_ff.js", "footage.js"], "vo": "ww", "assets": {"headline": "ff_ww_headline.jpg", "mulligan": "ff_ww_mulligan.jpg", "map": "ff_ww_map.jpg", "plane": "ff_ww_plane.jpg", "wave": "ff_ww_wave.jpg"}, "cover": 0.6},
-  "LW": {"title": "The con man who sold the Eiffel Tower (footage-first)", "name": "curio-lustig-LW", "scene": ["lw_ff.js", "footage.js"], "vo": "lw", "assets": {"eiffel": "ff_lw_eiffel.jpg", "crillon": "ff_lw_crillon.jpg", "wanted": "ff_lw_wanted.jpg", "alcatraz": "ff_lw_alcatraz.jpg"}, "cover": 0.6},
-  "SX": {"title": "Shoe-store X-ray machines (footage-first)", "name": "curio-shoexray-SX", "scene": ["sx_ff.js", "footage.js"], "vo": "sx", "assets": {"adrian": "ff_sx_adrian.jpg", "xray": "ff_sx_xray.jpg", "pedoscope": "ff_sx_pedoscope.jpg"}, "cover": 0.6},
-  "BF": {"title": "Blood Falls (footage-first)", "name": "curio-bloodfalls-BF", "scene": ["bf_ff.js", "footage.js"], "vo": "bf", "assets": {"falls": "ff_bf_falls.jpg", "aerial": "ff_bf_aerial.jpg", "ground": "ff_bf_ground.jpg"}, "cover": 0.6},
-  "HT": {"title": "Moving the Cape Hatteras lighthouse (footage-first)", "name": "curio-hatteras-HT", "scene": ["ht_ff.js", "footage.js"], "vo": "ht", "assets": {"aerial": "ff_ht_aerial.jpg", "habs": "ff_ht_habs.jpg", "newsite": "ff_ht_newsite.jpg"}, "cover": 0.6},
-  "PG": {"title": "Project Pigeon (footage-first)", "name": "curio-pigeon-PG", "scene": ["pg_ff.js", "footage.js"], "vo": "pg", "assets": {"pelican": "ff_pg_pelican.jpg", "pigeon": "ff_pg_pigeon.jpg", "pelican2": "ff_pg_pelican2.jpg"}, "cover": 0.6},
-  "BC": {"title": "SS Baychimo, the ghost ship (footage-first)", "name": "curio-baychimo-BC", "scene": ["bc_ff.js", "footage.js"], "vo": "bc", "assets": {"ship": "ff_bc_ship.jpg", "trapped": "ff_bc_trapped.jpg", "swallowed": "ff_bc_swallowed.jpg", "bow": "ff_bc_bow.jpg", "ghostly": "ff_bc_ghostly.jpg"}, "cover": 0.6},
-  "AP": {"title": "Apollo 12 lightning strike (footage-first)", "name": "curio-apollo12-AP", "scene": ["ap_ff.js", "footage.js"], "vo": "ap", "assets": {"bolt": "ff_ap_clip_bolt", "mocr": "ff_ap_clip_mocr", "land": "ff_ap_clip_land"}, "cover": 0.6},
-  "TN": {"title": "Galloping Gertie, Tacoma Narrows (footage-first)", "name": "curio-tacoma-TN", "scene": ["tn_ff.js", "footage.js"], "vo": "tn", "assets": {"twist": "ff_tn_clip_twist", "deck": "ff_tn_clip_deck", "opening": "ff_tn_opening.jpg", "fall": "ff_tn_clip_fall"}, "cover": 0.6},
-  "NO": {"title": "Sir Nils Olav, the general penguin (footage-first)", "name": "curio-nilsolav-NO", "scene": ["no_ff.js", "footage.js"], "vo": "no", "assets": {"inspect": "ff_no_inspect.jpg", "guard": "ff_no_guard.jpg", "portrait": "ff_no_portrait.jpg"}, "cover": 0.6}
+ "P1": {
+  "title": "Okene air pocket",
+  "name": "curio-okene-P1",
+  "scene": [
+   "okene_engine.js",
+   "p1_scene.js"
+  ],
+  "vo": "p1",
+  "assets": {},
+  "cover": 12.3
+ },
+ "P2": {
+  "title": "Chilean miners",
+  "name": "curio-miners-P2",
+  "scene": [
+   "p2.js"
+  ],
+  "vo": "p2",
+  "assets": {
+   "flags": "p2_chile_33_flags.jpg"
+  },
+  "cover": 13.4
+ },
+ "P3": {
+  "title": "Boston molasses flood",
+  "name": "curio-molasses-P3",
+  "scene": [
+   "p3.js"
+  ],
+  "vo": "p3",
+  "assets": {
+   "molasses": "molasses_2160.jpg"
+  },
+  "cover": 1.0
+ },
+ "P4": {
+  "title": "Kittinger edge-of-space jump",
+  "name": "curio-kittinger-P4",
+  "scene": [
+   "p4k.js"
+  ],
+  "vo": "p4",
+  "assets": {
+   "jump": "p4_kittinger_jump.jpg"
+  },
+  "cover": 0.8
+ },
+ "P5": {
+  "title": "Oxygen at altitude",
+  "name": "curio-altitude-P5",
+  "scene": [
+   "p5.js"
+  ],
+  "vo": "p5",
+  "assets": {
+   "masks": "p5_oxygen_masks_737.jpg"
+  },
+  "cover": 1.0
+ },
+ "P6": {
+  "title": "Ham the space chimp",
+  "name": "curio-ham-P6",
+  "scene": [
+   "p6h.js"
+  ],
+  "vo": "p6",
+  "assets": {
+   "ham": "p6_ham_biopack.jpg",
+   "launch": "p6_mr2_launch.jpg",
+   "after": "p6_ham_after_flight.jpg"
+  },
+  "cover": 0.8
+ },
+ "P7": {
+  "title": "Stapp rocket-sled stop",
+  "name": "curio-stapp-P7",
+  "scene": [
+   "p7.js"
+  ],
+  "vo": "p7",
+  "assets": {
+   "run": "p7_stapp_run_1954.jpg",
+   "face1": "p7_stapp_face1.jpg",
+   "face3": "p7_stapp_face3.jpg",
+   "face5": "p7_stapp_face5.jpg",
+   "portrait": "p7_stapp_portrait.jpg"
+  },
+  "cover": 0.6
+ },
+ "P7H": {
+  "title": "Stapp rocket-sled stop (hook line)",
+  "name": "curio-stapp-P7H",
+  "scene": [
+   "p7_hook.js",
+   "p7.js"
+  ],
+  "vo": "p7",
+  "assets": {
+   "run": "p7_stapp_run_1954.jpg",
+   "face1": "p7_stapp_face1.jpg",
+   "face3": "p7_stapp_face3.jpg",
+   "face5": "p7_stapp_face5.jpg",
+   "portrait": "p7_stapp_portrait.jpg"
+  },
+  "cover": 0.6
+ },
+ "P8": {
+  "title": "Rankin's fall through a thunderstorm",
+  "name": "curio-rankin-P8",
+  "scene": [
+   "p8.js",
+   "plates.js"
+  ],
+  "vo": "p8",
+  "assets": {
+   "a": "b23_p8a.jpg",
+   "b": "b23_p8b.jpg",
+   "c": "b23_p8c.jpg",
+   "d": "b23_p8d.jpg"
+  },
+  "cover": 0.5
+ },
+ "P9": {
+  "title": "LeBlanc vacuum-chamber accident",
+  "name": "curio-leblanc-P9",
+  "scene": [
+   "p9.js",
+   "plates.js"
+  ],
+  "vo": "p9",
+  "assets": {
+   "a": "b23_p9a.jpg",
+   "b": "b23_p9b.jpg",
+   "c": "b23_p9c.jpg",
+   "d": "b23_p9d.jpg"
+  },
+  "cover": 0.5
+ },
+ "P10": {
+  "title": "Roy Sullivan struck by lightning 7 times",
+  "name": "curio-sullivan-P10",
+  "scene": [
+   "p10.js",
+   "plates.js"
+  ],
+  "vo": "p10",
+  "assets": {
+   "a": "b23_p10a.jpg",
+   "b": "b23_p10b.jpg",
+   "c": "b23_p10c.jpg",
+   "d": "b23_p10d.jpg"
+  },
+  "cover": 0.5
+ },
+ "P11": {
+  "title": "Apollo 13 duct-tape air filter",
+  "name": "curio-apollo13-P11",
+  "scene": [
+   "p11.js",
+   "plates.js"
+  ],
+  "vo": "p11",
+  "assets": {
+   "a": "b23_p11a.jpg",
+   "b": "b23_p11b.jpg",
+   "c": "b23_p11c.jpg",
+   "d": "b23_p11d.jpg"
+  },
+  "cover": 0.5
+ },
+ "P12": {
+  "title": "Gemini 8 stuck thruster",
+  "name": "curio-gemini8-P12",
+  "scene": [
+   "p12.js",
+   "plates.js"
+  ],
+  "vo": "p12",
+  "assets": {
+   "a": "b23_p12a.jpg",
+   "b": "b23_p12b.jpg",
+   "c": "b23_p12c.jpg",
+   "d": "b23_p12d.jpg"
+  },
+  "cover": 0.5
+ },
+ "P11F": {
+  "title": "Apollo 13 duct-tape air filter (footage-first)",
+  "name": "curio-apollo13-P11F",
+  "scene": [
+   "p11_ff.js",
+   "footage.js"
+  ],
+  "vo": "p11",
+  "assets": {
+   "filter": "ff_p11_as13-62-8929.jpg",
+   "sm": "ff_p11_sm_damage.jpg",
+   "crew": "ff_p11_s70-36485.jpg",
+   "lm": "ff_p11_as13-59-8562.jpg",
+   "build": "ff_p11_as13-62-9004.jpg"
+  },
+  "cover": 0.6
+ },
+ "P9F": {
+  "title": "LeBlanc vacuum-chamber accident (footage-first)",
+  "name": "curio-leblanc-P9F",
+  "scene": [
+   "p9_ff.js",
+   "footage.js"
+  ],
+  "vo": "p9",
+  "assets": {
+   "suit": "ff_p9_clip_suit",
+   "hookup": "ff_p9_clip_hookup",
+   "leblanc": "ff_p9_leblanc.jpg",
+   "chamber": "ff_p9_chamber8ft.jpg",
+   "page": "ff_p9_page.jpg",
+   "frame4": "ff_p9_page_frame4.jpg"
+  },
+  "cover": 0.6
+ },
+ "P10F": {
+  "title": "Roy Sullivan struck by lightning 7 times (footage-first)",
+  "name": "curio-sullivan-P10F",
+  "scene": [
+   "p10_ff.js",
+   "footage.js"
+  ],
+  "vo": "p10",
+  "assets": {
+   "sullivan": "ff_p10_sullivan.jpg",
+   "bolt": "ff_p10_clip_bolt",
+   "sign": "ff_p10_clip_sign",
+   "skyline": "ff_p10_skyline1942.jpg"
+  },
+  "cover": 0.6
+ },
+ "P12F": {
+  "title": "Gemini 8 stuck thruster (footage-first)",
+  "name": "curio-gemini8-P12F",
+  "scene": [
+   "p12_ff.js",
+   "footage.js"
+  ],
+  "vo": "p12",
+  "assets": {
+   "window": "ff_p12_clip_window",
+   "armstrong": "ff_p12_clip_armstrong",
+   "launch": "ff_p12_clip_launch",
+   "armstrong2": "ff_p12_clip_armstrong2",
+   "deck": "ff_p12_clip_deck"
+  },
+  "cover": 0.6
+ },
+ "P8F": {
+  "title": "Rankin's fall through a thunderstorm (footage-first)",
+  "name": "curio-rankin-P8F",
+  "scene": [
+   "p8_ff.js",
+   "footage.js"
+  ],
+  "vo": "p8",
+  "assets": {
+   "cloud": "ff_p8_clip_cloud",
+   "iss": "ff_p8_clip_iss",
+   "crusader": "ff_p8_crusader.jpg",
+   "ejection": "ff_p8_ejection.jpg",
+   "canopy": "ff_p8_clip_canopy",
+   "land": "ff_p8_clip_land"
+  },
+  "cover": 0.6
+ },
+ "ZC": {
+  "title": "Cows painted like zebras (footage-first)",
+  "name": "curio-zebracows-ZC",
+  "scene": [
+   "zc_ff.js",
+   "footage.js"
+  ],
+  "vo": "zc",
+  "assets": {
+   "striped": "ff_zc_striped.jpg",
+   "plain": "ff_zc_plain.jpg",
+   "zebra": "ff_zc_clip_zebra"
+  },
+  "cover": 0.6
+ },
+ "BB": {
+  "title": "The WWII bat bomb (footage-first)",
+  "name": "curio-batbomb-BB",
+  "scene": [
+   "bb_ff.js",
+   "footage.js"
+  ],
+  "vo": "bb",
+  "assets": {
+   "canister": "ff_bb_canister.jpg",
+   "bat": "ff_bb_bat.jpg",
+   "cave": "ff_bb_cave.jpg",
+   "fire": "ff_bb_fire.jpg",
+   "swarm": "ff_bb_swarm.jpg"
+  },
+  "cover": 0.6
+ },
+ "GG": {
+  "title": "The Gimli Glider (footage-first)",
+  "name": "curio-gimli-GG",
+  "scene": [
+   "gg_ff.js",
+   "footage.js"
+  ],
+  "vo": "gg",
+  "assets": {
+   "landed": "ff_gg_landed.jpg",
+   "jet": "ff_gg_jet.jpg",
+   "strip": "ff_gg_strip.jpg"
+  },
+  "cover": 0.6
+ },
+ "MM": {
+  "title": "Operation Mincemeat (footage-first)",
+  "name": "curio-mincemeat-MM",
+  "scene": [
+   "mm_ff.js",
+   "footage.js"
+  ],
+  "vo": "mm",
+  "assets": {
+   "card": "ff_mm_card.jpg",
+   "seraph": "ff_mm_seraph.jpg",
+   "pam": "ff_mm_pam.jpg",
+   "map": "ff_mm_map.jpg"
+  },
+  "cover": 0.6
+ },
+ "OM": {
+  "title": "The 1904 Olympic marathon (footage-first)",
+  "name": "curio-marathon1904-OM",
+  "scene": [
+   "om_ff.js",
+   "footage.js"
+  ],
+  "vo": "om",
+  "assets": {
+   "start": "ff_om_start.jpg",
+   "road": "ff_om_road.jpg",
+   "tau": "ff_om_tau.jpg",
+   "carvajal": "ff_om_carvajal.jpg",
+   "hicks": "ff_om_hicks.jpg"
+  },
+  "cover": 0.6
+ },
+ "HB": {
+  "title": "Hubble's glasses (footage-first)",
+  "name": "curio-hubble-HB",
+  "scene": [
+   "hb_ff.js",
+   "footage.js"
+  ],
+  "vo": "hb",
+  "assets": {
+   "hubble": "ff_hb_clip_hubble",
+   "eva": "ff_hb_clip_eva",
+   "m100": "ff_hb_clip_m100"
+  },
+  "cover": 0.6
+ },
+ "RC": {
+  "title": "Raising Chicago (footage-first)",
+  "name": "curio-raisingchicago-RC",
+  "scene": [
+   "rc_ff.js",
+   "footage.js"
+  ],
+  "vo": "rc",
+  "assets": {
+   "briggs": "ff_rc_briggs.jpg",
+   "lakest": "ff_rc_lakest.jpg",
+   "tremont": "ff_rc_tremont.jpg"
+  },
+  "cover": 0.6
+ },
+ "WW": {
+  "title": "Wrong Way Corrigan (footage-first)",
+  "name": "curio-corrigan-WW",
+  "scene": [
+   "ww_ff.js",
+   "footage.js"
+  ],
+  "vo": "ww",
+  "assets": {
+   "headline": "ff_ww_headline.jpg",
+   "mulligan": "ff_ww_mulligan.jpg",
+   "map": "ff_ww_map.jpg",
+   "plane": "ff_ww_plane.jpg",
+   "wave": "ff_ww_wave.jpg"
+  },
+  "cover": 0.6
+ },
+ "LW": {
+  "title": "The con man who sold the Eiffel Tower (footage-first)",
+  "name": "curio-lustig-LW",
+  "scene": [
+   "lw_ff.js",
+   "footage.js"
+  ],
+  "vo": "lw",
+  "assets": {
+   "eiffel": "ff_lw_eiffel.jpg",
+   "crillon": "ff_lw_crillon.jpg",
+   "wanted": "ff_lw_wanted.jpg",
+   "alcatraz": "ff_lw_alcatraz.jpg"
+  },
+  "cover": 0.6
+ },
+ "SX": {
+  "title": "Shoe-store X-ray machines (footage-first)",
+  "name": "curio-shoexray-SX",
+  "scene": [
+   "sx_ff.js",
+   "footage.js"
+  ],
+  "vo": "sx",
+  "assets": {
+   "adrian": "ff_sx_adrian.jpg",
+   "xray": "ff_sx_xray.jpg",
+   "pedoscope": "ff_sx_pedoscope.jpg"
+  },
+  "cover": 0.6
+ },
+ "BF": {
+  "title": "Blood Falls (footage-first)",
+  "name": "curio-bloodfalls-BF",
+  "scene": [
+   "bf_ff.js",
+   "footage.js"
+  ],
+  "vo": "bf",
+  "assets": {
+   "falls": "ff_bf_falls.jpg",
+   "aerial": "ff_bf_aerial.jpg",
+   "ground": "ff_bf_ground.jpg"
+  },
+  "cover": 0.6
+ },
+ "HT": {
+  "title": "Moving the Cape Hatteras lighthouse (footage-first)",
+  "name": "curio-hatteras-HT",
+  "scene": [
+   "ht_ff.js",
+   "footage.js"
+  ],
+  "vo": "ht",
+  "assets": {
+   "aerial": "ff_ht_aerial.jpg",
+   "habs": "ff_ht_habs.jpg",
+   "newsite": "ff_ht_newsite.jpg"
+  },
+  "cover": 0.6
+ },
+ "PG": {
+  "title": "Project Pigeon (footage-first)",
+  "name": "curio-pigeon-PG",
+  "scene": [
+   "pg_ff.js",
+   "footage.js"
+  ],
+  "vo": "pg",
+  "assets": {
+   "pelican": "ff_pg_pelican.jpg",
+   "pigeon": "ff_pg_pigeon.jpg",
+   "pelican2": "ff_pg_pelican2.jpg"
+  },
+  "cover": 0.6
+ },
+ "BC": {
+  "title": "SS Baychimo, the ghost ship (footage-first)",
+  "name": "curio-baychimo-BC",
+  "scene": [
+   "bc_ff.js",
+   "footage.js"
+  ],
+  "vo": "bc",
+  "assets": {
+   "ship": "ff_bc_ship.jpg",
+   "trapped": "ff_bc_trapped.jpg",
+   "swallowed": "ff_bc_swallowed.jpg",
+   "bow": "ff_bc_bow.jpg",
+   "ghostly": "ff_bc_ghostly.jpg"
+  },
+  "cover": 0.6
+ },
+ "AP": {
+  "title": "Apollo 12 lightning strike (footage-first)",
+  "name": "curio-apollo12-AP",
+  "scene": [
+   "ap_ff.js",
+   "footage.js"
+  ],
+  "vo": "ap",
+  "assets": {
+   "bolt": "ff_ap_clip_bolt",
+   "mocr": "ff_ap_clip_mocr",
+   "land": "ff_ap_clip_land"
+  },
+  "cover": 0.6
+ },
+ "TN": {
+  "title": "Galloping Gertie, Tacoma Narrows (footage-first)",
+  "name": "curio-tacoma-TN",
+  "scene": [
+   "tn_ff.js",
+   "footage.js"
+  ],
+  "vo": "tn",
+  "assets": {
+   "twist": "ff_tn_clip_twist",
+   "deck": "ff_tn_clip_deck",
+   "opening": "ff_tn_opening.jpg",
+   "fall": "ff_tn_clip_fall"
+  },
+  "cover": 0.6
+ },
+ "NO": {
+  "title": "Sir Nils Olav, the general penguin (footage-first)",
+  "name": "curio-nilsolav-NO",
+  "scene": [
+   "no_ff.js",
+   "footage.js"
+  ],
+  "vo": "no",
+  "assets": {
+   "inspect": "ff_no_inspect.jpg",
+   "guard": "ff_no_guard.jpg",
+   "portrait": "ff_no_portrait.jpg"
+  },
+  "cover": 0.6
+ },
+ "NF": {
+  "title": "The day they turned off Niagara Falls (footage-first)",
+  "name": "curio-niagara-NF",
+  "scene": [
+   "nf_ff.js",
+   "footage.js"
+  ],
+  "vo": "nf",
+  "assets": {
+   "prospect": "ff_nf_prospect.jpg",
+   "talus": "ff_nf_talus.jpg",
+   "aerial": "ff_nf_aerial.jpg",
+   "wet": "ff_nf_wet.jpg"
+  },
+  "cover": 0.6
+ },
+ "SK": {
+  "title": "NASA's littering fine, Skylab 1979 (footage-first)",
+  "name": "curio-skylab-SK",
+  "scene": [
+   "sk_ff.js",
+   "footage.js"
+  ],
+  "vo": "sk",
+  "assets": {
+   "orbit": "ff_sk_orbit.jpg",
+   "close": "ff_sk_close.jpg",
+   "monument": "ff_sk_monument.jpg",
+   "tank": "ff_sk_tank.jpg"
+  },
+  "cover": 0.6
+ },
+ "LP": {
+  "title": "Lake Peigneur drained into a salt mine (footage-first)",
+  "name": "curio-peigneur-LP",
+  "scene": [
+   "lp_ff.js",
+   "footage.js"
+  ],
+  "vo": "lp",
+  "assets": {
+   "aerial": "ff_lp_aerial.jpg",
+   "map63": "ff_lp_map63.jpg",
+   "map94": "ff_lp_map94.jpg",
+   "wide": "ff_lp_wide.jpg"
+  },
+  "cover": 0.6
+ },
+ "PW": {
+  "title": "The Pig War of 1859 (footage-first)",
+  "name": "curio-pigwar-PW",
+  "scene": [
+   "pw_ff.js",
+   "footage.js"
+  ],
+  "vo": "pw",
+  "assets": {
+   "blockhouse": "ff_pw_blockhouse.jpg",
+   "farm": "ff_pw_farm.jpg",
+   "affidavit": "ff_pw_affidavit.jpg",
+   "watercolour": "ff_pw_watercolour.jpg",
+   "map": "ff_pw_map.jpg"
+  },
+  "cover": 0.6
+ },
+ "PK": {
+  "title": "Pushinka, the space dog's puppy in the White House (footage-first)",
+  "name": "curio-pushinka-PK",
+  "scene": [
+   "pk_ff.js",
+   "footage.js"
+  ],
+  "vo": "pk",
+  "assets": {
+   "pupniks": "ff_pk_pupniks.jpg",
+   "strelka": "ff_pk_strelka.jpg",
+   "vienna": "ff_pk_vienna.jpg",
+   "passport": "ff_pk_passport.jpg",
+   "family": "ff_pk_family.jpg"
+  },
+  "cover": 0.6
+ },
+ "MC": {
+  "title": "When you could mail a child (footage-first)",
+  "name": "curio-mailedkids-MC",
+  "scene": [
+   "mc_ff.js",
+   "footage.js"
+  ],
+  "vo": "mc",
+  "assets": {
+   "bag": "ff_mc_bag.jpg",
+   "puck": "ff_mc_puck.jpg",
+   "beagle": "ff_mc_beagle.jpg",
+   "grangeville": "ff_mc_grangeville.jpg",
+   "ruling": "ff_mc_ruling.jpg"
+  },
+  "cover": 0.6
+ }
 }

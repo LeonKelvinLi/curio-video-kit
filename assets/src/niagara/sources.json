@@ -1,0 +1,110 @@
+{
+  "reel": "1969: the US Army Corps of Engineers turned off the American Falls at Niagara",
+  "generated": "2026-11-02",
+  "status": "7 photos downloaded and viewed. Three COLOUR 1969 photos of the dewatered falls come from the US Army Corps of Engineers Buffalo District's own 50th-anniversary release on DVIDS (marked PUBLIC DOMAIN by DVIDS/USACE; captions credit the original photographer as W. Stratton of the Niagara Frontier State Park Commission). Two Wikimedia Commons 1969 photos (one CC BY-SA 4.0 B&W, one PD colour but only 618 px) and two 1973 DOCUMERICA colour aerials (NARA, PD) for the 'water on' comparison. SHA1 of every Commons download matches the Commons API. No rights-clear film of the dry falls found. The 1974 American Falls International Board report (DTIC ADA101298) could not be downloaded: apps.dtic.mil was returning an 'Under Maintenance' page on 2026-11-02, so no report figures/diagrams are included.",
+  "rejected": [
+    {"what": "DVIDS 'original' resolution downloads (5475540 1520x1052, 5475546 3507x2480, 5475549 1511x1043)", "why": "Download needs a DVIDS login. Used the public cloudfront renditions instead (1920w / 2000w); note that the 1920w files for 5475540 and 5475549 are slight upscales of ~1520 px originals."},
+    {"what": "File:Dewatered American Falls (1969) ... (19936707609).jpg (James St. John, Flickr CC BY 2.0, 2806x1939, colour)", "why": "Downloaded, viewed, then dropped: it is a re-photograph of Niagara Falls State Park signage; the underlying 1969 photo is credited to the New York Power Authority (a state authority, not a federal work) with no open licence."},
+    {"what": "Niagara Falls Public Library / historicniagara.ca 1969 dewatering images (items 90264, 90831, 91173, 96483 etc.)", "why": "Rights fields name the donor (e.g. Michael Dumele) or the NYPA or NFPL as rights holder; no open licence."},
+    {"what": "Russ Glasson family photos (used by Smithsonian, National Geographic, Vintage News), Getty/DeAgostini image on history.com, AP wire photos", "why": "Private/press copyright, no open licence."},
+    {"what": "CBC Archives film of the dry falls (cbc.ca story 1.5153072)", "why": "CBC copyright."},
+    {"what": "DVIDS video 986837 'When Niagara Falls Went Dry: The Science and Engineering Explained' (USACE Buffalo, 2025, 3:48)", "why": "PD, but it is a finished explainer (2025 interview with ex-Corps geologist Ken Voght); page lists no 1969 archival footage and the download needs a login. Not used."},
+    {"what": "File:Above American Falls and surrounding area Niagara Falls NY 2025-09-07 09-59-57.jpg (CC BY 4.0, 8256x4973)", "why": "Downloaded and viewed: shows the upper rapids, Goat Island bridge and a hotel car park, not the falls themselves; misleading as an 'American Falls today' shot. Deleted."},
+    {"what": "DTIC ADA101298 'Preservation and Enhancement of the American Falls at Niagara' (Corps of Engineers Buffalo District copy of the 1974/75 Board report)", "why": "apps.dtic.mil redirected to /landingpage/maint.html ('Under Maintenance') on 2026-11-02; no figures could be pulled. Retry later if a cofferdam/talus diagram is wanted."},
+    {"what": "Library of Congress search 'niagara falls 1969'", "why": "Only hits are 1969 photos of the Earl W. Brydges library building; no dewatering images."},
+    {"what": "Internet Archive film search (niagara falls 1969 / dewater / cofferdam)", "why": "No relevant PD film found."}
+  ],
+  "assets": [
+    {
+      "file": "photos/americanfalls_dry_1969_prospectpoint_usace.jpg",
+      "kind": "photo",
+      "width": 1920,
+      "height": 1329,
+      "source_url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/1906/5475540/1920w_q95.jpg",
+      "page_url": "https://www.dvidshub.net/image/5475540/buffalo-district-recalls-dewatering-american-falls",
+      "license": "Public domain (DVIDS 'PUBLIC DOMAIN' release by US Army Corps of Engineers, Buffalo District; VIRIN 190611-A-YS819-003; original 1520x1052)",
+      "license_note": "DVIDS/USACE publish this as public domain, but the caption credits the 1969 photographer as 'W. Stratton of the Niagara Frontier State Park Commission' (a New York State body), so it is not strictly a federal work. Low-to-moderate risk; keep the Corps + Stratton credit line.",
+      "credit_line": "Photo: W. Stratton, Niagara Frontier State Park Commission, via U.S. Army Corps of Engineers Buffalo District (DVIDS, public domain)",
+      "what_it_shows": "COLOUR, 1969. The dewatered American Falls from Prospect Point: a dry rock lip with one thin trickle of water, a huge pile of green-tinged talus boulders below, the Niagara gorge at left, the Prospect Point observation tower and Rainbow Bridge behind. Faded 1960s print with a cream border.",
+      "best_segments": "OPENER. Crop the cream border off (image area is about x 70-1880, y 70-1270). 9:16 crop centred on the trickle + tower (x about 560-1310) or a slow push from the Rainbow Bridge down to the talus. Pairs with americanfalls_1973_aerial_documerica.jpg (same tower, water on)."
+    },
+    {
+      "file": "photos/americanfalls_dry_1969_aerial_usace.jpg",
+      "kind": "photo",
+      "width": 2000,
+      "height": 1414,
+      "source_url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/1906/5475546/2000w_q95.jpg",
+      "page_url": "https://www.dvidshub.net/image/5475546/buffalo-district-recalls-dewatering-american-falls",
+      "license": "Public domain (DVIDS 'PUBLIC DOMAIN' release by US Army Corps of Engineers, Buffalo District; VIRIN 190612-A-YS819-005; original 3507x2480)",
+      "license_note": "Same caveat as above: credited to W. Stratton of the Niagara Frontier State Park Commission; published by the Corps as public domain. The 3507 px original needs a DVIDS login; this is the 2000 px public rendition.",
+      "credit_line": "Photo: W. Stratton, Niagara Frontier State Park Commission, via U.S. Army Corps of Engineers Buffalo District (DVIDS, public domain)",
+      "what_it_shows": "COLOUR aerial, 1969 (bare trees, so autumn). The whole dewatered American Falls crest and the empty, pale riverbed of the American Rapids above it, the talus pile at the foot, the Niagara Falls NY skyline (United Office Building) and the river upstream. Taken from above the Canadian side.",
+      "best_segments": "The 'turned off' reveal: pan along the dry crest (y about 760-900) then tilt down to the talus. Also the best image for showing how big the talus pile is relative to the cliff."
+    },
+    {
+      "file": "photos/americanfalls_dry_1969_talus_riverlevel_usace.jpg",
+      "kind": "photo",
+      "width": 1920,
+      "height": 1325,
+      "source_url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/1906/5475549/1920w_q95.jpg",
+      "page_url": "https://www.dvidshub.net/image/5475549/buffalo-district-recalls-dewatering-american-falls",
+      "license": "Public domain (DVIDS 'PUBLIC DOMAIN' release by US Army Corps of Engineers, Buffalo District; VIRIN 190611-A-YS819-004; original 1511x1043)",
+      "license_note": "Same caveat: credited to W. Stratton, Niagara Frontier State Park Commission; released by the Corps as public domain. Slight upscale of a ~1511 px original.",
+      "credit_line": "Photo: W. Stratton, Niagara Frontier State Park Commission, via U.S. Army Corps of Engineers Buffalo District (DVIDS, public domain)",
+      "what_it_shows": "COLOUR, 1969, from river level on the Canadian side: the full dry face of the American Falls with two small remaining trickles (Bridal Veil at left, a leak at centre), the talus boulder slope reaching halfway up the cliff, brown river in the foreground. Cream print border.",
+      "best_segments": "The 'talus' beat (rock pile halfway up the face). Crop the border (image area about x 70-1870, y 70-1250). Zoom on the boulders at centre for the 'study the rock' line."
+    },
+    {
+      "file": "photos/americanfalls_dry_1969_canadaside_bw_giovannucci.jpg",
+      "kind": "photo",
+      "width": 5472,
+      "height": 3648,
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/1969_Drained_American_Falls_of_Niagara_River_During_Preservation_Work_%28PICT0302%29.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:1969_Drained_American_Falls_of_Niagara_River_During_Preservation_Work_(PICT0302).jpg",
+      "license": "CC BY-SA 4.0, Wikimedia Commons {{self|cc-by-sa-4.0}} (uploader NMGiovannucci, 'own work', dated 1969-07-01; scanned with a Wolverine 96660 film scanner). SHA1 6a56fa65ee31d3fdd66b9d3258336e6e253f2d4c matches Commons.",
+      "license_note": "Share-alike: credit required. Uploader claims own work from a 1969 negative; plausible (scanner metadata, scratches on the film) but unverified.",
+      "credit_line": "Photo: NMGiovannucci, CC BY-SA 4.0, via Wikimedia Commons",
+      "what_it_shows": "BLACK AND WHITE, July 1969, from the Canadian side: the dry American Falls face with a thin trickle, the talus pile, Rainbow Bridge at far left, the Niagara Falls NY skyline (United Office Building, Hotel Niagara) behind. Scratched negative scan, very high resolution.",
+      "best_segments": "Best resolution of the set: use for the big slow push-in on the dry cliff and trickle (x about 1800-3700). Good second shot after the colour opener; B&W reads as 'archive'."
+    },
+    {
+      "file": "photos/americanfalls_dry_1969_aerial_kelisi_lowres.jpg",
+      "kind": "photo",
+      "width": 618,
+      "height": 391,
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Dryniagara.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Dryniagara.jpg",
+      "license": "Public domain, Wikimedia Commons {{PD-user-en|Kelisi}} (en-wiki user Kelisi, 'own work', dated 1969-09). SHA1 c25ddb4e62b0a8a6fa24fde9d53845be99bcccbf matches Commons.",
+      "license_note": "PD release by the uploader; only 618 px wide, so backup/thumbnail use or heavy upscale only.",
+      "credit_line": "Photo: Kelisi, public domain, via Wikimedia Commons",
+      "what_it_shows": "COLOUR aerial, September 1969: the dewatered American Falls and Bridal Veil Falls from above the gorge, Prospect Point tower at left, dry rock crest, talus, city behind. Low resolution.",
+      "best_segments": "Only if a second aerial angle is needed; otherwise prefer americanfalls_dry_1969_aerial_usace.jpg."
+    },
+    {
+      "file": "photos/americanfalls_1973_aerial_documerica.jpg",
+      "kind": "photo",
+      "width": 3000,
+      "height": 2028,
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/THE_AMERICAN_NIAGARA_FALLS_SEEN_FROM_THE_AIR._PROSPECT_PARK_AND_PROSPECT_POINT_OBSERVATION_TOWER_AT_LEFT_OF_FRAME_-_NARA_-_549554.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:THE_AMERICAN_NIAGARA_FALLS_SEEN_FROM_THE_AIR._PROSPECT_PARK_AND_PROSPECT_POINT_OBSERVATION_TOWER_AT_LEFT_OF_FRAME_-_NARA_-_549554.jpg",
+      "license": "Public domain (US federal government work: EPA DOCUMERICA, photographer George Burns, May 1973; NARA 549554). SHA1 a2bf1106a6170dd0c4cef2754d07e68e21efa6f3 matches Commons.",
+      "license_note": "Clean PD. Not 'today' but the closest rights-clear colour aerial of the American Falls with water on; four years after the dewatering.",
+      "credit_line": "Photo: George Burns / EPA DOCUMERICA, National Archives (549554), public domain",
+      "what_it_shows": "COLOUR aerial, May 1973: the American Falls and Bridal Veil Falls in full flow, Prospect Point observation tower and Prospect Park at left, Luna Island, the talus still visible at the foot, white water in the gorge.",
+      "best_segments": "Before/after cut with americanfalls_dry_1969_prospectpoint_usace.jpg (same tower). Closer: 'the falls were turned back on 25 Nov 1969'. Portrait crop around the tower + falls (x about 400-2000)."
+    },
+    {
+      "file": "photos/niagara_bothfalls_1973_aerial_documerica.jpg",
+      "kind": "photo",
+      "width": 3000,
+      "height": 2057,
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/AERIAL_VIEW_OF_NIAGARA_FALLS%2C_SHOWING_THE_AMERICAN_FALLS_%28UPPER_LEFT%29_AND_THE_CANADIAN_OR_%22HORSESHOE_FALLS%22_%28CENTER%29...._-_NARA_-_549473.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:AERIAL_VIEW_OF_NIAGARA_FALLS,_SHOWING_THE_AMERICAN_FALLS_(UPPER_LEFT)_AND_THE_CANADIAN_OR_%22HORSESHOE_FALLS%22_(CENTER)...._-_NARA_-_549473.jpg",
+      "license": "Public domain (US federal government work: EPA DOCUMERICA, photographer George Burns, May 1973; NARA 549473). SHA1 0a4d3fd19191ec41743d8373e44570232d5662a9 matches Commons.",
+      "license_note": "Clean PD.",
+      "credit_line": "Photo: George Burns / EPA DOCUMERICA, National Archives (549473), public domain",
+      "what_it_shows": "COLOUR aerial, May 1973: the Horseshoe Falls at centre, Goat Island between, the American Falls at upper left, Table Rock on the Canadian side at bottom. Shows where the diverted water went.",
+      "best_segments": "Map-like shot for the 'diverted the river to the Horseshoe Falls' line: animate an arrow from the American Falls (upper left, x about 150-500, y 250-450) around Goat Island to the Horseshoe (centre)."
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "reel": "The Pig War of 1859: the US and Britain almost went to war over one pig on San Juan Island; the pig was the only casualty",
+  "generated": "2026-11-02",
+  "status": "13 files downloaded and viewed (9 via the Wikimedia Commons API with licence confirmed from extmetadata, 4 originals pulled straight from nps.gov/sajh). Two colour modern photos of the camps, one colour 1868 watercolour, four period B&W photos/sketches (1859, 1866, c.1868, 1872), two maps (1859 Admiralty chart + NPS claims map), two portraits, one primary document (Cutlar's 1859 affidavit, NARA). No real film of the 1859 events exists (predates cinema); the only video found is modern explainer packages, which were not kept.",
+  "rejected": [
+    {
+      "what": "NPS park film 'The Pig War' (12:15, animated watercolour; mp4 at https://www.nps.gov/nps-audiovideo/audiovideo/944b4567-dc9f-4e4d-bdd4-0b2fde19406b1080p.mp4)",
+      "why": "US government work, PD in principle, but it is a finished explainer (narration + subtitles throughout) and the illustrator is uncredited on the page. Downloaded, frame-checked, then deleted per the brief. Fetch it again only if a 2-3 s watercolour pig beat is wanted."
+    },
+    {
+      "what": "DVIDS 'The Pig War' (1:26, 5th Mobile Public Affairs Det., Sgt Bryan Spradlin, 2013, https://www.dvidshub.net/video/302463/pig-war, labelled Public Domain)",
+      "why": "Finished explainer package. Frame check: most of its visuals are generic Civil War photos (massed Union troops, a Pickett CSA portrait, battle engravings) and B&W farm-pig footage of unknown provenance, i.e. not artifacts of this story. Deleted."
+    },
+    {
+      "what": "File:PigWar-boundaries.png (Pfly, CC BY-SA 3.0, 1058x855)",
+      "why": "Clear, but superseded by the NPS claims map (PD, 5000x5000) and the 1859 Admiralty chart. Deleted."
+    },
+    {
+      "what": "File:Map of South East End of San Juan Island ... Showing Government Reservations - NARA - 100305680.jpg (PD, 6348x4534, Dec 1860, 'Camp Pickett in blue')",
+      "why": "Clear and genuine but a third map adds nothing on screen. Deleted; re-fetch from Commons if wanted."
+    },
+    {
+      "what": "File:San Juan Island - American Camp 01.jpg / 02.jpg (Joe Mabel, CC BY-SA 4.0, 6000x4000)",
+      "why": "Clear, colour, but the NPS PD prairie shot was chosen for American Camp instead. Deleted."
+    },
+    {
+      "what": "NPS Flickr (flickr.com/photos/sanjuanislandnhp) and NPGallery browse",
+      "why": "Flickr returned HTTP 503 twice; NPGallery search is JS-only. Not checked beyond the single asset page for the 1867 painting."
+    },
+    {
+      "what": "Baynes portrait at higher resolution (BC Archives PDP00253)",
+      "why": "BC Archives search blocked (TLS/746-byte stub). Only the 379x552 Commons copy was obtained."
+    },
+    {
+      "what": "Scan of the 1872 arbitration award itself",
+      "why": "No NARA/LOC image scan found; the text exists as a transcription in FRUS 1872 (history.state.gov d156). Used as a fact source only."
+    }
+  ],
+  "assets": [
+    {
+      "file": "photos/english_camp_blockhouse_colour.jpg",
+      "kind": "photo",
+      "width": 6000,
+      "height": 4000,
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/San_Juan_Island_-_English_Camp_-_03_-_blockhouse.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:San_Juan_Island_-_English_Camp_-_03_-_blockhouse.jpg",
+      "license": "CC BY-SA 4.0 (Commons extmetadata: cc-by-sa-4.0), photo by Joe Mabel (User:Jmabel), own work, May 2022",
+      "license_note": "Attribution + ShareAlike. Keep the credit line on screen or in the caption. Commons note: the blockhouse's lower storey is a reconstruction.",
+      "credit_line": "Photo: Joe Mabel, CC BY-SA 4.0, via Wikimedia Commons",
+      "what_it_shows": "COLOUR. The white two-storey Royal Marine blockhouse of English Camp standing at the water's edge of Garrison Bay, bright green lawn and driftwood fence rails in front, dark fir forest and blue water behind, two visitors on the path at left.",
+      "best_segments": "THE OPENER. Push in on the blockhouse (centre, x 1900-3800) for the first 2 s; a 9:16 crop at x 2000-4250 keeps blockhouse + water. Landscape, so plan a slow zoom rather than a static crop."
+    },
+    {
+      "file": "photos/american_camp_prairie_mtbaker_nps.jpg",
+      "kind": "photo",
+      "width": 3264,
+      "height": 2448,
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/View_from_American_Camp_%28651dd6fc-63e2-4ba2-9305-53ee83ae4f85%29.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:View_from_American_Camp_(651dd6fc-63e2-4ba2-9305-53ee83ae4f85).jpg",
+      "license": "Public domain, US National Park Service work (Commons {{PD-USGov-NPS}}; NPGallery upload, EXIF 2013-12-04)",
+      "license_note": "US federal government work, no restrictions.",
+      "credit_line": "Photo: National Park Service",
+      "what_it_shows": "COLOUR. The golden American Camp prairie on San Juan Island's south end, a strip of blue water, forested shore and snow-capped Mount Baker on the horizon. Shot in winter light; slight haze.",
+      "best_segments": "Second-location shot ('the Americans dug in on this prairie'). 9:16 crop centred on Mt Baker (x 900-2270) keeps grass + peak. Could also open the reel if a wide landscape beat is wanted."
+    },
+    {
+      "file": "photos/english_camp_1868_porcher_watercolour_nps.jpg",
+      "kind": "painting",
+      "width": 5400,
+      "height": 3679,
+      "source_url": "https://www.nps.gov/sajh/learn/historyculture/images/02507373-155D-4519-3EAC36941F5A10DDOriginal_1.jpg",
+      "page_url": "https://www.nps.gov/sajh/learn/historyculture/the-pig-war.htm",
+      "license": "Public domain: 1868 watercolour by Edwin Augustus Porcher RN (d. 1878), PD-old; scan published by the National Park Service on nps.gov/sajh",
+      "license_note": "NPS page caption: 'An 1868 painting of English Camp by E.L. Porcher, who then a junior officer aboard HMS Sparrowhawk.' Artist dead >70 years; NPS scan carries no restriction.",
+      "credit_line": "E. A. Porcher, 1868, courtesy National Park Service",
+      "what_it_shows": "COLOUR period artwork. Garrison Bay from the hillside: the camp's white buildings and the blockhouse on the shore, a tall flagpole, the formal garden terrace up the hill, a square-rigged ship at anchor and a rowing boat with Royal Navy sailors in the foreground, warm yellow sky.",
+      "best_segments": "Best 'what English Camp looked like at the time' beat. Pan from the rowing boat (bottom centre) up to the blockhouse and flagpole (x 2000-2700). 9:16 crop x 1800-3870 keeps boat, blockhouse and hill."
+    },
+    {
+      "file": "photos/bellevue_sheep_farm_sep1859_photo_nps.jpg",
+      "kind": "photo",
+      "width": 2000,
+      "height": 674,
+      "source_url": "https://www.nps.gov/sajh/images/20061001121829.jpg",
+      "page_url": "https://www.nps.gov/sajh/learn/historyculture/the-pig-war.htm",
+      "license": "Public domain: photograph taken September 1859, PD-old; published by the National Park Service",
+      "license_note": "NPS caption: 'Belle Vue Sheep Farm during the height of the Pig War crisis in September 1859. At far right is the British magistrate, John De Courcy. next to him is the U.S. Civil Magistrate from Whatcom County, Henry Crosbie.' Two-frame panorama, low contrast, only 674 px tall.",
+      "credit_line": "Photo, September 1859, courtesy National Park Service",
+      "what_it_shows": "B&W, two joined frames marked 'No 2' and 'No 1'. Men in hats sit and lean on a split-rail fence in front of the whitewashed Hudson's Bay Company farm buildings; a tent and a picket fence at right. The actual place and month of the standoff.",
+      "best_segments": "The 'this is the farm, during the crisis' beat. Use the right-hand frame (x 1030-2000) as a 9:16 crop with heavy push-in; it is small, so keep it to 1-2 s."
+    },
+    {
+      "file": "photos/american_camp_c1868_photo_nps.jpg",
+      "kind": "photo",
+      "width": 1886,
+      "height": 1098,
+      "source_url": "https://www.nps.gov/sajh/learn/historyculture/images/03CAC4D2-155D-4519-3E7D2ABE0DAB751EOriginal.jpg",
+      "page_url": "https://www.nps.gov/sajh/learn/historyculture/the-pig-war.htm",
+      "license": "Public domain: photograph c.1868, PD-old; published by the National Park Service",
+      "license_note": "NPS caption: 'The American Camp parade ground area, circa 1868. The lone remaining building is the Officers' Quarters at far left.'",
+      "credit_line": "Photo, c.1868, courtesy National Park Service",
+      "what_it_shows": "B&W. Wide view of the American Camp parade ground: tall flagpole at left, a row of white barracks and officers' buildings behind a long white picket fence, a lone soldier lying in the grass, stumps and scrub in the foreground.",
+      "best_segments": "The 'American Camp' beat during the joint occupation. Slow pan left-to-right along the buildings; 9:16 crop around the flagpole (x 50-670)."
+    },
+    {
+      "file": "photos/english_camp_1866_rmli_sketch.jpg",
+      "kind": "sketch",
+      "width": 5191,
+      "height": 2167,
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Royal_Marines_Camp_on_San_Juan_Island%2C_ca._1866_-_DPLA_-_216de89ae708703c0f24b1dab0e33809.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Royal_Marines_Camp_on_San_Juan_Island,_ca._1866_-_DPLA_-_216de89ae708703c0f24b1dab0e33809.jpg",
+      "license": "Public domain (Commons extmetadata: pd; 1866 drawing photographed by Asahel Curtis, via Northwest Digital Heritage / DPLA)",
+      "license_note": "Original caption on the image: 'The R.M.L.I. Camp at San Juan Island, December 1866'. PD-old on both the drawing and the Curtis photo.",
+      "credit_line": "Sketch, 1866, Asahel Curtis photo, via DPLA / Wikimedia Commons",
+      "what_it_shows": "B&W pen sketch, very wide. English Camp from the water: huge Union Jack on the flagpole, the blockhouse on the shore, marines drilling, barracks, forest covering the hill, canoes on Garrison Bay.",
+      "best_segments": "The 'the British built a camp at the other end of the island' beat. Crop tightly on the flag + blockhouse (x 1900-2900) for 9:16; wide pan otherwise."
+    },
+    {
+      "file": "photos/royal_marines_english_camp_1872.jpg",
+      "kind": "photo",
+      "width": 1478,
+      "height": 1182,
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/British_troops_evacuate_San_Juan_Island%2C_Washington_Terr%2C_1872_-_Restored.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:British_troops_evacuate_San_Juan_Island,_Washington_Terr,_1872_-_Restored.jpg",
+      "license": "Public domain (Commons extmetadata: pd; 1872 photograph reproduced in an 1899 book, scanned by Internet Archive)",
+      "license_note": "PD-old. Halftone from a book, so grainy; fine at 1-2 s with motion.",
+      "credit_line": "Photo, 1872, via Internet Archive / Wikimedia Commons",
+      "what_it_shows": "B&W. About 30 Royal Marines in a single line with white cross-belts and rifles at order arms, an officer at each end, white barracks and a wooded hill behind: the garrison at English Camp before the 1872 withdrawal.",
+      "best_segments": "Use for 'the only British soldiers who ever fought here... never fired a shot' or the withdrawal beat. 9:16 crop on the centre of the line (x 350-1010), slow push."
+    },
+    {
+      "file": "photos/admiralty_chart_2689_haro_rosario_1859.jpg",
+      "kind": "map",
+      "width": 16075,
+      "height": 23895,
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Admiralty_Chart_No_2689_Haro_and_Rosario_Straits_Surveyed_By_Captn._G.H._Richards%2C_Published_1859.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Admiralty_Chart_No_2689_Haro_and_Rosario_Straits_Surveyed_By_Captn._G.H._Richards,_Published_1859.jpg",
+      "license": "Public domain (Commons extmetadata: pd; UK Hydrographic Office chart published 1859, Crown copyright expired)",
+      "license_note": "PD-old. 69 MB file; downscale before use. Scan originates from a map dealer (raremaps.com) but a faithful reproduction of a PD 2-D work carries no new copyright.",
+      "credit_line": "Admiralty Chart 2689, 1859, via Wikimedia Commons",
+      "what_it_shows": "The period map of the dispute: 'Haro and Rosario Straits, surveyed by Captn. G.H. Richards and the officers of HMS Plumper 1858-9'. Vancouver Island at left, San Juan Island in the centre, both straits labelled, Juan de Fuca Strait at the bottom.",
+      "best_segments": "Map beat: zoom from the whole chart into San Juan Island (around x 7000-8500, y 13500-15500), then slide between the 'HARO' label (west of San Juan) and 'ROSARIO STRAIT' (east). Overlay the two claim lines as graphics."
+    },
+    {
+      "file": "photos/nps_boundary_claims_map.jpg",
+      "kind": "map",
+      "width": 5000,
+      "height": 5000,
+      "source_url": "https://www.nps.gov/sajh/learn/historyculture/images/Layout_1.jpg",
+      "page_url": "https://www.nps.gov/sajh/learn/historyculture/the-pig-war.htm",
+      "license": "Public domain, US National Park Service graphic (nps.gov/sajh)",
+      "license_note": "US federal government work.",
+      "credit_line": "Map: National Park Service",
+      "what_it_shows": "COLOUR modern diagram: British Columbia / Washington Territory, the undisputed 49th-parallel boundary in black, the American claim through Haro Strait in blue, the British claim through Rosario Strait in red, San Juan Island arrowed between them; legend bottom-left.",
+      "best_segments": "Clean explainer map for the 'two channels, one word' beat. Square, so crop to the islands (x 600-1400, y 300-1100 of 1400-px preview) for 9:16; or use as a full-frame insert."
+    },
+    {
+      "file": "photos/pickett_loc_cwpb07523.jpg",
+      "kind": "photo",
+      "width": 5260,
+      "height": 7500,
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Pickett%2C_C.S.A._LOC_cwpb.07523.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Pickett,_C.S.A._LOC_cwpb.07523.jpg",
+      "license": "Public domain (Library of Congress Civil War glass negatives, cwpb.07523, 'No known restrictions'; Commons extmetadata: pd)",
+      "license_note": "PD-old. Note it shows Pickett as a Confederate major general (1860s), not as the US Army captain of 1859; say 'the same George Pickett of Gettysburg fame' rather than implying this is him in 1859.",
+      "credit_line": "Library of Congress, Civil War Photographs Collection",
+      "what_it_shows": "B&W glass-negative portrait of George E. Pickett: long curled hair, goatee, double-breasted uniform coat; plate edges and scratches visible.",
+      "best_segments": "Portrait beat for 'Captain George Pickett landed with 64 men'. Crop the face (x 1500-3900, y 1000-4400)."
+    },
+    {
+      "file": "photos/baynes_portrait.png",
+      "kind": "painting",
+      "width": 379,
+      "height": 552,
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/AdmiralBaynes.png",
+      "page_url": "https://commons.wikimedia.org/wiki/File:AdmiralBaynes.png",
+      "license": "Public domain (Commons extmetadata: pd; painting of Rear Admiral Robert Lambert Baynes, 1850s, BC Archives PDP00253, PD-Canada / PD-old)",
+      "license_note": "LOW RESOLUTION (379x552). Usable only as a small inset or a 1 s beat with grain; no larger copy obtained.",
+      "credit_line": "BC Archives PDP00253, via Wikimedia Commons",
+      "what_it_shows": "B&W reproduction of a painting: seated Royal Navy officer in full dress with epaulettes and medals, hand on a draped table.",
+      "best_segments": "Inset for the Baynes line ('would not involve two great nations in a war over a squabble about a pig'). Keep small or heavily stylised."
+    },
+    {
+      "file": "photos/cutlar_affidavit_p1_nara.jpg",
+      "kind": "document",
+      "width": 2559,
+      "height": 3180,
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Affidavit_of_Lyman_A._Cutlar_Regarding_Pig_Shooting%2C_September_7%2C_1859%2C_Page_1_of_5_%288757449087%29.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Affidavit_of_Lyman_A._Cutlar_Regarding_Pig_Shooting,_September_7,_1859,_Page_1_of_5_(8757449087).jpg",
+      "license": "Public domain, US National Archives (Records of the Adjutant General's Office; NARA Flickr Commons upload; Commons extmetadata: pd)",
+      "license_note": "1859 government record, no restrictions.",
+      "credit_line": "National Archives and Records Administration",
+      "what_it_shows": "Handwritten copy of Lyman Cutlar's sworn affidavit, 7 Sept 1859: 'That on or about the 15th of last June he shot a hog belonging to the Hudson Bay Company ... Mr Griffin very much enraged said the only way it could be settled would be by him paying one hundred dollars.' (Page 3, not downloaded, adds: 'pay one hundred dollars for an animal that was not worth ten'.)",
+      "best_segments": "Document beat: tilt down the page and land on the last lines ('one hundred dollars', y ~2500-2800). Native portrait; crops to 9:16 easily."
+    },
+    {
+      "file": "photos/american_camp_july4_1867_schlecht_painting_nps.jpg",
+      "kind": "painting",
+      "width": 11456,
+      "height": 6876,
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/American_Camp%2C_San_Juan_Island%2C_July_4%2C_1867.jpg",
+      "page_url": "https://npgallery.nps.gov/HFC/AssetDetail/70133de3-38a7-4af7-8c25-57095e0f410c",
+      "license": "Public domain per NPS NPGallery: 'Government owns art and all reproduction rights' / 'Public domain' (Richard Schlecht for the NPS Harpers Ferry Center, 2008); Commons extmetadata: pd",
+      "license_note": "Modern (2008) commissioned illustration, not a period artifact. Government-owned. Use only if a colourful 'the two garrisons partied together' beat is wanted, and caption it as an NPS illustration.",
+      "credit_line": "Illustration: Richard Schlecht / National Park Service",
+      "what_it_shows": "COLOUR watercolour: 4 July 1867 at American Camp, the blockhouse and US flag at left, red-coated Royal Marines and blue-coated US soldiers playing games and picnicking with women and children on the parade ground.",
+      "best_segments": "Optional joint-occupation beat ('they held joint picnics for 12 years'). Crop on the red and blue coats in the centre-right (x 5500-9500)."
+    }
+  ]
+}
