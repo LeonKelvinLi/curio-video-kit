@@ -1,0 +1,49 @@
+{
+ "reel": "They Painted Warships to Confuse, Not Hide",
+ "generated": "2026-11-03",
+ "status": "Licences re-read from the source on 2026-11-03. 3 files match the Commons SHA1. Files downloaded but unused stay listed.",
+ "rejected": [
+  {
+   "what": "Any image of Norman Wilkinson",
+   "why": "Licence unverified."
+  }
+ ],
+ "assets": [
+  {
+   "file": "photos/Arthur_Lismer_-_Olympic_with_Returned_Soldiers.jpg",
+   "kind": "photo",
+   "width": 6132,
+   "height": 4598,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Arthur_Lismer_-_Olympic_with_Returned_Soldiers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Arthur_Lismer_-_Olympic_with_Returned_Soldiers.jpg",
+   "license": "Public domain",
+   "credit_line": "Arthur Lismer",
+   "sha1_matches_commons": true,
+   "what_it_shows": "War artist Arthur Lismer captured the return of the troopship SS Olympic (centre) to Halifax harbour following the First World War. Olympic's multi-coloured dazzle camouflage, added in 1917 at the height of the German U-Boat threat, was intended to make the ship more difficult to identify and target"
+  },
+  {
+   "file": "photos/USS_West_Mahomet_ID-3681_cropped.jpg",
+   "kind": "photo",
+   "width": 2645,
+   "height": 3488,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/USS_West_Mahomet_%28ID-3681%29_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File:USS_West_Mahomet_(ID-3681)_cropped.jpg",
+   "license": "Public domain",
+   "credit_line": "Unknown authorUnknown author",
+   "sha1_matches_commons": true,
+   "what_it_shows": "(ID # 3681) In port, circa November 1918. Note how her Dazzle camouflage greatly distorts the apparent aspect of her bow. Photograph from the Bureau of Ships Collection in the U.S. National Archives."
+  },
+  {
+   "file": "photos/SS_West_Gotomska_on_trials_1918.jpg",
+   "kind": "photo",
+   "width": 6000,
+   "height": 4536,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/SS_West_Gotomska_on_trials_1918.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File:SS_West_Gotomska_on_trials_1918.jpg",
+   "license": "Public domain",
+   "credit_line": "Unknown authorUnknown author",
+   "sha1_matches_commons": true,
+   "what_it_shows": "SS West Gotomska in camouflage paint, on trials 7 August 1918. She was USS West Gotomska (ID-3322) in 1918-19."
+  }
+ ]
+}

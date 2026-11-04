@@ -1,0 +1,25 @@
+{
+ "reel": "The Battery Nobody Dares Open",
+ "generated": "2026-11-03",
+ "status": "Licences re-read from the source on 2026-11-03. 1 files match the Commons SHA1. Files downloaded but unused stay listed.",
+ "rejected": [
+  {
+   "what": "Oxford-electric-bell.svg",
+   "why": "Licence unverified; the diagram is redrawn in code."
+  }
+ ],
+ "assets": [
+  {
+   "file": "photos/Oxford_Electric_Bell.jpg",
+   "kind": "photo",
+   "width": 480,
+   "height": 640,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Oxford_Electric_Bell.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Oxford_Electric_Bell.jpg",
+   "license": "CC BY-SA 3.0",
+   "credit_line": "DavidCWG",
+   "sha1_matches_commons": true,
+   "what_it_shows": "The Oxford Electric Bell or Clarendon Dry Pile is an experimental electric bell that was set up in 1840 and has rung almost continuously after that. It is located in the foyer of the Clarendon Laboratory at the University of Oxford."
+  }
+ ]
+}

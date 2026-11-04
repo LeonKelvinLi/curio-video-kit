@@ -1,0 +1,44 @@
+{
+ "reel": "A Million Ants in a Nuclear Bunker",
+ "generated": "2026-11-03",
+ "status": "Licences re-read from the source on 2026-11-03. 0 files match the Commons SHA1. Files downloaded but unused stay listed.",
+ "rejected": [],
+ "assets": [
+  {
+   "file": "photos/fig1.jpg",
+   "kind": "photo",
+   "source_url": "https://binary.pensoft.net/fig/351425",
+   "page_url": "https://jhr.pensoft.net/article/38972/",
+   "license": "CC BY 4.0",
+   "credit_line": "Photo Wojciech Stephan, in Rutkowski et al. 2019, J. Hymenoptera Research 72",
+   "what_it_shows": "Ant trail on the bunker wall"
+  },
+  {
+   "file": "photos/fig3.jpg",
+   "kind": "photo",
+   "source_url": "https://binary.pensoft.net/fig/351427",
+   "page_url": "https://jhr.pensoft.net/article/38972/",
+   "license": "CC BY 4.0",
+   "credit_line": "Photo Wojciech Stephan, in Rutkowski et al. 2019, J. Hymenoptera Research 72",
+   "what_it_shows": "The boardwalk just assembled"
+  },
+  {
+   "file": "photos/fig4.jpg",
+   "kind": "photo",
+   "source_url": "https://binary.pensoft.net/fig/351428",
+   "page_url": "https://jhr.pensoft.net/article/38972/",
+   "license": "CC BY 4.0",
+   "credit_line": "Photo Wojciech Stephan, in Rutkowski et al. 2019, J. Hymenoptera Research 72",
+   "what_it_shows": "Earth mound dense with ants, 18 Sep 2016"
+  },
+  {
+   "file": "photos/fig5.jpg",
+   "kind": "photo",
+   "source_url": "https://binary.pensoft.net/fig/351429",
+   "page_url": "https://jhr.pensoft.net/article/38972/",
+   "license": "CC BY 4.0",
+   "credit_line": "Photo Wojciech Stephan, in Rutkowski et al. 2019, J. Hymenoptera Research 72",
+   "what_it_shows": "The mound almost deserted, winter"
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "reel": "The Astronaut Attached to Nothing",
+ "generated": "2026-11-03",
+ "status": "Licences re-read from the source on 2026-11-03. 3 files match the Commons SHA1. Files downloaded but unused stay listed.",
+ "rejected": [
+  {
+   "what": "STS41B-35-1613 retouched copies",
+   "why": "CC BY-SA; NASA scans used instead."
+  }
+ ],
+ "assets": [
+  {
+   "file": "photos/STS-41-B_MMU.jpg",
+   "kind": "photo",
+   "width": 2045,
+   "height": 2045,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/STS-41-B_MMU.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File:STS-41-B_MMU.jpg",
+   "license": "Public domain",
+   "credit_line": "NASA",
+   "sha1_matches_commons": true,
+   "what_it_shows": "Astronaut Bruce McCandless II, mission specialist, participates in an untethered extra-vehicular activity (EVA), a few meters away from the cabin of the Space Shuttle Challenger. He is using a nitrogen-propelled hand-controlled manned maneuvering unit (MMU). The picture shows a cloud view of the ear"
+  },
+  {
+   "file": "photos/View_from_Manned_Maneuvering_Unit.JPEG",
+   "kind": "photo",
+   "width": 3000,
+   "height": 2013,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/View_from_Manned_Maneuvering_Unit.JPEG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File:View_from_Manned_Maneuvering_Unit.JPEG",
+   "license": "Public domain",
+   "credit_line": "NASA",
+   "sha1_matches_commons": true,
+   "what_it_shows": "An overhead view of the space shuttle Challenger taken by a fixed camera mounted on astronaut Bruce McCandless's helmet during the first extravehicular activity (EVA) using the nitrogen-propelled, hand-controlled, manned maneuvering unit (MMU). The MMU is a device which allows astronauts to move fre"
+  },
+  {
+   "file": "photos/Bruce_McCandless_II_during_EVA_in_1984.jpg",
+   "kind": "photo",
+   "width": 3072,
+   "height": 3072,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Bruce_McCandless_II_during_EVA_in_1984.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Bruce_McCandless_II_during_EVA_in_1984.jpg",
+   "license": "Public domain",
+   "credit_line": "NASA",
+   "sha1_matches_commons": true,
+   "what_it_shows": "Mission: STS-41-B\nFilm Type: 70 mm\nTitle: Views of the extravehicular activity during STS 41-B\nDescription: Astronaut Bruce McCandless II, mission specialist, participates in a extra-vehicular activity (EVA), a few meters away from the cabin of Space Shuttle Challenger. He is using a nitrogen-propel"
+  }
+ ]
+}

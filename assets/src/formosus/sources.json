@@ -1,0 +1,44 @@
+{
+ "reel": "The Pope Who Put a Corpse on Trial",
+ "generated": "2026-11-03",
+ "status": "Licences re-read from the source on 2026-11-03. 3 files match the Commons SHA1. Files downloaded but unused stay listed.",
+ "rejected": [],
+ "assets": [
+  {
+   "file": "photos/Jean_Paul_Laurens_Le_Pape_Formose_et_Etienne_VI_1870.jpg",
+   "kind": "photo",
+   "width": 2000,
+   "height": 1329,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Jean_Paul_Laurens_Le_Pape_Formose_et_Etienne_VI_1870.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Jean_Paul_Laurens_Le_Pape_Formose_et_Etienne_VI_1870.jpg",
+   "license": "Public domain",
+   "credit_line": "Jean-Paul Laurens",
+   "sha1_matches_commons": true,
+   "what_it_shows": ""
+  },
+  {
+   "file": "photos/Jean_Paul_Laurens_Le_Pape_Formose_et_Etienne_VI_1870_cropped_.jpg",
+   "kind": "photo",
+   "width": 741,
+   "height": 734,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Jean_Paul_Laurens_Le_Pape_Formose_et_Etienne_VI_1870_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Jean_Paul_Laurens_Le_Pape_Formose_et_Etienne_VI_1870_(cropped).jpg",
+   "license": "Public domain",
+   "credit_line": "Jean-Paul Laurens",
+   "sha1_matches_commons": true,
+   "what_it_shows": ""
+  },
+  {
+   "file": "photos/Jean-Paul_Laurens_-_Le_jugement_du_pape_Formose_-_PDUT1462_-_Mus_e_des_Beaux-Arts_de_la_vi",
+   "kind": "photo",
+   "width": 5850,
+   "height": 4333,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Jean-Paul_Laurens_-_Le_jugement_du_pape_Formose_-_PDUT1462_-_Mus%C3%A9e_des_Beaux-Arts_de_la_ville_de_Paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Jean-Paul_Laurens_-_Le_jugement_du_pape_Formose_-_PDUT1462_-_Mus%C3%A9e_des_Beaux-Arts_de_la_ville_de_Paris.jpg",
+   "license": "Public domain",
+   "credit_line": "Jean-Paul Laurens",
+   "sha1_matches_commons": true,
+   "what_it_shows": ""
+  }
+ ]
+}

@@ -635,5 +635,209 @@
    "ruling": "ff_mc_ruling.jpg"
   },
   "cover": 0.6
+ },
+ "GA": {
+  "title": "Four soldiers lifted a 40-ton tank (footage-first, arm B)",
+  "name": "curio-ghostarmy-GA",
+  "scene": [
+   "ga_ff.js",
+   "footage.js"
+  ],
+  "vo": "ga",
+  "assets": {
+   "tank": "ff_ga_tank.jpg",
+   "medal": "ff_ga_medal.jpg"
+  },
+  "cover": 0.3
+ },
+ "DZ": {
+  "title": "Dazzle ships: painted to confuse, not hide (footage-first, arm A)",
+  "name": "curio-dazzle-DZ",
+  "scene": [
+   "dz_ff.js",
+   "footage.js"
+  ],
+  "vo": "dz",
+  "assets": {
+   "olympic": "ff_dz_olympic.jpg",
+   "mahomet": "ff_dz_mahomet.jpg",
+   "gotomska": "ff_dz_gotomska.jpg"
+  },
+  "cover": 0.3
+ },
+ "AN": {
+  "title": "The stone that saved a village (footage-first, arm B)",
+  "name": "curio-aneyoshi-AN",
+  "scene": [
+   "an_ff.js",
+   "footage.js"
+  ],
+  "vo": "an",
+  "assets": {
+   "stone": "ff_an_stone.jpg"
+  },
+  "cover": 0.3
+ },
+ "AB": {
+  "title": "A million ants in a nuclear bunker (footage-first, arm A)",
+  "name": "curio-antbunker-AB",
+  "scene": [
+   "ab_ff.js",
+   "footage.js"
+  ],
+  "vo": "ab",
+  "assets": {
+   "mound": "ff_ab_mound.jpg",
+   "wall": "ff_ab_wall.jpg",
+   "walk": "ff_ab_walk.jpg",
+   "empty": "ff_ab_empty.jpg"
+  },
+  "cover": 0.3
+ },
+ "OB": {
+  "title": "The battery nobody dares open (footage-first, arm A)",
+  "name": "curio-oxfordbell-OB",
+  "scene": [
+   "ob_ff.js",
+   "footage.js"
+  ],
+  "vo": "ob",
+  "assets": {
+   "bell": "ff_ob_bell.jpg"
+  },
+  "cover": 0.3
+ },
+ "DK": {
+  "title": "The family photo on the Moon (footage-first, arm B)",
+  "name": "curio-dukephoto-DK",
+  "scene": [
+   "dk_ff.js",
+   "footage.js"
+  ],
+  "vo": "dk",
+  "assets": {
+   "close": "ff_dk_close.jpg",
+   "wide": "ff_dk_wide.jpg"
+  },
+  "cover": 0.3
+ },
+ "CS": {
+  "title": "The pope who put a corpse on trial (footage-first, arm B)",
+  "name": "curio-formosus-CS",
+  "scene": [
+   "cs_ff.js",
+   "footage.js"
+  ],
+  "vo": "cs",
+  "assets": {
+   "trial": "ff_cs_trial.jpg",
+   "crop": "ff_cs_crop.jpg",
+   "second": "ff_cs_second.jpg"
+  },
+  "cover": 0.3
+ },
+ "FG": {
+  "title": "The accidental geyser (footage-first, arm A)",
+  "name": "curio-flygeyser-FG",
+  "scene": [
+   "fg_ff.js",
+   "footage.js"
+  ],
+  "vo": "fg",
+  "assets": {
+   "geyser": "ff_fg_geyser.jpg",
+   "wide": "ff_fg_wide.jpg",
+   "close": "ff_fg_close.jpg"
+  },
+  "cover": 0.3
+ },
+ "TM": {
+  "title": "The tulip crash that wasn't (footage-first, arm A)",
+  "name": "curio-tulips-TM",
+  "scene": [
+   "tm_ff.js",
+   "footage.js"
+  ],
+  "vo": "tm",
+  "assets": {
+   "monkeys": "ff_tm_monkeys.jpg",
+   "book": "ff_tm_book.jpg"
+  },
+  "cover": 0.3
+ },
+ "TG": {
+  "title": "A face on the back of your head (footage-first, arm FULL)",
+  "name": "curio-tigermask-TG",
+  "scene": [
+   "tg_ff.js",
+   "footage.js"
+  ],
+  "vo": "tg",
+  "assets": {
+   "tiger": "ff_tg_tiger.jpg",
+   "honey": "ff_tg_honey.jpg",
+   "hunters": "ff_tg_hunters.jpg"
+  },
+  "cover": 0.3
+ },
+ "CZ": {
+  "title": "The Air Force floated cats (footage-first, arm B)",
+  "name": "curio-zerogcats-CZ",
+  "scene": [
+   "cz_ff.js",
+   "footage.js"
+  ],
+  "vo": "cz",
+  "assets": {
+   "cats": "ff_cz_cats",
+   "pigeons": "ff_cz_pigeons"
+  },
+  "cover": 0.3
+ },
+ "SF": {
+  "title": "The submarine that hit a mountain (footage-first, arm B)",
+  "name": "curio-sanfrancisco-SF",
+  "scene": [
+   "sf_ff.js",
+   "footage.js"
+  ],
+  "vo": "sf",
+  "assets": {
+   "bow": "ff_sf_bow.jpg",
+   "side": "ff_sf_side.jpg",
+   "repair": "ff_sf_repair.jpg"
+  },
+  "cover": 0.3
+ },
+ "MU": {
+  "title": "The astronaut attached to nothing (footage-first, arm A)",
+  "name": "curio-mccandless-MU",
+  "scene": [
+   "mu_ff.js",
+   "footage.js"
+  ],
+  "vo": "mu",
+  "assets": {
+   "float": "ff_mu_float.jpg",
+   "view": "ff_mu_view.jpg",
+   "other": "ff_mu_other.jpg"
+  },
+  "cover": 0.3
+ },
+ "PP": {
+  "title": "The pigeon photographers (footage-first, control)",
+  "name": "curio-pigeoncam-PP",
+  "scene": [
+   "pp_ff.js",
+   "footage.js"
+  ],
+  "vo": "pp",
+  "assets": {
+   "three": "ff_pp_three.jpg",
+   "neub": "ff_pp_neub.jpg",
+   "aerial": "ff_pp_aerial.jpg",
+   "wings": "ff_pp_wings.jpg"
+  },
+  "cover": 0.3
  }
 }

@@ -1,0 +1,113 @@
+{
+ "reel": "The Pigeon Photographers",
+ "generated": "2026-11-03",
+ "status": "Licences re-read from the source on 2026-11-03. 8 files match the Commons SHA1. Files downloaded but unused stay listed.",
+ "rejected": [
+  {
+   "what": "Bundesarchiv Bild 183-R01996",
+   "why": "May be a later wartime camera, not Neubronner's; not used."
+  },
+  {
+   "what": "Pigeon camera.jpg",
+   "why": "300x400, too small."
+  }
+ ],
+ "assets": [
+  {
+   "file": "photos/Bundesarchiv_Bild_183-R01996_Brieftaube_mit_Fotokamera_cropped.jpg",
+   "kind": "photo",
+   "width": 580,
+   "height": 580,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Bundesarchiv_Bild_183-R01996%2C_Brieftaube_mit_Fotokamera_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-R01996,_Brieftaube_mit_Fotokamera_cropped.jpg",
+   "license": "CC BY-SA 3.0 de",
+   "credit_line": "Bundesarchiv_Bild_183-R01996,_Brieftaube_mit_Fotokamera.jpg: o.Ang.\nderivative work: Hans Adler (talk)",
+   "sha1_matches_commons": true,
+   "what_it_shows": "Pigeon with German miniature camera, during the First World War."
+  },
+  {
+   "file": "photos/Pigeon_camera.jpg",
+   "kind": "photo",
+   "width": 300,
+   "height": 400,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Pigeon_camera.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Pigeon_camera.jpg",
+   "license": "Public domain",
+   "credit_line": "Unknown authorUnknown author",
+   "sha1_matches_commons": true,
+   "what_it_shows": "Julius Neubronner's patented Pigeon camera with two lenses, with cuirass and harness. Hanging."
+  },
+  {
+   "file": "photos/Pigeon_photographers_and_aerial_photographs.jpg",
+   "kind": "photo",
+   "width": 2086,
+   "height": 600,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Pigeon_photographers_and_aerial_photographs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Pigeon_photographers_and_aerial_photographs.jpg",
+   "license": "Public domain",
+   "credit_line": "Pigeon_wingtips.jpg: Julius Neubronner (1852–1932).\nThe original uploader was Jennavecia at English Wikipedia.\n\nPigeonimg.jpg: Julius Neubronner (1852–1932).\nTh",
+   "sha1_matches_commons": true,
+   "what_it_shows": "Collage of pigeons with Julius Neubronner's cameras and three aerial photos taken by the method."
+  },
+  {
+   "file": "photos/Three_pigeons_with_cameras.jpg",
+   "kind": "photo",
+   "width": 2045,
+   "height": 1534,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Three_pigeons_with_cameras.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Three_pigeons_with_cameras.jpg",
+   "license": "Public domain",
+   "credit_line": "Dr Julius Neubronner",
+   "sha1_matches_commons": true,
+   "what_it_shows": "1903, Dr Julius Neubronner patented a miniature pigeon camera activated by a timing mechanism."
+  },
+  {
+   "file": "photos/Dr_Julius_Neubronner_patented_a_miniature_pigeon_camera_activated_by_a_timing_mechanism_19",
+   "kind": "photo",
+   "width": 1532,
+   "height": 2045,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Dr_Julius_Neubronner_patented_a_miniature_pigeon_camera_activated_by_a_timing_mechanism%2C_1903.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Dr_Julius_Neubronner_patented_a_miniature_pigeon_camera_activated_by_a_timing_mechanism,_1903.jpg",
+   "license": "Public domain",
+   "credit_line": "Dr Julius Neubronner",
+   "sha1_matches_commons": true,
+   "what_it_shows": "1903, Dr Julius Neubronner patented a miniature pigeon camera activated by a timing mechanism. The invention brought him international notability after he presented it at international expositions in Dresden, Frankfurt and Paris in 1909–1911. Spectators in Dresden could watch the arrival of the came"
+  },
+  {
+   "file": "photos/Photograph_from_Neubronner_s_pigeon_camera_3.jpg",
+   "kind": "photo",
+   "width": 4000,
+   "height": 3796,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Photograph_from_Neubronner%E2%80%99s_pigeon_camera_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Photograph_from_Neubronner%E2%80%99s_pigeon_camera_3.jpg",
+   "license": "Public domain",
+   "credit_line": "Dr Julius Neubronner",
+   "sha1_matches_commons": true,
+   "what_it_shows": "Aerial images from Julius Neubronner's camera strapped to a homing pigeon"
+  },
+  {
+   "file": "photos/Pigeon_wingtips.jpg",
+   "kind": "photo",
+   "width": 850,
+   "height": 617,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Pigeon_wingtips.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Pigeon_wingtips.jpg",
+   "license": "Public domain",
+   "credit_line": "Julius Neubronner (1852–1932)",
+   "sha1_matches_commons": true,
+   "what_it_shows": "Aerial images from Julius Neubronner's camera strapped to a homing pigeon, including one with wing tips visible on the edges"
+  },
+  {
+   "file": "photos/Julius_Neubronner_with_pigeon_and_camera_1914.jpg",
+   "kind": "photo",
+   "width": 705,
+   "height": 512,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Julius_Neubronner_with_pigeon_and_camera_1914.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Julius_Neubronner_with_pigeon_and_camera_1914.jpg",
+   "license": "Public domain",
+   "credit_line": "Agence Rol",
+   "sha1_matches_commons": true,
+   "what_it_shows": "Appareil photographique miniature s'adaptant sous le ventre des pigeons voyageurs. Homme tenant d'une main l'appareil et de l'autre le pigeon."
+  }
+ ]
+}

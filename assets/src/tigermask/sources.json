@@ -1,0 +1,53 @@
+{
+ "reel": "A Face on the Back of Your Head",
+ "generated": "2026-11-03",
+ "status": "Licences re-read from the source on 2026-11-03. 3 files match the Commons SHA1. Files downloaded but unused stay listed.",
+ "rejected": [
+  {
+   "what": "Any photo of a mask wearer",
+   "why": "No rights-clear image found."
+  },
+  {
+   "what": "'No mask wearer killed in 1986-87'",
+   "why": "Could not be confirmed."
+  }
+ ],
+ "assets": [
+  {
+   "file": "photos/Royal_Bengal_Tiger_in_the_mangrove_habitat_of_Sundarban_National_Park_West_Bengal_India.jp",
+   "kind": "photo",
+   "width": 4000,
+   "height": 6000,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Royal_Bengal_Tiger_in_the_mangrove_habitat_of_Sundarban_National_Park%2C_West_Bengal%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Royal_Bengal_Tiger_in_the_mangrove_habitat_of_Sundarban_National_Park,_West_Bengal,_India.jpg",
+   "license": "CC BY 4.0",
+   "credit_line": "Kingshuk Mondal",
+   "sha1_matches_commons": true,
+   "what_it_shows": "The Bengal tiger is a population of the Panthera tigris tigris subspecies. It ranks among the largest of wild cats. It is distributed from India, southern Nepal, Bangladesh, Bhutan to Southwestern China. Its historical range extended to the Indus River valley until the early 19th century, and it is "
+  },
+  {
+   "file": "photos/Honey_Collection_in_Sundarbans.jpg",
+   "kind": "photo",
+   "width": 3000,
+   "height": 2000,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Honey_Collection_in_Sundarbans.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Honey_Collection_in_Sundarbans.jpg",
+   "license": "CC BY-SA 4.0",
+   "credit_line": "Mustmamun",
+   "sha1_matches_commons": true,
+   "what_it_shows": "Honey collectors in the Sundarbans risk encounters with tigers, crocodiles, and venomous snakes. Rising water levels and salinity have reduced honey yields, making their livelihood even harder. Satkhira, Bangladesh."
+  },
+  {
+   "file": "photos/The_Last_Honey_Hunters_of_the_Sundarbans.jpg",
+   "kind": "photo",
+   "width": 3000,
+   "height": 2000,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/The_Last_Honey_Hunters_of_the_Sundarbans.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File:The_Last_Honey_Hunters_of_the_Sundarbans.jpg",
+   "license": "CC BY-SA 4.0",
+   "credit_line": "Mustmamun",
+   "sha1_matches_commons": true,
+   "what_it_shows": "In the Sundarbans, honey collectors brave tigers, crocodiles, and snakes to harvest wild honey. Rising water levels and salinity threaten their livelihood, yet a few continue this century-old tradition. Satkhira, Bangladesh."
+  }
+ ]
+}

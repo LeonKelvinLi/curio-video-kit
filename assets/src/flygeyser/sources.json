@@ -1,0 +1,80 @@
+{
+ "reel": "The Accidental Geyser",
+ "generated": "2026-11-03",
+ "status": "Licences re-read from the source on 2026-11-03. 6 files match the Commons SHA1. Files downloaded but unused stay listed.",
+ "rejected": [],
+ "assets": [
+  {
+   "file": "photos/Fly_geyser.jpg",
+   "kind": "photo",
+   "width": 1600,
+   "height": 1208,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Fly_geyser.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Fly_geyser.jpg",
+   "license": "Public domain",
+   "credit_line": "Jeremy C. Munns",
+   "sha1_matches_commons": true,
+   "what_it_shows": "Fly Geyser in the Black Rock Desert, Nevada"
+  },
+  {
+   "file": "photos/Fly_Geyser_Nevada.jpg",
+   "kind": "photo",
+   "width": 2592,
+   "height": 1944,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Fly_Geyser%2C_Nevada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Fly_Geyser,_Nevada.jpg",
+   "license": "CC BY-SA 2.0",
+   "credit_line": "Ken Lund",
+   "sha1_matches_commons": true,
+   "what_it_shows": "Fly Geyser, also known as Fly Ranch Geyser is a man-made small geothermal geyser located in Washoe County, Nevada approximately 20 miles (32 km) north of Gerlach. Fly Geyser is located near the edge of Fly Reservoir and is only about 5 feet (1.5 m) high, but 12 feet (3.7 m) counting the mound on whi"
+  },
+  {
+   "file": "photos/Fly_Geyser_-_52139946710.jpg",
+   "kind": "photo",
+   "width": 3000,
+   "height": 2000,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Fly_Geyser_-_52139946710.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Fly_Geyser_-_52139946710.jpg",
+   "license": "CC BY 2.0",
+   "credit_line": "RuggyBearLA",
+   "sha1_matches_commons": true,
+   "what_it_shows": "I've been waiting to visit the Fly Geyser for well over a decade, and I finally got my chance!  This beautiful feature is on private land and can only be visited by attending a nature walk  hosted by Friends of Blackrock.  Do Not Trespass!  The poor decisions of others resulted in access being denie"
+  },
+  {
+   "file": "photos/Fly_Geyser_-_52145333841.jpg",
+   "kind": "photo",
+   "width": 3000,
+   "height": 2000,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Fly_Geyser_-_52145333841.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Fly_Geyser_-_52145333841.jpg",
+   "license": "CC BY 2.0",
+   "credit_line": "RuggyBearLA",
+   "sha1_matches_commons": true,
+   "what_it_shows": "I've been waiting to visit the Fly Geyser for well over a decade, and I finally got my chance!  This beautiful feature is on private land and can only be visited by attending a nature walk  hosted by Friends of Blackrock.  Do Not Trespass!  The poor decisions of others resulted in access being denie"
+  },
+  {
+   "file": "photos/Fly_Geyser_-_52146739578.jpg",
+   "kind": "photo",
+   "width": 3000,
+   "height": 2247,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Fly_Geyser_-_52146739578.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Fly_Geyser_-_52146739578.jpg",
+   "license": "CC BY 2.0",
+   "credit_line": "RuggyBearLA",
+   "sha1_matches_commons": true,
+   "what_it_shows": "I've been waiting to visit the Fly Geyser for well over a decade, and I finally got my chance!  This beautiful feature is on private land and can only be visited by attending a nature walk  hosted by Friends of Blackrock.  Do Not Trespass!  The poor decisions of others resulted in access being denie"
+  },
+  {
+   "file": "photos/Fly_Geyser_-_52136719798.jpg",
+   "kind": "photo",
+   "width": 3000,
+   "height": 2000,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Fly_Geyser_-_52136719798.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Fly_Geyser_-_52136719798.jpg",
+   "license": "CC BY 2.0",
+   "credit_line": "RuggyBearLA",
+   "sha1_matches_commons": true,
+   "what_it_shows": "I've been waiting to visit the Fly Geyser for well over a decade, and I finally got my chance!  This beautiful feature is on private land and can only be visited by attending a nature walk  hosted by Friends of Blackrock.  Do Not Trespass!  The poor decisions of others resulted in access being denie"
+  }
+ ]
+}

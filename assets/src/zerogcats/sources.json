@@ -1,0 +1,18 @@
+{
+ "reel": "The Air Force Floated Cats",
+ "generated": "2026-11-03",
+ "status": "Licences re-read from the source on 2026-11-03. 0 files match the Commons SHA1. Files downloaded but unused stay listed.",
+ "rejected": [],
+ "assets": [
+  {
+   "file": "film/film.mpeg",
+   "kind": "clip",
+   "source_url": "https://archive.org/download/gov.archives.arc.68700/gov.archives.arc.68700.mpeg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:BIOASTRONAUTICS_RESEARCH_Gov.archives.arc.68700.ogv",
+   "license": "Public domain (US Air Force, NARA ARC 68700, 342-USAF-33692)",
+   "credit_line": "USAF Aerospace Medical Research Laboratories",
+   "best_segments": "234-245 s cats, 250.5-259.5 s pigeons; no sign of harm in those moments",
+   "what_it_shows": "Cats and pigeons released in a C-131 in weightless arcs"
+  }
+ ]
+}

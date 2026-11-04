@@ -1,0 +1,44 @@
+{
+ "reel": "The Family Photo on the Moon",
+ "generated": "2026-11-03",
+ "status": "Licences re-read from the source on 2026-11-03. 3 files match the Commons SHA1. Files downloaded but unused stay listed.",
+ "rejected": [],
+ "assets": [
+  {
+   "file": "photos/DUKE_-_AS16-117-18841.jpg",
+   "kind": "photo",
+   "width": 966,
+   "height": 715,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/DUKE_-_AS16-117-18841.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File:DUKE_-_AS16-117-18841.jpg",
+   "license": "Public domain",
+   "credit_line": "NASA",
+   "sha1_matches_commons": true,
+   "what_it_shows": "Charlie Duke's family portrait left on the surface of the moon.  Cat Crater at Station 14 was named for sons Charles And Tom.  Dot Crater at Station 16 was named for his wife.[1]"
+  },
+  {
+   "file": "photos/Charlie_Duke_s_family_portrait_left_on_the_surface_of_the_moon.jpg",
+   "kind": "photo",
+   "width": 2340,
+   "height": 2364,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Charlie_Duke%27s_family_portrait_left_on_the_surface_of_the_moon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Charlie_Duke%27s_family_portrait_left_on_the_surface_of_the_moon.jpg",
+   "license": "Public domain",
+   "credit_line": "NASA",
+   "sha1_matches_commons": true,
+   "what_it_shows": "Charlie Duke's family portrait left on the surface of the moon. Cat Crater at Station 14 was named for sons Charles And Tom. Dot Crater at Station 16 was named for his wife."
+  },
+  {
+   "file": "photos/AS16-117-18841_21688116471_.jpg",
+   "kind": "photo",
+   "width": 4175,
+   "height": 4175,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/AS16-117-18841_%2821688116471%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File:AS16-117-18841_(21688116471).jpg",
+   "license": "Public domain",
+   "credit_line": "Project Apollo Archive",
+   "sha1_matches_commons": true,
+   "what_it_shows": "Apollo 16 Hasselblad image from film magazine 117/F - EVA-3.  Portrait of the family of Charles Duke left on the surface of the moon."
+  }
+ ]
+}

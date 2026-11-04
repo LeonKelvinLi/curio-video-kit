@@ -65,6 +65,8 @@
     (S.stamps || []).forEach(s => { const a0 = at(s.at), a1 = s.to == null ? T : at(s.to); if (t >= a0 && t < a1) K.stamp(c, 540, SY(s.y || 1210), s.text, { p: inv(a0, a0 + 0.3, t), size: s.size || 64 }); });
   }
   const lines = K.autoLines(Wd, T, S.nums || [], S.breaks || []);
+  // hookLine promises the whole first sentence, but autoLines ends a line at every comma: fold that sentence back into line 0, commas kept.
+  while (lines.length > 1 && !/[.?!…]$/.test(lines[0].words[lines[0].words.length - 1])) { const [a, b] = lines; a.words[a.words.length - 1] += ","; a.words.push(...b.words); a.at.push(...b.at); a.t1 = b.t1; lines.splice(1, 1); }
   const Sn = K.Snd, foley = [[0, x => Sn.nz(x, Math.min(T, 3), "lowpass", 600, 300, 0.7, 0.18)]];
   beats.slice(1).forEach(b => foley.push([b.t0, x => Sn.whoosh(x, 0.35, true, 0.22)]));
   (S.marks || []).forEach(m => foley.push([at(m.at), x => Sn.tick(x, 1500, 0.05)]));

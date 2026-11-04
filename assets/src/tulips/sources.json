@@ -1,0 +1,45 @@
+{
+ "reel": "The Tulip Crash That Wasn't",
+ "generated": "2026-11-03",
+ "status": "Licences re-read from the source on 2026-11-03. 2 files match the Commons SHA1. Files downloaded but unused stay listed.",
+ "rejected": [
+  {
+   "what": "Implying Mackay used this painting",
+   "why": "No source says so; the idea's draft line was changed."
+  }
+ ],
+ "assets": [
+  {
+   "file": "photos/Jan_Brueghel_the_Younger_Satire_on_Tulip_Mania_c._1640.jpg",
+   "kind": "photo",
+   "width": 1200,
+   "height": 767,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Jan_Brueghel_the_Younger%2C_Satire_on_Tulip_Mania%2C_c._1640.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Jan_Brueghel_the_Younger,_Satire_on_Tulip_Mania,_c._1640.jpg",
+   "license": "Public domain",
+   "credit_line": "Jan Brueghel the Younger",
+   "sha1_matches_commons": true,
+   "what_it_shows": ""
+  },
+  {
+   "file": "photos/Allegorie_der_Tulipomanie.jpg",
+   "kind": "photo",
+   "width": 1649,
+   "height": 1032,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Allegorie_der_Tulipomanie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Allegorie_der_Tulipomanie.jpg",
+   "license": "Public domain",
+   "credit_line": "Jan Brueghel the Younger",
+   "sha1_matches_commons": true,
+   "what_it_shows": ""
+  },
+  {
+   "file": "photos/mackay_p9.jpg",
+   "kind": "photo",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Memoirs_of_Extraordinary_Popular_Delusions_and_the_Madness_of_Crowds_Vol_1.djvu",
+   "license": "Public domain",
+   "credit_line": "Charles Mackay, 1852 edition, New York Public Library scan via Google",
+   "what_it_shows": "Title page, labelled as the 1852 edition"
+  }
+ ]
+}

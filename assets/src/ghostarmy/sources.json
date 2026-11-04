@@ -1,0 +1,61 @@
+{
+ "reel": "Four Soldiers Lifted a 40-Ton Tank",
+ "generated": "2026-11-03",
+ "status": "Licences re-read from the source on 2026-11-03. 3 files match the Commons SHA1. Files downloaded but unused stay listed.",
+ "rejected": [
+  {
+   "what": "File:DummyShermanTank.jpg",
+   "why": "IWM H 42531, a British photo, not the Ghost Army."
+  },
+  {
+   "what": "ghostarmy.com press kit dummy-tank images",
+   "why": "Credited to National Archives with no identifier; licence unverified."
+  },
+  {
+   "what": "Inflatable dummy weapons - NARA - 292565.jpg",
+   "why": "Public domain, but a post-war project, so it would mislead as the Ghost Army. Downloaded, not used."
+  },
+  {
+   "what": "Arthur Shilstone's painting",
+   "why": "Not rights-clear."
+  }
+ ],
+ "assets": [
+  {
+   "file": "photos/Ghost_Army_dummy_tank_International_Spy_Museum.jpg",
+   "kind": "photo",
+   "width": 4032,
+   "height": 3024,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Ghost_Army_dummy_tank%2C_International_Spy_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Ghost_Army_dummy_tank,_International_Spy_Museum.jpg",
+   "license": "CC0",
+   "credit_line": "ArtemisiaGentileschiFan",
+   "sha1_matches_commons": true,
+   "what_it_shows": "Ghost Army dummy tank, International Spy Museum"
+  },
+  {
+   "file": "photos/Ghost_Army_Medal.jpg",
+   "kind": "photo",
+   "width": 5712,
+   "height": 4284,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Ghost_Army_Medal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Ghost_Army_Medal.jpg",
+   "license": "Public domain",
+   "credit_line": "Bedelstein",
+   "sha1_matches_commons": true,
+   "what_it_shows": "Obverse and Reverse sides of the Ghost Army Congressional Gold Medal, designed and produced by the United States Treasury Department\nGhost Army Congressional Gold Medal Ceremony, March 21, 2024"
+  },
+  {
+   "file": "photos/Inflatable_dummy_weapons_-_NARA_-_292565.jpg",
+   "kind": "photo",
+   "width": 3000,
+   "height": 2405,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Inflatable_dummy_weapons_-_NARA_-_292565.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Inflatable_dummy_weapons_-_NARA_-_292565.jpg",
+   "license": "Public domain",
+   "credit_line": "Unknown authorUnknown author or not provided",
+   "sha1_matches_commons": true,
+   "what_it_shows": "Scope and content:  Project \"LOIS\" - Simulation device: low fidelity; penumatic; tank, 90-mm gun, M47."
+  }
+ ]
+}
