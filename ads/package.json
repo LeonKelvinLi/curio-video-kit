@@ -1,0 +1,1 @@
+{"name":"curio-3d-ads","private":true,"version":"0.1.0","description":"Toy-world 3D app ads for Curio, rendered with three.js in headless Chromium","dependencies":{"three":"^0.169.0"}}
