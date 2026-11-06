@@ -11,7 +11,7 @@ The phone screens show the real Curio app, from the screen recordings in
 | ad2 | `out/curio-ad-screen-time.mp4` | Every Sunday the phone reports 4 hours a day, and nothing to show for it | 22.7 s |
 | ad3 | `out/curio-ad-dinner.mp4` | "Learn anything cool lately?" 300 videos this week, nothing to say | 24.8 s |
 
-Each one also gets a `-upload.mp4` copy (about 6 Mbps, under 20 MB) and a 2 fps contact sheet.
+Each one also gets a `-upload.mp4` copy (two-pass, under 10 MB for the browser posting flow) and a 2 fps contact sheet.
 
 ## Make
 
@@ -21,7 +21,7 @@ tools/make.sh ad1 curio-ad-two-hours        # render (resumes), mix, encode
 .venv python tools/render.py ad2 --test 3.5,11 --samples 6 --scale 0.5   # quick stills in build/ad2/test
 ```
 
-The Python is the kit's `.venv` (Playwright + Chromium). Rendering runs at about 6 to 12 frames/s with 3 workers.
+The Python is the kit's `.venv` (Playwright + Chromium). Rendering runs at about 6 to 12 frames/s with 2 workers. Run one render at a time: a second Chromium render stalls page start-up.
 
 ## How it works
 
