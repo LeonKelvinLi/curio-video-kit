@@ -1,0 +1,114 @@
+{
+ "reel": "The Doctor Who Drank the Bacteria",
+ "kit_id": "BM (long cut BML shares the first picture)",
+ "generated": "2026-11-13",
+ "status": "Licences read from the Commons API (imageinfo extmetadata) on 2026-11-13; raw reply in _commons.json. Commons was rate-limiting this network (HTTP 429 on full-size originals), so three files are Commons standard-size thumbnails and their SHA1 cannot match the original; the biopsy is the original and matches. Swap in originals later if a sharper zoom is wanted.",
+ "rejected": [
+  {
+   "file": "File:Hpylori.jpg / File:HelicobacterPylori2.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Hpylori.jpg",
+   "license": "Public domain (CDC PHIL #5715, Janice Carr)",
+   "reason": "The idea file suggests it as H. pylori, but the CDC caption says it shows \"Flexispira rappini\", a Helicobacter relative, not H. pylori. Also only 700x476. Do not use as \"the bacteria he drank\"."
+  },
+  {
+   "file": "File:EMpylori.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:EMpylori.jpg",
+   "license": "Copyrighted free use (Yutaka Tsutsumi)",
+   "reason": "Real H. pylori but only 600x400 and a non-standard licence tag; not used."
+  },
+  {
+   "file": "File:Barry Marshall 2008.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Barry_Marshall_2008.jpg",
+   "license": "Public domain",
+   "reason": "414x414, too small."
+  },
+  {
+   "file": "nobelprize.org portraits",
+   "page_url": "https://www.nobelprize.org/prizes/medicine/2005/marshall/facts/",
+   "license": "In copyright (Nobel Prize Outreach)",
+   "reason": "Not rights-clear."
+  }
+ ],
+ "assets": [
+  {
+   "file": "photos/Barry_Marshall_-_Sample_Jar_-_Nobel_Musem_Stockholm_1280px.jpg",
+   "kind": "photo",
+   "asset": "ff_bm_jar.jpg (cropped 1280x2120)",
+   "width": 1280,
+   "height": 2389,
+   "original_width": 1792,
+   "original_height": 3344,
+   "downloaded_as": "1280px Commons thumbnail",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Barry_Marshall_-_Sample_Jar_-_Nobel_Musem%2C_Stockholm.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Barry_Marshall_-_Sample_Jar_-_Nobel_Musem,_Stockholm.jpg",
+   "author": "Gaius Cornelius",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "credit_line": "Gaius Cornelius · CC BY 4.0",
+   "commons_sha1": "803979354ce338334bbf5df8757c6734aca8980f",
+   "sha1_matches_commons": false,
+   "what_it_shows": "Sample jar that contained Helicobacter pylori in a broth solution. Barry Marshall intentionally drank this broth in order to test his theory that H. pylori could ulcers and gastritis. He contracted a serious infection. This proved his theory to be correct. On display at the Nobel Prize Museum.",
+   "note": "Beat 1 and the first frame of BM; BML must open on it too"
+  },
+  {
+   "file": "photos/Barry_J_Marshall_1920px.jpg",
+   "kind": "photo",
+   "asset": "ff_bm_desk.jpg",
+   "width": 1920,
+   "height": 2208,
+   "original_width": 2184,
+   "original_height": 2512,
+   "downloaded_as": "1920px Commons thumbnail",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Barry_J_Marshall.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Barry_J_Marshall.jpg",
+   "author": "WikiEdtingProfile2021",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "credit_line": "WikiEdtingProfile2021 · CC BY-SA 4.0",
+   "commons_sha1": "caa9494bb3018d98ae2a7c763b379fc5c77e3782",
+   "sha1_matches_commons": false,
+   "what_it_shows": "Marshall in 2021",
+   "note": "Beat 2. Photo is from 2021, not 1984; the label says so"
+  },
+  {
+   "file": "photos/Helicobacter_pylori_Gastric_Biopsy_Giemsa_Stain_5517582111.jpg",
+   "kind": "photo",
+   "asset": "ff_bm_biopsy.jpg",
+   "width": 1239,
+   "height": 1239,
+   "original_width": 1239,
+   "original_height": 1239,
+   "downloaded_as": "original",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Helicobacter_pylori%2C_Gastric_Biopsy%2C_Giemsa_Stain_%285517582111%29.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Helicobacter_pylori,_Gastric_Biopsy,_Giemsa_Stain_(5517582111).jpg",
+   "author": "Ed Uthman from Houston, TX, USA",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "credit_line": "Ed Uthman · CC BY 2.0",
+   "commons_sha1": "0ec39f7d9a0bb3c3e4c0464d3b04531b08f83275",
+   "sha1_matches_commons": true,
+   "what_it_shows": "Helicobacter pylori, Gastric Biopsy, Giemsa Stain Pathological and histological images courtesy of Ed Uthman at flickr.",
+   "note": "Beat 3. Another patient's biopsy, not Marshall's; the label says so"
+  },
+  {
+   "file": "photos/Dr_Barry_Marshall_-_Nobel_Laureate_1280px.jpg",
+   "kind": "photo",
+   "asset": "ff_bm_face.jpg",
+   "width": 1280,
+   "height": 1591,
+   "original_width": 1644,
+   "original_height": 2044,
+   "downloaded_as": "1280px Commons thumbnail",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Dr_Barry_Marshall_-_Nobel_Laureate.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Dr_Barry_Marshall_-_Nobel_Laureate.jpg",
+   "author": "Binarysequence",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "credit_line": "Binarysequence · CC BY-SA 4.0",
+   "commons_sha1": "536394fa202b1f43a1e96fa654530c691b13d6e8",
+   "sha1_matches_commons": false,
+   "what_it_shows": "Dr Barry Marshall - 2005 Nobel Laureate for Medicine",
+   "note": "Beat 4. Photo is from 2019; the label says so"
+  }
+ ]
+}

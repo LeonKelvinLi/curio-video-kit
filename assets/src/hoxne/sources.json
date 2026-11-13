@@ -1,0 +1,154 @@
+{
+ "generated": "2026-11-12",
+ "status": "Licences re-read from the Commons API on 2026-11-12 and again on 2026-11-13 for the files used in HX and HXL (all match, sha1 verified). Files downloaded but unused stay listed. The entry for (51234412275) has no local file.",
+ "assets": [
+  {
+   "file": "photos/British_Museum_Hoxne_Hoard_Gold_Body_Chain.jpg",
+   "kind": "photo",
+   "width": 1861,
+   "height": 2843,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/British_Museum_Hoxne_Hoard_Gold_Body_Chain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File:British_Museum_Hoxne_Hoard_Gold_Body_Chain.jpg",
+   "license": "CC0",
+   "credit_line": "BabelStone · CC0",
+   "date": "24 June 2010",
+   "sha1_matches_commons": true,
+   "what_it_shows": "Gold body chain from the Hoxne Hoard.",
+   "author": "BabelStone",
+   "used_in": [
+    "HX",
+    "HXL"
+   ],
+   "processed_as": "ff_hx_chain.jpg",
+   "changes": "cropped and resized",
+   "license_rechecked": "2026-11-13 (Commons API, sha1 matches)"
+  },
+  {
+   "file": "photos/Hoxne_Hoard_1.jpg",
+   "kind": "photo",
+   "width": 3888,
+   "height": 2592,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Hoxne_Hoard_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Hoxne_Hoard_1.jpg",
+   "license": "CC BY-SA 4.0",
+   "credit_line": "Mike Peel · CC BY-SA 4.0",
+   "date": "2010-06-27",
+   "sha1_matches_commons": true,
+   "what_it_shows": "Hoxne Hoard: Display case at the British Museum showing a reconstruction of the arrangement of the hoard treasure when excavated in 1992.",
+   "author": "Mike Peel",
+   "used_in": [
+    "HX",
+    "HXL"
+   ],
+   "processed_as": "ff_hx_case.jpg, ff_hx_coins.jpg",
+   "changes": "cropped and resized",
+   "license_rechecked": "2026-11-13 (Commons API, sha1 matches)"
+  },
+  {
+   "file": "photos/Hoxne_Hoard_2.jpg",
+   "kind": "photo",
+   "width": 3763,
+   "height": 1586,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Hoxne_Hoard_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Hoxne_Hoard_2.jpg",
+   "license": "CC BY-SA 4.0",
+   "credit_line": "Mike Peel · CC BY-SA 4.0",
+   "date": "2010-06-27",
+   "sha1_matches_commons": true,
+   "what_it_shows": "Hoxne Hoard: Reconstruction of the Hoxne treasure chest.",
+   "author": "Mike Peel",
+   "used_in": [
+    "HX",
+    "HXL"
+   ],
+   "processed_as": "ff_hx_chest.jpg",
+   "changes": "cropped and resized",
+   "license_rechecked": "2026-11-13 (Commons API, sha1 matches)"
+  },
+  {
+   "file": "photos/Hoxne_Hoard_silver_personal_utensils.JPG",
+   "kind": "photo",
+   "width": 1776,
+   "height": 2649,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Hoxne_Hoard_silver_personal_utensils.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Hoxne_Hoard_silver_personal_utensils.JPG",
+   "license": "CC BY-SA 3.0",
+   "credit_line": "Fæ · CC BY-SA 3.0",
+   "date": "25 June 2010",
+   "sha1_matches_commons": true,
+   "what_it_shows": "Personal utensils including suggested tooth pick and brush from the Hoxne Hoard.",
+   "author": "Fæ",
+   "used_in": [
+    "HXL"
+   ],
+   "processed_as": "ff_hx_tools.jpg",
+   "changes": "cropped and resized",
+   "license_rechecked": "2026-11-13 (Commons API, sha1 matches)"
+  },
+  {
+   "file": "photos/Hoxne_Treasure_buried_shortly_after_407_AD_51232638727_.jpg",
+   "kind": "photo",
+   "width": 4453,
+   "height": 3774,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Hoxne_Treasure_buried_shortly_after_407_AD_%2851232638727%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Hoxne_Treasure_buried_shortly_after_407_AD_%2851232638727%29.jpg",
+   "license": "CC BY 2.0",
+   "credit_line": "TimeTravelRome · CC BY 2.0",
+   "date": "Taken on 5 June 2021, 16:43",
+   "sha1_matches_commons": true,
+   "what_it_shows": "Hoxne Treasure (Suffolk, UK) buried carefully shortly after 407 AD. There are Christian motifs and symbols on the objects, but also scenes and characters taken from \"pagan\" stories. Picture taken at the Oog in oog met de Romeinen (Eye to Eye with the Romans) E",
+   "author": "TimeTravelRome",
+   "used_in": [
+    "HXL"
+   ],
+   "processed_as": "ff_hx_ladles.jpg",
+   "changes": "cropped and resized",
+   "license_rechecked": "2026-11-13 (Commons API, sha1 matches)"
+  },
+  {
+   "file": "photos/Hoxne_Treasure_buried_shortly_after_407_AD_51232638737_.jpg",
+   "kind": "photo",
+   "width": 6000,
+   "height": 4000,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Hoxne_Treasure_buried_shortly_after_407_AD_%2851232638737%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Hoxne_Treasure_buried_shortly_after_407_AD_%2851232638737%29.jpg",
+   "license": "CC BY 2.0",
+   "credit_line": "TimeTravelRome",
+   "date": "Taken on 5 June 2021, 16:43",
+   "sha1_matches_commons": true,
+   "what_it_shows": "Hoxne Treasure (Suffolk, UK) buried carefully shortly after 407 AD. There are Christian motifs and symbols on the objects, but also scenes and characters taken from \"pagan\" stories. Picture taken at the Oog in oog met de Romeinen (Eye to Eye with the Romans) E",
+   "used_in": [],
+   "author": "TimeTravelRome"
+  },
+  {
+   "file": "photos/Hoxne_Treasure_buried_shortly_after_407_AD_51233343191_.jpg",
+   "kind": "photo",
+   "width": 6000,
+   "height": 4000,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Hoxne_Treasure_buried_shortly_after_407_AD_%2851233343191%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Hoxne_Treasure_buried_shortly_after_407_AD_%2851233343191%29.jpg",
+   "license": "CC BY 2.0",
+   "credit_line": "TimeTravelRome",
+   "date": "Taken on 5 June 2021, 16:43",
+   "sha1_matches_commons": true,
+   "what_it_shows": "Hoxne Treasure (Suffolk, UK) buried carefully shortly after 407 AD. There are Christian motifs and symbols on the objects, but also scenes and characters taken from \"pagan\" stories. Picture taken at the Oog in oog met de Romeinen (Eye to Eye with the Romans) E",
+   "used_in": [],
+   "author": "TimeTravelRome"
+  },
+  {
+   "file": "photos/Hoxne_Treasure_buried_shortly_after_407_AD_51234412275_.jpg",
+   "kind": "photo",
+   "width": 4298,
+   "height": 2084,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Hoxne_Treasure_buried_shortly_after_407_AD_%2851234412275%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Hoxne_Treasure_buried_shortly_after_407_AD_%2851234412275%29.jpg",
+   "license": "CC BY 2.0",
+   "credit_line": "TimeTravelRome",
+   "date": "Taken on 5 June 2021, 16:42",
+   "sha1_matches_commons": false,
+   "what_it_shows": "Hoxne Treasure (Suffolk, UK) buried carefully shortly after 407 AD. There are Christian motifs and symbols on the objects, but also scenes and characters taken from \"pagan\" stories. Picture taken at the Oog in oog met de Romeinen (Eye to Eye with the Romans) E",
+   "used_in": [],
+   "author": "TimeTravelRome"
+  }
+ ]
+}

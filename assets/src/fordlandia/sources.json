@@ -1,0 +1,199 @@
+{
+ "reel": "Henry Ford's Town in the Amazon (FDL; FD later)",
+ "generated": "2026-11-13",
+ "status": "Licences read from the Commons API (imageinfo extmetadata) on 2026-11-13. The image host rate-limited original downloads, so files wider than 960 px were fetched as Commons standard thumbnails (960/1280/1920 px); SHA1 therefore not compared. CC BY-SA pictures are only cropped, scaled and framed; credit is on screen per beat and must be in the caption.",
+ "notes": [
+  "The brochure (1937) shows a workmen's house captioned as at Belterra, Ford's second plantation; the on-screen label names only the brochure.",
+  "Public-domain status of the two Ford Company items and the Russell map is as stated on Commons (US publication without notice / not renewed); not independently verified with The Henry Ford.",
+  "'Fordlandia NN' files by Quincena Musical on Commons are a music festival, not the town: not used."
+ ],
+ "assets": [
+  {
+   "file": "photos/Aerial_View_of_Fordlandia_Brazil_1934.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Aerial_View_of_Fordlandia%2C_Brazil%2C_1934.jpg",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Aerial_View_of_Fordlandia%2C_Brazil%2C_1934.jpg",
+   "original_size": [
+    917,
+    652
+   ],
+   "author": "Ford Motor Company. Photographic Department.",
+   "license": "Public domain",
+   "license_url": "",
+   "commons_credit": "https://www.thehenryford.org/collections-and-research/digital-collections/artifact/264881#slide=gs-287692",
+   "date": "1934-01-01",
+   "what_it_shows": "Aerial view of Fordlandia in 1934. This image was done by the Ford Company and published without copyright notice at least in 1942. (Russell, J. A. (1942). Fordlandia and Belterra, Rubber Plantations on the Tapajos River, Brazil. Economic G",
+   "used_as": "ff_fd_aerial.jpg",
+   "credit_line": "Ford Motor Company, 1934 · public domain"
+  },
+  {
+   "file": "photos/Fordlandia.JPG",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Fordlandia.JPG",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Fordlandia.JPG",
+   "original_size": [
+    2560,
+    1920
+   ],
+   "author": "Amit Evron - User: (WT-shared) Amitevron at wts wikivoyage",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "commons_credit": "Own work",
+   "date": "2010-09-05",
+   "what_it_shows": "Water tower and main warehouse building in Fordlandia, Brazil.",
+   "used_as": "ff_fd_tower.jpg",
+   "credit_line": "Amit Evron · CC BY-SA 3.0"
+  },
+  {
+   "file": "photos/FordlandiaHospitalDestroyed.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:FordlandiaHospitalDestroyed.jpg",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/FordlandiaHospitalDestroyed.jpg",
+   "original_size": [
+    1024,
+    682
+   ],
+   "author": "RodrigoCruzatti",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "commons_credit": "Own work",
+   "date": "2016-01-28",
+   "what_it_shows": "Fordlandia Hospital completely dismantled after people stole all of its contents.",
+   "used_as": "ff_fd_hospital.jpg",
+   "credit_line": "RodrigoCruzatti · CC BY 4.0"
+  },
+  {
+   "file": "photos/FordlandiaMainWarehouse.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:FordlandiaMainWarehouse.jpg",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/FordlandiaMainWarehouse.jpg",
+   "original_size": [
+    1024,
+    682
+   ],
+   "author": "RodrigoCruzatti",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "commons_credit": "Own work",
+   "date": "2016-01-28",
+   "what_it_shows": "The main warehouse at Fordlandia.",
+   "used_as": "ff_fd_warehouse.jpg",
+   "credit_line": "RodrigoCruzatti · CC BY 4.0"
+  },
+  {
+   "file": "photos/Fordlandia_-_Escritorio_local_et_allée_de_manguiers.JPG",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Fordlandia_-_Escritorio_local_et_all%C3%A9e_de_manguiers.JPG",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Fordlandia_-_Escritorio_local_et_all%C3%A9e_de_manguiers.JPG",
+   "original_size": [
+    2048,
+    1536
+   ],
+   "author": "Méduse",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "commons_credit": "Own work",
+   "date": "2005",
+   "what_it_shows": "Vestiges de Fordlândia -Escritorio Local et allée de manguiers- août 2005",
+   "used_as": "ff_fd_trees.jpg",
+   "credit_line": "Méduse · CC BY-SA 3.0"
+  },
+  {
+   "file": "photos/Fordlandia_2.JPG",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Fordlandia_2.JPG",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Fordlandia_2.JPG",
+   "original_size": [
+    2048,
+    1536
+   ],
+   "author": "Méduse",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "commons_credit": "Own work",
+   "date": "2005-07",
+   "what_it_shows": "Fordlandia. Débarcadère sur le Tapajos et ancienne usine de caoutchouc.",
+   "used_as": "ff_fd_factory.jpg",
+   "credit_line": "Méduse · CC BY-SA 3.0"
+  },
+  {
+   "file": "photos/Fordlandia_water_tower.JPG",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Fordlandia_water_tower.JPG",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Fordlandia_water_tower.JPG",
+   "original_size": [
+    695,
+    1030
+   ],
+   "author": "Amit Evron - User: (WT-shared) Amitevron at wts wikivoyage",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "commons_credit": "Own work",
+   "date": "2010-09-05",
+   "what_it_shows": "Water tower and main warehouse building in Fordlandia, Brazil.",
+   "used_as": "ff_fd_watertower.jpg",
+   "credit_line": "Amit Evron · CC BY-SA 3.0"
+  },
+  {
+   "file": "photos/Le_retour_dUlysse.JPG",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Le_retour_d%27Ulysse.JPG",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Le_retour_d%27Ulysse.JPG",
+   "original_size": [
+    2048,
+    1536
+   ],
+   "author": "Mélété",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "commons_credit": "Own work",
+   "date": "2005-07",
+   "what_it_shows": "Vue depuis une fenêtre dans une maison à l'abandon. Fordlandia, Para.",
+   "used_as": null,
+   "credit_line": null
+  },
+  {
+   "file": "photos/Proof_for_Brochure_The_Plantations_of_the_Companhia_Ford_Industrial_do_Brasil_-_Back.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Proof_for_Brochure%2C_%22The_Plantations_of_the_Companhia_Ford_Industrial_do_Brasil%2C%22_-_Back.jpg",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Proof_for_Brochure%2C_%22The_Plantations_of_the_Companhia_Ford_Industrial_do_Brasil%2C%22_-_Back.jpg",
+   "original_size": [
+    1200,
+    1510
+   ],
+   "author": "Unknown - The Ford Motor Company",
+   "license": "Public domain",
+   "license_url": "",
+   "commons_credit": "https://www.thehenryford.org/collections-and-research/digital-collections/artifact/467896#slide=gs-455255",
+   "date": "1937-01-01",
+   "what_it_shows": "Proof for Brochure, \"The Plantations of the Companhia Ford Industrial do Brasil.\" This brochure was published in Brazil by a company with unknown author.",
+   "used_as": "ff_fd_brochure.jpg",
+   "credit_line": "Ford Motor Company, 1937 · public domain"
+  },
+  {
+   "file": "photos/Proof_for_Brochure_The_Plantations_of_the_Companhia_Ford_Industrial_do_Brasil_-_Front.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Proof_for_Brochure%2C_%22The_Plantations_of_the_Companhia_Ford_Industrial_do_Brasil%2C%22_-_Front.jpg",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Proof_for_Brochure%2C_%22The_Plantations_of_the_Companhia_Ford_Industrial_do_Brasil%2C%22_-_Front.jpg",
+   "original_size": [
+    1200,
+    1515
+   ],
+   "author": "Unknown - The Ford Motor Company",
+   "license": "Public domain",
+   "license_url": "",
+   "commons_credit": "https://www.thehenryford.org/collections-and-research/digital-collections/artifact/467896#slide=gs-455255",
+   "date": "1937-01-01",
+   "what_it_shows": "Proof for Brochure, \"The Plantations of the Companhia Ford Industrial do Brasil\" This brochure was published in Brazil by a company with unknown author.",
+   "used_as": null,
+   "credit_line": null
+  },
+  {
+   "file": "photos/Russell_-_map_of_Fordlandia.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Russell_-_map_of_Fordlandia.jpg",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Russell_-_map_of_Fordlandia.jpg",
+   "original_size": [
+    1560,
+    1823
+   ],
+   "author": "J. A. Russell",
+   "license": "Public domain",
+   "license_url": "",
+   "commons_credit": "Russell, J. A. (1942). Fordlandia and Belterra, Rubber Plantations on the Tapajos River, Brazil. Economic Geography, 18(2), 125. doi:10.2307/141793",
+   "date": "1942-04-01",
+   "what_it_shows": "Fordlandiako mapa",
+   "used_as": "ff_fd_map.jpg",
+   "credit_line": "J. A. Russell, 1942 · public domain"
+  }
+ ]
+}

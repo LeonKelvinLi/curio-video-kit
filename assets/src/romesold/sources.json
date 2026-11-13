@@ -1,0 +1,213 @@
+{
+ "reel": "The Day Rome Was Sold (RS and RSL)",
+ "generated": "2026-11-13",
+ "status": "Licences read from the Commons API (extmetadata) on 2026-11-13; raw answer in _commons.json. Files downloaded but unused stay listed with used_in empty.",
+ "rejected": [],
+ "assets": [
+  {
+   "file": "photos/aureus_didius_iulianus.jpg",
+   "kind": "photo",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Aureus_Didius_Iulianus.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Aureus_Didius_Iulianus.jpg",
+   "author": "Numismatica Ars Classica NAC AG",
+   "license": "CC BY-SA 3.0 de",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+   "credit_line": "Numismatica Ars Classica · CC BY-SA 3.0 DE",
+   "what_it_shows": "Gold aureus of Didius Julianus, AD 193, obverse portrait and RECTOR ORBIS reverse",
+   "kit_assets": [
+    "ff_rs_coin.jpg (obverse crop, upscaled 4x, white background keyed to dark: adapted, share-alike applies to the adapted still)",
+    "ff_rs_coin2.jpg (both faces, upscaled 2x)"
+   ],
+   "used_in": [
+    "RS",
+    "RSL"
+   ],
+   "note": "original file, SHA1 matches Commons"
+  },
+  {
+   "file": "photos/relief_pretoriens_louvre_2.jpg",
+   "kind": "photo",
+   "page_url": "https://commons.wikimedia.org/wiki/File:0_Relief_des_Pr%C3%A9toriens_-_LL_398_-_Louvre_(2).JPG",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/0_Relief_des_Pr%C3%A9toriens_-_LL_398_-_Louvre_%282%29.JPG",
+   "author": "Jean-Pol Grandmont",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "credit_line": "Jean-Pol Grandmont · CC BY 4.0",
+   "what_it_shows": "Detail of the Praetorians Relief (Louvre LL 398, from the Arch of Claudius, c. AD 51, partly restored)",
+   "kit_assets": [
+    "ff_rs_guard.jpg"
+   ],
+   "used_in": [
+    "RS",
+    "RSL"
+   ],
+   "note": "original file, SHA1 matches Commons"
+  },
+  {
+   "file": "photos/relief_pretoriens_louvre_1.jpg",
+   "kind": "photo",
+   "page_url": "https://commons.wikimedia.org/wiki/File:0_Relief_des_Pr%C3%A9toriens_-_LL_398_-_Louvre_(1).JPG",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/0_Relief_des_Pr%C3%A9toriens_-_LL_398_-_Louvre_%281%29.JPG",
+   "author": "Jean-Pol Grandmont",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "credit_line": "Jean-Pol Grandmont · CC BY 4.0",
+   "what_it_shows": "The whole Praetorians Relief in its case",
+   "kit_assets": [
+    "ff_rs_relief.jpg"
+   ],
+   "used_in": [
+    "RSL"
+   ],
+   "note": "original file, SHA1 matches Commons"
+  },
+  {
+   "file": "photos/pogliaghi_julianus_auction_1280.png",
+   "kind": "photo",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Lodovico_Pogliaghi_-_Didius_Julianus_bought_the_Empire_at_auction,_193.png",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Lodovico_Pogliaghi_-_Didius_Julianus_bought_the_Empire_at_auction%2C_193.png/1280px-Lodovico_Pogliaghi_-_Didius_Julianus_bought_the_Empire_at_auction%2C_193.png",
+   "author": "Lodovico Pogliaghi (1857-1950)",
+   "license": "Public domain",
+   "license_url": "",
+   "credit_line": "Lodovico Pogliaghi, 1886 · public domain",
+   "what_it_shows": "Engraving: Julianus bidding at the camp gate, guards on the wall. From Bertolini, Storia di Roma, Treves, Milan 1886",
+   "kit_assets": [
+    "ff_rs_auction.jpg"
+   ],
+   "used_in": [
+    "RS",
+    "RSL"
+   ],
+   "note": "1280 px Commons thumbnail (the 1667 px original was rate-limited); artist died 1950, published 1886"
+  },
+  {
+   "file": "photos/pogliaghi_death_of_pertinax.png",
+   "kind": "photo",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Lodovico_Pogliaghi_-_Death_of_Pertinax.png",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Lodovico_Pogliaghi_-_Death_of_Pertinax.png",
+   "author": "Lodovico Pogliaghi (1857-1950)",
+   "license": "Public domain",
+   "license_url": "",
+   "credit_line": "Lodovico Pogliaghi, 1886 · public domain",
+   "what_it_shows": "Engraving: a guardsman strikes Pertinax on the palace steps (no blood shown). Same book",
+   "kit_assets": [
+    "ff_rs_pertinax.jpg"
+   ],
+   "used_in": [
+    "RSL"
+   ],
+   "note": "original file, SHA1 matches Commons"
+  },
+  {
+   "file": "photos/gold_aureus_pertinax.jpg",
+   "kind": "photo",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Gold_Aureus_of_Pertinax.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Gold_Aureus_of_Pertinax.jpg",
+   "author": "American Numismatic Society",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "credit_line": "American Numismatic Society · CC0",
+   "what_it_shows": "Gold aureus of Pertinax, AD 193 (ANS 1905.57.439)",
+   "kit_assets": [
+    "ff_rs_pertcoin.jpg"
+   ],
+   "used_in": [
+    "RSL"
+   ],
+   "note": "original file, SHA1 matches Commons"
+  },
+  {
+   "file": "photos/castra_praetoria_north_wall.jpg",
+   "kind": "photo",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Castra_Praetoria_North_Wall.JPG",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Castra_Praetoria_North_Wall.JPG",
+   "author": "Joris van Rooden (Commons user Joris)",
+   "license": "CC BY-SA 3.0",
+   "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "credit_line": "Joris van Rooden · CC BY-SA 3.0",
+   "what_it_shows": "North wall of the Castra Praetoria, Rome, 2006",
+   "kit_assets": [
+    "ff_rs_wall.jpg"
+   ],
+   "used_in": [
+    "RSL"
+   ],
+   "note": "original file, SHA1 matches Commons"
+  },
+  {
+   "file": "photos/buste_didius_iulianus5.jpg",
+   "kind": "photo",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Buste_de_Didius_Iulianus5.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Buste_de_Didius_Iulianus5.jpg",
+   "author": "Wilfredor",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "credit_line": "Wilfredor · CC0",
+   "what_it_shows": "Marble bust identified as Didius Julianus, Capitoline Museums, Palazzo Nuovo",
+   "kit_assets": [
+    "ff_rs_bust.jpg"
+   ],
+   "used_in": [
+    "RS",
+    "RSL"
+   ],
+   "note": "original file, SHA1 matches Commons"
+  },
+  {
+   "file": "photos/bust_didius_julianus_capitoline.jpg",
+   "kind": "photo",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Bust_of_Didius_Julianus_(Capitoline_Museums).jpg",
+   "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Bust_of_Didius_Julianus_%28Capitoline_Museums%29.jpg/3840px-Bust_of_Didius_Julianus_%28Capitoline_Museums%29.jpg",
+   "author": "Wilfredor",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "credit_line": "Wilfredor · CC0",
+   "what_it_shows": "Same bust, other frame",
+   "kit_assets": [],
+   "used_in": [],
+   "note": "2000 px-wide request returned a 3840 px rendition"
+  },
+  {
+   "file": "photos/castra_praetoria_round_corner.jpg",
+   "kind": "photo",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Castra_Praetoria_Round_corner.JPG",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Castra_Praetoria_Round_corner.JPG",
+   "author": "Joris van Rooden (Commons user Joris)",
+   "license": "CC BY-SA 3.0",
+   "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "credit_line": "Joris van Rooden · CC BY-SA 3.0",
+   "what_it_shows": "Corner of the Castra Praetoria wall",
+   "kit_assets": [],
+   "used_in": [],
+   "note": "original file, SHA1 matches Commons"
+  },
+  {
+   "file": "photos/bust_pertinax_uffizi.jpg",
+   "kind": "photo",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Bust_of_Pertinax_at_the_Uffizi_Gallery.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Bust_of_Pertinax_at_the_Uffizi_Gallery.jpg",
+   "author": "L. Dyck",
+   "license": "Public domain",
+   "license_url": "",
+   "credit_line": "L. Dyck · public domain (as tagged on Commons)",
+   "what_it_shows": "Bust of Pertinax, Uffizi",
+   "kit_assets": [],
+   "used_in": [],
+   "note": "original file, SHA1 matches Commons"
+  },
+  {
+   "file": "photos/didius_iulianus_muenzkabinett_berlin.jpg",
+   "kind": "photo",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Didius_Iulianus_-_M%C3%BCnzkabinett,_Berlin_-_5549812.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Didius_Iulianus_-_M%C3%BCnzkabinett%2C_Berlin_-_5549812.jpg",
+   "author": "Reinhard Saczewski / Münzkabinett Berlin",
+   "license": "Public domain",
+   "license_url": "",
+   "credit_line": "Münzkabinett Berlin · public domain",
+   "what_it_shows": "Worn coin of Didius Julianus",
+   "kit_assets": [],
+   "used_in": [],
+   "note": "original file, SHA1 matches Commons"
+  }
+ ]
+}

@@ -839,5 +839,149 @@
    "wings": "ff_pp_wings.jpg"
   },
   "cover": 0.3
+ },
+ "HX": {
+  "title": "The hammer that found Rome's gold (footage-first, arm B)",
+  "name": "curio-hoxne-HX",
+  "scene": [
+   "hx_ff.js",
+   "footage.js"
+  ],
+  "vo": "hx",
+  "assets": {
+   "case": "ff_hx_case.jpg",
+   "coins": "ff_hx_coins.jpg",
+   "chain": "ff_hx_chain.jpg",
+   "chest": "ff_hx_chest.jpg"
+  },
+  "cover": 0.3
+ },
+ "HXL": {
+  "title": "The hammer that found Rome's gold (footage-first, arm C micro-story)",
+  "name": "curio-hoxne-HXL",
+  "scene": [
+   "hxl_ff.js",
+   "footage.js"
+  ],
+  "vo": "hxl",
+  "assets": {
+   "case": "ff_hx_case.jpg",
+   "coins": "ff_hx_coins.jpg",
+   "ladles": "ff_hx_ladles.jpg",
+   "chain": "ff_hx_chain.jpg",
+   "chest": "ff_hx_chest.jpg",
+   "tools": "ff_hx_tools.jpg"
+  },
+  "cover": 0.3
+ },
+ "LB": {
+  "title": "The library that stole your books (footage-first, arm A)",
+  "name": "curio-alexandria-LB",
+  "scene": [
+   "lb_ff.js",
+   "footage.js"
+  ],
+  "vo": "lb",
+  "assets": {
+   "hook": "ff_lb_hook.jpg",
+   "ship": "ff_lb_ship.jpg",
+   "papyrus": "ff_lb_papyrus.jpg",
+   "engraving": "ff_lb_engraving.jpg",
+   "galen": "ff_lb_galen.jpg"
+  },
+  "cover": 0.3
+ },
+ "RS": {
+  "title": "The day Rome was sold (footage-first, arm A)",
+  "name": "curio-romesold-RS",
+  "scene": [
+   "rs_ff.js",
+   "footage.js"
+  ],
+  "vo": "rs",
+  "assets": {
+   "coin": "ff_rs_coin.jpg",
+   "guard": "ff_rs_guard.jpg",
+   "auction": "ff_rs_auction.jpg",
+   "bust": "ff_rs_bust.jpg"
+  },
+  "cover": 0.3
+ },
+ "RSL": {
+  "title": "The day Rome was sold (footage-first, arm C, micro-story)",
+  "name": "curio-romesold-RSL",
+  "scene": [
+   "rsl_ff.js",
+   "footage.js"
+  ],
+  "vo": "rsl",
+  "assets": {
+   "coin": "ff_rs_coin.jpg",
+   "guard": "ff_rs_guard.jpg",
+   "pertcoin": "ff_rs_pertcoin.jpg",
+   "pertinax": "ff_rs_pertinax.jpg",
+   "wall": "ff_rs_wall.jpg",
+   "auction": "ff_rs_auction.jpg",
+   "coin2": "ff_rs_coin2.jpg",
+   "relief": "ff_rs_relief.jpg",
+   "bust": "ff_rs_bust.jpg"
+  },
+  "cover": 0.3
+ },
+ "BM": {
+  "title": "The doctor who drank the bacteria (footage-first, arm B)",
+  "name": "curio-marshall-BM",
+  "scene": [
+   "bm_ff.js",
+   "footage.js"
+  ],
+  "vo": "bm",
+  "assets": {
+   "jar": "ff_bm_jar.jpg",
+   "desk": "ff_bm_desk.jpg",
+   "biopsy": "ff_bm_biopsy.jpg",
+   "face": "ff_bm_face.jpg"
+  },
+  "cover": 0.3
+ },
+ "KT": {
+  "title": "A boy, a kite and the Niagara bridge (footage-first, arm C)",
+  "name": "curio-niagarakite-KT",
+  "scene": [
+   "kt_ff.js",
+   "footage.js"
+  ],
+  "vo": "kt",
+  "assets": {
+   "litho": "ff_kt_litho.jpg",
+   "foot": "ff_kt_foot.jpg",
+   "ellet": "ff_kt_ellet.jpg",
+   "ice": "ff_kt_ice.jpg",
+   "car": "ff_kt_car.jpg",
+   "train": "ff_kt_train.jpg",
+   "tubman": "ff_kt_tubman.jpg"
+  },
+  "cover": 0.3
+ },
+ "FDL": {
+  "title": "Henry Ford's town in the Amazon (footage-first, arm C micro-story)",
+  "name": "curio-fordlandia-FDL",
+  "scene": [
+   "fdl_ff.js",
+   "footage.js"
+  ],
+  "vo": "fdl",
+  "assets": {
+   "tower": "ff_fd_tower.jpg",
+   "aerial": "ff_fd_aerial.jpg",
+   "factory": "ff_fd_factory.jpg",
+   "brochure": "ff_fd_brochure.jpg",
+   "warehouse": "ff_fd_warehouse.jpg",
+   "trees": "ff_fd_trees.jpg",
+   "map": "ff_fd_map.jpg",
+   "hospital": "ff_fd_hospital.jpg",
+   "watertower": "ff_fd_watertower.jpg"
+  },
+  "cover": 0.3
  }
 }
