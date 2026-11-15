@@ -983,5 +983,38 @@
    "watertower": "ff_fd_watertower.jpg"
   },
   "cover": 0.3
+ },
+ "FD": {
+  "title": "Henry Ford's town in the Amazon (footage-first, arm A, short cut)",
+  "name": "curio-fordlandia-FD",
+  "scene": [
+   "fd_ff.js",
+   "footage.js"
+  ],
+  "vo": "fd",
+  "assets": {
+   "tower": "ff_fd_tower.jpg",
+   "aerial": "ff_fd_aerial.jpg",
+   "warehouse": "ff_fd_warehouse.jpg",
+   "trees": "ff_fd_trees.jpg",
+   "watertower": "ff_fd_watertower.jpg"
+  },
+  "cover": 0.3
+ },
+ "BML": {
+  "title": "The doctor who drank the bacteria (footage-first, arm C, micro-story)",
+  "name": "curio-marshall-BML",
+  "scene": [
+   "bml_ff.js",
+   "footage.js"
+  ],
+  "vo": "bml",
+  "assets": {
+   "jar": "ff_bm_jar.jpg",
+   "desk": "ff_bm_desk.jpg",
+   "biopsy": "ff_bm_biopsy.jpg",
+   "face": "ff_bm_face.jpg"
+  },
+  "cover": 0.3
  }
 }
