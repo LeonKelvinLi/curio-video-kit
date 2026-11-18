@@ -84,3 +84,17 @@ The script text supports v3 mood tags such as `[curious]` and `[surprised]`, whi
 - **Quality rule:** final masters use x264 slow, CRF 14. `--enc videotoolbox` and `--enc nvenc` are for drafts.
 - **Fonts** load from Google Fonts, so the first render needs internet.
 - **Nothing in this repo posts anywhere.** Uploading to Instagram, YouTube or Facebook is done by hand.
+
+## End card (from 2026-11-28)
+
+Non-test reels end on a 2.3 s card that names the app, because nothing else in a reel says where the story came from.
+
+```bash
+.venv/bin/python tools/make_end_card.py     # builds assets/endcard/curio-endcard-v1.png and .mp4 (only when the card changes)
+tools/add_end_card.sh out/RS/curio-romesold-RS-FULL.mp4 out/RS/curio-romesold-RS-FULL-end.mp4
+```
+
+- The reel is not touched: the output is the reel plus the card, joined with a 0.2 s dissolve in picture and sound.
+- Voice: `vo/endline2-tight.wav` ("More stories like this, in Curio."), Zack, set to about -14.5 LUFS with 0.22 s of silence in front so the dissolve never clips the first word.
+- Card: app icon, "Curio", "More true stories like this, every day.", a "Search Curio" bar, "Free on the App Store and Google Play". Everything sits between 29% and 75% of the height, clear of each platform's own buttons.
+- Make the YouTube copy and every upload from the `-end` file. Test reels get the card only when their test says so.
