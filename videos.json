@@ -1016,5 +1016,266 @@
    "face": "ff_bm_face.jpg"
   },
   "cover": 0.3
+ },
+ "ELU": {
+  "title": "She fell 75 stories and lived (footage-first, T8 unchanged, arm A)",
+  "name": "curio-empirefall-ELU",
+  "scene": [
+   "elu_ff.js",
+   "footage.js"
+  ],
+  "vo": "elu",
+  "assets": {
+   "tower": "ff_el_tower.jpg",
+   "hole": "ff_el_hole.jpg",
+   "floor": "ff_el_floor.jpg",
+   "smoke": "ff_el_smoke.jpg"
+  },
+  "cover": 0.3
+ },
+ "EL4": {
+  "title": "She fell 75 stories and lived (footage-first, T8 by4, arm A)",
+  "name": "curio-empirefall-EL4",
+  "scene": [
+   "el4_ff.js",
+   "footage.js"
+  ],
+  "vo": "el4",
+  "assets": {
+   "tower": "ff_el_tower.jpg",
+   "hole": "ff_el_hole.jpg",
+   "floor": "ff_el_floor.jpg",
+   "smoke": "ff_el_smoke.jpg"
+  },
+  "cover": 0.3
+ },
+ "HL": {
+  "title": "Harold Lloyd's clock hang, minus two fingers (footage-first, production, arm A)",
+  "name": "curio-haroldlloyd-HL",
+  "scene": [
+   "hl_ff.js",
+   "footage.js"
+  ],
+  "vo": "hl",
+  "assets": {
+   "clock": "ff_hl_clip_clock",
+   "ad": "ff_hl_ad1919.jpg",
+   "hands": "ff_hl_clip_hands",
+   "dangle": "ff_hl_clip_dangle"
+  },
+  "cover": 0.3
+ },
+ "BY": {
+  "title": "Look behind the baby (footage-first, T7-2, arm FULL)",
+  "name": "curio-hiddenmother-BY",
+  "scene": [
+   "by_ff.js",
+   "footage.js"
+  ],
+  "vo": "by",
+  "assets": {
+   "infant": "ff_by_infant.jpg",
+   "striped": "ff_by_striped.jpg",
+   "ewing": "ff_by_ewing.jpg",
+   "father": "ff_by_father.jpg",
+   "curtain": "ff_by_curtain.jpg",
+   "retouch": "ff_by_retouch.jpg"
+  },
+  "cover": 0.3
+ },
+ "CB": {
+  "title": "He paid to be sunk at sea (footage-first, arm C micro-story)",
+  "name": "curio-byrne-CB",
+  "scene": [
+   "cb_ff.js",
+   "footage.js"
+  ],
+  "vo": "cb",
+  "assets": {
+   "kay": "ff_cb_kay2.jpg",
+   "ad": "ff_cb_ad.jpg",
+   "hunter": "ff_cb_hunter.jpg",
+   "skel": "ff_cb_skel.jpg",
+   "rcs": "ff_cb_rcs.jpg",
+   "skull": "ff_cb_skull.jpg",
+   "gallery": "ff_cb_gallery.jpg"
+  },
+  "cover": 0.3
+ },
+ "OL": {
+  "title": "The rats who wouldn't stop pressing (footage-first, arm A, leader)",
+  "name": "curio-oldsrats-OL",
+  "scene": [
+   "ol_ff.js",
+   "footage.js"
+  ],
+  "vo": "ol",
+  "assets": {
+   "rat": "ff_ol_rat.jpg",
+   "setup": "ff_ol_setup.jpg",
+   "seek": "ff_ol_clip_seek"
+  },
+  "cover": 0.3
+ },
+ "CRU": {
+  "title": "The White House Thanksgiving raccoon (footage-first, T8 unchanged, arm A)",
+  "name": "curio-thanksgiving-raccoon-CRU",
+  "scene": [
+   "cru_ff.js",
+   "footage.js"
+  ],
+  "vo": "cru",
+  "assets": {
+   "hook": "ff_cr_hook.jpg",
+   "leash": "ff_cr_leash.jpg",
+   "close": "ff_cr_close.jpg",
+   "eggroll": "ff_cr_eggroll.jpg"
+  },
+  "cover": 0.3
+ },
+ "CR4": {
+  "title": "The White House Thanksgiving raccoon (footage-first, T8 by4, arm A)",
+  "name": "curio-thanksgiving-raccoon-CR4",
+  "scene": [
+   "cr4_ff.js",
+   "footage.js"
+  ],
+  "vo": "cr4",
+  "assets": {
+   "hook": "ff_cr_hook.jpg",
+   "leash": "ff_cr_leash.jpg",
+   "close": "ff_cr_close.jpg",
+   "eggroll": "ff_cr_eggroll.jpg"
+  },
+  "cover": 0.3
+ },
+ "WG": {
+  "title": "The waitress on the wing (footage-first, production, arm A, end card)",
+  "name": "curio-wingwaitress-WG",
+  "scene": [
+   "wg_ff.js",
+   "footage.js"
+  ],
+  "vo": "wg",
+  "assets": {
+   "wing": "ff_wg_wing.jpg",
+   "brk": "ff_wg_break.jpg",
+   "portrait": "ff_wg_portrait.jpg",
+   "wingfull": "ff_wg_wingfull.jpg"
+  },
+  "cover": 0.3
+ },
+ "DW": {
+  "title": "The wave science said wouldn't happen (footage-first, T7-2, control)",
+  "name": "curio-draupner-DW",
+  "scene": [
+   "dw_ff.js",
+   "footage.js"
+  ],
+  "vo": "dw",
+  "assets": {
+   "ship": "ff_dw_ship.jpg",
+   "seas": "ff_dw_seas.jpg",
+   "record": "ff_dw_record.jpg"
+  },
+  "cover": 0.3
+ },
+ "XR4": {
+  "title": "The exploding rats (footage-first, T8 by4, arm A)",
+  "name": "curio-explodingrats-XR4",
+  "scene": [
+   "xr4_ff.js",
+   "footage.js"
+  ],
+  "vo": "xr4",
+  "assets": {
+   "rat": "ff_xr_rat.jpg",
+   "page": "ff_xr_page.jpg",
+   "stoker": "ff_xr_stoker.jpg",
+   "archive": "ff_xr_archive.jpg"
+  },
+  "cover": 0.3
+ },
+ "XRU": {
+  "title": "The exploding rats (footage-first, T8 unchanged, arm A)",
+  "name": "curio-explodingrats-XRU",
+  "scene": [
+   "xru_ff.js",
+   "footage.js"
+  ],
+  "vo": "xru",
+  "assets": {
+   "rat": "ff_xr_rat.jpg",
+   "page": "ff_xr_page.jpg",
+   "stoker": "ff_xr_stoker.jpg",
+   "archive": "ff_xr_archive.jpg"
+  },
+  "cover": 0.3
+ },
+ "CU4": {
+  "title": "The inventor who couldn't solve his cube (footage-first, T8 by4, arm A)",
+  "name": "curio-rubikcube-CU4",
+  "scene": [
+   "cu4_ff.js",
+   "footage.js"
+  ],
+  "vo": "cu4",
+  "assets": {
+   "cube": "ff_cu_cube.jpg",
+   "solved": "ff_cu_solved.jpg",
+   "rubik": "ff_cu_rubik.jpg",
+   "ponder": "ff_cu_ponder.jpg"
+  },
+  "cover": 0.3
+ },
+ "CUU": {
+  "title": "The inventor who couldn't solve his cube (footage-first, T8 unchanged, arm A)",
+  "name": "curio-rubikcube-CUU",
+  "scene": [
+   "cuu_ff.js",
+   "footage.js"
+  ],
+  "vo": "cuu",
+  "assets": {
+   "cube": "ff_cu_cube.jpg",
+   "solved": "ff_cu_solved.jpg",
+   "rubik": "ff_cu_rubik.jpg",
+   "ponder": "ff_cu_ponder.jpg"
+  },
+  "cover": 0.3
+ },
+ "KM4": {
+  "title": "The day it rained meat (footage-first, T8 by4, arm A)",
+  "name": "curio-meatshower-KM4",
+  "scene": [
+   "km4_ff.js",
+   "footage.js"
+  ],
+  "vo": "km4",
+  "assets": {
+   "nyt": "ff_km_nyt.jpg",
+   "vulture": "ff_km_vulture.jpg",
+   "taste": "ff_km_taste.jpg",
+   "soar": "ff_km_soar.jpg",
+   "place": "ff_km_place.jpg"
+  },
+  "cover": 0.3
+ },
+ "KMU": {
+  "title": "The day it rained meat (footage-first, T8 unchanged, arm A)",
+  "name": "curio-meatshower-KMU",
+  "scene": [
+   "kmu_ff.js",
+   "footage.js"
+  ],
+  "vo": "kmu",
+  "assets": {
+   "nyt": "ff_km_nyt.jpg",
+   "vulture": "ff_km_vulture.jpg",
+   "taste": "ff_km_taste.jpg",
+   "soar": "ff_km_soar.jpg",
+   "place": "ff_km_place.jpg"
+  },
+  "cover": 0.3
  }
 }

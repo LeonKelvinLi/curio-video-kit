@@ -1,0 +1,44 @@
+{
+ "reel": "She Was Right. Thousands Said No. (MH4 and MHU, T8-2) - NOT MADE",
+ "generated": "2026-11-19",
+ "status": "Both versions stopped 2026-11-19: no rights-clear real picture fits line 1 ('Thousands told a magazine columnist she was wrong'). Commons search (vos Savant, Monty Hall, Let's Make a Deal), Wikidata Q234122 (no P18 image) and Openverse (API did not answer) found no free photo of Marilyn vos Savant, of the Parade column, or of the letters. Licences of the candidates read from the Commons API, raw answer in _commons.json.",
+ "rejected": [
+  {
+   "file": "photos/monty_abc_tv.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Monty_hall_abc_tv.JPG",
+   "author": "ABC Television",
+   "license": "Public domain (ABC publicity photo, no notice)",
+   "what_it_shows": "Studio headshot of Monty Hall, c. 1968-76",
+   "used_in": [],
+   "why_rejected": "Rights fine, but a man's headshot under 'a magazine columnist she was wrong' reads as the wrong person; shows no act, no doors."
+  },
+  {
+   "file": "photos/lmad_primetime.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Lets_make_a_deal_weekly_primetime.JPG",
+   "author": "ABC Television",
+   "license": "Public domain (ABC publicity photo, no notice)",
+   "what_it_shows": "Monty Hall and Jay Stewart with costumed contestants on the Let's Make a Deal set, c. 1971",
+   "used_in": [],
+   "why_rejected": "Rights fine; no doors visible and nothing about the columnist or the letters; line 1 does not mention the show, so the frame cannot be read until sentence 2 or 3."
+  },
+  {
+   "file": "photos/lmad_1974.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Lets_make_a_deal_1974.JPG",
+   "author": "ABC Television",
+   "license": "Public domain (ABC publicity photo, no notice)",
+   "what_it_shows": "Carol Merrill, Monty Hall and Jay Stewart in a Western costume card skit, 1974",
+   "used_in": [],
+   "why_rejected": "Rights fine; a poker skit, unrelated to line 1."
+  },
+  {
+   "page_url": "https://commons.wikimedia.org/wiki/File:Let%E2%80%99s_Make_a_Deal_(October_13,_1980_-80_0026).mp4_snapshot_23.33.168.jpg",
+   "license": "CC BY-SA 4.0 (uploader claim on a TV screenshot)",
+   "why_rejected": "End-credits screenshot of a 1980 broadcast; the CC licence on a copyrighted broadcast frame is doubtful, and it does not fit line 1."
+  },
+  {
+   "page_url": "https://commons.wikimedia.org/wiki/File:Monty_open_door.svg",
+   "why_rejected": "Diagram: may appear later in the reel, never as the first beat (arm rule)."
+  }
+ ],
+ "assets": []
+}

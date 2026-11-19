@@ -1,0 +1,77 @@
+{
+ "reel": "The Exploding Rats (XR4 by4 and XRU unchanged, T8-1)",
+ "generated": "2026-11-19",
+ "status": "Licences read from the Commons API (extmetadata) on 2026-11-19; raw answer in _commons.json. Unused candidates deleted.",
+ "crown_copyright_check": "Asked to confirm the SOE drawing as Crown copyright expired. Commons does NOT tag it 'Crown copyright expired' (PD-UKGov); it tags it 'OGL 3' (UK Open Government Licence v3.0, Copyrighted: True), source The National Archives, Kew, HS 7/49 p. 90, dated before 1945. It is a drawing in an SOE file, not a photograph, so the pre-1957 photo rule does not apply; and an unpublished Crown work of that age may still be in Crown copyright (to 2039). Either way the OGL v3.0 licence covers reuse with attribution, so it is rights-clear: credited on screen as 'The National Archives, HS 7/49 · OGL v3.0'.",
+ "rejected": [
+  {
+   "file": "Britain's Navy Now Has School's For Stokers ... A12449.jpg (IWM, public domain)",
+   "why": "its caption says the boiler room is oil-fired, not coal: would misshow the plan"
+  },
+  {
+   "file": "Bundesarchiv locomotive stoker photos (CC BY-SA 3.0 de)",
+   "why": "post-war East German pictures, small (800 px); not needed"
+  },
+  {
+   "file": "IWM SOE demonstration room HU61180/HU61185",
+   "why": "rate-limited download; would also imply rats were displayed there"
+  }
+ ],
+ "assets": [
+  {
+   "file": "photos/explosive_rats_tna_hs7-49.jpg",
+   "kind": "archive drawing",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Explosive_rats,_British_National_Archives.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Explosive_rats%2C_British_National_Archives.jpg",
+   "author": "Special Operations Executive; The National Archives, Kew (HS 7/49, p. 90)",
+   "license": "Open Government Licence v3.0",
+   "license_url": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3",
+   "credit_line": "The National Archives, HS 7/49 · OGL v3.0",
+   "what_it_shows": "SOE file page 'RATS, EXPLOSIVE.': cut-away drawing of a skinned rat filled with P.E. with primer and pencil time fuse, and instructions ('The rat is then left amongst the coal beside a boiler...'). 696x350 original.",
+   "kit_assets": [
+    "ff_xr_rat.jpg (crop 440x200 at 12,6, scaled 2.45x with unsharp, laid across the full width of a 1080x1920 canvas in the scan's paper tone #f2e2cc with light noise and darkened top/bottom edges for caption legibility: adapted)",
+    "ff_xr_page.jpg (whole page scaled 2x)"
+   ],
+   "used_in": [
+    "XR4",
+    "XRU"
+   ]
+  },
+  {
+   "file": "photos/queen_street_mill_stoking.jpg",
+   "kind": "photo",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Queen_Street_Mill_-_Lancashire_Boilers_-_stoking_5456.JPG",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Queen_Street_Mill_-_Lancashire_Boilers_-_stoking_5456.JPG/1920px-Queen_Street_Mill_-_Lancashire_Boilers_-_stoking_5456.JPG",
+   "author": "Clem Rutter, Rochester, Kent",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "credit_line": "Clem Rutter · CC BY 3.0",
+   "what_it_shows": "A stoker at the open coal fire doors of a Lancashire boiler, Queen Street Mill museum, Burnley, 2011. Labelled 'PHOTO · STOKING A COAL BOILER' (not wartime, not Germany).",
+   "kit_assets": [
+    "ff_xr_stoker.jpg"
+   ],
+   "used_in": [
+    "XR4",
+    "XRU"
+   ]
+  },
+  {
+   "file": "photos/tna_2026.jpg",
+   "kind": "photo",
+   "page_url": "https://commons.wikimedia.org/wiki/File:The_National_Archives_2026.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/The_National_Archives_2026.jpg/1920px-The_National_Archives_2026.jpg",
+   "author": "GrindtXX",
+   "license": "CC0 1.0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "credit_line": "GrindtXX · CC0",
+   "what_it_shows": "Main entrance of The National Archives at Kew with 'PUBLIC RECORD OFFICE' on the facade, 2026; the SOE files were released at the Public Record Office in October 1999.",
+   "kit_assets": [
+    "ff_xr_archive.jpg"
+   ],
+   "used_in": [
+    "XR4",
+    "XRU"
+   ]
+  }
+ ]
+}

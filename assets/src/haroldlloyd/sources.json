@@ -1,0 +1,46 @@
+{
+ "reel": "Harold Lloyd's Clock Hang, Minus Two Fingers (HL)",
+ "generated": "2026-11-19",
+ "status": "Licences read from the Commons API (extmetadata) on 2026-11-19; raw answer in _commons.json. Film SHA1 matches Commons (dfb436fa...). Film audio not used (silent film; no sound taken from it).",
+ "rejected": [
+  {
+   "file": "photos/Harold_Lloyd_in_Whos_Who_on_the_Screen.jpg",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Harold_Lloyd_in_Who%27s_Who_on_the_Screen.jpg",
+   "license": "Public domain",
+   "why": "Downloaded as a backup portrait (1920 book, face only); not used: the June 1919 ad shows his hands, which is what the bomb beat needs."
+  }
+ ],
+ "assets": [
+  {
+   "file": "film/Safety_Last_(1923).webm",
+   "kind": "film",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Safety_Last_(1923).webm",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Safety_Last_(1923).webm",
+   "author": "Fred C. Newmeyer and Sam Taylor (directors), Hal Roach Studios",
+   "license": "Public domain (Commons tag: PD US expired; US work published 1923, before 1 Jan 1931)",
+   "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+   "credit_line": "Safety Last! (1923) · public domain",
+   "what_it_shows": "Safety Last! (1923), full silent feature, 986x720, 72.7 min. Clock sequence at about 3822-3880 s.",
+   "kit_assets": [
+    "ff_hl_clip_clock (3826.3 s + 3.75 s; crop 495x720 at x 313, 160 px black band added on top so the clock sits below the caption; 720 px wide frames): Lloyd hanging from the tilted clock face over the street",
+    "ff_hl_clip_hands (3875.95 s + 3.1 s; crop 405x720 at x 380): close-up of Lloyd's face and both hands gripping the rope by the clock",
+    "ff_hl_clip_dangle (3860.0 s + 4.4 s; crop 405x720 at x 205): Lloyd hanging from the clock face, rope beside him"
+   ],
+   "used_in": ["HL"],
+   "note": "Frames found by pulling stills with ffmpeg (sheets every 10 s, then 1 s, then 0.5 s); never played. All three shots are the rooftop clock set, not the Strother long-shot building climb."
+  },
+  {
+   "file": "photos/Harold_Lloyd_1919.jpg",
+   "kind": "photo",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Harold_Lloyd_1919.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Harold_Lloyd_1919.jpg/1920px-Harold_Lloyd_1919.jpg",
+   "author": "Unknown author (Rolin / Pathé advertisement in Moving Picture World, June 1919, via mediahist.org)",
+   "license": "Public domain",
+   "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+   "credit_line": "Moving Picture World, June 1919 · public domain",
+   "what_it_shows": "Trade advertisement for Harold Lloyd Comedies, Moving Picture World, June 1919: Lloyd in a fez with both hands raised, all fingers visible (printed two months before the 24 Aug 1919 accident).",
+   "kit_assets": ["ff_hl_ad1919.jpg (crop 920x1340 at 30,300 of the 1920 px Commons thumbnail: Lloyd only)"],
+   "used_in": ["HL"]
+  }
+ ]
+}

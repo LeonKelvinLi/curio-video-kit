@@ -1,0 +1,68 @@
+{
+ "reel": "The Rats Who Wouldn't Stop Pressing (OL)",
+ "generated": "2026-11-19",
+ "status": "Licences read from the Commons API (extmetadata) on 2026-11-19; raw answer in _commons.json. Unused candidates were deleted, not kept.",
+ "rejected": [
+  {
+   "file": "Skinner box photo 02.jpg / PPTg and muscarinic lever-task videos",
+   "why": "low resolution and not self-stimulation; would have implied the wrong experiment"
+  },
+  {
+   "file": "Olds and Milner 1954 apparatus photos (Scientific American 1956, etc.)",
+   "why": "not rights-clear; none on Commons"
+  }
+ ],
+ "assets": [
+  {
+   "file": "photos/laboratory_rat.jpg",
+   "kind": "photo",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Laboratory_rat.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Laboratory_rat.jpg/1920px-Laboratory_rat.jpg",
+   "author": "Anna Marchenkova",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "credit_line": "Anna Marchenkova · CC BY 4.0",
+   "what_it_shows": "Laboratory rat with a head-mounted brain implant (recording implant for a vibration-discrimination task), 2015, being given apple juice from a pipette. Not one of Olds's rats; labelled on screen as a lab rat with a brain implant.",
+   "kit_assets": [
+    "ff_ol_rat.jpg (crop 1360x1260 at 560,0 of the 1920 px thumbnail)"
+   ],
+   "used_in": [
+    "OL"
+   ]
+  },
+  {
+   "file": "photos/neveu_olds_milner.png",
+   "kind": "illustration",
+   "page_url": "https://commons.wikimedia.org/wiki/File:DrPaulineNeveu_12_OldsMilnerSelfStimulation.svg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/DrPaulineNeveu_12_OldsMilnerSelfStimulation.svg/1920px-DrPaulineNeveu_12_OldsMilnerSelfStimulation.svg.png",
+   "author": "Pauline Neveu (Drpaulineneveu)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "credit_line": "Illustration: Pauline Neveu · CC BY-SA 4.0",
+   "what_it_shows": "Modern drawing (2022) of the Olds and Milner self-stimulation set-up: a rat presses a lever wired to an electrode in its head. Labelled ILLUSTRATION.",
+   "kit_assets": [
+    "ff_ol_setup.jpg (flattened on white, cropped 1700x1140 at 40,80: adapted, share-alike applies to the adapted still)"
+   ],
+   "used_in": [
+    "OL"
+   ]
+  },
+  {
+   "file": "film/mfb_dbs_furlanetti2015.webm",
+   "kind": "film",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Feasibility-and-Safety-of-Continuous-and-Chronic-Bilateral-Deep-Brain-Stimulation-of-the-Medial-256196.f1.ogv",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/61/Feasibility-and-Safety-of-Continuous-and-Chronic-Bilateral-Deep-Brain-Stimulation-of-the-Medial-256196.f1.ogv/Feasibility-and-Safety-of-Continuous-and-Chronic-Bilateral-Deep-Brain-Stimulation-of-the-Medial-256196.f1.ogv.720p.vp9.webm",
+   "author": "Furlanetti L, Döbrössy M, Aranda I, Coenen V (BioMed Research International 2015, PMC4414266)",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "credit_line": "Furlanetti et al., 2015 · CC BY 3.0",
+   "what_it_shows": "Rat with bilateral medial forebrain bundle (reward pathway) stimulation, tethered by a cable, showing 'SEEKING' explorative behaviour (rearing, sniffing). Experimenter-delivered stimulation, not self-stimulation; labelled 'REAL FILM · REWARD-CIRCUIT ZAP, 2015'.",
+   "kit_assets": [
+    "ff_ol_clip_seek/ (44.0-47.6 s, crop 600:556:420:0 above the burned-in caption band, scaled to 1080)"
+   ],
+   "used_in": [
+    "OL"
+   ]
+  }
+ ]
+}

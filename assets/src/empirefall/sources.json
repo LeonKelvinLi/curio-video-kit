@@ -1,0 +1,124 @@
+{
+ "reel": "She Fell 75 Stories and Lived (ELU and EL4, T8-6)",
+ "generated": "2026-11-19",
+ "status": "Licences read from the Commons API (extmetadata) and the file pages' wikitext on 2026-11-19; raw answers in _commons.json and _wikitext.json. All files are US public domain per Commons tags; outside the US the status of 1945 press photos is not confirmed.",
+ "rejected": [],
+ "assets": [
+  {
+   "file": "photos/1920px-Empire_State_Building_on_fire_1945_by_INP.jpg",
+   "kind": "photo",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Empire_State_Building_on_fire_1945_by_INP.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Empire_State_Building_on_fire_1945_by_INP.jpg/1920px-Empire_State_Building_on_fire_1945_by_INP.jpg",
+   "author": "International News Photos",
+   "license": "Public domain (US, copyright not renewed)",
+   "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-not_renewed",
+   "license_tag": "{{PD-scan|PD-US-not renewed}}",
+   "credit_line": "International News Photos, 1945 · public domain",
+   "what_it_shows": "The Empire State Building tower in smoke the morning of the crash, 28 July 1945 (published in the Pittsburgh Sun-Telegraph). No people, no injury.",
+   "kit_assets": [
+    "ff_el_tower.jpg (1920x2403 Commons thumbnail, unchanged)"
+   ],
+   "used_in": [
+    "ELU",
+    "EL4"
+   ],
+   "note": "Commons source: Pittsburgh Sun-Telegraph newspage 524041830; Getty also sells a copy (514953014). Basis is US no-renewal of a 1945 newspaper publication; not independently checked against the 1972-73 renewal records."
+  },
+  {
+   "file": "photos/Bomber_Crashed_into_Empire_State_Building_1945.jpg",
+   "kind": "photo",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Bomber_Crashed_into_Empire_State_Building_1945.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Bomber_Crashed_into_Empire_State_Building_1945.jpg",
+   "author": "Acme Newspictures",
+   "license": "Public domain (US, published 1927-1977 without a copyright notice)",
+   "license_url": "https://commons.wikimedia.org/wiki/Template:PD-Pre1978",
+   "license_tag": "{{PD-Pre1978}}; Permission field: 'Pre-1978 no mark'; page note: 'A search for original registrations was done in artwork for the year 1945. There were no listings for Acme Newspictures; there's no evidence that this photo was ever copyrighted.' Front and back of the original print linked (hyeeauctions.com A18/1/67, 67a).",
+   "credit_line": "Acme Newspictures, 1945 · public domain",
+   "what_it_shows": "The hole the B-25 made in the north wall, wreckage hanging in it, 28 July 1945 (Commons says 78th floor).",
+   "kit_assets": [
+    "ff_el_hole.jpg (558x691 original upscaled to 1000 wide, lanczos)"
+   ],
+   "used_in": [
+    "ELU",
+    "EL4"
+   ],
+   "note": "Recheck asked for the US no-renewal basis: this file's tag is NOT a no-renewal tag. It is {{PD-Pre1978}} (no notice on the print), backed by a scan of the print's back and a 1945 registration search with no Acme listings. The no-renewal tag is on the INP tower photo (first frame)."
+  },
+  {
+   "file": "photos/After_Army_bomber_rammed_Empire_State_Building_(1945_INP_press_photo).jpg",
+   "kind": "photo",
+   "page_url": "https://commons.wikimedia.org/wiki/File:After_Army_bomber_rammed_Empire_State_Building_(1945_INP_press_photo).jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/After_Army_bomber_rammed_Empire_State_Building_%281945_INP_press_photo%29.jpg",
+   "author": "International News Photo",
+   "license": "Public domain (US, no copyright notice)",
+   "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-no_notice",
+   "license_tag": "{{PD-US-no notice}}",
+   "credit_line": "International News Photos, 1945 · public domain",
+   "what_it_shows": "Inside one of the burning floors after the crash, wreckage on the floor, one man standing. INP caption: 'All elevators above the crash point were reported out of commission'.",
+   "kit_assets": [
+    "ff_el_floor.jpg (1163x938 original)"
+   ],
+   "used_in": [
+    "ELU",
+    "EL4"
+   ],
+   "note": "Source: worthpoint listing of the wire print."
+  },
+  {
+   "file": "photos/Smoke_arising_from_Empire_State_Building_after_crash_(1945_INP_press_photo).jpg",
+   "kind": "photo",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Smoke_arising_from_Empire_State_Building_after_crash_(1945_INP_press_photo).jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Smoke_arising_from_Empire_State_Building_after_crash_%281945_INP_press_photo%29.jpg",
+   "author": "International News Photo",
+   "license": "Public domain (US, no copyright notice)",
+   "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-no_notice",
+   "license_tag": "{{PD-US-no notice}}",
+   "credit_line": "International News Photos, 1945 · public domain",
+   "what_it_shows": "The top of the tower in fog and smoke after the crash, 28 July 1945.",
+   "kit_assets": [
+    "ff_el_smoke.jpg (1130x890 original)"
+   ],
+   "used_in": [
+    "ELU",
+    "EL4"
+   ],
+   "note": "Source: worthpoint listing of the wire print."
+  },
+  {
+   "file": "photos/Empire_State_Building_plane_crash_wreckage_1945.jpg",
+   "kind": "photo",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Empire_State_Building_plane_crash_wreckage_1945.jpg",
+   "author": "Acme Newspictures",
+   "license": "Public domain (US)",
+   "license_tag": "{{PD-Pre1978}}",
+   "what_it_shows": "Workmen clearing B-25 wreckage, 29 July 1945",
+   "kit_assets": [],
+   "used_in": [],
+   "note": "Downloaded, not used"
+  },
+  {
+   "file": "photos/Removing_casualty_from_Empire_State_Building_(1945_INP_press_photo).jpg",
+   "kind": "photo",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Removing_casualty_from_Empire_State_Building_(1945_INP_press_photo).jpg",
+   "author": "International News Photo",
+   "license": "Public domain (US)",
+   "license_tag": "{{PD-US-no notice}}",
+   "what_it_shows": "An injured woman carried out on a stretcher (not identified as Oliver)",
+   "kit_assets": [],
+   "used_in": [],
+   "note": "Downloaded, not used: casualty pictures kept out on purpose (14 died; respectful tone)"
+  },
+  {
+   "file": "photos/Removing_victims_from_the_Empire_State_Building_(1945_INP_press_photo).jpg",
+   "kind": "photo",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Removing_victims_from_the_Empire_State_Building_(1945_INP_press_photo).jpg",
+   "author": "International News Photos",
+   "license": "Public domain (US)",
+   "license_tag": "{{PD-US-no notice}}",
+   "what_it_shows": "Police carrying caskets of victims",
+   "kit_assets": [],
+   "used_in": [],
+   "note": "Downloaded, not used: casualty pictures kept out on purpose (14 died; respectful tone)"
+  }
+ ]
+}

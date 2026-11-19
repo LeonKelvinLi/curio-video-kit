@@ -1,0 +1,153 @@
+{
+ "reel": "He Paid to Be Sunk at Sea. A Surgeon Paid More. (CB)",
+ "generated": "2026-11-19",
+ "status": "Licences read from the Commons API (extmetadata) on 2026-11-19; raw answers in _commons.json. Originals downloaded 2026-11-17 match the Commons SHA1. The three files added 2026-11-19 are Commons standard 1920px thumbnails. Files downloaded but unused stay listed with used_in empty.",
+ "rejected": [
+  {"file": "The surprizing Irish giant of St, James's Street (BM 1868,0808.5425) / MET DP871837", "reason": "Rowlandson print dated 1785, after Byrne's death in 1783; probably shows another giant (Patrick Cotter O'Brien), so not used."}
+ ],
+ "assets": [
+  {
+   "file": "photos/Charles_Byrne,_a_giant,_George_Cranstoun,_a_dwarf,_and_three_Wellcome_V0007444.jpg",
+   "kind": "etching",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Charles_Byrne,_a_giant,_George_Cranstoun,_a_dwarf,_and_three_Wellcome_V0007444.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Charles_Byrne%2C_a_giant%2C_George_Cranstoun%2C_a_dwarf%2C_and_three_Wellcome_V0007444.jpg",
+   "author": "John Kay (etching); Wellcome Collection (photograph)",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "credit_line": "Wellcome Collection · CC BY 4.0",
+   "what_it_shows": "John Kay etching: Charles Byrne towering over George Cranstoun, a dwarf, and three other men. Wellcome dates it 1794; Commons and Kay's Originals give other dates, so the on-screen label carries no year.",
+   "kit_assets": ["ff_cb_kay2.jpg (plate cropped, handwritten caption below removed)"],
+   "used_in": ["CB"]
+  },
+  {
+   "file": "photos/Bodleian_Libraries,_Irish_giant.jpg",
+   "kind": "newspaper cutting",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Bodleian_Libraries,_Irish_giant.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Bodleian_Libraries%2C_Irish_giant.jpg",
+   "author": "Unknown (newspaper, 1782); Bodleian Libraries (scan)",
+   "license": "Public domain",
+   "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "credit_line": "Bodleian Libraries · public domain",
+   "what_it_shows": "Newscutting, 25 April 1782 (manuscript date): 'IRISH GIANT. To be seen ... Mr. Byrne, the surprising Irish Giant'. The full advert claims 8 ft 2 in; only the top five lines are shown.",
+   "kit_assets": ["ff_cb_ad.jpg (top-left five lines, upscaled 3x)"],
+   "used_in": ["CB"]
+  },
+  {
+   "file": "photos/John_Hunter_by_John_Jackson.jpg",
+   "kind": "painting",
+   "page_url": "https://commons.wikimedia.org/wiki/File:John_Hunter_by_John_Jackson.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/John_Hunter_by_John_Jackson.jpg",
+   "author": "John Jackson (1813), after Sir Joshua Reynolds (1786)",
+   "license": "Public domain",
+   "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "credit_line": "John Jackson after Reynolds · public domain",
+   "what_it_shows": "Portrait of the surgeon John Hunter; the skeleton feet hanging top right are, per the Hunterian, Byrne's.",
+   "kit_assets": ["ff_cb_hunter.jpg (top 75%, 1600 px)"],
+   "used_in": ["CB"]
+  },
+  {
+   "file": "photos/The_skeleton_of_Charles_Byrne_(1761–1783).jpg",
+   "kind": "photo",
+   "page_url": "https://commons.wikimedia.org/wiki/File:The_skeleton_of_Charles_Byrne_(1761%E2%80%931783).jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/The_skeleton_of_Charles_Byrne_%281761%E2%80%931783%29.jpg",
+   "author": "Emőke Dénes",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "credit_line": "Emőke Dénes · CC BY-SA 4.0",
+   "what_it_shows": "Byrne's skeleton in its case at the Hunterian Museum, photo 6 May 2017.",
+   "kit_assets": ["ff_cb_skel.jpg (cropped to the case, 1100 px wide; share-alike applies to the crop)"],
+   "used_in": ["CB"]
+  },
+  {
+   "file": "photos/Skeletons_of_a_male_giant_and_a_female_dwarf,_displayed_at_t_Wellcome_V0013497.jpg",
+   "kind": "process print",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Skeletons_of_a_male_giant_and_a_female_dwarf,_displayed_at_t_Wellcome_V0013497.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Skeletons_of_a_male_giant_and_a_female_dwarf%2C_displayed_at_t_Wellcome_V0013497.jpg/1920px-Skeletons_of_a_male_giant_and_a_female_dwarf%2C_displayed_at_t_Wellcome_V0013497.jpg",
+   "author": "Unknown; Wellcome Collection (photograph)",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "credit_line": "Wellcome Collection · CC BY 4.0",
+   "what_it_shows": "Process print captioned 'Royal College of Surgeons: skeletons of Mdlle. Crachani, a Sicilian dwarf, and of O'Brien, the Irish giant' (O'Brien is Byrne's probable real surname). Undated; label says 'OLD PRINT'.",
+   "kit_assets": ["ff_cb_rcs.jpg (plate only, printed caption cropped off)"],
+   "used_in": ["CB"]
+  },
+  {
+   "file": "photos/John_Byrne,_the_Irish_Giant._His_dying_wish_was_to_be_buried_at_sea_so_that_doctors_would_not_dissect_him.jpg",
+   "kind": "photo",
+   "page_url": "https://commons.wikimedia.org/wiki/File:John_Byrne,_the_Irish_Giant._His_dying_wish_was_to_be_buried_at_sea_so_that_doctors_would_not_dissect_him.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/John_Byrne%2C_the_Irish_Giant._His_dying_wish_was_to_be_buried_at_sea_so_that_doctors_would_not_dissect_him.jpg",
+   "author": "Maggie Jones (Flickr)",
+   "license": "Public domain",
+   "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "credit_line": "Maggie Jones · public domain",
+   "what_it_shows": "Byrne's skeleton in profile at the Royal College of Surgeons, 28 Feb 2012 (the file title says 'John', a mistake for Charles).",
+   "kit_assets": ["ff_cb_skull.jpg (skull and ribcage crop)"],
+   "used_in": ["CB"]
+  },
+  {
+   "file": "photos/Hunterian_Collection.jpg",
+   "kind": "photo",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Hunterian_Collection.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Hunterian_Collection.jpg/1920px-Hunterian_Collection.jpg",
+   "author": "Paul Dean (StoneColdCrazy)",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "credit_line": "Paul Dean · CC BY-SA 3.0",
+   "what_it_shows": "The Hunterian Museum gallery at the Royal College of Surgeons, September 2007, with Byrne's skeleton in the lit case at the back (before the 2023 removal; label says PHOTO 2007).",
+   "kit_assets": ["ff_cb_gallery.jpg (1920 px, zoomed toward the case in the scene)"],
+   "used_in": ["CB"]
+  },
+  {
+   "file": "photos/Burns_the_Irish_giant,_with_2_brothers,_giants_(BM_1935,0522.13.13).jpg",
+   "kind": "etching",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Burns_the_Irish_giant,_with_2_brothers,_giants_(BM_1935,0522.13.13).jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Burns_the_Irish_giant%2C_with_2_brothers%2C_giants_%28BM_1935%2C0522.13.13%29.jpg",
+   "author": "John Kay, 1784; British Museum",
+   "license": "Public domain",
+   "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "credit_line": "John Kay, 1784 · public domain",
+   "what_it_shows": "Byrne (centre, cocked hat) with the Knipe brothers and smaller men.",
+   "kit_assets": ["ff_cb_kay.jpg (made, not used)"],
+   "used_in": []
+  },
+  {
+   "file": "photos/Charles_Byrne;_James_Burnett,_Lord_Monboddo;_William_Richardson;_John_Bell;_Baillie_Kyd_by_John_Kay.jpg",
+   "kind": "etching",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Charles_Byrne;_James_Burnett,_Lord_Monboddo;_William_Richardson;_John_Bell;_Baillie_Kyd_by_John_Kay.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Charles_Byrne%3B_James_Burnett%2C_Lord_Monboddo%3B_William_Richardson%3B_John_Bell%3B_Baillie_Kyd_by_John_Kay.jpg",
+   "author": "John Kay",
+   "license": "Public domain",
+   "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "credit_line": "John Kay · public domain",
+   "what_it_shows": "Another impression of the Knipe-brothers print.",
+   "kit_assets": [],
+   "used_in": []
+  },
+  {
+   "file": "photos/John_Byrne,_the_Irish_Giant.jpg",
+   "kind": "photo",
+   "page_url": "https://commons.wikimedia.org/wiki/File:John_Byrne,_the_Irish_Giant.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/John_Byrne%2C_the_Irish_Giant.jpg",
+   "author": "Maggie Jones (Flickr)",
+   "license": "Public domain",
+   "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "credit_line": "Maggie Jones · public domain",
+   "what_it_shows": "Visitors in front of Byrne's skeleton at the Royal College of Surgeons, 2012.",
+   "kit_assets": ["ff_cb_show.jpg (made, not used)"],
+   "used_in": []
+  },
+  {
+   "file": "photos/Hunterian_7ft_+_skeleton.jpg",
+   "kind": "photo",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Hunterian_7ft_%2B_skeleton.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Hunterian_7ft_%2B_skeleton.jpg",
+   "author": "Shakespearesmonkey (Flickr)",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0/",
+   "credit_line": "Shakespearesmonkey · CC BY 2.0",
+   "what_it_shows": "Byrne's skeleton at the Hunterian Museum, 2013.",
+   "kit_assets": [],
+   "used_in": []
+  }
+ ]
+}

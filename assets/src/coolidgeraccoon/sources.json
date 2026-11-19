@@ -1,0 +1,154 @@
+{
+ "reel": "The White House Thanksgiving Raccoon (CRU and CR4, T8-4)",
+ "generated": "2026-11-19",
+ "status": "Licences read from the Commons API (extmetadata + categories) on 2026-11-19, raw answer in _commons.json; LoC item records for the four used photos saved as _loc_*.json (all 'No known restrictions on publication'). Files downloaded but unused stay listed with used_in empty.",
+ "rejected": [],
+ "assets": [
+  {
+   "file": "photos/hi/lccn90714615.jpg",
+   "kind": "photo",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Mrs._Calvin_Coolidge,_half-length_portrait,_standing,_facing_front,_holding_her_pet_raccoon_Rebecca_LCCN90714615.jpg",
+   "source_url": "https://www.loc.gov/pictures/item/90714615/",
+   "author": "National Photo Company Collection, Library of Congress",
+   "license": "Public domain (PD US no notice; LoC: no known restrictions on publication)",
+   "license_url": "https://www.loc.gov/rr/print/res/275_npco.html",
+   "credit_line": "National Photo Co., 1927 · Library of Congress",
+   "what_it_shows": "Grace Coolidge holding Rebecca under a flowering tree, White House grounds",
+   "kit_assets": [
+    "ff_cr_hook.jpg (border and handwriting cropped, 1600 px wide)"
+   ],
+   "used_in": [
+    "CRU",
+    "CR4"
+   ],
+   "note": "Commons 3840 px thumbnail. Commons: CC-PD-Mark, PD-National Photo Company, PD-old-70-expired, LoC no known restrictions. LoC dates the print '[between 1921 and 1923]', impossible since Rebecca arrived Nov 1926; the same sitting (hat, tree in blossom) is LoC 2016842988 dated 18 Apr 1927, so labelled 1927. LoC record saved as _loc_90714615.json."
+  },
+  {
+   "file": "photos/hi/lccn2016842994.jpg",
+   "kind": "photo",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Mrs._Coolidge_&_raccoon_(Rebecca),_Easter_egg_rolling,_4-18-27_LCCN2016842994.jpg",
+   "source_url": "https://www.loc.gov/pictures/item/2016842994/",
+   "author": "National Photo Company Collection, Library of Congress",
+   "license": "Public domain (PD US no notice; LoC: no known restrictions on publication)",
+   "license_url": "https://www.loc.gov/rr/print/res/275_npco.html",
+   "credit_line": "National Photo Co., 1927 · Library of Congress",
+   "what_it_shows": "Grace Coolidge walking Rebecca on a leash through the Easter Egg Roll crowd, 18 April 1927",
+   "kit_assets": [
+    "ff_cr_leash.jpg (negative border cropped)"
+   ],
+   "used_in": [
+    "CRU",
+    "CR4"
+   ],
+   "note": "LoC record _loc_2016842994.json"
+  },
+  {
+   "file": "photos/hi/lccn2016842988.jpg",
+   "kind": "photo",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Mrs._Coolidge,_4-18-27_LCCN2016842988.jpg",
+   "source_url": "https://www.loc.gov/pictures/item/2016842988/",
+   "author": "National Photo Company Collection, Library of Congress",
+   "license": "Public domain (PD US no notice; LoC: no known restrictions on publication)",
+   "license_url": "https://www.loc.gov/rr/print/res/275_npco.html",
+   "credit_line": "National Photo Co., 1927 · Library of Congress",
+   "what_it_shows": "Grace Coolidge holding Rebecca under a flowering tree, 18 April 1927",
+   "kit_assets": [
+    "ff_cr_close.jpg (crop on the raccoon)"
+   ],
+   "used_in": [
+    "CRU",
+    "CR4"
+   ],
+   "note": "LoC record _loc_2016842988.json"
+  },
+  {
+   "file": "photos/hi/lccn2016842992.jpg",
+   "kind": "photo",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Mrs._Coolidge_&_raccoon_(Rebecca),_Easter_egg_rolling,_4-18-27_LCCN2016842992.jpg",
+   "source_url": "https://www.loc.gov/pictures/item/2016842992/",
+   "author": "National Photo Company Collection, Library of Congress",
+   "license": "Public domain (PD US no notice; LoC: no known restrictions on publication)",
+   "license_url": "https://www.loc.gov/rr/print/res/275_npco.html",
+   "credit_line": "National Photo Co., 1927 · Library of Congress",
+   "what_it_shows": "Grace Coolidge smiling, holding Rebecca up among children at the Easter Egg Roll, 18 April 1927",
+   "kit_assets": [
+    "ff_cr_eggroll.jpg (negative border cropped)"
+   ],
+   "used_in": [
+    "CRU",
+    "CR4"
+   ],
+   "note": "LoC record _loc_2016842992.json"
+  },
+  {
+   "file": "photos/lccn2016888351.jpg",
+   "kind": "photo",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Grace_Coolidge_holding_pet_raccoon_\"Rebecca\"_LCCN2016888351.jpg",
+   "source_url": "https://www.loc.gov/pictures/item/2016888351/",
+   "author": "Harris & Ewing",
+   "license": "Public domain (PD US no notice; LoC: no known restrictions on publication)",
+   "license_url": "https://www.loc.gov/rr/print/res/275_npco.html",
+   "credit_line": "National Photo Co., 1927 · Library of Congress",
+   "what_it_shows": "Harris & Ewing, 1927: Grace Coolidge holding Rebecca in the garden (wide)",
+   "kit_assets": [],
+   "used_in": [],
+   "note": "downloaded, unused"
+  },
+  {
+   "file": "photos/lccn2016842987.jpg",
+   "kind": "photo",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Mrs._Coolidge_&_raccoon_(Rebecca),_Easter_egg_rolling,_1927_LCCN2016842987.jpg",
+   "source_url": "https://www.loc.gov/pictures/item/2016842987/",
+   "author": "National Photo Company Collection, Library of Congress",
+   "license": "Public domain (PD US no notice; LoC: no known restrictions on publication)",
+   "license_url": "https://www.loc.gov/rr/print/res/275_npco.html",
+   "credit_line": "National Photo Co., 1927 · Library of Congress",
+   "what_it_shows": "Kneeling with Rebecca among Girl Scouts, Egg Roll 1927",
+   "kit_assets": [],
+   "used_in": [],
+   "note": "downloaded, unused"
+  },
+  {
+   "file": "photos/lccn2016842990.jpg",
+   "kind": "photo",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Mrs._Coolidge_&_raccoon_(Rebecca),_Easter_egg_rolling,_1927_LCCN2016842990.jpg",
+   "source_url": "https://www.loc.gov/pictures/item/2016842990/",
+   "author": "National Photo Company Collection, Library of Congress",
+   "license": "Public domain (PD US no notice; LoC: no known restrictions on publication)",
+   "license_url": "https://www.loc.gov/rr/print/res/275_npco.html",
+   "credit_line": "National Photo Co., 1927 · Library of Congress",
+   "what_it_shows": "Sitting with Rebecca among children, Egg Roll 1927",
+   "kit_assets": [],
+   "used_in": [],
+   "note": "downloaded, unused"
+  },
+  {
+   "file": "photos/lccn93512393.jpg",
+   "kind": "photo",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Mrs._Coolidge_exhibits_her_pet_raccoon_(Rebecca)_to_children_gathered_in_the_White_House_grounds_for_Easter_egg_rolling_LCCN93512393.jpg",
+   "source_url": "https://www.loc.gov/pictures/item/93512393/",
+   "author": "National Photo Company Collection, Library of Congress",
+   "license": "Public domain (PD US no notice; LoC: no known restrictions on publication)",
+   "license_url": "https://www.loc.gov/rr/print/res/275_npco.html",
+   "credit_line": "National Photo Co., 1927 · Library of Congress",
+   "what_it_shows": "Print of the same scene as 2016842990",
+   "kit_assets": [],
+   "used_in": [],
+   "note": "downloaded, unused"
+  },
+  {
+   "file": "photos/grace_coolidge_and_rebecca.jpg",
+   "kind": "photo",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Grace_Coolidge_and_Rebecca.jpg",
+   "source_url": "https://www.loc.gov/pictures/item/90714615/",
+   "author": "National Photo Company Collection, Library of Congress",
+   "license": "Public domain (PD US no notice; LoC: no known restrictions on publication)",
+   "license_url": "https://www.loc.gov/rr/print/res/275_npco.html",
+   "credit_line": "National Photo Co., 1927 · Library of Congress",
+   "what_it_shows": "Cropped copy of LoC 90714615",
+   "kit_assets": [],
+   "used_in": [],
+   "note": "downloaded, unused"
+  }
+ ]
+}

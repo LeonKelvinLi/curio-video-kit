@@ -1,0 +1,198 @@
+{
+ "reel": "Look Behind the Baby (BY)",
+ "generated": "2026-11-19",
+ "status": "Licences read from the Commons API (extmetadata) on 2026-11-19; raw answer in _commons.json. All used files are public domain or CC0, so on-screen credit is a courtesy.",
+ "rejected": [
+  {
+   "what": "Hidden12.jpg, Hidden_mother_photo*.jpg, Hidden-mother_portrait1.jpg",
+   "why": "425-500 px wide, too small for full-frame cover"
+  },
+  {
+   "what": "simpleinsomnia tintypes (CC BY 2.0)",
+   "why": "usable, but public-domain images were enough"
+  }
+ ],
+ "assets": [
+  {
+   "file": "photos/Hidden_Mother_-_Infant.jpg",
+   "kind": "photo",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Hidden_Mother_-_Infant.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Hidden_Mother_-_Infant.jpg",
+   "author": "Unknown photographer (Commons: 'Unknown Victorian Photography, Vincent Kelly'; source given as State Library Victoria viewer and a Reddit post)",
+   "license": "Public domain",
+   "license_url": "",
+   "credit_line": "Photographer unknown, c. 1900 · public domain",
+   "what_it_shows": "Baby in a long white christening gown on the lap of an adult completely covered by a dark cloth; the adult's sleeve and cuff show at right. Circa 1900.",
+   "kit_assets": [
+    "ff_by_infant.jpg (border cropped, contrast +22%, brightness -4%)"
+   ],
+   "used_in": [
+    "BY"
+   ],
+   "note": "Same image is also on Commons as 'Hidden-mother portrait.jpg' (anonymous, Britain, second half of 19th c., public domain). Provenance differs between the two pages; both say public domain and either origin is out of copyright (anonymous 19th c., or Australian photo before 1955)."
+  },
+  {
+   "file": "photos/Portret_van_een_meisje_met_achter_haar_onder_een_doek_verborgen_haar_moeder_hidden_mother_.jpg",
+   "kind": "photo",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Portret_van_een_meisje,_met_achter_haar_onder_een_doek_verborgen_haar_moeder_(hidden_mother),_RP-F-2008-94.jpg",
+   "source_url": "https://hdl.handle.net/10934/RM0001.COLLECT.475773",
+   "author": "Anonymous (USA); Rijksmuseum RP-F-2008-94",
+   "license": "CC0 1.0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "credit_line": "Rijksmuseum · public domain (CC0)",
+   "what_it_shows": "Tintype, USA, 1880-1910: a girl on the lap of her mother, who is hidden under a striped cloth (Rijksmuseum title).",
+   "kit_assets": [
+    "ff_by_striped.jpg (edges cropped)"
+   ],
+   "used_in": [
+    "BY"
+   ]
+  },
+  {
+   "file": "photos/Hidden_Mother_Portrait_-_Father_.jpg",
+   "kind": "photo",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Hidden_Mother_Portrait_-_%27Father%27.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Hidden_Mother_Portrait_-_%27Father%27.jpg",
+   "author": "Unknown photographer (Commons: 'Unknown Victorian Photography, Vincent Kelly')",
+   "license": "Public domain",
+   "license_url": "",
+   "credit_line": "Photographer unknown, c. 1880 · public domain",
+   "what_it_shows": "Child in a bonnet and shawl held by an adult hidden under a patterned cloth, c. 1880. Commons description says the hidden figure is the child's father.",
+   "kit_assets": [
+    "ff_by_father.jpg (edges cropped)"
+   ],
+   "used_in": [
+    "BY"
+   ],
+   "note": "Labelled only 'PHOTO, c. 1880' on screen; who is under the cloth is not claimed."
+  },
+  {
+   "file": "photos/Albert_J_Ewing_Hidden_Mother_ca_1896-1912.jpg",
+   "kind": "photo",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Albert_J_Ewing_Hidden_Mother_ca_1896-1912.jpg",
+   "source_url": "https://www.ohiomemory.org/digital/collection/p16007coll19/id/162/rec/6",
+   "author": "Albert J. Ewing (1870-1934), Ohio",
+   "license": "Public domain",
+   "license_url": "",
+   "credit_line": "Albert J. Ewing · public domain",
+   "what_it_shows": "Outdoor family portrait, Ohio, c. 1896-1912: three children, the baby on the lap of an adult covered head to waist by a black cloak.",
+   "kit_assets": [
+    "ff_by_ewing.jpg (edges cropped)"
+   ],
+   "used_in": [
+    "BY"
+   ]
+  },
+  {
+   "file": "photos/Portret_van_een_kind_zittend_op_een_stoel_in_een_studiodecor_met_achter_het_doek_ongetwijf.jpg",
+   "kind": "photo",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Portret_van_een_kind,_zittend_op_een_stoel_in_een_studiodecor_(met_achter_het_doek_ongetwijfeld_de_moeder_die_haar_kind_(quasi-)onzichtbaar_vassthoudt_(%27hidden_mother%27),_RP-F-2007-412.jpg",
+   "source_url": "http://hdl.handle.net/10934/RM0001.COLLECT.450358",
+   "author": "Anonymous (USA); Rijksmuseum RP-F-2007-412",
+   "license": "CC0 1.0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "credit_line": "Rijksmuseum · public domain (CC0)",
+   "what_it_shows": "Tintype, USA, c. 1870-1900: a child on a chair in front of a curtain; the Rijksmuseum title says the mother is 'undoubtedly' behind the cloth holding the child.",
+   "kit_assets": [
+    "ff_by_curtain.jpg (edges cropped)"
+   ],
+   "used_in": [
+    "BY"
+   ]
+  },
+  {
+   "file": "photos/Hidden_Mother_-_Retouching_Process.jpg",
+   "kind": "photo",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Hidden_Mother_-_Retouching_Process.jpg",
+   "source_url": "http://handle.slv.vic.gov.au/10381/4302202",
+   "author": "Vincent W. Kelly, photographer (Bendigo, Australia)",
+   "license": "Public domain",
+   "license_url": "",
+   "credit_line": "Vincent W. Kelly, c. 1921 · public domain",
+   "what_it_shows": "Glass negative, c. 1921: a baby held by a woman whose body was masked and retouched on the negative before printing (State Library Victoria).",
+   "kit_assets": [
+    "ff_by_retouch.jpg (edges cropped)"
+   ],
+   "used_in": [
+    "BY"
+   ]
+  },
+  {
+   "file": "photos/Hidden-mother_portrait.jpg",
+   "kind": "photo",
+   "license": "see _commons.json",
+   "used_in": [],
+   "note": "downloaded (Nov 17 prep), not used"
+  },
+  {
+   "file": "photos/Hidden-mother_portrait1.jpg",
+   "kind": "photo",
+   "license": "see _commons.json",
+   "used_in": [],
+   "note": "downloaded (Nov 17 prep), not used"
+  },
+  {
+   "file": "photos/Hidden12.jpg",
+   "kind": "photo",
+   "license": "see _commons.json",
+   "used_in": [],
+   "note": "downloaded (Nov 17 prep), not used"
+  },
+  {
+   "file": "photos/Hidden_Mother_-_Baby.jpg",
+   "kind": "photo",
+   "license": "see _commons.json",
+   "used_in": [],
+   "note": "downloaded (Nov 17 prep), not used"
+  },
+  {
+   "file": "photos/Hidden_Mother_Potrait_-_Young_Girl.jpg",
+   "kind": "photo",
+   "license": "see _commons.json",
+   "used_in": [],
+   "note": "downloaded (Nov 17 prep), not used"
+  },
+  {
+   "file": "photos/Hidden_mother_photo.jpg",
+   "kind": "photo",
+   "license": "see _commons.json",
+   "used_in": [],
+   "note": "downloaded (Nov 17 prep), not used"
+  },
+  {
+   "file": "photos/Hidden_mother_photo2.jpg",
+   "kind": "photo",
+   "license": "see _commons.json",
+   "used_in": [],
+   "note": "downloaded (Nov 17 prep), not used"
+  },
+  {
+   "file": "photos/Hidden_mother_photo3.png",
+   "kind": "photo",
+   "license": "see _commons.json",
+   "used_in": [],
+   "note": "downloaded (Nov 17 prep), not used"
+  },
+  {
+   "file": "photos/The_Hidden_Mother.jpg",
+   "kind": "photo",
+   "license": "see _commons.json",
+   "used_in": [],
+   "note": "downloaded (Nov 17 prep), not used"
+  },
+  {
+   "file": "photos/Baby_with_hidden_father_mother_12220170954_.jpg",
+   "kind": "photo",
+   "license": "see _commons.json",
+   "used_in": [],
+   "note": "downloaded (Nov 17 prep), not used"
+  },
+  {
+   "file": "photos/_Hidden_mother_tin_type_baby_portrait_10155620173_.jpg",
+   "kind": "photo",
+   "license": "see _commons.json",
+   "used_in": [],
+   "note": "downloaded (Nov 17 prep), not used"
+  }
+ ]
+}

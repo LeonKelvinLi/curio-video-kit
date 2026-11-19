@@ -1,0 +1,87 @@
+{
+ "reel": "The Wave Science Said Wouldn't Happen (DW)",
+ "generated": "2026-11-19",
+ "status": "Licences read from the Commons API (extmetadata) on 2026-11-19; raw answer in _commons.json.",
+ "rejected": [
+  {
+   "what": "Draupner platform photo",
+   "why": "none found on Commons (searched Draupner, Draupner E, Draupner platform, Draupner S Statoil); no platform picture is shown"
+  },
+  {
+   "what": "CSIRO rogue-wave computer model image",
+   "why": "a model render, not a real artifact"
+  }
+ ],
+ "assets": [
+  {
+   "file": "photos/Wea00800,1.jpg",
+   "kind": "photo",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Wea00800,1.jpg",
+   "source_url": "http://www.photolib.noaa.gov/htmls/wea00800.htm",
+   "author": "NOAA (photographer unknown)",
+   "license": "Public domain",
+   "license_url": "",
+   "credit_line": "NOAA · public domain",
+   "what_it_shows": "Merchant ship (amidships oil tanker) labouring in heavy seas as a huge wave looms ahead, Bay of Biscay, c. 1940. NOT the Draupner wave.",
+   "kit_assets": [
+    "ff_dw_ship.jpg (unchanged)"
+   ],
+   "used_in": [
+    "DW"
+   ]
+  },
+  {
+   "file": "photos/Wea00810.jpg",
+   "kind": "photo",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Wea00810.jpg",
+   "source_url": "http://www.photolib.noaa.gov/bigs/wea00810.jpg",
+   "author": "NOAA",
+   "license": "Public domain",
+   "license_url": "",
+   "credit_line": "NOAA · public domain",
+   "what_it_shows": "NOAA Ship DELAWARE II in heavy weather on Georges Bank (between 1968 and 2008).",
+   "kit_assets": [
+    "ff_dw_seas.jpg (unchanged)"
+   ],
+   "used_in": [
+    "DW"
+   ]
+  },
+  {
+   "file": "photos/Draupner_wave(2048x1270px).png",
+   "kind": "chart",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Draupner_wave(2048x1270px).png",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Draupner_wave%282048x1270px%29.png",
+   "author": "Ingvald Straume",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "credit_line": "Ingvald Straume · CC BY-SA 3.0",
+   "what_it_shows": "Plot of the Draupner E laser wave record, 1 Jan 1995: surface elevation (m) against time (s), one spike to about 18.5 m above still water.",
+   "kit_assets": [
+    "ff_dw_record.jpg (transparent background flattened to white, JPEG)"
+   ],
+   "used_in": [
+    "DW"
+   ],
+   "note": "Share-alike applies to the adapted still."
+  },
+  {
+   "file": "photos/Draupner_wave_peak.png",
+   "kind": "chart",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Draupner_wave_peak.png",
+   "author": "Paolosan",
+   "license": "CC BY-SA 4.0",
+   "used_in": [],
+   "note": "529x291, too small; not used"
+  },
+  {
+   "file": "photos/Rockall_wave_March_1943.jpg",
+   "kind": "photo",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Rockall_wave_March_1943.jpg",
+   "author": "RAF photographer",
+   "license": "Public domain",
+   "used_in": [],
+   "note": "wave over Rockall, 1943; tried, replaced by the NOAA ship photo"
+  }
+ ]
+}

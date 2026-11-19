@@ -14,3 +14,4 @@ assets/src/**
 !assets/src/*/
 !assets/src/*/sources.json
 vo/_old/
+.batch1119/

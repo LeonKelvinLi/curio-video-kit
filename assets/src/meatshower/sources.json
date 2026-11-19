@@ -1,0 +1,74 @@
+{
+ "reel": "The Day It Rained Meat (KM4 and KMU, T8-3)",
+ "generated": "2026-11-19",
+ "status": "Photo licences read from the Commons API on 2026-11-19 (raw answers in _commons.json). Newspaper downloaded from the NYT TimesMachine static PDF.",
+ "rejected": [
+  {
+   "file": "File:Turkey vultures (26665108070).jpg",
+   "why": "vultures at a carcass: no gore wanted"
+  },
+  {
+   "file": "group/flock vulture photos",
+   "why": "verify note: do not suggest the flock follows"
+  }
+ ],
+ "assets": [
+  {
+   "file": "newspapers/nyt_1876-03-10_flesh_descending.pdf",
+   "kind": "newspaper scan",
+   "page_url": "https://timesmachine.nytimes.com/timesmachine/1876/03/10/issue.html",
+   "source_url": "https://timesmachine.nytimes.com/timesmachine/1876/03/10/81687268.pdf",
+   "author": "The New York Times (special dispatch, Louisville, 9 Mar 1876)",
+   "license": "Public domain in the US: published in the US in 1876 (all US works published before 1931 are PD). The PDF is a straight scan of the 2-D page, which adds no new copyright under US law (Bridgeman v. Corel). The PDF carries an NYT logo and a 'Copyright The New York Times' footer: both are cropped out; TimesMachine's own terms of service were not reviewed.",
+   "license_url": "https://www.copyright.gov/circs/circ15a.pdf",
+   "credit_line": "The New York Times, 10 Mar 1876 · public domain",
+   "what_it_shows": "'FLESH DESCENDING IN A SHOWER. An astounding phenomenon in Kentucky - fresh meat like mutton or venison falling from a clear sky.' Full dispatch incl. Allen Crouch, Olympian Springs, two gentlemen who tasted it.",
+   "kit_assets": [
+    "newspapers/nyt_1876-03-10_flesh_descending_2700.png (rendered 1359x2700 with qlmanage)",
+    "ff_km_nyt.jpg (1080x1920: rows 0-1100 scaled to 1080 wide over a blurred, darkened copy of the same page)",
+    "ff_km_taste.jpg (rows 1822-2420, white margin added)",
+    "ff_km_place.jpg (rows 490-1353, white margin added)"
+   ],
+   "used_in": [
+    "KM4",
+    "KMU"
+   ]
+  },
+  {
+   "file": "photos/turkey_vulture_drying_off_usfws.jpg",
+   "kind": "photo",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Turkey_Vulture_Drying_Off_(32925229461).jpg",
+   "source_url": "1920px Commons thumbnail",
+   "author": "Debbie Koenigs / U.S. Fish and Wildlife Service (USFWS Midwest)",
+   "license": "Public domain (US federal government work)",
+   "license_url": "https://commons.wikimedia.org/wiki/Template:PD-USGov-FWS",
+   "credit_line": "Debbie Koenigs / USFWS · public domain",
+   "what_it_shows": "Turkey vulture with wings spread, Mingo National Wildlife Refuge, Missouri, 19 Feb 2017",
+   "kit_assets": [
+    "ff_km_vulture.jpg"
+   ],
+   "used_in": [
+    "KM4",
+    "KMU"
+   ]
+  },
+  {
+   "file": "photos/turkey_vulture_soaring_usfws.jpg",
+   "kind": "photo",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Turkey_vulture_(53671483638).jpg",
+   "source_url": "1920px Commons thumbnail",
+   "author": "Courtney Celley / U.S. Fish and Wildlife Service (Midwest Region)",
+   "license": "Public domain (US federal government work)",
+   "license_url": "https://commons.wikimedia.org/wiki/Template:PD-USGov-FWS",
+   "credit_line": "Courtney Celley / USFWS · public domain",
+   "what_it_shows": "A single turkey vulture soaring, 15 Apr 2024",
+   "kit_assets": [
+    "ff_km_soar.jpg"
+   ],
+   "used_in": [
+    "KM4",
+    "KMU"
+   ]
+  }
+ ]
+}

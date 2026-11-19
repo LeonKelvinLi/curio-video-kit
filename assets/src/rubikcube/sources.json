@@ -1,0 +1,94 @@
+{
+ "reel": "The Inventor Who Couldn't Solve His Cube (CU4 and CUU, T8-5)",
+ "generated": "2026-11-19",
+ "status": "Licences read from the Commons API (extmetadata) on 2026-11-19; raw answers in _commons.json. Files are the standard Commons thumbnails (1920 or 1280 px wide), not originals.",
+ "rejected": [
+  {
+   "file": "File:Amsterdam, kort geding Hongaarse architect Erno Rubik tegen uitgever Mondria om , Bestanddeelnr 933-8201.jpg",
+   "why": "CC0 Anefo photo, but it shows the judge (Mr B.J. Asscher), not Rubik"
+  },
+  {
+   "file": "File:2021-01-14 18 25 51 A scrambled Rubik's Cube ... (cropped).jpg",
+   "why": "Rubik's logo on the centre sticker (trademark); verify note asks for a generic cube"
+  },
+  {
+   "file": "File:Scrumbled Rubik's Cube.jpg",
+   "why": "would have been the last beat; Commons original kept returning 429, so the first-frame cube is reused there instead"
+  }
+ ],
+ "assets": [
+  {
+   "file": "photos/scrambled_cube_cubemeister.jpg",
+   "kind": "photo",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Rubiks_Cube_scrambled_cubemeister_com.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/ (1920px thumbnail of Rubiks_Cube_scrambled_cubemeister_com.jpg)",
+   "author": "cubemeister.com",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "credit_line": "cubemeister.com · CC BY-SA 3.0",
+   "what_it_shows": "A scrambled 3x3 'Rubik's cube'-like puzzle (Commons description); no logo visible on any face",
+   "kit_assets": [
+    "ff_cu_cube.jpg (unchanged 1920x2202)"
+   ],
+   "used_in": [
+    "CU4",
+    "CUU"
+   ],
+   "note": "First frame (cover) and last beat (framed print). Generic cube, not Rubik's own; label says 'PHOTO · A SCRAMBLED 3X3 CUBE'."
+  },
+  {
+   "file": "photos/speedcube_gan_solved.jpg",
+   "kind": "photo",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Speedcube_GAN.jpg",
+   "source_url": "1920px Commons thumbnail of Speedcube_GAN.jpg",
+   "author": "多多123",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "credit_line": "Photo: 多多123 · CC BY 4.0",
+   "what_it_shows": "A solved stickerless 3x3 speedcube (GAN 356 RS), blue and orange sides; no logo visible from this side",
+   "kit_assets": [
+    "ff_cu_solved.jpg (unchanged 1920x1277)"
+   ],
+   "used_in": [
+    "CU4",
+    "CUU"
+   ]
+  },
+  {
+   "file": "photos/erno_rubik_genius_gala_2014.jpg",
+   "kind": "photo",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Erno_Rubik_Genius_Gala_2014.jpg",
+   "source_url": "1280px Commons thumbnail of Erno_Rubik_Genius_Gala_2014.jpg",
+   "author": "Babak Mansouri",
+   "license": "Public domain (author's release, per Commons)",
+   "license_url": "https://commons.wikimedia.org/wiki/File:Erno_Rubik_Genius_Gala_2014.jpg",
+   "credit_line": "Babak Mansouri, 2014 · public domain",
+   "what_it_shows": "Erno Rubik at the 2014 Genius Gala, Liberty Science Center, 9 May 2014",
+   "kit_assets": [
+    "ff_cu_rubik.jpg (crop 960x1000 at 160,30)"
+   ],
+   "used_in": [
+    "CU4",
+    "CUU"
+   ]
+  },
+  {
+   "file": "photos/rubik_erno_rozsavolgyi.jpg",
+   "kind": "photo",
+   "page_url": "https://commons.wikimedia.org/wiki/File:Rubik_Ern%C5%91.jpg",
+   "source_url": "1280px Commons thumbnail of Rubik_Ernő.jpg",
+   "author": "Rózsavölgyi Gyöngyi",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "credit_line": "Rózsavölgyi Gyöngyi · CC BY-SA 4.0",
+   "what_it_shows": "Black-and-white portrait of Erno Rubik leaning on his hand, a cube on the table; date of the photo not given (Commons date 2021-12-16 is the file date), so the label gives no year",
+   "kit_assets": [
+    "ff_cu_ponder.jpg (unchanged 1280x1743)"
+   ],
+   "used_in": [
+    "CU4",
+    "CUU"
+   ]
+  }
+ ]
+}

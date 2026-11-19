@@ -1,0 +1,82 @@
+{
+ "reel": "The Waitress on the Wing (WG)",
+ "generated": "2026-11-19",
+ "status": "LoC rights read from the loc.gov JSON API (https://www.loc.gov/pictures/item/<lccn>/?fo=json) on 2026-11-19; raw answers _loc_2003656131/2/3.json. The id 2002712052 given in the task is a different LoC item (a 1966 Louise Rosskam photo, 'Rights status not evaluated'); its answer is kept as _loc_2002712052_wrong_item.json. The right record for cph.3b18663 is 2003656133. Commons wikitext/extmetadata in _commons.json. Images are the LoC TIFF masters.",
+ "rejected": [
+  {
+   "file": "(not downloaded) F-78 Lillian Boyer- Lady Wing Walker (5905538603).webm",
+   "page_url": "https://commons.wikimedia.org/wiki/File:F-78_Lillian_Boyer-_Lady_Wing_Walker_(5905538603).webm",
+   "reason": "Licence not confirmed: Commons tags {{Flickr-no known copyright restrictions}} + {{PD-SDASM}} + {{Flickrreview}} with no review status; description gives no film date or maker (only category 'Pathé News'). 'No known restrictions' is not a free licence, so stills only. Not watched (silence rule)."
+  },
+  {
+   "file": "(not downloaded) Boyer 0253 Boyer Collection Image.jpg",
+   "reason": "SDASM Flickr 'no known copyright restrictions'; shows a Barling bomber, not Boyer"
+  }
+ ],
+ "assets": [
+  {
+   "file": "photos/cph_3b18663u.tif",
+   "kind": "photo",
+   "page_url": "https://www.loc.gov/pictures/item/2003656133/",
+   "source_url": "https://tile.loc.gov/storage-services/master/pnp/cph/3b10000/3b18000/3b18600/3b18663u.tif",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Lillian_Boyer_standing_on_wing_of_plane_cph.3b18663.jpg (tag {{PD-US-1923}}); also File:Miss_Lillian_Boyer,_aerial_acrobat_LCCN2003656133.jpg ({{PD-old-70-1923}})",
+   "author": "Unknown photographer (LoC Prints and Photographs, BIOG FILE - BOYER, LILLIAN)",
+   "license": "Public domain in the US (published/registered 1922; LoC: no known restrictions on publication)",
+   "license_url": "https://www.loc.gov/rr/print/195_copr.html",
+   "loc_rights_wording": "No known restrictions on publication.",
+   "loc_date": "c1922 Jan. 21.",
+   "loc_note": "J252771 U.S. Copyright Office (a 1922 registration, long expired)",
+   "credit_line": "Library of Congress, 1922 · public domain",
+   "what_it_shows": "Lillian Boyer standing on the top wing of a flying biplane (name on the fuselage) over a town; handwritten caption 'Lillian Boyer standing on top of flying aeroplane'",
+   "kit_assets": [
+    "ff_wg_wing.jpg (crop 1536x900, caption and top margin removed; first frame, cover)",
+    "ff_wg_wingfull.jpg (crop 1500x930, last beat, framed print)"
+   ],
+   "used_in": [
+    "WG"
+   ]
+  },
+  {
+   "file": "photos/cph_3b18662u.tif",
+   "kind": "photo",
+   "page_url": "https://www.loc.gov/pictures/item/2003656132/",
+   "source_url": "https://tile.loc.gov/storage-services/master/pnp/cph/3b10000/3b18000/3b18600/3b18662u.tif",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Lillian_Boyer_doing_the_breakaway_cph.3b18662.jpg (tag {{PD-US}})",
+   "author": "Unknown photographer (LoC Prints and Photographs, BIOG FILE - BOYER, LILLIAN)",
+   "license": "Public domain in the US (published/registered 1922; LoC: no known restrictions on publication)",
+   "license_url": "https://www.loc.gov/rr/print/195_copr.html",
+   "loc_rights_wording": "No known restrictions on publication.",
+   "loc_date": "c1922 Jan. 21.",
+   "loc_note": "J252772 U.S. Copyright Office (a 1922 registration, long expired)",
+   "credit_line": "Library of Congress, 1922 · public domain",
+   "what_it_shows": "Boyer below a flying biplane in the 'breakaway' stunt; handwritten caption 'Lillian Boyer doing the Break away from ...'",
+   "kit_assets": [
+    "ff_wg_break.jpg (crop 1500x960, caption removed)"
+   ],
+   "used_in": [
+    "WG"
+   ]
+  },
+  {
+   "file": "photos/cph_3b18661u.tif",
+   "kind": "photo",
+   "page_url": "https://www.loc.gov/pictures/item/2003656131/",
+   "source_url": "https://tile.loc.gov/storage-services/master/pnp/cph/3b10000/3b18000/3b18600/3b18661u.tif",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Lillian_Boyer_cph.3b18661.jpg (tag {{PD-US-1923}})",
+   "author": "Unknown photographer (LoC Prints and Photographs, BIOG FILE - BOYER, LILLIAN)",
+   "license": "Public domain in the US (published/registered 1922; LoC: no known restrictions on publication)",
+   "license_url": "https://www.loc.gov/rr/print/195_copr.html",
+   "loc_rights_wording": "No known restrictions on publication.",
+   "loc_date": "c1922 Jan. 21.",
+   "loc_note": "J252769 U.S. Copyright Office (a 1922 registration, long expired)",
+   "credit_line": "Library of Congress, 1922 · public domain",
+   "what_it_shows": "Portrait of Boyer leaning on the fuselage of her plane, her name painted on it",
+   "kit_assets": [
+    "ff_wg_portrait.jpg (full 1097x1536)"
+   ],
+   "used_in": [
+    "WG"
+   ]
+  }
+ ]
+}
